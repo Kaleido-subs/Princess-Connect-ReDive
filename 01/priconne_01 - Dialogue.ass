@@ -14,7 +14,6 @@ Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
 Audio File: priconne_01_premux.mkv
 Video File: priconne_01_premux.mkv
-Keyframes File: priconne_01_premux_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -323,8 +322,7 @@ Dialogue: 10,0:22:25.40,0:22:31.41,Default,Ameth,0,0,0,,{\q2}Only the gods will 
 Dialogue: 10,0:22:32.70,0:22:35.66,Default,Ameth,0,0,0,,But don't forget:
 Dialogue: 10,0:22:36.37,0:22:38.58,Default,Ameth,0,0,0,,"What are the truths of this world?"
 Dialogue: 10,0:22:38.58,0:22:40.67,Default,Ameth,0,0,0,,"What are its falsehoods?"
-Dialogue: 10,0:22:40.67,0:22:42.92,Default,Ameth,0,0,0,,On your journey to reveal that,
-Dialogue: 10,0:22:42.92,0:22:45.80,Default,Ameth,0,0,0,,you are sure to meet many new faces.
+Dialogue: 10,0:22:40.67,0:22:45.80,Default,Ameth,0,0,0,,{\q2}On your journey to uncover those mysteries, \Nyou are sure to meet many new faces.
 Dialogue: 10,0:22:47.22,0:22:50.76,Default,Ameth,0,0,0,,Alone, your power may not amount to much,
 Dialogue: 10,0:22:50.76,0:22:55.19,Default,Ameth,0,0,0,,{\q2}but the bonds you form along the way \Nwill become the power necessary to save them all.
 Dialogue: 10,0:22:56.18,0:23:00.15,Default,Ameth,0,0,0,,This is something only you can do.
