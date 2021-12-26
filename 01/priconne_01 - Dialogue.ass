@@ -33,16 +33,16 @@ Comment: 0,0:23:34.98,0:23:34.98,Default,,0,0,0,,{Preview}
 Dialogue: 10,0:00:06.00,0:00:08.15,Default,Ameth,0,0,0,,Sorry, did I wake you?
 Dialogue: 10,0:00:09.02,0:00:10.82,Default,Ameth,0,0,0,,You can sleep a little longer.
 Dialogue: 10,0:00:11.15,0:00:13.03,Default,Ameth,0,0,0,,I have to focus on this.
-Dialogue: 10,0:00:17.21,0:00:19.74,Default,Ameth,0,0,0,,Why are you looking at me like that?
-Dialogue: 10,0:00:19.74,0:00:24.04,Default,Ameth,0,0,0,,{\q2}It kind of upsets me you're acting \Nlike that to an old acquaintance.
+Dialogue: 10,0:00:17.21,0:00:19.74,Default,Ameth,0,0,0,,You must be wondering who I am.
+Dialogue: 10,0:00:19.74,0:00:24.04,Default,Ameth,0,0,0,,{\q2}That kinda upsets me, honestly. \NWe've been through so much together.
 Dialogue: 10,0:00:25.10,0:00:26.33,Default,Ameth,0,0,0,,I'm...
 Dialogue: 10,0:00:26.71,0:00:29.55,Default,Ameth,0,0,0,,Well, you can call me Ameth.
-Dialogue: 10,0:00:33.26,0:00:37.80,Default,Ameth,0,0,0,,{\q2}I can't interact with reality \Nuntil I finish my self-repairs.
+Dialogue: 10,0:00:33.26,0:00:37.80,Default,Ameth,0,0,0,,{\q2}I can't interact with reality \Nuntil I'm done fixing myself up.
 Dialogue: 10,0:00:38.59,0:00:43.81,Default,Ameth,0,0,0,,{\q2}In light of that, I have assigned someone else \Nto serve as your guide in my stead.
-Dialogue: 10,0:00:45.48,0:00:48.48,Default,Ameth,0,0,0,,I wish we could chat for a little longer,
+Dialogue: 10,0:00:45.48,0:00:48.48,Default,Ameth,0,0,0,,I really wish we could chat a little longer,
 Dialogue: 10,0:00:53.65,0:00:57.44,Default,Ameth,0,0,0,,but you can't keep dreaming forever.
 Dialogue: 10,0:01:11.46,0:01:13.84,Default,Pecorine,0,0,0,,What a pretty star!
-Dialogue: 10,0:01:18.73,0:01:20.43,Default,Pecorine,0,0,0,ED,Is that a shooting star? {###}
+Dialogue: 10,0:01:18.73,0:01:20.43,Default,Pecorine,0,0,0,,Is it a shooting star?
 Dialogue: 10,0:01:27.52,0:01:28.86,Default,Elder,0,0,0,,Kokkoro.
 Dialogue: 10,0:01:29.31,0:01:33.57,Default,Elder,0,0,0,,{\q2}You mustn't fail to carry out \Nthe oracle of Lady Ameth.
 Dialogue: 10,0:01:34.25,0:01:35.61,Default,Kokkoro,0,0,0,,{\i1}Father,
@@ -130,7 +130,7 @@ Dialogue: 10,0:08:08.42,0:08:09.80,Default,Guy,0,0,0,,{\an8}I have some great so
 Dialogue: 10,0:08:09.80,0:08:11.42,Default,Girl,0,0,0,,{\an8}Thanks, but I'll pass.
 Dialogue: 10,0:08:09.80,0:08:12.63,Default,Kokkoro,0,0,0,,She is of the beast clan.
 Dialogue: 10,0:08:12.63,0:08:19.77,Default,Kokkoro,0,0,0,,{\q2}In this world there are humans, elves, \Nbeasts, and demons, just to name a few.
-Dialogue: 10,0:08:13.38,0:08:16.55,Default,Guy,0,0,0,,{\q2\an8}Oh, you'll find that place on \Nthe second corner down the road.
+Dialogue: 10,0:08:13.38,0:08:16.55,Default,Guy,0,0,0,,{\an8\q2}Oh, you'll find that place on \Nthe second corner down the road.
 Dialogue: 10,0:08:16.68,0:08:18.77,Default,,0,0,0,,{\an8}Do you think you'll be fine by yourself?
 Dialogue: 10,0:08:20.85,0:08:23.02,Default,Kokkoro,0,0,0,,Incidentally, I am an elf.
 Dialogue: 10,0:08:23.52,0:08:27.86,Default,Kokkoro,0,0,0,,{\q2}Landosol, where we are right now, \Nis the largest nation on the continent of Astraea.
@@ -166,14 +166,14 @@ Dialogue: 10,0:10:09.46,0:10:13.80,Default,Kokkoro,0,0,0,,This is the first time
 Dialogue: 10,0:10:16.42,0:10:18.30,Default,Kokkoro,0,0,0,,It's so sweet,
 Dialogue: 10,0:10:18.30,0:10:21.47,Default,Kokkoro,0,0,0,,and the strawberry-flavoured sau—
 Dialogue: 10,0:10:32.00,0:10:35.48,Default,Kokkoro,0,0,0,,Y-You have done well today.
-Dialogue: 10,0:10:36.49,0:10:40.70,Default,Kokkoro,0,0,0,,{\q2}{\clip(584,856,1336,1036)\t(3816,4192,\clip(584,856,584,1036))}I'll find lodging for us. \NYou can stay here and rest.
+Dialogue: 10,0:10:36.49,0:10:40.70,Default,Kokkoro,0,0,0,,{\clip(584,856,1336,1036)\q2\t(3816,4192,\clip(584,856,584,1036))}I'll find lodging for us. \NYou can stay here and rest.
 Dialogue: 10,0:10:42.16,0:10:42.91,Default,Kokkoro,0,0,0,,What?
 Dialogue: 10,0:10:43.49,0:10:46.12,Default,Guy,0,0,0,,I'm very sorry, young lady.
 Dialogue: 10,0:10:46.12,0:10:47.75,Default,Guy,0,0,0,,But I've got mouths to feed, y'know.
 Dialogue: 10,0:10:47.75,0:10:50.50,Default,Guy,0,0,0,,You're welcome anytime once you can afford it!
 Dialogue: 10,0:10:56.36,0:11:00.72,Default,Kokkoro,0,0,0,,{\q2}My sincerest apologies. \NI didn't realise lodging was so expensive.
 Dialogue: 10,0:11:01.14,0:11:04.47,Default,Kokkoro,0,0,0,,{\q2}If it's come to this, I can pawn \Nthe staff my father gave—
-Dialogue: 10,0:11:14.86,0:11:19.49,Default,Kokkoro,0,0,0,,{\q2\i1}He hasn't complained once \Nabout my lacklustre guidance.
+Dialogue: 10,0:11:14.86,0:11:19.49,Default,Kokkoro,0,0,0,,{\i1\q2}He hasn't complained once \Nabout my lacklustre guidance.
 Dialogue: 10,0:11:19.49,0:11:20.91,Default,Kokkoro,0,0,0,,{\i1}Rather, he's been very accepting.
 Dialogue: 10,0:11:21.72,0:11:24.66,Default,Kokkoro,0,0,0,,{\i1}He truly is kind.
 Dialogue: 10,0:11:33.38,0:11:38.09,Default,Kokkoro,0,0,0,,{\i1}Tomorrow... for my lord, I will...
@@ -220,7 +220,7 @@ Dialogue: 10,0:14:04.65,0:14:06.61,Default,Both,0,0,0,,We accept!
 Dialogue: 10,0:14:10.70,0:14:14.08,Default,Pecorine,0,0,0,,I hope that poor man from yesterday is all right.
 Dialogue: 10,0:14:14.08,0:14:16.96,Default,Pecorine,0,0,0,,I've gotta hurry and give him his medicine.
 Dialogue: 10,0:14:16.96,0:14:22.10,Default,Pecorine,0,0,0,,{\q2}I'm also concerned about the sword \NMother and Father gave me.
-Dialogue: 10,0:14:24.92,0:14:29.14,Default,Pecorine,0,0,0,,{\q2\i1}And{\i0} I'm hungry as a wolf \Nafter fending off all those monsters.
+Dialogue: 10,0:14:24.92,0:14:29.14,Default,Pecorine,0,0,0,,{\i1\q2}And{\i0} I'm hungry as a wolf \Nafter fending off all those monsters.
 Dialogue: 10,0:14:31.62,0:14:32.22,Default,Charlie,0,0,0,,Yeah!
 Dialogue: 10,0:14:32.22,0:14:33.68,Default,Ikacchi,0,0,0,,I'm Ikacchi!
 Dialogue: 10,0:14:33.68,0:14:34.43,Default,Charlie,0,0,0,,Yeah!
@@ -248,13 +248,13 @@ Dialogue: 10,0:15:55.25,0:15:57.54,Default,Kokkoro,0,0,0,ED,Since you go "puchip
 Dialogue: 10,0:15:59.58,0:16:01.52,Default,Kokkoro,0,0,0,,I know we need that quest reward,
 Dialogue: 10,0:16:01.52,0:16:04.22,Default,Kokkoro,0,0,0,,but I can't take a tiny life like yours.
 Dialogue: 10,0:16:09.74,0:16:11.86,Default,Kokkoro,0,0,0,,Hide in here, Puchiko.
-Dialogue: 10,0:16:22.73,0:16:26.73,Default,Pecorine,0,0,0,,M-My stomach is so empty...
+Dialogue: 10,0:16:22.73,0:16:26.73,Default,Pecorine,0,0,0,,M-My poor stomach...
 Dialogue: 10,0:16:39.85,0:16:42.10,Default,Pecorine,0,0,0,,Mhm-mmm!
 Dialogue: 10,0:16:42.10,0:16:44.23,Default,Pecorine,0,0,0,,Nothing gives you quite a boost like rice!
-Dialogue: 10,0:16:44.73,0:16:47.06,Default,Pecorine,0,0,0,,You really saved me and my stomach!
+Dialogue: 10,0:16:44.73,0:16:47.06,Default,Pecorine,0,0,0,,You really saved me and my tummy!
 Dialogue: 10,0:16:47.06,0:16:51.07,Default,Pecorine,0,0,0,,{\q2}It was so kind of you to share \Nsuch delicious food with a total stranger!
 Dialogue: 10,0:16:51.82,0:16:53.20,Default,Pecorine,0,0,0,,I'm forever in your debt!
-Dialogue: 10,0:16:53.20,0:16:56.95,Default,Kokkoro,0,0,0,,Excuse me, but what brings you to this place?
+Dialogue: 10,0:16:53.20,0:16:56.95,Default,Kokkoro,0,0,0,,Excuse me, but what brings you out to these woods?
 Dialogue: 10,0:16:57.16,0:17:01.45,Default,Pecorine,0,0,0,,{\q2}Oh, well... I've been travelling for \Nsome personal reasons, y'see?
 Dialogue: 10,0:17:01.45,0:17:04.62,Default,Pecorine,0,0,0,,{\q2}I thought I'd visit my homeland, \NLandosol, for the first time in a while.
 Dialogue: 10,0:17:04.62,0:17:07.08,Default,Pecorine,0,0,0,,But whoopsie, I almost starved!
@@ -275,7 +275,7 @@ Dialogue: 10,0:17:56.05,0:17:59.39,Default,Kokkoro,0,0,0,,Um... Miss Peculiarly 
 Dialogue: 10,0:17:59.39,0:18:01.47,Default,Kokkoro,0,0,0,,I will just call you that for now.
 Dialogue: 10,0:18:02.51,0:18:05.98,Default,Kokkoro,0,0,0,,{\q2}There's no going back now, \Nso let's get out of this together.
 Dialogue: 10,0:18:05.98,0:18:08.81,Default,Pecorine,0,0,0,,Oh! By "Pecorine", do you mean me?
-Dialogue: 10,0:18:08.81,0:18:12.07,Default,Pecorine,0,0,0,,{\q2}That's a very cute nickname! \NHow crazy is that?
+Dialogue: 10,0:18:08.81,0:18:12.07,Default,Pecorine,0,0,0,,{\q2}That's a very cute nickname! Crazy cute!
 Dialogue: 10,0:18:12.44,0:18:16.07,Default,Pecorine,0,0,0,,But... I'm happy to know you both feel that way!
 Dialogue: 10,0:18:36.45,0:18:38.38,Default,Kokkoro,0,0,0,,May the light's blessing be with you!
 Dialogue: 10,0:18:41.48,0:18:43.89,Default,Kokkoro,0,0,0,,I've boosted your agility, my lord.
@@ -318,11 +318,11 @@ Dialogue: 10,0:22:04.55,0:22:06.84,Default,Kokkoro,0,0,0,,I'm glad it wasn't poi
 Dialogue: 10,0:22:07.30,0:22:12.39,Default,Kokkoro,0,0,0,,{\i1\q2}That little one has become \NMiss Pecorine's flesh and blood...
 Dialogue: 10,0:22:15.12,0:22:17.27,Default,Kokkoro,0,0,0,,Miss Puchi-Pecorine...
 Dialogue: 10,0:22:20.63,0:22:24.65,Default,Ameth,0,0,0,,It looks like your story has begun at last.
-Dialogue: 10,0:22:25.40,0:22:31.41,Default,Ameth,0,0,0,,{\q2}Only the gods will know whether \Nyou'll swing towards the happy or sad ending.
+Dialogue: 10,0:22:25.40,0:22:31.41,Default,Ameth,0,0,0,,{\q2}Only the heavens can say for sure \Nwhether it will end in tragedy or a happily ever after.
 Dialogue: 10,0:22:32.70,0:22:35.66,Default,Ameth,0,0,0,,But don't forget:
 Dialogue: 10,0:22:36.37,0:22:38.58,Default,Ameth,0,0,0,,"What are the truths of this world?"
 Dialogue: 10,0:22:38.58,0:22:40.67,Default,Ameth,0,0,0,,"What are its falsehoods?"
-Dialogue: 10,0:22:40.67,0:22:45.80,Default,Ameth,0,0,0,,{\q2}On your journey to uncover those mysteries, \Nyou are sure to meet many new faces.
+Dialogue: 10,0:22:40.67,0:22:45.80,Default,Ameth,0,0,0,,{\q2}On your journey to uncover these mysteries, \Nyou are sure to meet many faces both new and old.
 Dialogue: 10,0:22:47.22,0:22:50.76,Default,Ameth,0,0,0,,Alone, your power may not amount to much,
 Dialogue: 10,0:22:50.76,0:22:55.19,Default,Ameth,0,0,0,,{\q2}but the bonds you form along the way \Nwill become the power necessary to save them all.
 Dialogue: 10,0:22:56.18,0:23:00.15,Default,Ameth,0,0,0,,This is something only you can do.
