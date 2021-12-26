@@ -67,7 +67,7 @@ Dialogue: 10,0:03:28.52,0:03:30.27,Default,Kokkoro,0,0,0,,It is my sworn duty to
 Dialogue: 10,0:03:30.27,0:03:32.27,Default,Kokkoro,0,0,0,,from dawn to dusk,
 Dialogue: 10,0:03:32.27,0:03:34.48,Default,Kokkoro,0,0,0,,from the cradle to the grave,
 Dialogue: 10,0:03:34.48,0:03:38.78,Default,Kokkoro,0,0,0,,{\q2}and to devote my entire being \Nto your service, my lord.
-Dialogue: 10,0:03:40.74,0:03:41.57,Default,Kokkoro,0,0,0,,Oh, my?
+Dialogue: 10,0:03:40.74,0:03:41.57,Default,Kokkoro,0,0,0,,Oh my?
 Dialogue: 10,0:03:42.28,0:03:45.53,Default,Kokkoro,0,0,0,,{\q2}If it's okay with you, would you \Nbe willing to share your name with me?
 Dialogue: 10,0:03:49.79,0:03:51.00,Default,Yuuki,0,0,0,,Yuuki.
 Dialogue: 10,0:03:51.00,0:03:53.71,Default,Yuuki,0,0,0,,My name is Yuuki.
@@ -76,8 +76,7 @@ Dialogue: 10,0:03:57.24,0:04:01.38,Default,Kokkoro,0,0,0,,{\q2}I am now certain 
 Dialogue: 10,0:04:03.04,0:04:05.60,Default,Kokkoro,0,0,0,,According to the oracle of Lady Ameth,
 Dialogue: 10,0:04:05.60,0:04:09.72,Default,Kokkoro,0,0,0,,it would seem you have lost many of your memories.
 Dialogue: 10,0:04:10.73,0:04:13.56,Default,Kokkoro,0,0,0,,I'm sure you must be quite confused.
-Dialogue: 10,0:04:15.93,0:04:18.32,Default,Kokkoro,0,0,0,,But I am here to guide you,
-Dialogue: 10,0:04:18.92,0:04:20.74,Default,Kokkoro,0,0,0,,so you can rest at ease.
+Dialogue: 10,0:04:15.93,0:04:20.74,Default,Kokkoro,0,0,0,,{\q2}But I am here to guide you, \Nso you can be at ease.
 Dialogue: 10,0:04:24.86,0:04:26.03,Default,Kokkoro,0,0,0,,Please, have some.
 Dialogue: 10,0:04:46.05,0:04:48.64,Default,Kokkoro,0,0,0,,It appears they have not given up.
 Dialogue: 10,0:04:48.64,0:04:49.84,Default,Kokkoro,0,0,0,,My lord.
@@ -87,7 +86,7 @@ Dialogue: 10,0:04:56.69,0:04:59.11,Default,Kokkoro,0,0,0,,you will slowly regain
 Dialogue: 10,0:04:59.11,0:05:01.03,Default,Kokkoro,0,0,0,,Any foe would be powerless before you.
 Dialogue: 10,0:05:01.81,0:05:06.11,Default,Kokkoro,0,0,0,,{\q2}And I shall brush away any sparks \Nthat may rain upon you.
 Dialogue: 10,0:05:10.10,0:05:12.29,Default,Kokkoro,0,0,0,,Now, let us engage!
-Dialogue: 10,0:05:28.09,0:05:29.55,Default,Kokkoro,0,0,0,,M-My lord!
+Dialogue: 10,0:05:27.93,0:05:29.55,Default,Kokkoro,0,0,0,,M-My lord!
 Dialogue: 10,0:05:31.63,0:05:34.43,Default,Kokkoro,0,0,0,,A-Are you all right, my lord?
 Dialogue: 10,0:05:43.20,0:05:44.49,Default,Kokkoro,0,0,0,,Please forgive me.
 Dialogue: 10,0:05:45.07,0:05:49.07,Default,Kokkoro,0,0,0,,{\q2}I got ahead of myself and neglected \Nthat you had only just awakened...
@@ -106,7 +105,7 @@ Dialogue: 10,0:07:01.15,0:07:04.65,Default,Charlie,0,0,0,,No! Whatever you do, d
 Dialogue: 10,0:07:04.65,0:07:06.69,Default,Pecorine,0,0,0,,Did some monster attack you?
 Dialogue: 10,0:07:06.69,0:07:09.61,Default,Charlie,0,0,0,,Oh, you came in the nick of time, young lady!
 Dialogue: 10,0:07:08.24,0:07:11.49,Default,Ikacchi,0,0,0,,{\an8}I can see a beautiful flower field...
-Dialogue: 10,0:07:09.61,0:07:14.33,Default,Charlie,0,0,0,,{\q2}My bro's chronic beriberi has taken a turn for \Nthe worst, and now he's off his rocker!
+Dialogue: 10,0:07:09.61,0:07:14.33,Default,Charlie,0,0,0,,{\q2}My bro's chronic beriberi has taken a turn for \Nthe worse, and now he's off his rocker!
 Dialogue: 10,0:07:13.16,0:07:17.08,Default,Ikacchi,0,0,0,,{\an8}Oh, my late grandma is waving at me...
 Dialogue: 10,0:07:14.75,0:07:16.79,Default,Charlie,0,0,0,,Do you see that sack up there?
 Dialogue: 10,0:07:17.50,0:07:19.79,Default,Charlie,0,0,0,,His medicine is in there!
@@ -115,7 +114,7 @@ Dialogue: 10,0:07:20.50,0:07:24.50,Default,Ikacchi,0,0,0,,{\an8}It hurts... All 
 Dialogue: 10,0:07:21.60,0:07:24.04,Default,Pecorine,0,0,0,,Of course! The medicine, you said?
 Dialogue: 10,0:07:25.58,0:07:28.92,Default,Charlie,0,0,0,,We're counting on you, cutie!
 Dialogue: 10,0:07:31.50,0:07:33.89,Default,Pecorine,0,0,0,,I got it!
-Dialogue: 10,0:07:34.90,0:07:35.64,Default,Pecorine,0,0,0,,Oh, huh?
+Dialogue: 10,0:07:34.90,0:07:35.64,Default,Pecorine,0,0,0,,Huh?
 Dialogue: 10,0:07:41.91,0:07:43.23,Default,Pecorine,0,0,0,,Wha-ha-ha—?
 Dialogue: 10,0:07:43.65,0:07:45.15,Default,Charlie,0,0,0,,We hit the jackpot, Bro!
 Dialogue: 10,0:07:45.15,0:07:46.23,Default,Ikacchi,0,0,0,,Much obliged!
@@ -181,7 +180,7 @@ Dialogue: 10,0:11:48.97,0:11:51.35,Default,Kokkoro,0,0,0,,M-My lord!
 Dialogue: 10,0:11:53.69,0:11:55.52,Default,Kokkoro,0,0,0,,Please forgive me!
 Dialogue: 10,0:11:55.90,0:11:58.98,Default,Kokkoro,0,0,0,,{\q2}I should have been more alert \Nwhile we were camping!
 Dialogue: 10,0:11:59.70,0:12:04.95,Default,Kokkoro,0,0,0,,{\q2}I fear that if this continues, \Nyou'll end up as a wolf snack one day.
-Dialogue: 10,0:12:04.95,0:12:08.16,Default,Kokkoro,0,0,0,,So I've decided to take some precautions.
+Dialogue: 10,0:12:04.95,0:12:08.16,Default,Kokkoro,0,0,0,,As such, I've decided to take precautions.
 Dialogue: 10,0:12:09.15,0:12:12.79,Default,Kokkoro,0,0,0,,You should try to enjoy yourself while I'm busy.
 Dialogue: 10,0:12:12.79,0:12:15.46,Default,Kokkoro,0,0,0,,You could eat out or find something else to do.
 Dialogue: 10,0:12:16.64,0:12:19.38,Default,Kokkoro,0,0,0,,This is your allowance for the day.
@@ -205,14 +204,14 @@ Dialogue: 10,0:13:15.06,0:13:19.69,Default,Kokkoro,0,0,0,,I heard there is a bul
 Dialogue: 10,0:13:19.69,0:13:21.90,Default,Karin,0,0,0,,There is. I'll show you.
 Dialogue: 10,0:13:22.70,0:13:23.65,Default,Karin,0,0,0,,Let's see...
 Dialogue: 10,0:13:23.65,0:13:26.86,Default,Karin,0,0,0,,Subjugation quests, escort quests...
-Dialogue: 10,0:13:26.86,0:13:29.07,Default,Karin,0,0,0,,There's also dungeon investigating.
-Dialogue: 10,0:13:29.74,0:13:33.29,Default,Karin,0,0,0,,I can't find any I would recommend a beginner take on.
+Dialogue: 10,0:13:26.86,0:13:29.07,Default,Karin,0,0,0,,There's also dungeoneering.
+Dialogue: 10,0:13:29.74,0:13:33.29,Default,Karin,0,0,0,,I wouldn't recommend any of these to a beginner.
 Dialogue: 10,0:13:33.95,0:13:38.33,Default,Kokkoro,0,0,0,,"Reports of a dragon sighted in the vicinity of Landosol."
 Dialogue: 10,0:13:38.33,0:13:40.88,Default,Kokkoro,0,0,0,,"Seeking members for a team to defeat the dragon"
 Dialogue: 10,0:13:40.88,0:13:44.88,Default,Kokkoro,0,0,0,,{\q2}"before its attraction to \NLandosol's riches leads to casualties."
 Dialogue: 10,0:13:45.80,0:13:49.64,Default,Kokkoro,0,0,0,,This isn't a quest we could handle.
 Dialogue: 10,0:13:49.64,0:13:52.31,Default,Karin,0,0,0,,Oh! This one should be suitable!
-Dialogue: 10,0:13:53.05,0:13:54.89,Default,Karin,0,0,0,,It's a fetching quest.
+Dialogue: 10,0:13:53.05,0:13:54.89,Default,Karin,0,0,0,,It's a fetch quest.
 Dialogue: 10,0:13:54.89,0:13:58.77,Default,Karin,0,0,0,,{\q2}There's a request for someone to gather \Nsome mushrooms that grow in the Gado Ruins.
 Dialogue: 10,0:13:59.37,0:14:01.02,Default,Karin,0,0,0,,It doesn't seem too dangerous.
 Dialogue: 10,0:14:01.65,0:14:03.07,Default,Karin,0,0,0,,I'd recommend this.
@@ -325,8 +324,7 @@ Dialogue: 10,0:22:38.58,0:22:40.67,Default,Ameth,0,0,0,,"What are its falsehoods
 Dialogue: 10,0:22:40.67,0:22:45.80,Default,Ameth,0,0,0,,{\q2}On your journey to uncover these mysteries, \Nyou are sure to meet many faces both new and old.
 Dialogue: 10,0:22:47.22,0:22:50.76,Default,Ameth,0,0,0,,Alone, your power may not amount to much,
 Dialogue: 10,0:22:50.76,0:22:55.19,Default,Ameth,0,0,0,,{\q2}but the bonds you form along the way \Nwill become the power necessary to save them all.
-Dialogue: 10,0:22:56.18,0:23:00.15,Default,Ameth,0,0,0,,This is something only you can do.
-Dialogue: 10,0:23:00.98,0:23:04.32,Default,Ameth,0,0,0,,You, the Princess Knight.
+Dialogue: 10,0:22:56.18,0:23:04.32,Default,Ameth,0,0,0,,This is something only you, the Princess Knight, can do.
 Dialogue: 10,0:23:16.58,0:23:17.29,Default,Yuuki,0,0,0,,Kokkoro.
 Dialogue: 10,0:23:19.00,0:23:19.75,Default,Kokkoro,0,0,0,,Yes, my lord?
 Dialogue: 10,0:23:22.21,0:23:24.17,Default,Yuuki,0,0,0,,I'm counting on you.
