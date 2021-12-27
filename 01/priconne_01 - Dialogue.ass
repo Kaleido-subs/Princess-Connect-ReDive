@@ -317,13 +317,13 @@ Dialogue: 10,0:22:04.55,0:22:06.84,Default,Kokkoro,0,0,0,,I'm glad it wasn't poi
 Dialogue: 10,0:22:07.30,0:22:12.39,Default,Kokkoro,0,0,0,,{\i1\q2}That little one has become \NMiss Pecorine's flesh and blood...
 Dialogue: 10,0:22:15.12,0:22:17.27,Default,Kokkoro,0,0,0,,Miss Puchi-Pecorine...
 Dialogue: 10,0:22:20.63,0:22:24.65,Default,Ameth,0,0,0,,It looks like your story has begun at last.
-Dialogue: 10,0:22:25.40,0:22:31.41,Default,Ameth,0,0,0,,{\q2}Only the heavens can say for sure \Nwhether it will end in tragedy or a happily ever after.
-Dialogue: 10,0:22:32.70,0:22:35.66,Default,Ameth,0,0,0,,But don't forget:
+Dialogue: 10,0:22:25.40,0:22:31.41,Default,Ameth,0,0,0,,{\q2}Only the heavens can foretell whether \Nit will end in tragedy or a happily ever after.
+Dialogue: 10,0:22:32.70,0:22:35.66,Default,Ameth,0,0,0,,But never forget to ask:
 Dialogue: 10,0:22:36.37,0:22:38.58,Default,Ameth,0,0,0,,"What are the truths of this world?"
 Dialogue: 10,0:22:38.58,0:22:40.67,Default,Ameth,0,0,0,,"What are its falsehoods?"
 Dialogue: 10,0:22:40.67,0:22:45.80,Default,Ameth,0,0,0,,{\q2}On your journey to uncover these mysteries, \Nyou are sure to meet many faces both new and old.
 Dialogue: 10,0:22:47.22,0:22:50.76,Default,Ameth,0,0,0,,Alone, your power may not amount to much,
-Dialogue: 10,0:22:50.76,0:22:55.19,Default,Ameth,0,0,0,,{\q2}but the bonds you form along the way \Nwill become the power necessary to save them all.
+Dialogue: 10,0:22:50.76,0:22:55.19,Default,Ameth,0,0,0,,{\q2}but the allies you make along the way \Nwill become the power necessary to save them all.
 Dialogue: 10,0:22:56.18,0:23:04.32,Default,Ameth,0,0,0,,This is something only you, the Princess Knight, can do.
 Dialogue: 10,0:23:16.58,0:23:17.29,Default,Yuuki,0,0,0,,Kokkoro.
 Dialogue: 10,0:23:19.00,0:23:19.75,Default,Kokkoro,0,0,0,,Yes, my lord?
