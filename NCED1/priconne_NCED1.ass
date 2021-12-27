@@ -18,35 +18,148 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: ED1 - ENG,KG Turning Tables,74,&H00FFFFFF,&H000000FF,&H0051AFCA,&HA0000000,0,0,0,0,110,100,3,0,1,4,0,2,100,100,48,1
-Style: ED1 - ROM,KG Turning Tables,74,&H00FFFFFF,&H000000FF,&H00539350,&HA0000000,0,0,0,0,110,100,3,0,1,3.6,0,8,100,100,40,1
+Style: ED1,KG Ray of Sunshine,74,&H00FFFFFF,&H00FFFFFF,&H00505050,&H00505050,0,0,0,0,100,90,0,0,1,0,0,2,100,100,54,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function pos_y() return orgline.actor:match('rom') and -914 or 0; end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,color = require '0x.color'
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,template line notext,
+Comment: 1,0:00:00.00,0:00:00.00,ED1,,0,0,0,template line notext,
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,template line noblank loop layer 2,!relayer($loop_layer+1)!
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line,{!ln.tag.pos(7,7,0,pos_y())!\fad(200,300)}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line layer 2,{\bord2.4\blur1.6\3c!gc(3)!}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line layer 3,{\blur0.86}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,,{!util.make_grad(line.top+pos_y(), line.bottom+pos_y())!!util.get_multi_grad({'&HD30094&', '&H82004B&', '&HFF0000&', '&H00FF00&', '&H00FFFF&', '&H007FFF&', '&H0000FF&'})!}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line layer 0,{\p1}m !line.top! !line.left! | !line.right! !line.top! !line.bottom! !line.right! !line.bottom! !line.left!
 Comment: 0,0:00:59.00,0:01:04.00,Default,,0,0,0,edsync,{ED syncpoint — 2nd cut}
-Dialogue: 0,0:00:12.16,0:00:17.54,ED1 - ENG,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}I {*\3c&H766E91&}a{*\3c&H756F90&}l{*\3c&H75708E&}w{*\3c&H74718C&}a{*\3c&H74728B&}y{*\3c&H73748A&}s {*\3c&H727686&}y{*\3c&H727885&}e{*\3c&H717984&}a{*\3c&H717A82&}r{*\3c&H707B80&}n {*\3c&H6F7E7E&}f{*\3c&H6F7F7C&}o{*\3c&H6E807A&}r {*\3c&H6D8378&}t{*\3c&H6C8476&}h{*\3c&H6C8574&}o{*\3c&H6B8673&}s{*\3c&H6B8872&}e {*\3c&H6A8A6E&}t{*\3c&H698C6D&}i{*\3c&H698D6C&}m{*\3c&H688E6A&}e{*\3c&H688F68&}s {*\3c&H679266&}l{*\3c&H669364&}o{*\3c&H669462&}n{*\3c&H659661&}g {*\3c&H64985E&}g{*\3c&H64995C&}o{*\3c&H639A5B&}n{*\3c&H639C5A&}e{\3c&H629D58&}
-Dialogue: 0,0:00:17.96,0:00:23.42,ED1 - ENG,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}W{*\3c&H776C93&}h{*\3c&H766D91&}e{*\3c&H766E90&}n {*\3c&H75718D&}w{*\3c&H74728C&}e {*\3c&H737489&}g{*\3c&H737587&}o{*\3c&H727786&}o{*\3c&H727885&}d{*\3c&H717983&}-{*\3c&H717A82&}f{*\3c&H707B80&}o{*\3c&H707C7F&}r{*\3c&H6F7E7E&}-{*\3c&H6F7F7C&}n{*\3c&H6E807B&}o{*\3c&H6E8179&}t{*\3c&H6D8278&}h{*\3c&H6D8377&}i{*\3c&H6C8575&}n{*\3c&H6C8674&}g{*\3c&H6B8773&}s {*\3c&H6A8970&}g{*\3c&H6A8A6E&}a{*\3c&H698C6D&}t{*\3c&H698D6C&}h{*\3c&H688E6A&}e{*\3c&H688F69&}r{*\3c&H679067&}e{*\3c&H679166&}d {*\3c&H669463&}t{*\3c&H659562&}o{*\3c&H659660&}g{*\3c&H64975F&}e{*\3c&H64985E&}t{*\3c&H639A5C&}h{*\3c&H639B5B&}e{*\3c&H629C59&}r{\3c&H629D58&}
-Dialogue: 0,0:00:23.75,0:00:29.18,ED1 - ENG,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}P{*\3c&H776C93&}l{*\3c&H766D92&}a{*\3c&H766E91&}y{*\3c&H756F90&}i{*\3c&H75708E&}n{*\3c&H75718D&}g {*\3c&H74728B&}a{*\3c&H74738A&}r{*\3c&H737489&}o{*\3c&H737588&}u{*\3c&H727687&}n{*\3c&H727786&}d {*\3c&H717983&}i{*\3c&H717A82&}n {*\3c&H707C80&}t{*\3c&H707D7F&}h{*\3c&H6F7E7E&}e {*\3c&H6E7F7C&}t{*\3c&H6E807A&}r{*\3c&H6E8179&}e{*\3c&H6D8278&}e{*\3c&H6D8377&}h{*\3c&H6C8476&}o{*\3c&H6C8575&}u{*\3c&H6C8674&}s{*\3c&H6B8773&}e {*\3c&H6B8970&}f{*\3c&H6A8A6F&}o{*\3c&H6A8A6E&}r {*\3c&H698C6C&}j{*\3c&H698D6B&}u{*\3c&H688E6A&}s{*\3c&H688F69&}t {*\3c&H679166&}t{*\3c&H679265&}h{*\3c&H669364&}e {*\3c&H669562&}t{*\3c&H659661&}w{*\3c&H659760&}o {*\3c&H64985E&}o{*\3c&H64995C&}f {*\3c&H639B5A&}u{*\3c&H629C59&}s{\3c&H629D58&}
-Dialogue: 0,0:00:29.68,0:00:34.93,ED1 - ENG,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}A{*\3c&H766C92&}n{*\3c&H766E91&}d {*\3c&H75718D&}g{*\3c&H74728C&}o{*\3c&H74738A&}i{*\3c&H737588&}n{*\3c&H727687&}g {*\3c&H717983&}o{*\3c&H717A82&}n {*\3c&H6F7D7E&}o{*\3c&H6F7E7D&}u{*\3c&H6E807B&}r {*\3c&H6D8378&}v{*\3c&H6C8476&}e{*\3c&H6C8574&}r{*\3c&H6B8773&}y {*\3c&H6A8A6F&}o{*\3c&H6A8B6E&}w{*\3c&H698C6C&}n {*\3c&H688F69&}a{*\3c&H679067&}d{*\3c&H679265&}v{*\3c&H669364&}e{*\3c&H669562&}n{*\3c&H659660&}t{*\3c&H64975F&}u{*\3c&H64995D&}r{*\3c&H639A5B&}e{*\3c&H639C5A&}s{\3c&H629D58&}
-Dialogue: 0,0:00:35.52,0:00:45.23,ED1 - ENG,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}W{*\3c&H776C93&}h{*\3c&H766D91&}i{*\3c&H766E90&}l{*\3c&H756F8F&}e {*\3c&H74728C&}o{*\3c&H74738B&}u{*\3c&H73748A&}r {*\3c&H727687&}i{*\3c&H727786&}m{*\3c&H727884&}a{*\3c&H717983&}g{*\3c&H717A82&}i{*\3c&H707B80&}n{*\3c&H707C7F&}a{*\3c&H6F7D7E&}t{*\3c&H6F7F7D&}i{*\3c&H6E807B&}o{*\3c&H6E817A&}n{*\3c&H6D8279&}s {*\3c&H6C8476&}m{*\3c&H6C8575&}a{*\3c&H6C8673&}y {*\3c&H6B8871&}h{*\3c&H6A896F&}a{*\3c&H6A8B6E&}v{*\3c&H698C6D&}e {*\3c&H688E6A&}v{*\3c&H688F69&}a{*\3c&H679068&}r{*\3c&H679166&}i{*\3c&H679265&}e{*\3c&H669364&}d {*\3c&H659561&}s{*\3c&H659660&}o {*\3c&H64995D&}m{*\3c&H639A5C&}u{*\3c&H639B5B&}c{*\3c&H629C59&}h{\3c&H629D58&}
-Dialogue: 0,0:00:47.24,0:00:52.03,ED1 - ENG,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}S{*\3c&H766C92&}i{*\3c&H766E90&}m{*\3c&H756F8F&}p{*\3c&H75718D&}l{*\3c&H74728B&}y {*\3c&H737588&}m{*\3c&H727786&}i{*\3c&H717884&}m{*\3c&H717A82&}i{*\3c&H707B81&}c{*\3c&H707D7F&}k{*\3c&H6F7E7D&}i{*\3c&H6E807B&}n{*\3c&H6E817A&}g {*\3c&H6C8476&}t{*\3c&H6C8574&}h{*\3c&H6B8772&}e {*\3c&H6A8A6F&}w{*\3c&H698B6D&}a{*\3c&H698D6B&}y {*\3c&H689068&}y{*\3c&H679166&}o{*\3c&H669364&}u {*\3c&H659661&}a{*\3c&H64975F&}c{*\3c&H64995D&}t{*\3c&H639A5C&}e{*\3c&H639C5A&}d{\3c&H629D58&}
-Dialogue: 0,0:00:52.07,0:00:57.95,ED1 - ENG,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}A{*\3c&H766D92&}l{*\3c&H766F90&}w{*\3c&H75708E&}a{*\3c&H74728B&}y{*\3c&H737489&}s {*\3c&H727885&}p{*\3c&H717983&}u{*\3c&H707B81&}t {*\3c&H6F7F7C&}a {*\3c&H6D8278&}g{*\3c&H6C8476&}r{*\3c&H6C8674&}i{*\3c&H6B8872&}n {*\3c&H6A8B6D&}o{*\3c&H698D6B&}n {*\3c&H679067&}m{*\3c&H669265&}y {*\3c&H659661&}f{*\3c&H64985E&}a{*\3c&H64995C&}c{*\3c&H639B5A&}e{\3c&H629D58&}
-Dialogue: 0,0:01:01.54,0:01:04.42,ED1 - ENG,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}T{*\3c&H756F8F&}o{*\3c&H74738A&}m{*\3c&H727885&}o{*\3c&H707C80&}r{*\3c&H6E807B&}r{*\3c&H6C8476&}o{*\3c&H6B8871&}w {*\3c&H679067&}t{*\3c&H669562&}o{*\3c&H64995D&}o{\3c&H629D58&}
-Dialogue: 0,0:01:04.84,0:01:07.55,ED1 - ENG,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}W{*\3c&H766E91&}e {*\3c&H74738B&}m{*\3c&H737687&}i{*\3c&H717884&}g{*\3c&H707B81&}h{*\3c&H6F7D7E&}t {*\3c&H6D8378&}b{*\3c&H6C8574&}u{*\3c&H6B8871&}m{*\3c&H6A8B6E&}p {*\3c&H689068&}h{*\3c&H669265&}e{*\3c&H659561&}a{*\3c&H64985E&}d{*\3c&H639A5B&}s{\3c&H629D58&}
-Dialogue: 0,0:01:07.76,0:01:10.51,ED1 - ENG,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}M{*\3c&H766D92&}a{*\3c&H756F8F&}y{*\3c&H74718D&}b{*\3c&H74738A&}e {*\3c&H727786&}h{*\3c&H717983&}a{*\3c&H707B81&}v{*\3c&H6F7D7E&}e {*\3c&H6E817A&}a {*\3c&H6C8575&}f{*\3c&H6B8772&}i{*\3c&H6A8970&}g{*\3c&H6A8B6E&}h{*\3c&H698D6B&}t {*\3c&H679166&}o{*\3c&H669364&}r {*\3c&H65975F&}t{*\3c&H64995D&}w{*\3c&H639B5A&}o{\3c&H629D58&}
-Dialogue: 0,0:01:13.14,0:01:16.14,ED1 - ENG,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}E{*\3c&H766D92&}v{*\3c&H756F8F&}e{*\3c&H75718D&}n {*\3c&H737588&}s{*\3c&H727786&}o{*\3c&H717884&}, {*\3c&H707C7F&}w{*\3c&H6F7E7D&}e{*\3c&H6E807B&}'{*\3c&H6D8278&}r{*\3c&H6C8476&}e {*\3c&H6B8871&}i{*\3c&H6A8A6F&}n{*\3c&H698C6D&}s{*\3c&H688E6A&}e{*\3c&H689068&}p{*\3c&H679166&}a{*\3c&H669364&}r{*\3c&H659561&}a{*\3c&H64975F&}b{*\3c&H64995D&}l{*\3c&H639B5A&}e{\3c&H629D58&}
-Dialogue: 0,0:01:16.47,0:01:22.35,ED1 - ENG,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}B{*\3c&H776C93&}e{*\3c&H766D91&}c{*\3c&H766E90&}a{*\3c&H756F8F&}u{*\3c&H75718D&}s{*\3c&H74728C&}e {*\3c&H737489&}y{*\3c&H737588&}o{*\3c&H727687&}u{*\3c&H727785&}'{*\3c&H717884&}l{*\3c&H717983&}l {*\3c&H707C80&}f{*\3c&H707D7F&}o{*\3c&H6F7E7D&}r{*\3c&H6F7F7C&}e{*\3c&H6E807B&}v{*\3c&H6E8179&}e{*\3c&H6D8278&}r {*\3c&H6C8575&}b{*\3c&H6C8674&}e {*\3c&H6B8871&}a {*\3c&H6A8A6F&}d{*\3c&H698B6D&}e{*\3c&H698C6C&}a{*\3c&H698D6B&}r {*\3c&H689068&}f{*\3c&H679167&}r{*\3c&H679265&}i{*\3c&H669364&}e{*\3c&H669463&}n{*\3c&H659561&}d {*\3c&H64975F&}t{*\3c&H64995D&}o {*\3c&H639B5B&}m{*\3c&H629C59&}e{\3c&H629D58&}
-Dialogue: 0,0:01:22.40,0:01:29.40,ED1 - ENG,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}S{*\3c&H766C92&}o {*\3c&H756F8F&}I {*\3c&H74728C&}h{*\3c&H74738B&}o{*\3c&H737489&}p{*\3c&H737687&}e {*\3c&H717884&}w{*\3c&H717983&}e{*\3c&H707B81&}'{*\3c&H707C7F&}l{*\3c&H6F7D7E&}l {*\3c&H6E807B&}m{*\3c&H6E8179&}a{*\3c&H6D8378&}k{*\3c&H6C8476&}e {*\3c&H6B8773&}u{*\3c&H6B8871&}p {*\3c&H6A8B6E&}t{*\3c&H698C6D&}h{*\3c&H698D6B&}i{*\3c&H688F69&}s {*\3c&H679166&}t{*\3c&H669265&}i{*\3c&H669463&}m{*\3c&H659561&}e{*\3c&H659660&}, {*\3c&H64995D&}t{*\3c&H639A5B&}o{*\3c&H639C5A&}o{\3c&H629D58&}
-Dialogue: 0,0:00:12.16,0:00:17.54,ED1 - ROM,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}k{*\3c&H766D92&}o{*\3c&H766F90&}d{*\3c&H75708E&}o{*\3c&H74728B&}m{*\3c&H737489&}o {*\3c&H727885&}n{*\3c&H717983&}o {*\3c&H707D7F&}k{*\3c&H6F7F7C&}o{*\3c&H6E807A&}r{*\3c&H6D8278&}o {*\3c&H6C8674&}n{*\3c&H6B8872&}i {*\3c&H6A8B6D&}a{*\3c&H698D6B&}k{*\3c&H688F69&}o{*\3c&H679067&}g{*\3c&H669265&}a{*\3c&H669463&}r{*\3c&H659661&}e{*\3c&H64985E&}t{*\3c&H64995C&}a {\3c&H629D58&}
-Dialogue: 0,0:00:17.96,0:00:23.42,ED1 - ROM,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}k{*\3c&H766D92&}i {*\3c&H75708E&}n{*\3c&H74728B&}o {*\3c&H727687&}u{*\3c&H727885&}e {*\3c&H707B81&}n{*\3c&H707D7F&}o {*\3c&H6E807A&}k{*\3c&H6D8278&}o{*\3c&H6C8476&}y{*\3c&H6C8674&}a {*\3c&H6A8970&}t{*\3c&H6A8B6D&}o {*\3c&H688F69&}a{*\3c&H679067&}i{*\3c&H669265&}k{*\3c&H669463&}o{*\3c&H659661&}t{*\3c&H64985E&}o{*\3c&H64995C&}b{*\3c&H639B5A&}a{\3c&H629D58&}
-Dialogue: 0,0:00:23.75,0:00:29.18,ED1 - ROM,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}o{*\3c&H766D92&}c{*\3c&H756F8F&}h{*\3c&H74718D&}i{*\3c&H74738A&}k{*\3c&H737588&}o{*\3c&H727786&}b{*\3c&H717983&}o{*\3c&H707B81&}r{*\3c&H6F7D7E&}e {*\3c&H6E817A&}g{*\3c&H6D8377&}a {*\3c&H6B8772&}a{*\3c&H6A8970&}t{*\3c&H6A8B6E&}s{*\3c&H698D6B&}u{*\3c&H688F69&}m{*\3c&H679166&}a{*\3c&H669364&}r{*\3c&H659562&}e{*\3c&H65975F&}t{*\3c&H64995D&}t{*\3c&H639B5A&}e{\3c&H629D58&}
-Dialogue: 0,0:00:29.72,0:00:34.93,ED1 - ROM,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}o{*\3c&H766D92&}y{*\3c&H766F90&}a {*\3c&H74728B&}n{*\3c&H737489&}i {*\3c&H727885&}n{*\3c&H717983&}a{*\3c&H707B81&}i{*\3c&H707D7F&}s{*\3c&H6F7F7C&}h{*\3c&H6E807A&}o {*\3c&H6C8476&}d{*\3c&H6C8674&}e {*\3c&H6A8970&}b{*\3c&H6A8B6D&}o{*\3c&H698D6B&}u{*\3c&H688F69&}k{*\3c&H679067&}e{*\3c&H669265&}n {*\3c&H659661&}s{*\3c&H64985E&}u{*\3c&H64995C&}r{*\3c&H639B5A&}u{\3c&H629D58&}
-Dialogue: 0,0:00:35.52,0:00:45.23,ED1 - ROM,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}o{*\3c&H776C93&}m{*\3c&H766D92&}o{*\3c&H766E91&}i{*\3c&H756F8F&}e{*\3c&H75708E&}g{*\3c&H75718D&}a{*\3c&H74728C&}i{*\3c&H74738B&}t{*\3c&H73748A&}e{*\3c&H737588&}t{*\3c&H737687&}a {*\3c&H727885&}m{*\3c&H717884&}o{*\3c&H717983&}n{*\3c&H717A82&}o {*\3c&H707C7F&}t{*\3c&H6F7D7E&}o {*\3c&H6F7F7C&}w{*\3c&H6E807B&}a {*\3c&H6D8278&}z{*\3c&H6D8377&}e{*\3c&H6C8476&}n{*\3c&H6C8575&}z{*\3c&H6C8674&}e{*\3c&H6B8773&}n {*\3c&H6A8970&}n{*\3c&H6A8A6F&}i{*\3c&H6A8B6E&}t{*\3c&H698C6D&}e{*\3c&H698D6C&}m{*\3c&H688E6A&}o {*\3c&H689068&}n{*\3c&H679067&}i{*\3c&H679166&}t{*\3c&H669265&}s{*\3c&H669364&}u{*\3c&H669462&}k{*\3c&H659561&}a{*\3c&H659660&}n{*\3c&H64975F&}a{*\3c&H64985E&}i{*\3c&H64995D&}k{*\3c&H639A5B&}e{*\3c&H639B5A&}d{*\3c&H629C59&}o{\3c&H629D58&}
-Dialogue: 0,0:00:47.24,0:00:52.03,ED1 - ROM,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&\t(\3c&H1A6CD5&)}a{*\3c&H766D92&}s{*\3c&H756F8F&}h{*\3c&H74718C&}i {*\3c&H737588&}w{*\3c&H727885&}o {*\3c&H707C80&}h{*\3c&H6F7E7E&}i{*\3c&H6E807B&}p{*\3c&H6D8278&}p{*\3c&H6C8476&}a{*\3c&H6C8674&}r{*\3c&H6B8871&}i{*\3c&H6A8A6E&}a{*\3c&H698C6C&}i {*\3c&H679067&}n{*\3c&H669364&}a{*\3c&H669562&}g{*\3c&H659760&}a{*\3c&H64995D&}r{*\3c&H639B5A&}a{\3c&H629D58&}
-Dialogue: 0,0:00:52.07,0:00:57.95,ED1 - ROM,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}k{*\3c&H766E90&}i{*\3c&H75718D&}m{*\3c&H737489&}i {*\3c&H717A82&}t{*\3c&H707D7F&}o {*\3c&H6D8378&}a{*\3c&H6C8574&}r{*\3c&H6B8871&}u{*\3c&H698B6D&}i{*\3c&H688E6A&}t{*\3c&H679166&}e{*\3c&H669463&}i{*\3c&H64975F&}k{*\3c&H639A5C&}u{\3c&H629D58&}
-Dialogue: 0,0:01:01.54,0:01:04.42,ED1 - ROM,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}a{*\3c&H756F8F&}s{*\3c&H74738A&}u {*\3c&H707C80&}m{*\3c&H6E807B&}o {*\3c&H6B8871&}k{*\3c&H698C6C&}i{*\3c&H679067&}t{*\3c&H669562&}t{*\3c&H64995D&}o{\3c&H629D58&}
-Dialogue: 0,0:01:04.84,0:01:07.55,ED1 - ROM,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}b{*\3c&H75708E&}u{*\3c&H737588&}t{*\3c&H717A82&}s{*\3c&H6F7F7C&}u{*\3c&H6C8476&}k{*\3c&H6A8970&}a{*\3c&H688E6A&}t{*\3c&H669364&}t{*\3c&H64985E&}e{\3c&H629D58&}
-Dialogue: 0,0:01:07.76,0:01:10.51,ED1 - ROM,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}k{*\3c&H766E90&}e{*\3c&H74718C&}n{*\3c&H737489&}k{*\3c&H727885&}a {*\3c&H6F7E7E&}s{*\3c&H6E817A&}u{*\3c&H6C8476&}r{*\3c&H6B8772&}u {*\3c&H698D6B&}d{*\3c&H679067&}a{*\3c&H669463&}r{*\3c&H659760&}o{*\3c&H639A5C&}u{\3c&H629D58&}
-Dialogue: 0,0:01:13.14,0:01:16.14,ED1 - ROM,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}s{*\3c&H756F8F&}o{*\3c&H74738A&}r{*\3c&H727885&}e{*\3c&H707C80&}d{*\3c&H6E807B&}e{*\3c&H6C8476&}m{*\3c&H6B8871&}o {*\3c&H679067&}n{*\3c&H669562&}a{*\3c&H64995D&}o{\3c&H629D58&}
-Dialogue: 0,0:01:16.47,0:01:22.35,ED1 - ROM,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}b{*\3c&H766D92&}o{*\3c&H766E90&}k{*\3c&H75708F&}u {*\3c&H74738B&}w{*\3c&H737489&}a {*\3c&H727785&}k{*\3c&H717984&}i{*\3c&H717A82&}m{*\3c&H707C80&}i {*\3c&H6F7F7C&}w{*\3c&H6E807B&}o {*\3c&H6D8377&}t{*\3c&H6C8575&}o{*\3c&H6C8673&}m{*\3c&H6B8871&}o{*\3c&H6A8970&}d{*\3c&H6A8B6E&}a{*\3c&H698C6C&}c{*\3c&H688E6A&}h{*\3c&H688F68&}i {*\3c&H669265&}t{*\3c&H669463&}o {*\3c&H65975F&}y{*\3c&H64985D&}o{*\3c&H639A5C&}b{*\3c&H639B5A&}u{\3c&H629D58&}
-Dialogue: 0,0:01:22.40,0:01:29.40,ED1 - ROM,,0,0,0,,{\fad(200,300)\blur2.4\3c&H776B94&}u{*\3c&H766D92&}m{*\3c&H756F90&}a{*\3c&H75718D&}k{*\3c&H74728B&}u {*\3c&H727687&}n{*\3c&H727884&}a{*\3c&H717A82&}k{*\3c&H707C80&}a{*\3c&H6F7E7E&}n{*\3c&H6E7F7C&}a{*\3c&H6E8179&}o{*\3c&H6D8377&}r{*\3c&H6C8575&}i {*\3c&H6B8970&}d{*\3c&H6A8A6E&}e{*\3c&H698C6C&}k{*\3c&H688E6A&}i{*\3c&H679068&}r{*\3c&H679265&}u {*\3c&H659661&}k{*\3c&H64975F&}a{*\3c&H64995C&}n{*\3c&H639B5A&}a{\3c&H629D58&}
+Comment: 0,0:00:12.16,0:00:17.54,ED1,rom,0,0,0,kara,kodomo no koro ni akogareta
+Comment: 0,0:00:17.96,0:00:23.42,ED1,rom,0,0,0,kara,ki no ue no koya to aikotoba
+Comment: 0,0:00:23.75,0:00:29.18,ED1,rom,0,0,0,kara,ochikobore ga atsumarette
+Comment: 0,0:00:29.72,0:00:34.93,ED1,rom,0,0,0,kara,oya ni naisho de bouken suru
+Comment: 0,0:00:35.52,0:00:45.23,ED1,rom,0,0,0,kara,omoiegaiteta mono to wa zenzen nitemo nitsukanaikedo
+Comment: 0,0:00:47.24,0:00:52.03,ED1,rom,0,0,0,kara,ashi wo hippariai nagara
+Comment: 0,0:00:52.07,0:00:57.95,ED1,rom,0,0,0,kara,kimi to aruiteiku
+Comment: 0,0:01:01.54,0:01:04.42,ED1,rom,0,0,0,kara,asu mo kitto
+Comment: 0,0:01:04.84,0:01:07.55,ED1,rom,0,0,0,kara,butsukatte
+Comment: 0,0:01:07.76,0:01:10.51,ED1,rom,0,0,0,kara,kenka suru darou
+Comment: 0,0:01:13.14,0:01:16.14,ED1,rom,0,0,0,kara,soredemo nao
+Comment: 0,0:01:16.47,0:01:22.35,ED1,rom,0,0,0,kara,boku wa kimi wo tomodachi to yobu
+Comment: 0,0:01:22.40,0:01:29.40,ED1,rom,0,0,0,kara,umaku nakanaori dekiru kana
+Comment: 0,0:00:12.16,0:00:17.54,ED1,eng,0,0,0,kara,I always yearn for those times long gone
+Comment: 0,0:00:17.96,0:00:23.42,ED1,eng,0,0,0,kara,When we good-for-nothings got together
+Comment: 0,0:00:23.75,0:00:29.18,ED1,eng,0,0,0,kara,Playing around in the treehouse for just the two of us
+Comment: 0,0:00:29.68,0:00:34.93,ED1,eng,0,0,0,kara,And going on our own secret adventures
+Comment: 0,0:00:35.52,0:00:45.23,ED1,eng,0,0,0,kara,Even though our imaginations would always vary oh, so much
+Comment: 0,0:00:47.24,0:00:52.03,ED1,eng,0,0,0,kara,Simply copying and following your lead
+Comment: 0,0:00:52.07,0:00:57.95,ED1,eng,0,0,0,kara,Always put a grin on my face
+Comment: 0,0:01:01.54,0:01:04.42,ED1,eng,0,0,0,kara,When tomorrow comes
+Comment: 0,0:01:04.84,0:01:07.55,ED1,eng,0,0,0,kara,We might bump heads again
+Comment: 0,0:01:07.76,0:01:10.51,ED1,eng,0,0,0,kara,Maybe have a fight or two
+Comment: 0,0:01:13.14,0:01:16.14,ED1,eng,0,0,0,kara,Even so, we're inseparable
+Comment: 0,0:01:16.47,0:01:22.35,ED1,eng,0,0,0,kara,Because you'll forever be a dear friend to me
+Comment: 0,0:01:22.40,0:01:29.40,ED1,eng,0,0,0,kara,So I hope we'll make up this time, too
+Dialogue: 0,0:00:12.16,0:00:17.54,ED1,rom,0,0,0,fx,{\an7\pos(627.74,45.40)\fad(200,300)\p1}m 959.4 627.7421875 | 1292.2578125 959.4 1026 1292.2578125 1026 627.7421875
+Dialogue: 1,0:00:12.16,0:00:17.54,ED1,rom,0,0,0,fx,{\an7\pos(627.74,45.40)\fad(200,300)}
+Dialogue: 2,0:00:12.16,0:00:17.54,ED1,rom,0,0,0,fx,{\an7\pos(627.74,45.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}kodomo no koro ni akogareta
+Dialogue: 3,0:00:12.16,0:00:17.54,ED1,rom,0,0,0,fx,{\an7\pos(627.74,45.40)\fad(200,300)\blur0.86}kodomo no koro ni akogareta
+Dialogue: 0,0:00:17.96,0:00:23.42,ED1,rom,0,0,0,fx,{\an7\pos(627.24,45.40)\fad(200,300)\p1}m 959.4 627.2421875 | 1292.7578125 959.4 1026 1292.7578125 1026 627.2421875
+Dialogue: 1,0:00:17.96,0:00:23.42,ED1,rom,0,0,0,fx,{\an7\pos(627.24,45.40)\fad(200,300)}
+Dialogue: 2,0:00:17.96,0:00:23.42,ED1,rom,0,0,0,fx,{\an7\pos(627.24,45.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}ki no ue no koya to aikotoba
+Dialogue: 3,0:00:17.96,0:00:23.42,ED1,rom,0,0,0,fx,{\an7\pos(627.24,45.40)\fad(200,300)\blur0.86}ki no ue no koya to aikotoba
+Dialogue: 0,0:00:23.75,0:00:29.18,ED1,rom,0,0,0,fx,{\an7\pos(660.24,45.40)\fad(200,300)\p1}m 959.4 660.2421875 | 1259.7578125 959.4 1026 1259.7578125 1026 660.2421875
+Dialogue: 1,0:00:23.75,0:00:29.18,ED1,rom,0,0,0,fx,{\an7\pos(660.24,45.40)\fad(200,300)}
+Dialogue: 2,0:00:23.75,0:00:29.18,ED1,rom,0,0,0,fx,{\an7\pos(660.24,45.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}ochikobore ga atsumarette
+Dialogue: 3,0:00:23.75,0:00:29.18,ED1,rom,0,0,0,fx,{\an7\pos(660.24,45.40)\fad(200,300)\blur0.86}ochikobore ga atsumarette
+Dialogue: 0,0:00:29.72,0:00:34.93,ED1,rom,0,0,0,fx,{\an7\pos(631.38,45.40)\fad(200,300)\p1}m 959.4 631.3828125 | 1288.6171875 959.4 1026 1288.6171875 1026 631.3828125
+Dialogue: 1,0:00:29.72,0:00:34.93,ED1,rom,0,0,0,fx,{\an7\pos(631.38,45.40)\fad(200,300)}
+Dialogue: 2,0:00:29.72,0:00:34.93,ED1,rom,0,0,0,fx,{\an7\pos(631.38,45.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}oya ni naisho de bouken suru
+Dialogue: 3,0:00:29.72,0:00:34.93,ED1,rom,0,0,0,fx,{\an7\pos(631.38,45.40)\fad(200,300)\blur0.86}oya ni naisho de bouken suru
+Dialogue: 0,0:00:35.52,0:00:45.23,ED1,rom,0,0,0,fx,{\an7\pos(331.88,45.40)\fad(200,300)\p1}m 959.4 331.875 | 1588.125 959.4 1026 1588.125 1026 331.875
+Dialogue: 1,0:00:35.52,0:00:45.23,ED1,rom,0,0,0,fx,{\an7\pos(331.88,45.40)\fad(200,300)}
+Dialogue: 2,0:00:35.52,0:00:45.23,ED1,rom,0,0,0,fx,{\an7\pos(331.88,45.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}omoiegaiteta mono to wa zenzen nitemo nitsukanaikedo
+Dialogue: 3,0:00:35.52,0:00:45.23,ED1,rom,0,0,0,fx,{\an7\pos(331.88,45.40)\fad(200,300)\blur0.86}omoiegaiteta mono to wa zenzen nitemo nitsukanaikedo
+Dialogue: 0,0:00:47.24,0:00:52.03,ED1,rom,0,0,0,fx,{\an7\pos(681.54,45.40)\fad(200,300)\p1}m 959.4 681.5390625 | 1238.4609375 959.4 1026 1238.4609375 1026 681.5390625
+Dialogue: 1,0:00:47.24,0:00:52.03,ED1,rom,0,0,0,fx,{\an7\pos(681.54,45.40)\fad(200,300)}
+Dialogue: 2,0:00:47.24,0:00:52.03,ED1,rom,0,0,0,fx,{\an7\pos(681.54,45.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}ashi wo hippariai nagara
+Dialogue: 3,0:00:47.24,0:00:52.03,ED1,rom,0,0,0,fx,{\an7\pos(681.54,45.40)\fad(200,300)\blur0.86}ashi wo hippariai nagara
+Dialogue: 0,0:00:52.07,0:00:57.95,ED1,rom,0,0,0,fx,{\an7\pos(769.23,45.40)\fad(200,300)\p1}m 959.4 769.234375 | 1150.765625 959.4 1026 1150.765625 1026 769.234375
+Dialogue: 1,0:00:52.07,0:00:57.95,ED1,rom,0,0,0,fx,{\an7\pos(769.23,45.40)\fad(200,300)}
+Dialogue: 2,0:00:52.07,0:00:57.95,ED1,rom,0,0,0,fx,{\an7\pos(769.23,45.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}kimi to aruiteiku
+Dialogue: 3,0:00:52.07,0:00:57.95,ED1,rom,0,0,0,fx,{\an7\pos(769.23,45.40)\fad(200,300)\blur0.86}kimi to aruiteiku
+Dialogue: 0,0:01:01.54,0:01:04.42,ED1,rom,0,0,0,fx,{\an7\pos(814.19,45.40)\fad(200,300)\p1}m 959.4 814.1875 | 1105.8125 959.4 1026 1105.8125 1026 814.1875
+Dialogue: 1,0:01:01.54,0:01:04.42,ED1,rom,0,0,0,fx,{\an7\pos(814.19,45.40)\fad(200,300)}
+Dialogue: 2,0:01:01.54,0:01:04.42,ED1,rom,0,0,0,fx,{\an7\pos(814.19,45.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}asu mo kitto
+Dialogue: 3,0:01:01.54,0:01:04.42,ED1,rom,0,0,0,fx,{\an7\pos(814.19,45.40)\fad(200,300)\blur0.86}asu mo kitto
+Dialogue: 0,0:01:04.84,0:01:07.55,ED1,rom,0,0,0,fx,{\an7\pos(842.13,45.40)\fad(200,300)\p1}m 959.4 842.125 | 1077.875 959.4 1026 1077.875 1026 842.125
+Dialogue: 1,0:01:04.84,0:01:07.55,ED1,rom,0,0,0,fx,{\an7\pos(842.13,45.40)\fad(200,300)}
+Dialogue: 2,0:01:04.84,0:01:07.55,ED1,rom,0,0,0,fx,{\an7\pos(842.13,45.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}butsukatte
+Dialogue: 3,0:01:04.84,0:01:07.55,ED1,rom,0,0,0,fx,{\an7\pos(842.13,45.40)\fad(200,300)\blur0.86}butsukatte
+Dialogue: 0,0:01:07.76,0:01:10.51,ED1,rom,0,0,0,fx,{\an7\pos(768.92,45.40)\fad(200,300)\p1}m 959.4 768.921875 | 1151.078125 959.4 1026 1151.078125 1026 768.921875
+Dialogue: 1,0:01:07.76,0:01:10.51,ED1,rom,0,0,0,fx,{\an7\pos(768.92,45.40)\fad(200,300)}
+Dialogue: 2,0:01:07.76,0:01:10.51,ED1,rom,0,0,0,fx,{\an7\pos(768.92,45.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}kenka suru darou
+Dialogue: 3,0:01:07.76,0:01:10.51,ED1,rom,0,0,0,fx,{\an7\pos(768.92,45.40)\fad(200,300)\blur0.86}kenka suru darou
+Dialogue: 0,0:01:13.14,0:01:16.14,ED1,rom,0,0,0,fx,{\an7\pos(810.17,45.40)\fad(200,300)\p1}m 959.4 810.171875 | 1109.828125 959.4 1026 1109.828125 1026 810.171875
+Dialogue: 1,0:01:13.14,0:01:16.14,ED1,rom,0,0,0,fx,{\an7\pos(810.17,45.40)\fad(200,300)}
+Dialogue: 2,0:01:13.14,0:01:16.14,ED1,rom,0,0,0,fx,{\an7\pos(810.17,45.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}soredemo nao
+Dialogue: 3,0:01:13.14,0:01:16.14,ED1,rom,0,0,0,fx,{\an7\pos(810.17,45.40)\fad(200,300)\blur0.86}soredemo nao
+Dialogue: 0,0:01:16.47,0:01:22.35,ED1,rom,0,0,0,fx,{\an7\pos(548.48,45.40)\fad(200,300)\p1}m 959.4 548.484375 | 1371.515625 959.4 1026 1371.515625 1026 548.484375
+Dialogue: 1,0:01:16.47,0:01:22.35,ED1,rom,0,0,0,fx,{\an7\pos(548.48,45.40)\fad(200,300)}
+Dialogue: 2,0:01:16.47,0:01:22.35,ED1,rom,0,0,0,fx,{\an7\pos(548.48,45.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}boku wa kimi wo tomodachi to yobu
+Dialogue: 3,0:01:16.47,0:01:22.35,ED1,rom,0,0,0,fx,{\an7\pos(548.48,45.40)\fad(200,300)\blur0.86}boku wa kimi wo tomodachi to yobu
+Dialogue: 0,0:01:22.40,0:01:29.40,ED1,rom,0,0,0,fx,{\an7\pos(633.50,45.40)\fad(200,300)\p1}m 959.4 633.5 | 1286.5 959.4 1026 1286.5 1026 633.5
+Dialogue: 1,0:01:22.40,0:01:29.40,ED1,rom,0,0,0,fx,{\an7\pos(633.50,45.40)\fad(200,300)}
+Dialogue: 2,0:01:22.40,0:01:29.40,ED1,rom,0,0,0,fx,{\an7\pos(633.50,45.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}umaku nakanaori dekiru kana
+Dialogue: 3,0:01:22.40,0:01:29.40,ED1,rom,0,0,0,fx,{\an7\pos(633.50,45.40)\fad(200,300)\blur0.86}umaku nakanaori dekiru kana
+Dialogue: 0,0:00:12.16,0:00:17.54,ED1,eng,0,0,0,fx,{\an7\pos(491.08,959.40)\fad(200,300)\p1}m 959.4 491.078125 | 1428.921875 959.4 1026 1428.921875 1026 491.078125
+Dialogue: 1,0:00:12.16,0:00:17.54,ED1,eng,0,0,0,fx,{\an7\pos(491.08,959.40)\fad(200,300)}
+Dialogue: 2,0:00:12.16,0:00:17.54,ED1,eng,0,0,0,fx,{\an7\pos(491.08,959.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}I always yearn for those times long gone
+Dialogue: 3,0:00:12.16,0:00:17.54,ED1,eng,0,0,0,fx,{\an7\pos(491.08,959.40)\fad(200,300)\blur0.86}I always yearn for those times long gone
+Dialogue: 0,0:00:17.96,0:00:23.42,ED1,eng,0,0,0,fx,{\an7\pos(490.98,959.40)\fad(200,300)\p1}m 959.4 490.9765625 | 1429.0234375 959.4 1026 1429.0234375 1026 490.9765625
+Dialogue: 1,0:00:17.96,0:00:23.42,ED1,eng,0,0,0,fx,{\an7\pos(490.98,959.40)\fad(200,300)}
+Dialogue: 2,0:00:17.96,0:00:23.42,ED1,eng,0,0,0,fx,{\an7\pos(490.98,959.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}When we good-for-nothings got together
+Dialogue: 3,0:00:17.96,0:00:23.42,ED1,eng,0,0,0,fx,{\an7\pos(490.98,959.40)\fad(200,300)\blur0.86}When we good-for-nothings got together
+Dialogue: 0,0:00:23.75,0:00:29.18,ED1,eng,0,0,0,fx,{\an7\pos(328.63,959.40)\fad(200,300)\p1}m 959.4 328.6328125 | 1591.3671875 959.4 1026 1591.3671875 1026 328.6328125
+Dialogue: 1,0:00:23.75,0:00:29.18,ED1,eng,0,0,0,fx,{\an7\pos(328.63,959.40)\fad(200,300)}
+Dialogue: 2,0:00:23.75,0:00:29.18,ED1,eng,0,0,0,fx,{\an7\pos(328.63,959.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}Playing around in the treehouse for just the two of us
+Dialogue: 3,0:00:23.75,0:00:29.18,ED1,eng,0,0,0,fx,{\an7\pos(328.63,959.40)\fad(200,300)\blur0.86}Playing around in the treehouse for just the two of us
+Dialogue: 0,0:00:29.68,0:00:34.93,ED1,eng,0,0,0,fx,{\an7\pos(503.11,959.40)\fad(200,300)\p1}m 959.4 503.109375 | 1416.890625 959.4 1026 1416.890625 1026 503.109375
+Dialogue: 1,0:00:29.68,0:00:34.93,ED1,eng,0,0,0,fx,{\an7\pos(503.11,959.40)\fad(200,300)}
+Dialogue: 2,0:00:29.68,0:00:34.93,ED1,eng,0,0,0,fx,{\an7\pos(503.11,959.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}And going on our own secret adventures
+Dialogue: 3,0:00:29.68,0:00:34.93,ED1,eng,0,0,0,fx,{\an7\pos(503.11,959.40)\fad(200,300)\blur0.86}And going on our own secret adventures
+Dialogue: 0,0:00:35.52,0:00:45.23,ED1,eng,0,0,0,fx,{\an7\pos(270.56,959.40)\fad(200,300)\p1}m 959.4 270.5625 | 1649.4375 959.4 1026 1649.4375 1026 270.5625
+Dialogue: 1,0:00:35.52,0:00:45.23,ED1,eng,0,0,0,fx,{\an7\pos(270.56,959.40)\fad(200,300)}
+Dialogue: 2,0:00:35.52,0:00:45.23,ED1,eng,0,0,0,fx,{\an7\pos(270.56,959.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}Even though our imaginations would always vary oh, so much
+Dialogue: 3,0:00:35.52,0:00:45.23,ED1,eng,0,0,0,fx,{\an7\pos(270.56,959.40)\fad(200,300)\blur0.86}Even though our imaginations would always vary oh, so much
+Dialogue: 0,0:00:47.24,0:00:52.03,ED1,eng,0,0,0,fx,{\an7\pos(522.46,959.40)\fad(200,300)\p1}m 959.4 522.4609375 | 1397.5390625 959.4 1026 1397.5390625 1026 522.4609375
+Dialogue: 1,0:00:47.24,0:00:52.03,ED1,eng,0,0,0,fx,{\an7\pos(522.46,959.40)\fad(200,300)}
+Dialogue: 2,0:00:47.24,0:00:52.03,ED1,eng,0,0,0,fx,{\an7\pos(522.46,959.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}Simply copying and following your lead
+Dialogue: 3,0:00:47.24,0:00:52.03,ED1,eng,0,0,0,fx,{\an7\pos(522.46,959.40)\fad(200,300)\blur0.86}Simply copying and following your lead
+Dialogue: 0,0:00:52.07,0:00:57.95,ED1,eng,0,0,0,fx,{\an7\pos(619.89,959.40)\fad(200,300)\p1}m 959.4 619.890625 | 1300.109375 959.4 1026 1300.109375 1026 619.890625
+Dialogue: 1,0:00:52.07,0:00:57.95,ED1,eng,0,0,0,fx,{\an7\pos(619.89,959.40)\fad(200,300)}
+Dialogue: 2,0:00:52.07,0:00:57.95,ED1,eng,0,0,0,fx,{\an7\pos(619.89,959.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}Always put a grin on my face
+Dialogue: 3,0:00:52.07,0:00:57.95,ED1,eng,0,0,0,fx,{\an7\pos(619.89,959.40)\fad(200,300)\blur0.86}Always put a grin on my face
+Dialogue: 0,0:01:01.54,0:01:04.42,ED1,eng,0,0,0,fx,{\an7\pos(707.89,959.40)\fad(200,300)\p1}m 959.4 707.890625 | 1212.109375 959.4 1026 1212.109375 1026 707.890625
+Dialogue: 1,0:01:01.54,0:01:04.42,ED1,eng,0,0,0,fx,{\an7\pos(707.89,959.40)\fad(200,300)}
+Dialogue: 2,0:01:01.54,0:01:04.42,ED1,eng,0,0,0,fx,{\an7\pos(707.89,959.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}When tomorrow comes
+Dialogue: 3,0:01:01.54,0:01:04.42,ED1,eng,0,0,0,fx,{\an7\pos(707.89,959.40)\fad(200,300)\blur0.86}When tomorrow comes
+Dialogue: 0,0:01:04.84,0:01:07.55,ED1,eng,0,0,0,fx,{\an7\pos(641.65,959.40)\fad(200,300)\p1}m 959.4 641.6484375 | 1278.3515625 959.4 1026 1278.3515625 1026 641.6484375
+Dialogue: 1,0:01:04.84,0:01:07.55,ED1,eng,0,0,0,fx,{\an7\pos(641.65,959.40)\fad(200,300)}
+Dialogue: 2,0:01:04.84,0:01:07.55,ED1,eng,0,0,0,fx,{\an7\pos(641.65,959.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}We might bump heads again
+Dialogue: 3,0:01:04.84,0:01:07.55,ED1,eng,0,0,0,fx,{\an7\pos(641.65,959.40)\fad(200,300)\blur0.86}We might bump heads again
+Dialogue: 0,0:01:07.76,0:01:10.51,ED1,eng,0,0,0,fx,{\an7\pos(652.48,959.40)\fad(200,300)\p1}m 959.4 652.4765625 | 1267.5234375 959.4 1026 1267.5234375 1026 652.4765625
+Dialogue: 1,0:01:07.76,0:01:10.51,ED1,eng,0,0,0,fx,{\an7\pos(652.48,959.40)\fad(200,300)}
+Dialogue: 2,0:01:07.76,0:01:10.51,ED1,eng,0,0,0,fx,{\an7\pos(652.48,959.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}Maybe have a fight or two
+Dialogue: 3,0:01:07.76,0:01:10.51,ED1,eng,0,0,0,fx,{\an7\pos(652.48,959.40)\fad(200,300)\blur0.86}Maybe have a fight or two
+Dialogue: 0,0:01:13.14,0:01:16.14,ED1,eng,0,0,0,fx,{\an7\pos(672.15,959.40)\fad(200,300)\p1}m 959.4 672.1484375 | 1247.8515625 959.4 1026 1247.8515625 1026 672.1484375
+Dialogue: 1,0:01:13.14,0:01:16.14,ED1,eng,0,0,0,fx,{\an7\pos(672.15,959.40)\fad(200,300)}
+Dialogue: 2,0:01:13.14,0:01:16.14,ED1,eng,0,0,0,fx,{\an7\pos(672.15,959.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}Even so, we're inseparable
+Dialogue: 3,0:01:13.14,0:01:16.14,ED1,eng,0,0,0,fx,{\an7\pos(672.15,959.40)\fad(200,300)\blur0.86}Even so, we're inseparable
+Dialogue: 0,0:01:16.47,0:01:22.35,ED1,eng,0,0,0,fx,{\an7\pos(447.88,959.40)\fad(200,300)\p1}m 959.4 447.875 | 1472.125 959.4 1026 1472.125 1026 447.875
+Dialogue: 1,0:01:16.47,0:01:22.35,ED1,eng,0,0,0,fx,{\an7\pos(447.88,959.40)\fad(200,300)}
+Dialogue: 2,0:01:16.47,0:01:22.35,ED1,eng,0,0,0,fx,{\an7\pos(447.88,959.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}Because you'll forever be a dear friend to me
+Dialogue: 3,0:01:16.47,0:01:22.35,ED1,eng,0,0,0,fx,{\an7\pos(447.88,959.40)\fad(200,300)\blur0.86}Because you'll forever be a dear friend to me
+Dialogue: 0,0:01:22.40,0:01:29.40,ED1,eng,0,0,0,fx,{\an7\pos(521.31,959.40)\fad(200,300)\p1}m 959.4 521.3125 | 1398.6875 959.4 1026 1398.6875 1026 521.3125
+Dialogue: 1,0:01:22.40,0:01:29.40,ED1,eng,0,0,0,fx,{\an7\pos(521.31,959.40)\fad(200,300)}
+Dialogue: 2,0:01:22.40,0:01:29.40,ED1,eng,0,0,0,fx,{\an7\pos(521.31,959.40)\fad(200,300)\bord2.4\blur1.6\3c&H505050&}So I hope we'll make up this time, too
+Dialogue: 3,0:01:22.40,0:01:29.40,ED1,eng,0,0,0,fx,{\an7\pos(521.31,959.40)\fad(200,300)\blur0.86}So I hope we'll make up this time, too
