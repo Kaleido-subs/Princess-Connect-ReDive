@@ -33,7 +33,7 @@ Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,template syl noblank loop laye
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,mixin line,!retime('line', -50, 300)!{!ln.tag.pos(5,5,0,pos_y())!\fad(0,250)\1a&HFE&\3a&HFE&\4a&HFE&\bord!get_bord()!\xshad0.01}
 Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,mixin char noblank layer 0 layer 1,{\blur!get_blur()*2.5!\4c!gc(1)!\4a&HFF&\t(!lchar_start()!,!lchar_start()+200!,1.2,\4a&H00&)\t(!lchar_start()+100!,!lchar_start()+300!,1.2,\4c!get_4c()!\blur1)}
 Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,mixin char noblank layer 0 layer 1 actor eng,{\t(!line.duration-600+lchar_start()!,!line.duration-300+lchar_start()!,1.2,\4a&HFF&\blur!get_blur()*2.5!)}
-Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,mixin char actor rom layer 0 layer 1,{\t(!st(0)!,!st(0)!,\4a&HFF&)\t(!st(1)!,!st(1)!,\4a&H00&)\t(!line.duration-600+lchar_start()!,!line.duration-300+lchar_start()!,1.2,\4a&HFF&\blur!get_blur()*2.5!)}
+Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,mixin char actor rom layer 0 layer 1,{\t(!st(0)!,!st(0)!,\4a&HFF&)\t(!st(1)!,!st(1)!,\4a&H00&)\t(!line.duration-700+lchar_start()!,!line.duration-400+lchar_start()!,1.2,\4a&HFF&\blur!get_blur()*2.5!)}
 Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,mixin syl actor rom layer 2 layer 3,{\4a&HFF&\t(!st(0)!,!st(0)!,\4c!gc(1)!\4a&H00&\fscx125\fscy125\blur!get_blur()*1.5!)\t(!st(0)!,!st(1)!,\4c!get_4c()!\fscx100\fscy100\blur!get_blur()!)\t(!st(1)!,!st(1)!,\4a&HFF&)}
 Comment: 0,0:00:01.98,0:00:01.98,Default,,0,0,0,sync,{OP sync — second cut}
 Dialogue: 0,0:00:08.07,0:00:10.78,OP1 - ENG,rom,0,0,0,kara,{\k5}{\k31}ma{\k47}ssa{\k22}ra {\k39}na {\k38}se{\k22}ka{\k51}i{\k16}
