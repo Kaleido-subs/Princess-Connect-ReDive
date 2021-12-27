@@ -43,7 +43,7 @@ Dialogue: 10,0:02:55.13,0:02:58.44,Default,Kokkoro,0,0,0,,{\q2}It's fortunate th
 Dialogue: 10,0:02:59.29,0:03:01.04,Default,Yuuki,0,0,0,,Mushrooms. Great!
 Dialogue: 10,0:03:01.04,0:03:02.31,Default,Kokkoro,0,0,0,,Yes, but...
 Dialogue: 10,0:03:03.21,0:03:06.58,Default,Kokkoro,0,0,0,,I hope Miss Pecorine is all right.
-Dialogue: 10,0:03:06.62,0:03:09.09,Default,Pecorine,0,0,0,,{\alphaFF\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\t(25,525,1,\3c&H000000&\4c&H000000&\alpha00}Pecorine! {## Feel free to fix this up if you want to lol}
+Dialogue: 10,0:03:06.62,0:03:09.09,Default,Pecorine,0,0,0,,{\alphaFF\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\t(25,525,1,\3c&H000000&\4c&H000000&\alpha00}Pecorine!
 Dialogue: 10,0:03:09.55,0:03:14.13,Default,Kokkoro,0,0,0,,{\q2}She said she was returning to Landosol, \Nso perhaps we'll meet her again.
 Dialogue: 10,0:03:14.13,0:03:14.82,Default,Yuuki,0,0,0,,Mhm.
 Dialogue: 10,0:03:15.50,0:03:21.25,Default,Kokkoro,0,0,0,,{\q2}Regardless, we must ensure we have \Na place to stay by the time our money runs out.
@@ -51,32 +51,29 @@ Dialogue: 10,0:03:21.25,0:03:23.85,Default,Regular,0,0,0,,What's this, lassie? L
 Dialogue: 10,0:03:24.39,0:03:25.96,Default,Yuuki,0,0,0,,Money. Important!
 Dialogue: 10,0:03:25.96,0:03:28.10,Default,Regular,0,0,0,,R-Right. That it is.
 Dialogue: 10,0:03:28.80,0:03:32.10,Default,Regular,0,0,0,,I can tell you two ain't used to town yet.
-Dialogue: 10,0:03:32.80,0:03:34.01,Default,Regular,0,0,0,,If you start a guild,
-Dialogue: 10,0:03:34.01,0:03:38.10,Default,Regular,0,0,0,,{\q2}the Guild Association will lend you \Na house to use as your base of operations.
+Dialogue: 10,0:03:32.80,0:03:38.10,Default,Regular,0,0,0,,{\q2}If you start a guild, the Guild Association\Nwill lend ya a house to use as a base.
 Dialogue: 10,0:03:38.10,0:03:41.70,Default,Kokkoro,0,0,0,,Really? I've never heard something so wonderful!
-Dialogue: 10,0:03:41.70,0:03:43.52,Default,Regular,0,0,0,,If you wanna stay in this town,
-Dialogue: 10,0:03:43.52,0:03:46.37,Default,Regular,0,0,0,,you should definitely consider startin' a guild.
-Dialogue: 10,0:03:46.37,0:03:47.19,Default,Owner,0,0,0,,Hey.
+Dialogue: 10,0:03:41.70,0:03:46.37,Default,Regular,0,0,0,,{\q2}If you wanna make it here, \Ndefinitely consider startin' a guild.
+Dialogue: 10,0:03:46.37,0:03:47.19,Default,Owner,0,0,0,,Hey!
 Dialogue: 10,0:03:47.88,0:03:50.86,Default,Owner,0,0,0,,Don't go giving my customers any funny ideas.
-Dialogue: 10,0:03:53.48,0:03:54.59,Default,Regular,0,0,0,,Sorry, man.
+Dialogue: 10,0:03:53.48,0:03:54.59,Default,Regular,0,0,0,,My bad, bro.
 Dialogue: 10,0:03:59.74,0:04:01.80,Default,Kokkoro,0,0,0,,Um, my lord...
-Dialogue: 10,0:04:03.16,0:04:06.98,Default,Kokkoro,0,0,0,,{\q2}Seeing you trying your hardest \Nwhile practising the blade
-Dialogue: 10,0:04:06.98,0:04:09.24,Default,Kokkoro,0,0,0,,made me want to support you.
+Dialogue: 10,0:04:03.16,0:04:09.24,Default,Kokkoro,0,0,0,,{\q2}Seeing you doing your best practising the blade \Nmade me want to support you in some way.
 Dialogue: 10,0:04:11.05,0:04:13.30,Default,Kokkoro,0,0,0,,So I made you this.
 Dialogue: 10,0:04:17.60,0:04:20.55,Default,Kokkoro,0,0,0,,It doesn't serve much purpose, but...
 Dialogue: 10,0:04:21.25,0:04:22.22,Default,Yuuki,0,0,0,,Thanks.
 Dialogue: 10,0:04:23.37,0:04:24.41,Default,Yuuki,0,0,0,,Will do my best!
 Dialogue: 10,0:04:26.75,0:04:27.66,Default,Kokkoro,0,0,0,,I'm glad!
 Dialogue: 10,0:04:42.08,0:04:44.68,Default,Pecorine,0,0,0,,Good morning.
-Dialogue: 10,0:04:52.36,0:04:56.57,Default,Pecorine,0,0,0,,Now, on to look for that sword Father gave me—
+Dialogue: 10,0:04:52.36,0:04:56.57,Default,Pecorine,0,0,0,,Now, on to look for that sword Father gave me!
 Dialogue: 10,0:04:59.72,0:05:02.40,Default,Pecorine,0,0,0,,My stomach's howling...
 Dialogue: 10,0:05:05.41,0:05:07.89,Default,Charlie,0,0,0,,I thought we were goners!
-Dialogue: 10,0:05:07.89,0:05:10.65,Default,Ikacchi,0,0,0,,Can't believe those crows saved us.
+Dialogue: 10,0:05:07.89,0:05:10.65,Default,Ikacchi,0,0,0,,Man, if those crows hadn't saved our behinds...
 Dialogue: 10,0:05:13.32,0:05:14.66,Default,Ikacchi,0,0,0,,I love crows!
 Dialogue: 10,0:05:14.66,0:05:17.13,Default,Charlie,0,0,0,,Me, too! Love crows!
-Dialogue: 10,0:05:17.13,0:05:21.66,Default,Ikacchi,0,0,0,,{\q2}Now, time to go sell that sword \Nand make a pretty penny!
+Dialogue: 10,0:05:17.13,0:05:21.66,Default,Ikacchi,0,0,0,,{\q2}Now, let's go sell that sword \Nand make a pretty penny!
 Dialogue: 10,0:05:21.66,0:05:22.67,Default,Charlie,0,0,0,,Yeah, yeah!
-Dialogue: 10,0:05:24.57,0:05:28.28,Default,Kokkoro,0,0,0,,I hope we can find a well-paying job.
+Dialogue: 10,0:05:24.57,0:05:28.28,Default,Kokkoro,0,0,0,,I hope we can find ourselves a well-paying job.
 Dialogue: 10,0:05:29.90,0:05:31.29,Default,Boy,0,0,0,,Wow!
 Dialogue: 10,0:05:31.29,0:05:33.15,Default,Man,0,0,0,,Does she have an iron stomach or something?!
 Dialogue: 10,0:05:34.87,0:05:36.26,Default,Pecorine,0,0,0,,Delish!
@@ -85,7 +82,7 @@ Dialogue: 10,0:05:38.45,0:05:39.52,Default,Kokkoro,0,0,0,,Miss Pecorine?
 Dialogue: 10,0:05:39.52,0:05:42.11,Default,Pecorine,0,0,0,,Oh, if it isn't Kokkoro and Yuuki!
 Dialogue: 10,0:05:42.11,0:05:43.36,Default,Pecorina,0,0,0,,Heya!
 Dialogue: 10,0:05:43.78,0:05:44.99,Default,Yuuki,0,0,0,,Heya.
-Dialogue: 10,0:05:46.67,0:05:50.15,Default,Pecorine,0,0,0,,Thank you for escorting me into town yesterday!
+Dialogue: 10,0:05:46.67,0:05:50.15,Default,Pecorine,0,0,0,,Thank you for escorting me to town yesterday!
 Dialogue: 10,0:05:50.15,0:05:51.98,Default,Pecorine,0,0,0,,A night's rest perked me right back up again!
 Dialogue: 10,0:05:51.98,0:05:53.41,Default,Pecorine,0,0,0,,Rice is the best!
 Dialogue: 10,0:05:54.07,0:05:55.41,Default,Pecorine,0,0,0,,Ain't that crazy?
@@ -107,25 +104,25 @@ Dialogue: 10,0:06:39.11,0:06:42.41,Default,Pecorine,0,0,0,,Yes! One of them has 
 Dialogue: 10,0:06:42.41,0:06:44.75,Default,Pecorine,0,0,0,,and I'm trying to give him his medicine.
 Dialogue: 10,0:06:44.75,0:06:46.25,Default,Kokkoro,0,0,0,,Beriberi?
 Dialogue: 10,0:06:46.79,0:06:49.65,Default,Kokkoro,0,0,0,,He didn't look very sickly to me.
-Dialogue: 10,0:06:56.07,0:06:58.86,Default,Kokkoro,0,0,0,,What are they doing so close to human settlements?
-Dialogue: 10,0:07:00.35,0:07:02.66,Default,Pecorine,0,0,0,,They might hurt some townsfolk.
+Dialogue: 10,0:06:56.07,0:06:58.86,Default,Kokkoro,0,0,0,,What is it doing so close to human settlements?
+Dialogue: 10,0:07:00.35,0:07:02.66,Default,Pecorine,0,0,0,,It might hurt some townsfolk.
 Dialogue: 10,0:07:02.66,0:07:04.10,Default,Pecorine,0,0,0,,Leave this to me!
 Dialogue: 10,0:07:04.10,0:07:05.27,Default,Kokkoro,0,0,0,,Miss Pecorine...
-Dialogue: 10,0:07:05.93,0:07:09.87,Default,Pecorine,0,0,0,,{\q2}I had a hearty breakfast, so I have \Na hundred times the energy now!
+Dialogue: 10,0:07:05.93,0:07:09.87,Default,Pecorine,0,0,0,,{\q2}I had a hearty breakfast, \Nso I have a hundred times the energy now!
 Dialogue: 10,0:07:18.38,0:07:20.15,Default,Karyl,0,0,0,,Ugh, sloppy.
-Dialogue: 10,0:07:20.82,0:07:22.88,Default,Karyl,0,0,0,,Let me help you out.
-Dialogue: 10,0:07:33.30,0:07:36.63,Default,Pecorine,0,0,0,,I will protect this town!
+Dialogue: 10,0:07:20.82,0:07:22.88,Default,Karyl,0,0,0,,I'll help you, so bring me results!
+Dialogue: 10,0:07:33.30,0:07:36.63,Default,Pecorine,0,0,0,,You're not attacking this town on my watch!
 Dialogue: 10,0:07:43.90,0:07:45.58,Default,Kokkoro,0,0,0,,That was impressive.
 Dialogue: 10,0:07:45.58,0:07:48.51,Default,Kokkoro,0,0,0,,{\q2}I never would have thought \Nyou could beat them bare-handed.
-Dialogue: 10,0:07:48.51,0:07:52.20,Default,Pecorine,0,0,0,,It would've been a bit easier if I had a sword, though.
+Dialogue: 10,0:07:48.51,0:07:52.20,Default,Pecorine,0,0,0,,It would've been a bit easier if I had my sword, though.
 Dialogue: 10,0:08:01.08,0:08:02.21,Default,Kokkoro,0,0,0,,Who is this?
 Dialogue: 10,0:08:05.16,0:08:07.34,Default,Kokkoro,0,0,0,,First you simmer, simmer,
 Dialogue: 10,0:08:07.34,0:08:09.24,Default,Kokkoro,0,0,0,,then boil up hot, hot.
 Dialogue: 10,0:08:09.93,0:08:12.10,Default,Kokkoro,0,0,0,,Keep that rice snug...
-Dialogue: 10,0:08:12.10,0:08:14.35,Default,Pecorine,0,0,0,,Oh, she's awake!
+Dialogue: 10,0:08:12.10,0:08:14.35,Default,Pecorine,0,0,0,,Oh, she's awake, guys!
 Dialogue: 10,0:08:17.83,0:08:20.58,Default,Pecorine,0,0,0,,{\q2}How are you feeling? \NYou're not hurt, are you?
-Dialogue: 10,0:08:20.58,0:08:22.64,Default,Pecorine,0,0,0,,You aren't unwell, I hope!
-Dialogue: 10,0:08:22.64,0:08:24.48,Default,Karyl,0,0,0,,G-Get out of my f-face!
+Dialogue: 10,0:08:20.58,0:08:22.64,Default,Pecorine,0,0,0,,Not feeling lightheaded or anything, right?!
+Dialogue: 10,0:08:22.64,0:08:24.48,Default,Karyl,0,0,0,,G-Get out of my face!
 Dialogue: 10,0:08:24.97,0:08:26.35,Default,Kokkoro,0,0,0,,Thank goodness.
 Dialogue: 10,0:08:26.35,0:08:29.73,Default,Kokkoro,0,0,0,,She doesn't appear to be injured.
 Dialogue: 10,0:08:29.73,0:08:30.48,Default,Yuuki,0,0,0,,Mhm.
@@ -133,46 +130,46 @@ Dialogue: 10,0:08:31.03,0:08:32.36,Default,Karyl,0,0,0,,And you are?
 Dialogue: 10,0:08:32.36,0:08:35.01,Default,Kokkoro,0,0,0,,My name is Kokkoro.
 Dialogue: 10,0:08:35.01,0:08:37.24,Default,Kokkoro,0,0,0,,This is my lord, Yuuki,
 Dialogue: 10,0:08:37.69,0:08:40.26,Default,Kokkoro,0,0,0,,and that is Miss Pecorine.
-Dialogue: 10,0:08:40.26,0:08:41.62,Default,Karyl,0,0,0,,Pecorine?
+Dialogue: 10,0:08:40.26,0:08:41.62,Default,Karyl,0,0,0,,"Pecorine"?
 Dialogue: 10,0:08:42.09,0:08:44.17,Default,Kokkoro,0,0,0,,After that monster attacked,
 Dialogue: 10,0:08:44.17,0:08:47.33,Default,Kokkoro,0,0,0,,we found you unconscious nearby.
 Dialogue: 10,0:08:47.33,0:08:49.65,Default,Pecorine,0,0,0,,You've gotta be hungry, right?
 Dialogue: 10,0:08:49.65,0:08:51.81,Default,Pecorine,0,0,0,,We just finished cooking! It's super tasty!
 Dialogue: 10,0:08:52.76,0:08:54.29,Default,Karyl,0,0,0,,Ow! Hot!
-Dialogue: 10,0:08:54.29,0:08:59.22,Default,Karyl,0,0,0,,{\q2}Hey! What's your problem? \NWhy would you shove hot food in my face?!
-Dialogue: 10,0:08:59.60,0:09:01.37,Default,Pecorine,0,0,0,,Oh, I'm sorry!
+Dialogue: 10,0:08:54.29,0:08:59.22,Default,Karyl,0,0,0,,{\q2}Hey! What's your problem? \NWho shoves piping hot food in someone's face?!
+Dialogue: 10,0:08:59.60,0:09:01.37,Default,Pecorine,0,0,0,,Oh, I'm so sorry!
 Dialogue: 10,0:09:04.44,0:09:05.39,Default,Pecorine,0,0,0,,Here.
 Dialogue: 10,0:09:05.39,0:09:06.88,Default,Karyl,0,0,0,,Ow! Still hot!
-Dialogue: 10,0:09:06.88,0:09:08.03,Default,Karyl,0,0,0,,I don't want that crap!
+Dialogue: 10,0:09:06.88,0:09:08.03,Default,Karyl,0,0,0,,I don't want your crap!
 Dialogue: 10,0:09:09.96,0:09:13.43,Default,Karyl,0,0,0,,I can't eat hot food, so stop force-feeding me!
-Dialogue: 10,0:09:18.14,0:09:21.28,Default,Karyl,0,0,0,,I'm okay. I don't need your help.
-Dialogue: 10,0:09:22.23,0:09:24.10,Default,Karyl,0,0,0,,I have no reason to thank you.
-Dialogue: 10,0:09:24.10,0:09:26.70,Default,Karyl,0,0,0,,No one asked you to do any of that.
+Dialogue: 10,0:09:18.14,0:09:21.28,Default,Karyl,0,0,0,,{\q2}I can get up on my own. \NI don't need your help.
+Dialogue: 10,0:09:22.23,0:09:24.10,Default,Karyl,0,0,0,,There's no way I'm thanking you.
+Dialogue: 10,0:09:24.10,0:09:26.70,Default,Karyl,0,0,0,,I never asked for your help.
 Dialogue: 10,0:09:31.18,0:09:32.15,Default,Pecorine,0,0,0,,Owwie.
-Dialogue: 10,0:09:33.18,0:09:35.80,Default,Karyl,0,0,0,,What in the world am I doing? I totally blew it!
-Dialogue: 10,0:09:36.49,0:09:39.41,Default,Karyl,0,0,0,,{\q2}I can't believe my target \Nnursed me back to health!
-Dialogue: 10,0:09:39.41,0:09:42.60,Default,Karyl,0,0,0,,{\q2}And what the hell is going on? \NWhy is she calling herself "Pecorine"?
-Dialogue: 10,0:09:42.60,0:09:45.56,Default,Karyl,0,0,0,,Was that some sick joke?! Her name is...
+Dialogue: 10,0:09:33.18,0:09:35.80,Default,Karyl,0,0,0,,What is wrong with me?! I totally blew it!
+Dialogue: 10,0:09:36.49,0:09:39.41,Default,Karyl,0,0,0,,{\q2}I can't believe my {\i1}target{\i0} \Nnursed me back to health!
+Dialogue: 10,0:09:39.41,0:09:42.60,Default,Karyl,0,0,0,,{\q2}And what the hell is she playing at? \NWhy is she calling herself "Pecorine"?
+Dialogue: 10,0:09:42.60,0:09:45.56,Default,Karyl,0,0,0,,{\q2}Is she pulling my leg?! \NHer name isn't Pecorine, but...
 Dialogue: 10,0:09:49.60,0:09:51.95,Default,Karyl,0,0,0,,If {\i1}she{\i0} were to find out about this...
 Dialogue: 10,0:09:55.70,0:09:57.98,Default,Karyl,0,0,0,,I {\i1}will{\i0} destroy her next time.
 Dialogue: 10,0:09:57.98,0:09:59.47,Default,Karyl,0,0,0,,For {\i1}her{\i0} sake.
-Dialogue: 10,0:10:00.98,0:10:03.60,Default,Karyl,0,0,0,,"Pecorine", was it?
-Dialogue: 10,0:10:03.60,0:10:06.87,Default,Karyl,0,0,0,,So it's true that she's lost her sword.
-Dialogue: 10,0:10:06.87,0:10:10.38,Default,Karyl,0,0,0,,I thought that sword was special to her.
-Dialogue: 10,0:10:11.58,0:10:14.93,Default,Karyl,0,0,0,,{\q2}She didn't have it during the attack \Nin the ruins yesterday, either.
+Dialogue: 10,0:10:00.98,0:10:03.60,Default,Karyl,0,0,0,,"Pecorine", I think she said?
+Dialogue: 10,0:10:03.60,0:10:06.87,Default,Karyl,0,0,0,,So she really did lose her sword.
+Dialogue: 10,0:10:06.87,0:10:10.38,Default,Karyl,0,0,0,,I thought it was special to her or something.
+Dialogue: 10,0:10:11.58,0:10:14.93,Default,Karyl,0,0,0,,{\q2}She didn't have it when I attacked her \Nat those ruins yesterday, either.
 Dialogue: 10,0:10:14.93,0:10:17.43,Default,Karyl,0,0,0,,And with that last fight, I'm sure of it now!
-Dialogue: 10,0:10:17.43,0:10:19.03,Default,Karyl,0,0,0,,A better chance won't come by!
-Dialogue: 10,0:10:19.03,0:10:20.59,Default,Charlie,0,0,0,,Damn it!
+Dialogue: 10,0:10:17.43,0:10:19.03,Default,Karyl,0,0,0,,I won't get a better chance!
+Dialogue: 10,0:10:19.03,0:10:20.59,Default,Charlie,0,0,0,,Goddamn!
 Dialogue: 10,0:10:21.01,0:10:24.26,Default,Ikacchi,0,0,0,,I never expected to see that chick in Landosol.
-Dialogue: 10,0:10:25.48,0:10:28.27,Default,Charlie,0,0,0,,I thought we were gonna have us a party night.
+Dialogue: 10,0:10:25.48,0:10:28.27,Default,Charlie,0,0,0,,{\q2}And here I thought we were gonna \Nhave ourselves a party night!
 Dialogue: 10,0:10:29.42,0:10:30.61,Default,Karyl,0,0,0,,{\i1}Isn't that...?
-Dialogue: 10,0:10:30.61,0:10:32.98,Default,Ikacchi,0,0,0,,Well, let's get outta here before she sees us.
-Dialogue: 10,0:10:33.40,0:10:35.00,Default,Charlie,0,0,0,,You got it, Bro.
+Dialogue: 10,0:10:30.61,0:10:32.98,Default,Ikacchi,0,0,0,,Let's get outta here before she finds us again!
+Dialogue: 10,0:10:33.40,0:10:35.00,Default,Charlie,0,0,0,,Loud and clear, Bro.
 Dialogue: 10,0:10:35.48,0:10:36.94,Default,Ikacchi,0,0,0,,Y'know, Charlie...
-Dialogue: 10,0:10:36.94,0:10:38.32,Default,Charlie,0,0,0,,Yo. I'm Charlie.
+Dialogue: 10,0:10:36.94,0:10:38.32,Default,Charlie,0,0,0,,Yo, das ya boi.
 Dialogue: 10,0:10:38.32,0:10:39.98,Default,Ikacchi,0,0,0,,I was in this weird town the other day.
 Dialogue: 10,0:10:39.98,0:10:40.79,Default,Charlie,0,0,0,,Uh-huh?
-Dialogue: 10,0:10:40.79,0:10:43.36,Default,Ikacchi,0,0,0,,{\q2}This old lady tried to sell me \Ndetergent outta nowhere.
+Dialogue: 10,0:10:40.79,0:10:43.36,Default,Ikacchi,0,0,0,,{\q2}And this old hag tried to sell me \Ndetergent outta nowhere.
 Dialogue: 10,0:10:43.36,0:10:44.35,Default,Charlie,0,0,0,,Uh-huh?
 Dialogue: 10,0:10:45.39,0:10:48.25,Default,Ikacchi,0,0,0,,Wait, what's goin' on? Is it about to rain?
 Dialogue: 10,0:10:53.88,0:10:56.42,Default,Karyl,0,0,0,,A dragon? This close to the capital?!
@@ -184,31 +181,31 @@ Dialogue: 10,0:11:18.22,0:11:19.29,Default,Kokkoro,0,0,0,,You're...
 Dialogue: 10,0:11:19.29,0:11:20.65,Default,Pecorine,0,0,0,,The girl who can't eat hot food!
 Dialogue: 10,0:11:20.65,0:11:21.98,Default,Karyl,0,0,0,,Shut up!
 Dialogue: 10,0:11:21.98,0:11:24.74,Default,Karyl,0,0,0,,I have a name, y'know! It's Karyl!
-Dialogue: 10,0:11:24.74,0:11:26.49,Default,Karyl,0,0,0,,Don't go randomly describing me!
+Dialogue: 10,0:11:24.74,0:11:26.49,Default,Karyl,0,0,0,,You can keep the labels to yourself!
 Dialogue: 10,0:11:26.49,0:11:27.79,Default,Pecorine,0,0,0,,Karyl?
 Dialogue: 10,0:11:28.67,0:11:31.16,Default,Pecorine,0,0,0,,Karyl! That's such a cute name!
 Dialogue: 10,0:11:31.16,0:11:32.24,Default,Pecorine,0,0,0,,That's crazy!
 Dialogue: 10,0:11:32.24,0:11:33.86,Default,Karyl,0,0,0,,It's {\i1}not{\i0} crazy!
-Dialogue: 10,0:11:33.86,0:11:37.30,Default,Karyl,0,0,0,,Calling someone's name crazy is rude, y'know!
-Dialogue: 10,0:11:40.17,0:11:43.74,Default,Karyl,0,0,0,,{\q2}That aside, it looked like you guys \Nwere having some problems.
+Dialogue: 10,0:11:33.86,0:11:37.30,Default,Karyl,0,0,0,,Calling someone's name crazy is rude! {\i1}Rude{\i0}!
+Dialogue: 10,0:11:40.17,0:11:43.74,Default,Karyl,0,0,0,,{\q2}That aside, it looked like you guys \Nwere having some trouble.
 Dialogue: 10,0:11:43.74,0:11:46.91,Default,Karyl,0,0,0,,Since you {\i1}were{\i0} nice to me before,
 Dialogue: 10,0:11:46.91,0:11:50.02,Default,Karyl,0,0,0,,I figured I'd help you out if you need it.
 Dialogue: 10,0:11:50.02,0:11:51.78,Default,Pecorine,0,0,0,,Really?!
-Dialogue: 10,0:11:51.78,0:11:55.60,Default,Pecorine,0,0,0,,{\q2}Well, I want to give this medicine \Nto the man with beriberi.
-Dialogue: 10,0:11:55.60,0:11:57.61,Default,Kokkoro,0,0,0,,But we don't know where he is.
+Dialogue: 10,0:11:51.78,0:11:55.60,Default,Pecorine,0,0,0,,{\q2}Well, we want to give this medicine \Nto the man with beriberi.
+Dialogue: 10,0:11:55.60,0:11:57.61,Default,Kokkoro,0,0,0,,But we don't know where to find him.
 Dialogue: 10,0:11:59.46,0:12:02.33,Default,Karyl,0,0,0,,Does he have any distinguishing features?
 Dialogue: 10,0:12:02.33,0:12:04.62,Default,Karyl,0,0,0,,{\q2}Y'know, like his looks, \Nor maybe he's carrying something?
 Dialogue: 10,0:12:04.62,0:12:08.37,Default,Pecorine,0,0,0,,{\q2}Well, it's an older man with an afro, \Nand he's with a skinny younger man.
 Dialogue: 10,0:12:08.37,0:12:11.29,Default,Pecorine,0,0,0,,Oh, and they should be carrying a big sword!
 Dialogue: 10,0:12:11.29,0:12:12.71,Default,Karyl,0,0,0,,A big sword, you say?
 Dialogue: 10,0:12:12.99,0:12:14.70,Default,Kokkoro,0,0,0,,Do you know anything about them?
-Dialogue: 10,0:12:15.02,0:12:17.31,Default,Karyl,0,0,0,,I think I might know where to find them.
-Dialogue: 10,0:12:17.31,0:12:19.71,Default,Pecorine,0,0,0,,Really?! Where are they?
+Dialogue: 10,0:12:15.02,0:12:17.31,Default,Karyl,0,0,0,,I have a good idea of where they may be.
+Dialogue: 10,0:12:17.31,0:12:19.71,Default,Pecorine,0,0,0,,You do?! Where?
 Dialogue: 10,0:12:19.71,0:12:22.73,Default,Karyl,0,0,0,,A dragon carried them over that way, sword and all.
 Dialogue: 10,0:12:22.73,0:12:24.41,Default,Both,0,0,0,,A dragon?!
-Dialogue: 10,0:12:24.41,0:12:28.61,Default,Kokkoro,0,0,0,,{\q2}C-Come to think of it, a flyer on \Nthe Guild Association bulletin board said
-Dialogue: 10,0:12:29.31,0:12:32.53,Default,Kokkoro,0,0,0,,that the dragon is attracted to riches
-Dialogue: 10,0:12:32.53,0:12:36.48,Default,Kokkoro,0,0,0,,and has been seen around Landosol recently.
+Dialogue: 10,0:12:24.41,0:12:28.61,Default,Kokkoro,0,0,0,,{\q2}C-Come to think of it, a flyer on \Nthe Guild Association bulletin board
+Dialogue: 10,0:12:29.31,0:12:32.53,Default,Kokkoro,0,0,0,,said that the dragon is attracted to riches
+Dialogue: 10,0:12:32.53,0:12:36.48,Default,Kokkoro,0,0,0,,and has been sighted around Landosol recently.
 Dialogue: 10,0:12:36.88,0:12:38.36,Default,Karyl,0,0,0,,I see.
 Dialogue: 10,0:12:38.36,0:12:41.58,Default,Karyl,0,0,0,,It probably fancied their sword or something.
 Dialogue: 10,0:12:41.58,0:12:45.99,Default,Pecorine,0,0,0,,{\q2}This is awful! They got into trouble because \Nthey're looking after my sword for me!
@@ -216,11 +213,11 @@ Dialogue: 10,0:12:45.99,0:12:50.21,Default,Kokkoro,0,0,0,,What? That sword is yo
 Dialogue: 10,0:12:50.21,0:12:53.08,Default,Pecorine,0,0,0,,Yes! My father gave it to me.
 Dialogue: 10,0:12:54.06,0:12:56.57,Default,Kokkoro,0,0,0,,{\q2}I have a feeling things may be \Nmore twisted than you realise...
 Dialogue: 10,0:12:56.57,0:12:59.43,Default,Karyl,0,0,0,,Boy, you guys sure lucked out.
-Dialogue: 10,0:12:59.43,0:13:02.09,Default,Karyl,0,0,0,,I know exactly where to find them.
-Dialogue: 10,0:13:02.09,0:13:03.78,Default,Pecorine,0,0,0,,Really, Karyl?!
+Dialogue: 10,0:12:59.43,0:13:02.09,Default,Karyl,0,0,0,,I know {\i1}exactly{\i0} where to find them.
+Dialogue: 10,0:13:02.09,0:13:03.78,Default,Pecorine,0,0,0,,You do, Karyl?!
 Dialogue: 10,0:13:03.78,0:13:06.30,Default,Pecorine,0,0,0,,I love you! Thank you!
 Dialogue: 10,0:13:06.30,0:13:10.28,Default,Karyl,0,0,0,,Hey! Get off me!
-Dialogue: 10,0:13:14.06,0:13:15.07,Default,Karyl,0,0,0,,This is the place.
+Dialogue: 10,0:13:14.06,0:13:15.07,Default,Karyl,0,0,0,,There they are.
 Dialogue: 10,0:13:21.87,0:13:24.16,Default,Kokkoro,0,0,0,,I-It certainly is large.
 Dialogue: 10,0:13:24.16,0:13:26.58,Default,Pecorine,0,0,0,,That's my sword! I'm sure of it!
 Dialogue: 10,0:13:26.58,0:13:28.84,Default,Karyl,0,0,0,,And this is as far as I go.
@@ -230,10 +227,10 @@ Dialogue: 10,0:13:38.39,0:13:41.73,Default,Karyl,0,0,0,,I-I'll wait for you some
 Dialogue: 10,0:13:46.09,0:13:49.11,Default,Kokkoro,0,0,0,,It's holding the sword securely in its mouth.
 Dialogue: 10,0:13:54.22,0:13:56.71,Default,Ikacchi,0,0,0,,Mama!
 Dialogue: 10,0:13:56.71,0:13:59.31,Default,Charlie,0,0,0,,Papa!
-Dialogue: 10,0:14:05.90,0:14:07.29,Default,Ikacchi,0,0,0,,What's that lad doing?
+Dialogue: 10,0:14:05.90,0:14:07.29,Default,Ikacchi,0,0,0,,What's that chap doing?
 Dialogue: 10,0:14:07.29,0:14:08.57,Default,Charlie,0,0,0,,Oh...
-Dialogue: 10,0:14:12.33,0:14:14.67,Default,Pecorine,0,0,0,,Hang in there just a bit longer, okay?
-Dialogue: 10,0:14:14.67,0:14:17.08,Default,Ikacchi,0,0,0,,Y-You're gonna save us?
+Dialogue: 10,0:14:12.33,0:14:14.67,Default,Pecorine,0,0,0,,We'll save you soon, okay?
+Dialogue: 10,0:14:14.67,0:14:17.08,Default,Ikacchi,0,0,0,,Y-You will?
 Dialogue: 10,0:14:19.71,0:14:22.09,Default,Charlie,0,0,0,,We're counting on you, loony boy!
 Dialogue: 10,0:14:32.35,0:14:34.79,Default,Both,0,0,0,,It ate him!
 Dialogue: 10,0:14:37.57,0:14:39.10,Default,Kokkoro,0,0,0,,Grant us the blessing of the gods!
@@ -241,11 +238,11 @@ Dialogue: 10,0:14:39.86,0:14:41.11,Default,Kokkoro,0,0,0,,This is so reckless,
 Dialogue: 10,0:14:41.11,0:14:44.86,Default,Kokkoro,0,0,0,,{\q2}but my lord proposed this plan \Nbecause he has faith in me.
 Dialogue: 10,0:14:45.36,0:14:48.86,Default,Kokkoro,0,0,0,,I will support him with everything I have!
 Dialogue: 10,0:14:58.96,0:15:00.51,Default,Pecorine,0,0,0,,Thanks for being bait, Yuuki!
-Dialogue: 10,0:15:00.51,0:15:02.14,Default,Pecorine,0,0,0,,I'm coming to save you right now!
+Dialogue: 10,0:15:00.51,0:15:02.14,Default,Pecorine,0,0,0,,I'm coming for you right now!
 Dialogue: 10,0:15:07.17,0:15:08.92,Default,Karyl,0,0,0,,You fell for it splendidly, Pecorine.
-Dialogue: 10,0:15:09.73,0:15:13.39,Default,Karyl,0,0,0,,{\q2}I will crush you with \Nthe power of my Princess Knight:
+Dialogue: 10,0:15:09.73,0:15:13.39,Default,Karyl,0,0,0,,{\q2}Now I will crush you with \Nthe power of my Princess Knight:
 Dialogue: 10,0:15:15.48,0:15:17.67,Default,Karyl,0,0,0,,The ability to manipulate monsters!
-Dialogue: 10,0:15:17.99,0:15:20.48,Default,Ikacchi,0,0,0,,{\t(1864,2472,\alpha&HFF&)}Now, finish her!
+Dialogue: 10,0:15:17.99,0:15:20.48,Default,Ikacchi,0,0,0,,{\t(1864,2472,\alpha&HFF&)}Go! Kick her ass!
 Dialogue: 10,0:15:29.03,0:15:31.18,Default,Kokkoro,0,0,0,,Miss Pecorine!
 Dialogue: 10,0:15:32.91,0:15:34.59,Default,Karyl,0,0,0,,Yes, just like that!
 Dialogue: 10,0:15:34.59,0:15:36.04,Default,Karyl,0,0,0,,Keep it up!
@@ -253,7 +250,7 @@ Dialogue: 10,0:15:46.40,0:15:48.72,Default,Kokkoro,0,0,0,,My lord! Miss Pecorine
 Dialogue: 10,0:15:59.85,0:16:01.90,Default,Ikacchi,0,0,0,,Ow, ow, ow, ow, ow!
 Dialogue: 10,0:16:01.90,0:16:03.03,Default,Charlie,0,0,0,,It's a miracle!
 Dialogue: 10,0:16:03.03,0:16:04.69,Default,Pecorine,0,0,0,,Oh, heya!
-Dialogue: 10,0:16:04.69,0:16:06.65,Default,Pecorine,0,0,0,,I just grabbed at whatever I could!
+Dialogue: 10,0:16:04.69,0:16:06.65,Default,Pecorine,0,0,0,,Sorry, I just grabbed at whatever I could!
 Dialogue: 10,0:16:06.65,0:16:08.85,Default,Pecorine,0,0,0,,I'm so sorry! I hope it doesn't hurt too much!
 Dialogue: 10,0:16:08.85,0:16:12.86,Default,Ikacchi,0,0,0,,I'm fine! Have a little faith in my roots!
 Dialogue: 10,0:16:12.86,0:16:13.87,Default,Pecorine,0,0,0,,Okay!
@@ -261,7 +258,7 @@ Dialogue: 10,0:16:17.62,0:16:20.51,Default,Karyl,0,0,0,,{\q2}You just don't give
 Dialogue: 10,0:16:21.35,0:16:24.53,Default,Ikacchi,0,0,0,,Ow, ow, ow, ow, ow!
 Dialogue: 10,0:16:27.69,0:16:28.50,Default,Karyl,0,0,0,,And {\i1}down{\i0}!
 Dialogue: 10,0:16:31.37,0:16:35.04,Default,Ikacchi,0,0,0,,My roots!
-Dialogue: 10,0:16:33.52,0:16:35.30,Alt,Charlie,0,0,0,,Bro!
+Dialogue: 10,0:16:33.52,0:16:35.06,Alt,Charlie,0,0,0,,Bro!
 Dialogue: 10,0:16:37.07,0:16:39.64,Default,Karyl,0,0,0,,Now she'll finally acknowledge my talents!
 Dialogue: 10,0:16:40.30,0:16:42.02,Default,Karyl,0,0,0,,She'll praise me!
 Dialogue: 10,0:16:46.85,0:16:48.57,Default,Yuuki,0,0,0,,Peco!
@@ -274,7 +271,7 @@ Dialogue: 10,0:17:56.11,0:17:57.68,Default,Karyl,0,0,0,,You... got the...
 Dialogue: 10,0:17:58.36,0:18:00.80,Default,Pecorine,0,0,0,,Yes, I finally got it back!
 Dialogue: 10,0:18:08.02,0:18:10.19,Default,Kokkoro,0,0,0,,M-My lord!
 Dialogue: 10,0:18:15.15,0:18:18.11,Default,Pecorine,0,0,0,,{\q2}Yup! Nothing quite beats a sword \Nyou can call your own!
-Dialogue: 10,0:18:22.48,0:18:24.93,Default,Pecorine,0,0,0,,Full power! Full throttle!
+Dialogue: 10,0:18:22.48,0:18:24.93,Default,Pecorine,0,0,0,,Full power! Full throttle! {### wanna do some fx for this later}
 Dialogue: 10,0:18:25.76,0:18:29.88,Default,Pecorine,0,0,0,,Princess Strike!
 Dialogue: 10,0:18:48.53,0:18:50.76,Default,Ikacchi,0,0,0,,Thank you! Thank you so much!
 Dialogue: 10,0:18:50.76,0:18:53.35,Default,Charlie,0,0,0,,Seriously! We can't thank you enough!
