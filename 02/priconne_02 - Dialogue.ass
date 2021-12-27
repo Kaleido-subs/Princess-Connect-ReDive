@@ -23,13 +23,19 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:15.91,0:00:17.89,Default,Karyl,0,0,0,,You're not joining them?
-Dialogue: 10,0:00:19.51,0:00:22.12,Default,Karyl,0,0,0,,Yeah, good call. Who needs friends anyway?
-Dialogue: 10,0:00:22.80,0:00:25.22,Default,Karyl,0,0,0,,Being all alone is way easier.
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
+Comment: 0,0:00:38.02,0:00:38.02,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:00:40.02,0:00:40.02,Default,,0,0,0,opsync,{OP sync — second cut}
+Comment: 0,0:02:07.98,0:02:07.98,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:10:00.00,0:10:00.00,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:22:05.01,0:22:05.01,Default,chapter,0,0,0,,{ED}
+Comment: 0,0:23:04.03,0:23:04.03,Default,,0,0,0,edsync,{ED sync — second cut}
+Comment: 0,0:23:35.02,0:23:35.02,Default,chapter,0,0,0,,{Preview}
+Dialogue: 10,0:00:15.91,0:00:17.89,Default,Karyl,0,0,0,,You're not gonna join them?
+Dialogue: 10,0:00:19.51,0:00:22.12,Default,Karyl,0,0,0,,Yeah, good call. Friends are overrated anyway.
+Dialogue: 10,0:00:22.80,0:00:25.22,Default,Karyl,0,0,0,,Being alone is way easier.
 Dialogue: 10,0:00:30.35,0:00:31.65,Default,Karyl,0,0,0,,I'd better get going.
-Dialogue: 10,0:00:32.60,0:00:34.51,Default,Karyl,0,0,0,,There's something I must do.
-Comment: 0,0:00:38.01,0:00:43.01,Default,,0,0,0,,{OP}
-Comment: 0,0:02:07.98,0:02:12.98,Default,,0,0,0,,{PART A}
+Dialogue: 10,0:00:32.60,0:00:34.51,Default,Karyl,0,0,0,,I have something I {\i1}need{\i0} to do.
 Dialogue: 10,0:02:11.95,0:02:14.73,Default,Kokkoro,0,0,0,,They've prepared breakfast for us, my lord.
 Dialogue: 10,0:02:16.95,0:02:18.85,Default,Kokkoro,0,0,0,,Where could he have gone?
 Dialogue: 10,0:02:36.95,0:02:38.68,Default,Kokkoro,0,0,0,,M-My lord!
@@ -214,7 +220,6 @@ Dialogue: 10,0:12:59.43,0:13:02.09,Default,Karyl,0,0,0,,I know where they are.
 Dialogue: 10,0:13:02.09,0:13:03.78,Default,Pecorine,0,0,0,,Really, Karyl?!
 Dialogue: 10,0:13:03.78,0:13:06.30,Default,Pecorine,0,0,0,,I love you! Thank you!
 Dialogue: 10,0:13:06.30,0:13:10.28,Default,Karyl,0,0,0,,Hey! Get off me!
-Comment: 0,0:13:10.97,0:13:15.97,Default,,0,0,0,,{PART B}
 Dialogue: 10,0:13:14.06,0:13:15.07,Default,Karyl,0,0,0,,This is it.
 Dialogue: 10,0:13:21.87,0:13:24.16,Default,Kokkoro,0,0,0,,I-It's certainly big.
 Dialogue: 10,0:13:24.16,0:13:26.58,Default,Pecorine,0,0,0,,That's my sword, for sure!
@@ -321,6 +326,3 @@ Dialogue: 10,0:21:26.27,0:21:28.48,Default,Karyl,0,0,0,,What in the world am I d
 Dialogue: 10,0:21:35.23,0:21:38.28,Default,Karyl,0,0,0,,If I keep this up, she's going to...
 Dialogue: 10,0:21:52.40,0:21:53.64,Default,Karyl,0,0,0,,Who needs friends anyway?
 Dialogue: 10,0:22:02.85,0:22:04.00,Default,Karyl,0,0,0,,Delicious.
-Comment: 0,0:22:05.01,0:22:10.01,Default,,0,0,0,,{ED}
-Comment: 0,0:23:35.01,0:23:40.01,Default,,0,0,0,,{PREV}
-Comment: 0,0:00:38.01,0:00:43.01,OP1 - ENG,,0,0,0,,{OP}
