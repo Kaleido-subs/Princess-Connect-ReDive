@@ -14,7 +14,6 @@ Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
 Audio File: priconne_03.mkv
 Video File: priconne_03.mkv
-Keyframes File: priconne_03_keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -224,7 +223,7 @@ Dialogue: 10,0:13:18.65,0:13:20.69,Default,Pecorine,0,0,0,,Hello to you, too!
 Dialogue: 10,0:13:20.69,0:13:22.90,Default,Pecorine,0,0,0,,Help yourselves to any open table!
 Dialogue: 10,0:13:22.90,0:13:24.65,Default,Three,0,0,0,,Th-Thanks!
 Dialogue: 10,0:13:28.28,0:13:29.99,Default,Kyoka,0,0,0,,Stop it, you two!
-Dialogue: 10,0:13:29.99,0:13:32.41,Default,Both,0,1500,0,,Aw, but it's fun.
+Dialogue: 10,0:13:29.99,0:13:32.41,Default,Both,0,1500,0,,{\q2}Aw, but it's fun.
 Dialogue: 10,0:13:29.99,0:13:32.41,Default,Both,0,400,0,,Aw, but it's fun.
 Dialogue: 10,0:13:32.41,0:13:34.75,Default,Mimi,0,0,0,,You should try it, Kyouka.
 Dialogue: 10,0:13:36.50,0:13:38.50,Default,Kyoka,0,0,0,,I'm gonna tell your mom, Mimi.
