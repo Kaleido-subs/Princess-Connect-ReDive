@@ -4,10 +4,10 @@
 ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 1080
+Timer: 0.0000
 WrapStyle: 0
-PlayDepth: 0
-ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)

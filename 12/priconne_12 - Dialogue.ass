@@ -5,7 +5,7 @@ ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 1080
 Timer: 0.0000
-WrapStyle: 2
+WrapStyle: 0
 YCbCr Matrix: TV.709
 ScaledBorderAndShadow: yes
 
