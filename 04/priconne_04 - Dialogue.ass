@@ -43,14 +43,14 @@ Dialogue: 10,0:00:22.89,0:00:24.06,Default,Pecorine,0,0,0,,Right here, right now
 Dialogue: 10,0:00:32.32,0:00:33.47,Default,Kokkoro,0,0,0,,Cough.
 Dialogue: 10,0:00:37.36,0:00:39.01,Default,Karyl,0,0,0,,Bugs!
 Dialogue: 10,0:02:10.06,0:02:11.23,Default,Karyl,0,0,0,,Gather 'round, people!
-Dialogue: 10,0:02:11.23,0:02:14.77,Default,Karyl,0,0,0,,{\q2}Excuse me, but what the {\i1}hell{\i0}?! \NIs this some haunted mansion or something?
+Dialogue: 10,0:02:11.23,0:02:14.77,Default,Karyl,0,0,0,,{\q2}Excuse me, but what the {\i1}hell{\i0}?! \NIs this a haunted mansion or something?
 Dialogue: 10,0:02:14.77,0:02:16.24,Default,Karin,0,0,0,,My deepest apologies.
 Dialogue: 10,0:02:16.24,0:02:19.87,Default,Karin,0,0,0,,{\q2}We're a bit short on guild houses \Nto lend out at the moment.
 Dialogue: 10,0:02:20.22,0:02:24.74,Default,Karyl,0,0,0,,{\q2}Maybe not people, but what about those snakes \Nand centipede-looking things in there?!
 Dialogue: 10,0:02:27.57,0:02:30.34,Default,Karyl,0,0,0,,{\q2}This house wasn't the site of some \Nfreak accident or something, right?
 Dialogue: 10,0:02:30.34,0:02:32.80,Default,Karin,0,0,0,,You need not worry about things like that.
 Dialogue: 10,0:02:32.80,0:02:34.08,Default,Karin,0,0,0,,It's just that
-Dialogue: 10,0:02:34.08,0:02:36.85,Default,Karin,0,0,0,,{\fs41\bord2\t(\fs40\shad0.4\bord1.6\c&HFFFFFF&\1a&H28&\3c&H000000&\3a&H28&\4c&H000000&\4a&HC8&)}this {\i1}might{\i0} be the home of ghosts and other spectres...
+Dialogue: 10,0:02:34.08,0:02:36.85,Default,Karin,0,0,0,,{\fscx70\fscy70\bord2\t(\fscx68\fscy65)}this {\i1}might{\i0} be the home of ghosts and other spectres...
 Dialogue: 10,0:02:36.85,0:02:39.81,Default,Karyl,0,0,0,,Hold on! I could've sworn I heard "ghosts" there!
 Dialogue: 10,0:02:39.81,0:02:41.72,Default,Pecorine,0,0,0,,Nothing to worry about, Karyl.
 Dialogue: 10,0:02:41.72,0:02:44.71,Default,Pecorine,0,0,0,,{\q2}I'm sure they'd be more than happy \Nto join us for dinner!
@@ -75,7 +75,7 @@ Dialogue: 10,0:03:43.21,0:03:46.75,Default,Kokkoro,0,0,0,,Splish, splash, splish
 Dialogue: 10,0:03:45.48,0:03:46.75,Alt,Pecorine,0,0,0,,There we go!
 Dialogue: 10,0:03:49.00,0:03:51.49,Default,Pecorine,0,0,0,,I think that was the last thing still inside.
 Dialogue: 10,0:03:51.49,0:03:52.44,Default,Yuuki,0,0,0,,Mhm!
-Dialogue: 10,0:03:52.44,0:03:56.54,Default,Pecorine,0,0,0,,The dresser, sofa... I'm not missing anything, am I?
+Dialogue: 10,0:03:52.44,0:03:56.54,Default,Pecorine,0,0,0,,Dresser, sofa... I'm not missing anything, am I?
 Dialogue: 10,0:04:02.38,0:04:03.77,Default,Kokkoro,0,0,0,,What's the matter?
 Dialogue: 10,0:04:03.77,0:04:05.94,Default,Pecorine,0,0,0,,This is an emergency, Kokkoro!
 Dialogue: 10,0:04:05.94,0:04:08.67,Default,Pecorine,0,0,0,,This house has a major flaw!
@@ -222,7 +222,7 @@ Dialogue: 10,0:07:27.96,0:07:28.05,Default,Suzume,0,0,0,,{\an1\pos(-180,1024)\q2
 Dialogue: 10,0:07:28.05,0:07:28.09,Default,Suzume,0,0,0,,{\an1\pos(-180,1024)\q2}S-Stooooooooooooooooooooooooooooooooooooooooooooooooooooooooooop!
 Dialogue: 10,0:07:28.09,0:07:28.14,Default,Suzume,0,0,0,,{\an1\pos(-180,1024)\q2}S-Stoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooop!
 Dialogue: 10,0:07:28.14,0:07:28.18,Default,Suzume,0,0,0,,{\an1\pos(-180,1024)\q2}S-Stooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooop!
-Dialogue: 10,0:07:28.17,0:07:32.49,Default,Suzume,0,0,0,,{\an8}Somebody, save me!
+Dialogue: 10,0:07:28.17,0:07:32.64,Default,Suzume,0,0,0,,{\an8}Somebody, save me!
 Dialogue: 10,0:07:31.47,0:07:32.64,Default,Kokkoro,0,0,0,,What's going on?
 Dialogue: 10,0:07:32.64,0:07:34.75,Default,Saren,0,0,0,,I swear, that girl!
 Dialogue: 10,0:07:35.91,0:07:38.67,Default,Suzume,0,0,0,,I'm so sorry, milady!
@@ -238,14 +238,14 @@ Dialogue: 10,0:08:01.54,0:08:06.08,Default,Suzume,0,0,0,,{\q2}My name is Suzume,
 Dialogue: 10,0:08:06.46,0:08:08.14,Default,Saren,0,0,0,,I'm glad you're here.
 Dialogue: 10,0:08:08.14,0:08:10.73,Default,Saren,0,0,0,,I'll keep an eye on our booth.
 Dialogue: 10,0:08:10.73,0:08:13.61,Default,Saren,0,0,0,,{\q2}Suzume, could you please help \Ncarry Kokkoro's things for her?
-Dialogue: 10,0:08:13.61,0:08:15.30,Default,Kokkoro,0,0,0,,Th-There's no need to.
+Dialogue: 10,0:08:13.61,0:08:15.30,Default,Kokkoro,0,0,0,,Th-That won't be necessary!
 Dialogue: 10,0:08:15.74,0:08:18.86,Default,Saren,0,0,0,,That's too much for you to carry all by yourself.
 Dialogue: 10,0:08:18.86,0:08:21.11,Default,Saren,0,0,0,,Us ladies need to help each other out!
 Dialogue: 10,0:08:21.11,0:08:22.82,Default,Suzume,0,0,0,,That's right!
 Dialogue: 10,0:08:22.82,0:08:26.34,Default,Suzume,0,0,0,,Let's go load up the cart straight away!
 Dialogue: 10,0:08:26.84,0:08:28.50,Default,Kokkoro,0,0,0,,Thank you so much.
 Dialogue: 10,0:08:34.99,0:08:36.67,Default,Karyl,0,0,0,,Perfection!
-Dialogue: 10,0:08:37.67,0:08:39.71,Default,Karyl,0,0,0,,{\q2}If this isn't a perfection, \NI don't know what is!
+Dialogue: 10,0:08:37.67,0:08:39.71,Default,Karyl,0,0,0,,If this isn't perfection, I don't know {\i1}what{\i0} is!
 Dialogue: 10,0:08:39.71,0:08:41.45,Default,Karyl,0,0,0,,A fine job if I may say so myself!
 Dialogue: 10,0:08:44.32,0:08:45.97,Default,Karyl,0,0,0,,Now I've just gotta keep up the pace.
 Dialogue: 10,0:08:46.38,0:08:49.59,Default,Karyl,0,0,0,,Pecorine, how far have you gotten in the meantime?
@@ -313,8 +313,10 @@ Dialogue: 10,0:12:25.21,0:12:27.31,Default,Rima,0,0,0,,What a shame!
 Dialogue: 10,0:12:27.31,0:12:30.31,Default,Kokkoro,0,0,0,,Th-That ribbon looks lovely on you.
 Dialogue: 10,0:12:30.31,0:12:32.90,Default,Rima,0,0,0,,Really? You really think so?
 Dialogue: 10,0:12:32.90,0:12:35.57,Default,Rima,0,0,0,,I always get so giddy when people compliment me!
-Dialogue: 11,0:12:35.57,0:12:35.61,Default,,0,0,0,,{\pos(880,1084)\bord0\blur1}I always get so giddy when people compliment me!
-Dialogue: 10,0:12:35.57,0:12:35.61,Default,,0,0,0,,{\pos(880,1084)\1a&HC8&\blur2}I always get so giddy when people compliment me!
+Dialogue: 11,0:12:35.57,0:12:35.61,Default,,0,0,0,,{\bord0\blur1\pos(906.67,1060)}I always get so giddy when people compliment me!
+Dialogue: 10,0:12:35.57,0:12:35.61,Default,,0,0,0,,{\1a&HC8&\blur2\pos(906.67,1060)}I always get so giddy when people compliment me!
+Dialogue: 11,0:12:35.61,0:12:35.65,Default,,0,0,0,,{\bord0\blur1\pos(817.33,1122.33)}I always get so giddy when people compliment me!
+Dialogue: 10,0:12:35.61,0:12:35.65,Default,,0,0,0,,{\1a&HC8&\blur2\pos(817.33,1122.33)}I always get so giddy when people compliment me!
 Dialogue: 10,0:12:37.55,0:12:39.06,Default,Rima,0,0,0,,Whoopsie!
 Dialogue: 10,0:12:39.06,0:12:43.12,Default,Rima,0,0,0,,{\q2}I'm sorry, force of habit. \NThe spit just comes flying out when I get excited!
 Dialogue: 10,0:12:43.12,0:12:44.20,Default,Kokkoro,0,0,0,,I-It's okay...
@@ -336,7 +338,7 @@ Dialogue: 10,0:13:23.29,0:13:24.76,Default,Rima,0,0,0,,No problem!
 Dialogue: 10,0:13:24.76,0:13:27.36,Default,Rima,0,0,0,,A load like this is a piece of cake!
 Dialogue: 10,0:13:29.38,0:13:30.99,Default,Karyl,0,0,0,,There we go.
 Dialogue: 10,0:13:31.84,0:13:32.63,Default,Karyl,0,0,0,,Yuuki.
-Dialogue: 10,0:13:34.18,0:13:36.49,Default,Karyl,0,0,0,,{\q2}I want to wipe down those windows. \NCould you help me out?
+Dialogue: 10,0:13:34.18,0:13:36.49,Default,Karyl,0,0,0,,{\q2}I want to wipe down those windows. \NCould you give me a hand?
 Dialogue: 10,0:13:38.64,0:13:39.26,Default,Yuuki,0,0,0,,Mhm.
 Dialogue: 10,0:13:44.57,0:13:45.76,Default,Karyl,0,0,0,,Yes, just like that!
 Dialogue: 10,0:13:46.20,0:13:49.78,Default,Karyl,0,0,0,,They say a disorderly life reflects a disorderly mind.
@@ -350,7 +352,7 @@ Dialogue: 10,0:14:06.86,0:14:08.14,Default,Yuuki,0,0,0,,Righto.
 Dialogue: 10,0:14:08.14,0:14:11.20,Default,Karyl,0,0,0,,Hey! At least {\i1}pretend{\i0} you actually care!
 Dialogue: 10,0:14:13.13,0:14:14.74,Default,Karyl,0,0,0,,Bugs! Bugs!
 Dialogue: 10,0:14:19.96,0:14:21.99,Default,Karyl,0,0,0,,Hey! Are you okay?!
-Dialogue: 10,0:14:21.99,0:14:24.76,Default,Karyl,0,0,0,,{\fad(0,1000)}Hey... Hey, come on! Wake up!
+Dialogue: 10,0:14:21.99,0:14:24.76,Default,Karyl,0,0,0,,{\t(1790,2707,\c&H020202&)}Hey... Hey, come on! Wake up!
 Dialogue: 10,0:14:27.37,0:14:29.25,Default,Ameth,0,0,0,,Hi. Long time no see.
 Dialogue: 10,0:14:34.30,0:14:36.19,Default,Ameth,0,0,0,,It looks like you've been through a lot,
 Dialogue: 10,0:14:36.19,0:14:38.68,Default,Ameth,0,0,0,,but it seems you managed to start a guild.
@@ -443,20 +445,20 @@ Dialogue: 10,0:20:17.77,0:20:19.20,Default,Kokkoro,0,0,0,,This is...
 Dialogue: 10,0:20:19.80,0:20:21.78,Default,Kokkoro,0,0,0,,Absolutely wonderful.
 Dialogue: 10,0:20:25.79,0:20:27.35,Default,Pecorine,0,0,0,,What do you think?
 Dialogue: 10,0:20:27.35,0:20:28.91,Default,Pecorine,0,0,0,,Crazy, isn't it?
-Dialogue: 10,0:20:29.98,0:20:33.55,Default,Kokkoro,0,0,0,,Yes, very crazy.
+Dialogue: 10,0:20:29.98,0:20:33.55,Default,Kokkoro,0,0,0,,Yes, most crazy indeed.
 Dialogue: 10,0:20:40.02,0:20:41.65,Default,Saren,0,0,0,,That should do it.
 Dialogue: 10,0:20:42.33,0:20:43.80,Default,Suzume,0,0,0,,Milady!
 Dialogue: 10,0:20:44.40,0:20:45.92,Default,Saren,0,0,0,,You took your sweet time, Suzume.
-Dialogue: 10,0:21:18.40,0:21:22.24,Default,Pecorine,0,0,0,,{\q2}Today's dinner is beef stew made with beef \NI got to celebrate our move!
+Dialogue: 10,0:21:18.40,0:21:22.24,Default,Pecorine,0,0,0,,{\q2}Today I decided to make house-warming beef \Nto celebrate us moving into this house!
 Dialogue: 10,0:21:22.24,0:21:24.87,Default,Pecorine,0,0,0,,{\q2}Have all the seconds and thirds \Nand fourths you like!
 Dialogue: 10,0:21:24.87,0:21:26.73,Default,Pecorine,0,0,0,,Isn't the restaurant owner nice?
 Dialogue: 10,0:21:26.73,0:21:28.68,Default,Karyl,0,0,0,,This looks great!
-Dialogue: 10,0:21:28.68,0:21:32.61,Default,Karyl,0,0,0,,{\q2}I'm oh, so glad we don't have to \Neat bugs on our first day here.
-Dialogue: 10,0:21:32.61,0:21:34.72,Default,Pecorine,0,0,0,,Oh, you sound rather intrigued!
-Dialogue: 10,0:21:34.72,0:21:36.89,Default,Karyl,0,0,0,,That's not what I meant!
+Dialogue: 10,0:21:28.68,0:21:32.61,Default,Karyl,0,0,0,,{\q2}Boy, I {\i1}oh{\i0}, so miss those bugs of yours. \NImagine if we had those as our first meal here.
+Dialogue: 10,0:21:32.61,0:21:34.72,Default,Pecorine,0,0,0,,Oh, we could always go for those instead!
+Dialogue: 10,0:21:34.72,0:21:36.89,Default,Karyl,0,0,0,,I was being sarcastic!
 Dialogue: 10,0:21:36.89,0:21:39.36,Default,Kokkoro,0,0,0,,Lady Pecorine, Lady Karyl.
 Dialogue: 10,0:21:41.08,0:21:44.12,Default,Kokkoro,0,0,0,,I look forward to working with both of you.
-Dialogue: 10,0:21:45.19,0:21:48.00,Default,Pecorine,0,0,0,,There's no need to be so formal with us.
+Dialogue: 10,0:21:45.19,0:21:48.00,Default,Pecorine,0,0,0,,You don't need to be so formal with us.
 Dialogue: 10,0:21:48.00,0:21:50.95,Default,Pecorine,0,0,0,,C'mon now, before dinner gets cold!
 Dialogue: 10,0:22:00.61,0:22:02.83,Default,All,0,0,0,,Thanks for the food!
 Dialogue: 10,0:23:38.21,0:23:39.71,Default,Karyl,1440,0,0,,Perfecto!
