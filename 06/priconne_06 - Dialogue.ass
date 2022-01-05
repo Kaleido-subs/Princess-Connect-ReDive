@@ -37,10 +37,10 @@ Dialogue: 10,0:00:03.95,0:00:05.23,Default,Karyl,0,0,0,,Home at last!
 Dialogue: 10,0:00:05.23,0:00:06.87,Default,Pecorine,0,0,0,,Karyl!
 Dialogue: 10,0:00:06.87,0:00:09.88,Default,Pecorine,0,0,0,,{\q2}You really {\i1}did{\i0} come back \Nfeeling thirty percent better!
 Dialogue: 10,0:00:09.88,0:00:11.61,Default,Pecorine,0,0,0,,I'm so glad!
-Dialogue: 10,0:00:12.08,0:00:13.20,Default,Karyl,0,0,0,,Nap time!
+Dialogue: 10,0:00:12.08,0:00:13.20,Default,Karyl,0,0,0,,Naptime!
 Dialogue: 10,0:00:15.95,0:00:18.99,Default,All,0,0,0,,G-Goodnight...
 Dialogue: 10,0:01:49.95,0:01:51.54,Default,Pecorine,0,0,0,,Rise and shine!
-Dialogue: 10,0:01:51.54,0:01:54.38,Default,Pecorine,0,0,0,,I'm done preparing another delicious breakfast!
+Dialogue: 10,0:01:51.54,0:01:54.38,Default,Pecorine,0,0,30,,I'm done preparing another delicious breakfast!
 Dialogue: 10,0:01:54.92,0:01:57.88,Default,Kokkoro,0,0,0,,Good morning, Lady Pecorine.
 Dialogue: 10,0:01:58.45,0:02:00.51,Default,Pecorine,0,0,0,,Heya, you two!
 Dialogue: 10,0:02:00.51,0:02:03.36,Default,Karyl,0,0,0,,You're all so loud in the morning.
@@ -54,7 +54,7 @@ Dialogue: 10,0:02:24.64,0:02:28.42,Default,Pecorine,0,0,0,,{\q2}Well, since you 
 Dialogue: 10,0:02:28.42,0:02:32.79,Default,Pecorine,0,0,0,,{\q2}I figured it was about time for our \NGourmet Guild to get the show on the road!
 Dialogue: 10,0:02:32.79,0:02:35.43,Default,Karyl,0,0,0,,God, no. Please, don't remind me!
 Dialogue: 10,0:02:35.43,0:02:38.30,Default,Karyl,0,0,0,,{\q2}Never mention anything \Nconcerning that clinic ever again!
-Dialogue: 10,0:02:38.30,0:02:41.30,Default,Karyl,0,0,0,,{\an8}S-Steamed buns a-are terrifying...
+Dialogue: 10,0:02:38.30,0:02:41.30,Default,Karyl,0,0,0,,{\an8}S-Steamed buns are t-terrifying...
 Dialogue: 10,0:02:39.08,0:02:40.60,Default,Pecorine,0,0,0,,Ta-dah!
 Dialogue: 10,0:02:41.88,0:02:43.71,Default,Pecorine,0,0,0,,I went to look at the bulletin board
 Dialogue: 10,0:02:44.20,0:02:46.19,Default,Pecorine,0,0,0,,and found this request!
@@ -70,10 +70,10 @@ Dialogue: 10,0:03:12.67,0:03:17.58,Default,Karyl,0,0,0,,{\q2}Physical labour jus
 Dialogue: 10,0:03:18.86,0:03:20.22,Default,Karyl,0,0,0,,Count me out.
 Dialogue: 10,0:03:23.06,0:03:25.26,Default,Pecorine,0,0,0,,Sniffle, sniffle...
 Dialogue: 10,0:03:25.33,0:03:30.39,Default,Pecorine,0,0,0,,I-I wanted this to be o-our first guild quest...
-Dialogue: 10,0:03:30.39,0:03:32.18,Default,Pecorine,0,0,0,,together...
+Dialogue: 10,0:03:30.39,0:03:32.18,Default,Pecorine,0,0,0,,Together...
 Dialogue: 10,0:03:38.37,0:03:40.11,Default,Karyl,0,0,0,,Okay, have it your way!
 Dialogue: 10,0:03:40.11,0:03:42.86,Default,Karyl,0,0,0,,{\clip(400,928,1582,1038)\t(2321,2738,\clip(432,936,452,1044))}If that's what makes you happy, so be it!
-Dialogue: 10,0:03:44.27,0:03:47.03,Default,Pecorine,0,0,0,,Okay! Did all of you pack in your snacks?
+Dialogue: 10,0:03:44.27,0:03:47.03,Default,Pecorine,0,0,0,,Okay! Did you all pack your snacks?
 Dialogue: 10,0:03:47.39,0:03:49.67,Default,Pecorine,0,0,0,,Time to head out!
 Dialogue: 10,0:03:49.97,0:03:51.66,Default,Both,0,0,0,,Yeah!
 Dialogue: 10,0:03:52.06,0:03:55.96,Default,Karyl,0,0,0,,You {\i1}really{\i0} pulled out the crocodile tears, huh?
@@ -83,7 +83,7 @@ Dialogue: 10,0:05:10.22,0:05:11.67,Default,Guy,0,0,0,,'Tis scary here.
 Dialogue: 10,0:05:15.87,0:05:17.79,Default,Shadow,0,0,0,,I don't like this.
 Dialogue: 10,0:05:17.79,0:05:19.14,Default,Shadow,0,0,0,,Something's odd.
 Dialogue: 10,0:05:19.14,0:05:19.88,Default,Shadow,0,0,0,,'Tis scary here.
-Dialogue: 10,0:05:29.09,0:05:32.78,Default,Kokkoro,0,0,0,,{\q2}We haven't camped out since \Nthe first few days, have we, my lord?
+Dialogue: 10,0:05:29.09,0:05:32.78,Default,Kokkoro,0,0,0,,{\q2}We haven't camped out since our \Nfirst few days together, have we, my lord?
 Dialogue: 10,0:05:32.78,0:05:34.90,Default,Yuuki,0,0,0,,Campfire! Exciting!
 Dialogue: 10,0:05:42.00,0:05:43.64,Default,Karyl,0,0,0,,Not even a nibble...
 Dialogue: 10,0:05:45.10,0:05:49.43,Default,Karyl,0,0,0,,{\q2}Who knows {\i1}what{\i0} they'll end up making \Nsupper out of if I don't catch anything?
@@ -161,7 +161,7 @@ Dialogue: 10,0:09:47.48,0:09:48.27,Default,Kokkoro,0,0,0,,Oi...
 Dialogue: 10,0:09:48.27,0:09:51.30,Default,Pecorine,0,0,0,,Once it passes through, we can crash and bash!
 Dialogue: 10,0:09:51.30,0:09:51.86,Default,Both,0,0,0,,Oi!
 Dialogue: 10,0:09:51.86,0:09:55.12,Default,Pecorine,0,0,0,,{\q2}The mouse in the rice sack \Neats the rice with a squeak!
-Dialogue: 10,0:09:55.12,0:09:56.78,Default,Both,0,0,0,,{\t(1,1000,0\c&H000000&\3c&H000000&\4c&H000000&\alpha&HA0&)}Oi!
+Dialogue: 10,0:09:55.12,0:09:56.78,Default,Both,0,0,0,,{\t(1,975,0\c&H000000&}Oi!
 Dialogue: 10,0:10:25.62,0:10:27.44,Default,Kokkoro,0,0,0,,{\i1}They're all wonderful people.
 Dialogue: 10,0:10:31.99,0:10:35.54,Default,Kokkoro,0,0,0,,{\i1}I'm so glad we started our guild.
 Dialogue: 10,0:10:42.61,0:10:45.69,Default,Karyl,0,0,0,,Huh? What did I do again last night?
@@ -195,7 +195,7 @@ Dialogue: 10,0:12:53.19,0:12:58.63,Default,Aoi,0,0,0,,{\q2}I've always, always, 
 Dialogue: 10,0:12:59.03,0:13:01.41,Default,Aoi,0,0,0,,I've wanted one for years.
 Dialogue: 10,0:13:01.41,0:13:06.49,Default,Aoi,0,0,0,,{\q2}My only conversation partner the entire time \Nhas been You Got This! Friend #1...
 Dialogue: 10,0:13:07.14,0:13:11.63,Default,Aoi,0,0,0,,{\q2}But obviously we ran out of things \Nto talk about eventually.
-Dialogue: 10,0:13:12.65,0:13:18.78,Default,Aoi,0,0,0,,{\q2}I know for a fact I'm not ready to have \Nany real friends. Not by a long, long shot.
+Dialogue: 10,0:13:12.65,0:13:18.78,Default,Aoi,0,0,0,,{\q2}I know for a fact I'm not ready to have \Nany real friends. Not by a long, {\i1}long{\i0} shot.
 Dialogue: 10,0:13:19.76,0:13:21.01,Default,Yuuki,0,0,0,,Friend?
 Dialogue: 10,0:13:23.33,0:13:24.65,Default,Yuuki,0,0,0,,Frie...nd?
 Dialogue: 10,0:13:25.03,0:13:28.03,Default,Aoi,0,0,0,,Are you saying you're looking for a friend, too?!
@@ -231,7 +231,7 @@ Dialogue: 10,0:14:51.29,0:14:53.87,Default,Friend1,0,0,0,,Y-You're welcome.
 Dialogue: 10,0:15:03.07,0:15:05.39,Default,Karyl,0,0,0,,Why are you walking so far behind us?
 Dialogue: 10,0:15:06.22,0:15:09.28,Default,Aoi,0,0,0,,{\q2}I-I wouldn't dare walk between \Nyou guys when we're not even friends!
 Dialogue: 10,0:15:09.28,0:15:11.76,Default,Aoi,0,0,0,,My name is Aoi, not Rudy McRudy! {## fine you win Aria}
-Dialogue: 10,0:15:12.42,0:15:16.25,Default,Karyl,0,0,0,,{\q2}Rather, how exactly are you gonna {\i1}guide{\i0} us \Nif we're the ones walking in {\i1}front{\i0}?
+Dialogue: 10,0:15:12.42,0:15:16.25,Default,Karyl,0,0,0,,{\q2}Rather, exactly {\i1}how{\i0} are you gonna guide us \Nif {\i1}we're{\i0} the ones walking in front?
 Dialogue: 10,0:15:17.10,0:15:21.02,Default,Pecorine,0,0,0,,I'm glad you were also headed to Targum for the harvest!
 Dialogue: 10,0:15:21.02,0:15:22.73,Default,Aoi,0,0,0,,P-Please!
 Dialogue: 10,0:15:22.73,0:15:26.52,Default,Aoi,0,0,0,,{\q2}Guiding you there is the least \Na lonely soul like me could do!
@@ -250,7 +250,7 @@ Dialogue: 10,0:16:09.40,0:16:13.53,Default,Misato,0,0,0,,{\q2}We don't have enou
 Dialogue: 10,0:16:14.01,0:16:18.08,Default,Misato,0,0,0,,{\q2}There's another group called Elizabeth Park \Nthat was supposed to come help today, too.
 Dialogue: 10,0:16:18.60,0:16:20.35,Default,Kokkoro,0,0,0,,Elizabeth Park?
 Dialogue: 10,0:16:20.35,0:16:22.16,Default,Karyl,0,0,0,,What about it?
-Dialogue: 10,0:16:22.16,0:16:25.46,Default,Kokkoro,0,0,0,,Someone who helped me a while ago was in that guild.
+Dialogue: 10,0:16:22.16,0:16:25.46,Default,Kokkoro,0,0,0,,{\q2}Someone who helped me a while ago \Nwas from that guild.
 Dialogue: 10,0:16:25.81,0:16:27.71,Default,Misato,0,0,0,,Oh, an acquaintance?
 Dialogue: 10,0:16:27.71,0:16:28.88,Default,Kokkoro,0,0,0,,Yes.
 Dialogue: 10,0:16:29.44,0:16:31.99,Default,Kokkoro,0,0,0,,A lovely girl named Rima.
@@ -321,7 +321,7 @@ Dialogue: 10,0:19:46.16,0:19:49.85,Default,Shiori,0,0,0,,{\q2}They can only say 
 Dialogue: 10,0:19:48.20,0:19:50.55,Default,ShadowShi,0,0,0,,{\an8}I'm all right...
 Dialogue: 10,0:19:49.85,0:19:51.07,Default,Shiori,0,0,0,,We will manage.
 Dialogue: 10,0:20:04.42,0:20:08.05,Default,Christina,0,0,0,,Looks like there's some fun event going on here.
-Dialogue: 10,0:20:08.35,0:20:13.50,Default,Christina,0,0,0,,Turns out my hunch was pretty much on point.
+Dialogue: 10,0:20:08.35,0:20:13.50,Default,Christina,0,0,0,,Turns out my hunch was pretty much spot-on.
 Dialogue: 10,0:20:14.78,0:20:18.20,Default,Christina,0,0,0,,Greetings, you cute little beasts.
 Dialogue: 10,0:20:18.20,0:20:20.97,Default,Christina,0,0,0,,I am Christina.
 Dialogue: 10,0:20:21.36,0:20:23.65,Default,Christina,0,0,0,,Now, get on your feet.
