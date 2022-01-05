@@ -12,10 +12,14 @@ ScaledBorderAndShadow: yes
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: priconne_05_premux.mkv
-Video File: priconne_05_premux.mkv
+Audio File: priconne_05.mkv
+Video File: priconne_05.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 75
+Active Line: 74
+Video Position: 33999
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,7 +27,8 @@ Style: Sign,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:56.86,0:02:57.07,Sign,,0,0,0,,{\pos(-40.297,121.03)\fscx98.38\fscy98.38\fnGotham Bold\fs180\fsp-11.12\1c&HB894F7&\blur0.6}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
+Comment: 0,0:02:56.86,0:02:57.07,Sign,,0,0,0,,{\pos(-40.297,121.03)\fscx98.38\fscy98.38\fnGotham Bold\fs180\fsp-11.12\1c&HB894F7&\blur0.6}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
+Dialogue: 0,0:02:57.03,0:02:57.07,Sign,,0,0,0,,{\pos(-40.297,121.03)\fscx98.38\fscy98.38\fnGotham Bold\fs180\fsp-11.12\1c&HB894F7&\blur0.6}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
 Dialogue: 0,0:02:57.07,0:02:57.11,Sign,,0,0,0,,{\pos(42.04,124.3)\fscx98.83\fscy98.83\fnGotham Bold\fs180\fsp-10.14\1c&HB894F7&\blur0.6}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
 Dialogue: 0,0:02:57.11,0:02:57.16,Sign,,0,0,0,,{\pos(188.01,140.58)\fscx98.77\fscy98.77\fnGotham Bold\fs180\fsp-9.16\1c&HB894F7&\blur0.6}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
 Dialogue: 0,0:02:57.16,0:02:57.20,Sign,,0,0,0,,{\pos(213.63,164.76)\fscx98.73\fscy98.73\fnGotham Bold\fs180\fsp-8.17\1c&HB894F7&\blur0.6}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
