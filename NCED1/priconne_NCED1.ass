@@ -36,7 +36,7 @@ Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line layer 0,{!util.make_grad(
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line layer 0,{\p1}m -5 -5 l !line.width+25! -5 !line.width+25! !line.height+15! -5 !line.height+15!
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin syl layer 2,{\t(!st(0)!,!st(1/8)!,\3c!gc(2)!\bord3.6\blur2.4\fscx105\fscy100)\t(!st(1/8)!,!st(1)+200!,\3c!gc(3)!\bord2.4\blur1.6\fscx100\fscy90)}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin syl layer 3,{\t(!st(0)!,!st(1/8)!,\fscx105\fscy100)\t(!st(1/8)!,!st(1)+400!,\fscx100\fscy90)}
-Comment: 0,0:00:59.00,0:01:04.00,Default,,0,0,0,edsync,{ED syncpoint — 2nd cut}
+Comment: 0,0:00:59.00,0:01:04.00,Default,,0,0,0,sync,{ED syncpoint — 2nd cut}
 Comment: 0,0:00:11.99,0:00:17.54,ED1,rom,0,0,0,kara,{\k19}{\k75}ko{\k32}do{\k25}mo {\k52}no {\k20}ko{\k54}ro {\k18}ni {\k50}a{\k24}ko{\k51}ga{\k23}re{\k99}ta{\k11}
 Comment: 0,0:00:17.96,0:00:23.42,ED1,rom,0,0,0,kara,{\k7}{\k40}ki {\k18}no {\k53}u{\k20}e {\k51}no {\k20}ko{\k56}ya {\k17}to {\k53}a{\k26}i{\k52}ko{\k19}to{\k102}ba{\k12}
 Comment: 0,0:00:23.75,0:00:29.18,ED1,rom,0,0,0,kara,{\k18}{\k108}o{\k22}chi{\k51}ko{\k18}bo{\k59}re {\k17}ga {\k53}a{\k23}tsu{\k51}ma{\k19}re{\k104}tte{\k0}
