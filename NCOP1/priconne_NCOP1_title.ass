@@ -75,5 +75,6 @@ Comment: 0,0:00:00.00,0:00:00.00,OP1 - Sign,,0,0,0,code once,-- there's another 
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - Sign,,0,0,0,code once,
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - Sign,,0,0,0,code once,-- I have come to realize that the color/alpha of the particles is screwed here not (solely) because of my ineptitude in selecting them, but also because of the particles' blending mode.
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - Sign,,0,0,0,code once,-- In any case, you can tweak them here.
+Comment: 0,0:00:01.98,0:00:01.98,Default,,0,0,0,sync,{OP sync — second cut (title file)}
 Dialogue: 0,0:00:22.92,0:00:29.13,OP1 - Sign,,0,0,0,karaoke,{\3c&H6BFFFD&\3a&H0F&\4c&H33A1FF&\4a&H5F&\pos(674,838)}EP_TITLE
 Dialogue: 0,0:00:22.92,0:00:29.13,OP1 - Sign,,0,0,0,karaoke,{\pos(1364,838)\3c&HFFFFFF&\3a&H00&\4c&HDFAFFF&\4a&H5F&}EP_SUBTITLE

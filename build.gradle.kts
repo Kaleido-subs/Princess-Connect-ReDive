@@ -54,7 +54,6 @@ subs {
         loglevel(Automation.LogLevel.WARNING)
     }
 
-
     val ed_ktemplate by task<Automation> {
         from(get("ED"))
 
