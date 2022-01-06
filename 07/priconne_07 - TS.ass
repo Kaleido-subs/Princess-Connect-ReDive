@@ -42,5 +42,5 @@ Dialogue: 1,0:26:35.07,0:26:40.04,Sign,Text,0,0,0,,{\pos(963.918,154.229)\fscx74
 Dialogue: 1,0:26:35.07,0:26:40.04,Sign,Text,0,0,0,,{\pos(992.033,155.031)\fscx74\fscy103\frz-2.233\fnFlunkies BB\c&H2733FD&\blur0.65\t(1779,2363,\blur8\alpha60)}m
 Dialogue: 1,0:26:35.07,0:26:40.04,Sign,Text,0,0,0,,{\pos(1027.792,157.552)\fscx74\fscy103\frz-5.638\fnFlunkies BB\c&H2733FD&\blur0.65\t(1779,2363,\blur8\alpha60)}e
 Dialogue: 1,0:26:35.07,0:26:40.04,Sign,Text,0,0,0,,{\pos(1049.68,160.071)\fscx74\fscy103\frz-7.362\fnFlunkies BB\c&H2733FD&\blur0.65\t(1779,2363,\blur8\alpha60)}!
-Dialogue: 0,0:26:36.95,0:26:40.04,Sign,Title,0,0,0,,{\pos(705,827)\fnAngie\fs50\fsp1\bord2.4\3c&H6F6A6E&\blur0.6\fad(692,1)}A Little, Lyrical Kids' Meal
-Dialogue: 0,0:26:36.95,0:26:40.04,Sign,Title,0,0,0,,{\pos(609.399,1011.134)\fnAngie\fs45\fsp1\bord2.4\3c&H6F6A6E&\blur0.6\fad(692,1)}Country-Style Fried Eggs
+Dialogue: 0,0:26:36.95,0:26:40.04,Sign,Title,0,0,0,,{\pos(707,827)\fnAngie\fs50\fsp1\bord2.4\3c&H6F6A6E&\blur0.6\fad(692,1)}A Little, Lyrical Kids' Meal
+Dialogue: 0,0:26:36.95,0:26:40.04,Sign,Title,0,0,0,,{\pos(613.399,1011.134)\fnAlegreya Sans\fs40\fsp1\bord2.4\3c&H6F6A6E&\blur0.6\fad(692,1)}Country-Style Fried Eggs
