@@ -61,7 +61,7 @@ Dialogue: 10,0:03:00.03,0:03:02.24,Default,Kokkoro,0,0,0,,Keep that rice snug...
 Dialogue: 10,0:03:04.20,0:03:05.95,Default,Kokkoro,0,0,0,,Have you finally awoken, my lord?
 Dialogue: 10,0:03:06.55,0:03:09.21,Default,Kokkoro,0,0,0,,Do you feel any pain?
 Dialogue: 10,0:03:18.00,0:03:20.30,Default,Kokkoro,0,0,0,,I'm glad you seem to be in good health.
-Dialogue: 10,0:03:20.30,0:03:25.97,Default,Kokkoro,0,0,0,,{\q2}I was sent by the great Lady Ameth \Nto serve as your guide.
+Dialogue: 10,0:03:20.30,0:03:25.97,Default,Kokkoro,0,0,0,,{\q2}I was sent by the great {*}Lady Ameth{*Ameth-sama} \Nto serve as your guide.
 Dialogue: 10,0:03:25.97,0:03:28.52,Default,Kokkoro,0,0,0,,My name is Kokkoro.
 Dialogue: 10,0:03:28.52,0:03:30.27,Default,Kokkoro,0,0,0,,It is my sworn duty to protect you,
 Dialogue: 10,0:03:30.27,0:03:32.27,Default,Kokkoro,0,0,0,,from dawn to dusk,
@@ -73,7 +73,7 @@ Dialogue: 10,0:03:49.79,0:03:51.00,Default,Yuuki,0,0,0,,Yuuki.
 Dialogue: 10,0:03:51.00,0:03:53.71,Default,Yuuki,0,0,0,,My name is Yuuki.
 Dialogue: 10,0:03:54.83,0:03:55.96,Default,Kokkoro,0,0,0,,I'm glad to hear that.
 Dialogue: 10,0:03:57.24,0:04:01.38,Default,Kokkoro,0,0,0,,{\q2}I am now certain you are the lord \NI was meant to serve.
-Dialogue: 10,0:04:03.04,0:04:05.60,Default,Kokkoro,0,0,0,,According to the oracle of Lady Ameth,
+Dialogue: 10,0:04:03.04,0:04:05.60,Default,Kokkoro,0,0,0,,According to the oracle of {*}Lady Ameth{*Ameth-sama},
 Dialogue: 10,0:04:05.60,0:04:09.72,Default,Kokkoro,0,0,0,,it would seem you have lost many of your memories.
 Dialogue: 10,0:04:10.73,0:04:13.56,Default,Kokkoro,0,0,0,,I'm sure you must be quite confused.
 Dialogue: 10,0:04:15.93,0:04:20.74,Default,Kokkoro,0,0,0,,{\q2}But I am here to guide you, \Nso you can be at ease.
@@ -265,12 +265,12 @@ Dialogue: 10,0:17:16.93,0:17:18.43,Default,Pecorine,0,0,0,,Those look delicious.
 Dialogue: 10,0:17:19.10,0:17:20.68,Default,Kokkoro,0,0,0,,Feel free to have some.
 Dialogue: 10,0:17:20.68,0:17:21.77,Default,Pecorine,0,0,0,,May I?
 Dialogue: 10,0:17:21.77,0:17:24.23,Default,Pecorine,0,0,0,,You must be angels sent from above!
-Dialogue: 10,0:17:32.03,0:17:36.49,Default,Pecorine,0,0,0,,So your names are Yuuki and Kokkoro, huh?
+Dialogue: 10,0:17:32.03,0:17:36.49,Default,Pecorine,0,0,0,,So your names are Yuuki{**-kun} and Kokkoro{**-chan}, huh?
 Comment: 10,0:17:37.28,0:17:40.32,Default,Mushroom,0,0,0,,Mushroom!
 Dialogue: 10,0:17:48.50,0:17:50.88,Default,Pecorine,0,0,0,,I think they're after me.
 Dialogue: 10,0:17:50.88,0:17:53.55,Default,Pecorine,0,0,0,,I'm sorry for dragging you two into this.
 Dialogue: 10,0:17:55.00,0:17:56.05,Default,Pecorine,0,0,0,,Yuuki?
-Dialogue: 10,0:17:56.05,0:17:59.39,Default,Kokkoro,0,0,0,,Um... Miss Peculiarly Peckish Pecorine?
+Dialogue: 10,0:17:56.05,0:17:59.39,Default,Kokkoro,0,0,0,,Um... {*}Miss Peculiarly Peckish Pecorine{*Peculiarly Peckish Pecorine-sama}?
 Dialogue: 10,0:17:59.39,0:18:01.47,Default,Kokkoro,0,0,0,,I will just call you that for now.
 Dialogue: 10,0:18:02.51,0:18:05.98,Default,Kokkoro,0,0,0,,{\q2}There's no going back now, \Nso let's get out of this together.
 Dialogue: 10,0:18:05.98,0:18:08.81,Default,Pecorine,0,0,0,,Oh! By "Pecorine", do you mean me?
@@ -282,16 +282,16 @@ Dialogue: 10,0:18:43.89,0:18:45.81,Default,Kokkoro,0,0,0,,You should fare much b
 Comment: 10,0:18:48.47,0:18:49.10,Default,Mushroom,0,0,0,,Nameko!
 Comment: 10,0:18:50.20,0:18:51.56,Default,Mushroom,0,0,0,,Maitake!
 Dialogue: 10,0:18:52.44,0:18:53.98,Default,Kokkoro,0,0,0,,My lord!
-Dialogue: 10,0:18:55.81,0:18:57.19,Default,Pecorine,0,0,0,,Kokkoro?!
+Dialogue: 10,0:18:55.81,0:18:57.19,Default,Pecorine,0,0,0,,Kokkoro{**-chan}?!
 Comment: 10,0:18:59.95,0:19:02.07,Default,Mushroom,0,0,0,,Maitake!
 Dialogue: 10,0:19:18.45,0:19:19.84,Default,Kokkoro,0,0,0,,My lord!
 Dialogue: 10,0:19:45.34,0:19:46.24,Default,Perocine,0,0,0,,What's this?
-Dialogue: 10,0:20:00.73,0:20:03.30,Default,Kokkoro,0,0,0,,It's just like in Lady Ameth's oracle...
+Dialogue: 10,0:20:00.73,0:20:03.30,Default,Kokkoro,0,0,0,,It's just like in {*}Lady Ameth{*Ameth-sama}'s oracle...
 Dialogue: 10,0:20:03.30,0:20:05.26,Default,Kokkoro,0,0,0,,How divine!
 Dialogue: 10,0:20:05.26,0:20:07.81,Default,Kokkoro,0,0,0,,This is indeed my lord's unique ability—
 Dialogue: 10,0:20:08.60,0:20:10.81,Default,Kokkoro,0,0,0,,The proof he is the Princess Knight!
 Dialogue: 10,0:20:10.81,0:20:13.90,Default,Pecorine,0,0,0,,There's more and more power bubbling up inside me!
-Dialogue: 10,0:20:13.90,0:20:16.77,Default,Pecorine,0,0,0,,Is that thanks to Yuuki?
+Dialogue: 10,0:20:13.90,0:20:16.77,Default,Pecorine,0,0,0,,Is that thanks to Yuuki{**-kun}?
 Dialogue: 10,0:20:16.77,0:20:17.32,Default,Kokkoro,0,0,0,,Yes.
 Dialogue: 10,0:20:17.81,0:20:19.82,Default,Kokkoro,0,0,0,,Now, let us advance!
 Dialogue: 10,0:20:20.51,0:20:23.28,Default,Kokkoro,0,0,0,,Wind spirits, lend us your aid!
@@ -309,13 +309,13 @@ Dialogue: 10,0:21:28.37,0:21:30.51,Default,Pecorine,0,0,0,,And it's a nice bite-
 Dialogue: 10,0:21:30.51,0:21:31.68,Default,Kokkoro,0,0,0,,Wait! That's—
 Dialogue: 10,0:21:38.30,0:21:40.86,Default,Pecorine,0,0,0,,They taste {\i1}so{\i0} good, even raw!
 Dialogue: 10,0:21:40.86,0:21:41.86,Default,Pecorine,0,0,0,,How crazy is that?
-Dialogue: 10,0:21:46.82,0:21:50.28,Default,Kokkoro,0,0,0,,M-Miss Pecorine!
+Dialogue: 10,0:21:46.82,0:21:50.28,Default,Kokkoro,0,0,0,,{*}M-Miss Pecorine{*P-Pecorine-sama}!
 Dialogue: 10,0:21:52.91,0:21:56.92,Default,Pecorine,0,0,0,,Peco, peco...
 Dialogue: 10,0:21:56.92,0:22:01.63,Default,Pecorine,0,0,0,,I'm Pecorine... Pecorine...
-Dialogue: 10,0:22:02.25,0:22:04.55,Default,Kokkoro,0,0,0,,She seems to be in good spirits.
+Dialogue: 10,0:22:02.25,0:22:04.55,Default,Kokkoro,0,0,0,,She appears to be in good spirits.
 Dialogue: 10,0:22:04.55,0:22:06.84,Default,Kokkoro,0,0,0,,I'm glad it wasn't poisonous.
-Dialogue: 10,0:22:07.30,0:22:12.39,Default,Kokkoro,0,0,0,,{\i1\q2}That little one has become \NMiss Pecorine's flesh and blood...
-Dialogue: 10,0:22:15.12,0:22:17.27,Default,Kokkoro,0,0,0,,Miss Puchi-Pecorine...
+Dialogue: 10,0:22:07.30,0:22:12.39,Default,Kokkoro,0,0,0,,{\i1\q2}That little one has become \N{*}Miss Pecorine{*Pecorine-sama}'s flesh and blood...
+Dialogue: 10,0:22:15.12,0:22:17.27,Default,Kokkoro,0,0,0,,{*}Miss Puchi-Pecorine{*Puchi-Pecorine-sama}...
 Dialogue: 10,0:22:20.63,0:22:24.65,Default,Ameth,0,0,0,,It looks like your story has begun at last.
 Dialogue: 10,0:22:25.40,0:22:31.41,Default,Ameth,0,0,0,,{\q2}Only the heavens can foretell whether \Nit will end in tragedy or a happily ever after.
 Dialogue: 10,0:22:32.70,0:22:35.66,Default,Ameth,0,0,0,,But never forget to ask:
