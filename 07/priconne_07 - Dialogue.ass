@@ -37,195 +37,196 @@ Dialogue: 10,0:00:04.15,0:00:06.98,Default,Hatsune,0,0,0,,It's so soft and fluff
 Dialogue: 10,0:00:09.32,0:00:11.74,Default,Shiori,0,0,0,,I'm glad you like it.
 Dialogue: 10,0:00:12.45,0:00:14.16,Default,Hatsune,0,0,0,,Thanks, Shiorin!
 Dialogue: 10,0:00:14.16,0:00:16.16,Default,Hatsune,0,0,0,,This is the best present ever!
-Dialogue: 10,0:00:16.78,0:00:22.66,Default,Shiori,0,0,0,,{\q2}Thank you, too, for the \Nwonderful present you gave me.
+Dialogue: 10,0:00:16.78,0:00:22.66,Default,Shiori,0,0,0,,Thank you, too, for the wonderful present you gave me.
 Dialogue: 10,0:00:26.33,0:00:29.55,Default,Shiori,0,0,0,,There are so many pretty animals and plants.
 Dialogue: 10,0:00:30.26,0:00:34.13,Default,Shiori,0,0,0,,I hope I can go see them with you someday.
 Dialogue: 10,0:00:34.13,0:00:35.76,Default,Hatsune,0,0,0,,We will!
 Dialogue: 10,0:00:35.76,0:00:39.18,Default,Hatsune,0,0,0,,{\q2}Your condition's been improving steadily \Never since we came to this farm.
 Dialogue: 10,0:00:39.18,0:00:40.72,Default,Hatsune,0,0,0,,We'll make it!
-Dialogue: 10,0:00:40.72,0:00:45.85,Default,Hatsune,0,0,0,,I'll carry you on my back and fly away if I have to!
+Dialogue: 10,0:00:40.72,0:00:45.85,Default,Hatsune,0,0,0,,{\q2}I'll even carry you on my back \Nand soar through the sky if we must!
 Dialogue: 10,0:00:50.48,0:00:51.69,Default,Hatsune,0,0,0,,Are you okay?
 Dialogue: 10,0:00:51.69,0:00:53.99,Default,Hatsune,0,0,0,,We spent the entire day shopping today...
-Dialogue: 10,0:00:58.03,0:00:59.62,Default,Hatsune,0,0,0,,Rest a little for now.
+Dialogue: 10,0:00:58.03,0:00:59.62,Default,Hatsune,0,0,0,,You go rest up now.
 Dialogue: 10,0:01:07.38,0:01:12.38,Default,Shiori,0,0,0,,{\i1}I'm sorry, Hatsune. All I ever do is make you worry...
 Dialogue: 10,0:01:16.88,0:01:17.97,Default,Shiori,0,0,0,,{\i1}I'm sorry...
-Dialogue: 10,0:02:54.52,0:02:57.32,Default,Pecorine,0,0,0,,All right! It's time for the harvest!
+Dialogue: 10,0:02:54.52,0:02:57.32,Default,Pecorine,0,0,0,,Rise and shine! It's harvest time!
 Dialogue: 10,0:02:57.32,0:02:58.90,Default,All,0,0,0,,Yeah!
-Dialogue: 10,0:02:58.90,0:03:01.03,Default,Guy,0,0,0,,Looks like {\i1}somebody's{\i0} energetic this morning.
-Dialogue: 10,0:03:01.03,0:03:02.49,Default,Guy,0,0,0,,We're counting on you today.
-Dialogue: 10,0:03:02.49,0:03:04.33,Default,All,0,0,0,,Right!
+Dialogue: 10,0:02:58.90,0:03:01.03,Default,Guy,0,0,0,,{\i1}Somebody's{\i0} energetic this morning.
+Dialogue: 10,0:03:01.03,0:03:02.49,Default,Guy,0,0,0,,We're counting on ya.
+Dialogue: 10,0:03:02.49,0:03:04.33,Default,All,0,0,0,,Okay!
 Dialogue: 10,0:03:08.70,0:03:11.50,Default,Kokkoro,0,0,0,,This soil is well-drained.
 Dialogue: 10,0:03:11.50,0:03:14.42,Default,Kokkoro,0,0,0,,I can tell they take good care of it every day.
 Dialogue: 10,0:03:14.42,0:03:18.55,Default,Karyl,0,0,0,,Huh... So this is the plant spice comes from?
-Dialogue: 10,0:03:18.55,0:03:21.43,Default,Pecorine,0,0,0,,Karyl, here. Smell this.
+Dialogue: 10,0:03:18.55,0:03:21.43,Default,Pecorine,0,0,0,,Karyl{**-chan}, here. Smell this.
 Dialogue: 10,0:03:23.47,0:03:25.51,Default,Karyl,0,0,0,,It smells great!
 Dialogue: 10,0:03:26.01,0:03:28.39,Default,Karyl,0,0,0,,It makes my stomach roar.
 Dialogue: 10,0:03:28.39,0:03:29.77,Default,Pecorine,0,0,0,,Doesn't it?
 Dialogue: 10,0:03:29.77,0:03:31.56,Default,Hatsune,0,0,0,,Morning!
 Dialogue: 10,0:03:31.56,0:03:34.02,Default,Misato,0,0,0,,Did you take a good, long rest from your journey?
-Dialogue: 10,0:03:34.02,0:03:35.57,Default,Pecorine,0,0,0,,Hiya!
+Dialogue: 10,0:03:34.02,0:03:35.57,Default,Pecorine,0,0,0,,Heya!
 Dialogue: 10,0:03:35.57,0:03:37.44,Default,Pecorine,0,0,0,,Yes, we're supercharged now!
-Dialogue: 10,0:03:37.44,0:03:39.69,Default,Karyl,0,0,0,,Didn't fly here this time, did you?
-Dialogue: 10,0:03:40.19,0:03:42.45,Default,Hatsune,0,0,0,,This harvest is too important.
-Dialogue: 10,0:03:42.45,0:03:46.20,Default,Hatsune,0,0,0,,{\q2}Using my superpowers tires me out, \Nso I'm holding off for today!
+Dialogue: 10,0:03:37.44,0:03:39.69,Default,Karyl,0,0,0,,Came here by foot this time?
+Dialogue: 10,0:03:40.19,0:03:42.45,Default,Hatsune,0,0,0,,I need to be in tip-top shape for the harvest.
+Dialogue: 10,0:03:42.45,0:03:46.20,Default,Hatsune,0,0,0,,{\q2}My superpowers tire me out, \Nso I'm holding off for today!
 Dialogue: 10,0:03:49.79,0:03:52.08,Default,Hatsune,0,0,0,,Ah, sorry! Forget everything I just said!
 Dialogue: 10,0:03:52.08,0:03:53.79,Default,Karyl,0,0,0,,H-Hold on!
-Dialogue: 10,0:03:53.79,0:03:57.59,Default,Karyl,0,0,0,,{\q2}So you're saying that isn't magic, \Nbut some superpower?
+Dialogue: 10,0:03:53.79,0:03:57.59,Default,Karyl,0,0,0,,{\q2}So you're saying that wasn't magic, \Nbut some superpower?
 Dialogue: 10,0:03:57.59,0:04:01.22,Default,Kokkoro,0,0,0,,I've never met anyone with superpowers before.
 Dialogue: 10,0:04:01.22,0:04:02.72,Default,Kokkoro,0,0,0,,A miracle...
-Dialogue: 10,0:04:03.43,0:04:05.30,Default,Misato,0,0,0,,It's too late now.
+Dialogue: 10,0:04:03.43,0:04:05.30,Default,Misato,0,0,0,,The cat's out of the bag now.
 Dialogue: 10,0:04:05.30,0:04:09.72,Default,Misato,0,0,0,,{\q2}You all seem like nice people, \Nso let's keep it between us, okay?
-Dialogue: 10,0:04:09.72,0:04:12.69,Default,Pecorine,0,0,0,,Oh, so it's our own little secret! How crazy is that?
+Dialogue: 10,0:04:09.72,0:04:12.69,Default,Pecorine,0,0,0,,Oh, so it's our own little secret! Isn't that crazy?
 Dialogue: 10,0:04:12.69,0:04:13.85,Default,Karyl,0,0,0,,Take it more seriously!
-Dialogue: 10,0:04:13.85,0:04:16.23,Default,Karyl,0,0,0,,At least be somewhat rattled, will you?
+Dialogue: 10,0:04:13.85,0:04:16.23,Default,Karyl,0,0,0,,At least be {\i1}somewhat{\i0} rattled, will you?
 Dialogue: 10,0:04:16.23,0:04:17.73,Default,Guy,0,0,0,,W-We've got trouble!
-Dialogue: 10,0:04:24.57,0:04:26.07,Default,Kokkoro,0,0,0,,Miss Rima?
-Dialogue: 10,0:04:26.07,0:04:27.49,Default,Rima,0,0,0,,Kokkoro?
+Dialogue: 10,0:04:24.57,0:04:26.07,Default,Kokkoro,0,0,0,,{*}Miss Rima{*Rima-sama}?
+Dialogue: 10,0:04:26.07,0:04:27.49,Default,Rima,0,0,0,,Kokkoro{**-chan}?
 Dialogue: 10,0:04:27.49,0:04:29.74,Default,Misato,0,0,0,,What in the world happened?
 Dialogue: 10,0:04:29.74,0:04:36.67,Default,Mahiru,0,0,0,,{\q2}O-On our way over here, we were ambushed \Nby something that looked just like us.
-Dialogue: 10,0:04:36.67,0:04:39.75,Default,Mahiru,0,0,0,,Then a swordswoman showed up, dressed all in black...
-Dialogue: 10,0:04:40.92,0:04:43.34,Default,Hatsune,0,0,0,,Shiorin! Where's Shiorin?
-Dialogue: 10,0:04:43.34,0:04:46.80,Default,Rima,0,0,0,,I'm sorry. We lost sight of her during the attack.
-Dialogue: 10,0:04:47.35,0:04:49.81,Default,Rin,0,0,0,,Rima did everything she could, though!
-Dialogue: 10,0:04:49.81,0:04:54.89,Default,Rin,0,0,0,,{\q2}She fought and fought until she could \Nno longer fight, and then carried us over here.
-Dialogue: 10,0:04:54.89,0:04:57.36,Default,Kokkoro,0,0,0,,Miss Rima, I'll treat your wounds.
-Dialogue: 10,0:04:57.94,0:05:01.44,Default,Rima,0,0,0,,Thanks, Kokkoro... but what are you doing here?
+Dialogue: 10,0:04:36.67,0:04:39.75,Default,Mahiru,0,0,0,,Then a swordswoman showed up, \Ndressed entirely in black...
+Dialogue: 10,0:04:40.92,0:04:43.34,Default,Hatsune,0,0,0,,Was Shiorin not with you?
+Dialogue: 10,0:04:43.34,0:04:46.80,Default,Rima,0,0,0,,I'm sorry. We lost sight of her when we were attacked.
+Dialogue: 10,0:04:47.35,0:04:49.81,Default,Rin,0,0,0,,Rima did the best she could!
+Dialogue: 10,0:04:49.81,0:04:54.89,Default,Rin,0,0,0,,{\q2}She fought with all her might, and despite being \Nbeaten up so badly, she managed to carry us back here!
+Dialogue: 10,0:04:54.89,0:04:57.36,Default,Kokkoro,0,0,0,,{*}Miss Rima{*Rima-sama}, allow me to attend to your wounds.
+Dialogue: 10,0:04:57.94,0:05:01.44,Default,Rima,0,0,0,,Thanks, Kokkoro{**-chan}. What are you doing here?
 Dialogue: 10,0:05:01.44,0:05:04.49,Default,Kokkoro,0,0,0,,We also came to help with the harvest.
 Dialogue: 10,0:05:04.49,0:05:07.07,Default,Guy1,0,0,0,,That means the rumours {\i1}are{\i0} true!
-Dialogue: 10,0:05:07.78,0:05:13.91,Default,Guy1,0,0,0,,{\q2}More and more people that travel here tell the same story \Nabout being attacked by lookalikes in the forest.
-Dialogue: 10,0:05:13.91,0:05:17.67,Default,Guy2,0,0,0,,{\q2}Come to think of it, I heard \Nthe innkeeper went missing, too...
-Dialogue: 10,0:05:18.63,0:05:19.96,Default,Hatsune,0,0,0,,Excuse me a moment!
+Dialogue: 10,0:05:07.78,0:05:13.91,Default,Guy1,0,0,0,,{\q2}This is another one of many cases where travellers \Nhave said they were attacked by lookalikes!
+Dialogue: 10,0:05:13.91,0:05:17.67,Default,Guy2,0,0,0,,{\q2}Come to think of it, \Ndidn't the innkeeper go missing recently?
+Dialogue: 10,0:05:18.63,0:05:19.96,Default,Hatsune,0,0,0,,Excuse me!
 Dialogue: 10,0:05:26.55,0:05:28.01,Default,Hatsune,0,0,0,,Shiorin...
-Dialogue: 10,0:05:39.44,0:05:41.69,Default,Christina,0,0,0,,Perhaps I went a little overboard.
-Dialogue: 10,0:05:49.70,0:05:51.33,Default,Christina,0,0,0,,So, those were Shadows.
+Dialogue: 10,0:05:39.44,0:05:41.69,Default,Christina,0,0,0,,Perhaps I should have held back a little.
+Dialogue: 10,0:05:49.70,0:05:51.41,Default,Christina,0,0,0,,So that's what those Shadows look like.
 Dialogue: 10,0:05:52.12,0:05:56.12,Default,Christina,0,0,0,,What in the world is she trying to accomplish?
-Dialogue: 10,0:06:04.88,0:06:06.38,Default,Christina,0,0,0,,Well, no matter.
-Dialogue: 10,0:06:06.38,0:06:11.76,Default,Christina,0,0,0,,{\q2}There's no one else who satisfies \Nmy hunger like she does.
-Dialogue: 10,0:06:13.93,0:06:17.89,Default,Christina,0,0,0,,Now, I believe it's time for act two.
+Dialogue: 10,0:06:04.88,0:06:06.38,Default,Christina,0,0,0,,Whatever.
+Dialogue: 10,0:06:06.38,0:06:11.76,Default,Christina,0,0,0,,{\q2}There's nobody in the world \Nwho can quench my bloodthirst like she can.
+Dialogue: 10,0:06:13.93,0:06:17.89,Default,Christina,0,0,0,,I believe it's time for act two.
 Dialogue: 10,0:06:17.89,0:06:21.56,Default,Shadows,0,0,0,,Make more... Make more...
-Dialogue: 10,0:06:22.57,0:06:24.23,Default,Christina,0,0,0,,How fun.
+Dialogue: 10,0:06:22.57,0:06:24.23,Default,Christina,0,0,0,,Having fun?
 Dialogue: 10,0:06:24.23,0:06:27.49,Default,Christina,0,0,0,,What melody will you play for me next?
 Dialogue: 10,0:06:28.82,0:06:32.87,Default,Christina,0,0,0,,Now, come! We shall put on a grand show!
 Dialogue: 10,0:06:34.45,0:06:37.54,Default,Hatsune,0,0,0,,Let me go! I have to go save Shiorin!
 Dialogue: 10,0:06:37.54,0:06:40.00,Default,Misato,0,0,0,,Calm down. You can't do it alone.
 Dialogue: 10,0:06:40.00,0:06:41.00,Default,Rima,0,0,0,,Wait!
 Dialogue: 10,0:06:43.17,0:06:44.96,Default,Rima,0,0,0,,I'll go with you!
-Dialogue: 10,0:06:45.25,0:06:49.22,Default,Rima,0,0,0,,{\q2}Shiori was beyond excited \Nto finally come see you again!
-Dialogue: 10,0:06:49.84,0:06:51.14,Default,Kokkoro,0,0,0,,Miss Rima...
+Dialogue: 10,0:06:45.25,0:06:49.22,Default,Rima,0,0,0,,{\q2}Shiori{**-chan} was beyond excited \Nto finally see you again!
+Dialogue: 10,0:06:49.84,0:06:51.14,Default,Kokkoro,0,0,0,,{*}Miss Rima{*Rima-sama}...
 Dialogue: 10,0:06:51.84,0:06:53.05,Default,Yuuki,0,0,0,,I'll go, too.
-Dialogue: 10,0:06:53.05,0:06:54.22,Default,Aoi,0,0,0,,Yuuki?
+Dialogue: 10,0:06:53.05,0:06:54.22,Default,Aoi,0,0,0,,Yuuki{**-san}?
 Dialogue: 10,0:06:54.97,0:06:57.48,Default,Yuuki,0,0,0,,Team B-B doesn't abandon those who need help!
 Dialogue: 10,0:06:58.89,0:07:03.11,Default,Aoi,0,0,0,,Th-That's right. We're Team B-B!
 Dialogue: 10,0:07:03.11,0:07:06.19,Default,Aoi,0,0,0,,{\q2}If someone's in trouble, \Nwe help them, no questions asked!
-Dialogue: 10,0:07:06.19,0:07:08.90,Default,Aoi,0,0,0,,That's the kind of people we want to be!
-Dialogue: 10,0:07:10.24,0:07:12.82,Default,Kokkoro,0,0,0,,My lord, I will go, too.
-Dialogue: 10,0:07:13.66,0:07:15.08,Default,Hatsune,0,0,0,,Everyone...
-Dialogue: 10,0:07:15.08,0:07:16.66,Default,Hatsune,0,0,0,,Thank you.
-Dialogue: 10,0:07:17.12,0:07:19.16,Default,Pecorine,0,0,0,,Karyl, we should also—
-Dialogue: 10,0:07:23.21,0:07:24.34,Default,Pecorine,0,0,0,,Karyl?
-Dialogue: 10,0:07:26.50,0:07:29.76,Default,Charlie,0,0,0,,Ya think Peco lady's harvesting now?
-Dialogue: 10,0:07:30.80,0:07:32.59,Default,Ikacchi,0,0,0,,I guess so.
-Dialogue: 10,0:07:32.59,0:07:38.02,Default,Ikacchi,0,0,0,,{\q2}She said she'll feed us a meal with \Nthe legendary spice when she gets back.
-Dialogue: 10,0:07:38.02,0:07:40.73,Default,Charlie,0,0,0,,I'm already psyched, bro!
+Dialogue: 10,0:07:06.19,0:07:08.90,Default,Aoi,0,0,0,,That's the kind of people we strive to become!
+Dialogue: 10,0:07:10.24,0:07:12.82,Default,Kokkoro,0,0,0,,My lord, I will go with you.
+Dialogue: 10,0:07:13.66,0:07:15.08,Default,Hatsune,0,0,0,,You guys...
+Dialogue: 10,0:07:15.08,0:07:16.66,Default,Hatsune,0,0,0,,Thank you!
+Dialogue: 10,0:07:17.12,0:07:19.16,Default,Pecorine,0,0,0,,Karyl{**-chan}, we should also—
+Dialogue: 10,0:07:23.21,0:07:24.34,Default,Pecorine,0,0,0,,Karyl{**-chan}?
+Dialogue: 10,0:07:26.50,0:07:29.76,Default,Charlie,0,0,0,,Ya think our {*}Peco lady{*Peco-neesan}'s harvesting now?
+Dialogue: 10,0:07:30.80,0:07:32.59,Default,Ikacchi,0,0,0,,'Spose so.
+Dialogue: 10,0:07:32.59,0:07:38.02,Default,Ikacchi,0,0,0,,{\q2}I can't wait for her to prepare that dish \Nwith the legendary spice when she gets back.
+Dialogue: 10,0:07:38.02,0:07:40.73,Default,Charlie,0,0,0,,I'm psyched up, bro!
 Dialogue: 10,0:07:40.73,0:07:41.85,Default,Ikacchi,0,0,0,,I know!
-Dialogue: 10,0:07:43.56,0:07:46.65,Default,Ikacchi,0,0,0,,Look at that. It's our Landosol Castle.
-Dialogue: 10,0:07:47.36,0:07:50.15,Default,Charlie,0,0,0,,Wow, sure is pretty.
+Dialogue: 10,0:07:43.56,0:07:46.65,Default,Ikacchi,0,0,0,,Look at that. That's our Landosol Castle.
+Dialogue: 10,0:07:47.36,0:07:50.15,Default,Charlie,0,0,0,,Wow, sure's pretty.
 Dialogue: 10,0:07:50.99,0:07:55.16,Default,Ikacchi,0,0,0,,A toast to another day in our beautiful, peaceful Landosol.
 Dialogue: 10,0:07:55.62,0:07:58.04,Default,Charlie,0,0,0,,Cheers!
 Dialogue: 10,0:08:08.92,0:08:12.88,Default,Guy,0,0,0,,I don't like this. Something's odd.
-Dialogue: 10,0:08:12.88,0:08:14.72,Default,Guy,0,0,0,,'Tis a scary place.
+Dialogue: 10,0:08:12.88,0:08:14.72,Default,Guy,0,0,0,,'Tis scary here.
 Dialogue: 10,0:08:15.51,0:08:19.01,Default,Guy,0,0,0,,I don't like this. Something's odd.
-Dialogue: 10,0:08:19.52,0:08:21.27,Default,Guy,0,0,0,,'Tis a scary place.
+Dialogue: 10,0:08:19.52,0:08:21.27,Default,Guy,0,0,0,,'Tis scary here.
 Dialogue: 10,0:08:21.93,0:08:23.77,Default,Guy,0,0,0,,I don't like this.
-Dialogue: 10,0:08:34.91,0:08:37.70,Default,Kokkoro,0,0,0,,Miss Rima, how are your injuries?
+Dialogue: 10,0:08:34.91,0:08:37.70,Default,Kokkoro,0,0,0,,{*}Miss Rima{*Rima-sama}, how are your injuries?
 Dialogue: 10,0:08:37.70,0:08:41.70,Default,Rima,0,0,0,,All better thanks to your healing magic!
 Dialogue: 10,0:08:42.62,0:08:45.21,Default,Aoi,0,0,0,,The forest feels really strange.
 Dialogue: 10,0:08:45.96,0:08:49.42,Default,Aoi,0,0,0,,{\q2}It's as if it's holding its breath, \Nafraid of something...
 Dialogue: 10,0:08:49.42,0:08:52.17,Default,Hatsune,0,0,0,,I'll take a look from above.
-Dialogue: 10,0:08:52.84,0:08:55.89,Default,Rima,0,0,0,,Rimama?! Hatsune can fly?!
+Dialogue: 10,0:08:52.84,0:08:55.89,Default,Rima,0,0,0,,Rimama?! Hatsune{**-chan} can fly?!
 Dialogue: 10,0:08:55.89,0:08:57.72,Default,Kokkoro,0,0,0,,It's magic.
 Dialogue: 10,0:08:57.72,0:08:59.35,Default,Yuuki,0,0,0,,Not a superpower.
 Dialogue: 10,0:09:05.77,0:09:08.27,Default,Hatsune,0,0,0,,{\i1}Shiorin, where are you?
 Dialogue: 10,0:09:15.61,0:09:17.11,Default,Hatsune,0,0,0,,What was that?!
-Dialogue: 10,0:09:19.37,0:09:20.45,Default,Kokkoro,0,0,0,,Miss Hatsune!
-Dialogue: 10,0:09:20.49,0:09:21.54,Default,Aoi,0,0,0,,Hatsune!
-Dialogue: 10,0:09:29.38,0:09:30.63,Default,Hatsune,0,0,0,,Was that...?
+Dialogue: 10,0:09:19.37,0:09:20.45,Default,Kokkoro,0,0,0,,{*}Miss Hatsune{*Hatsune-sama}!
+Dialogue: 10,0:09:20.49,0:09:21.54,Default,Aoi,0,0,0,,Hatsune{**-san}!
+Dialogue: 10,0:09:29.38,0:09:30.63,Default,Hatsune,0,0,0,,Was that what I think...?
 Dialogue: 10,0:09:55.07,0:09:56.65,Default,Hatsune,0,0,0,,Shiorin!
 Dialogue: 10,0:09:56.65,0:09:58.99,Default,Hatsune,0,0,0,,Thank goodness you're all right!
 Dialogue: 10,0:10:20.80,0:10:22.68,Default,Hatsune,0,0,0,,Shiorin?
 Dialogue: 10,0:10:39.24,0:10:41.07,Default,Shiori,0,0,0,,Enchanted Arrow.
-Dialogue: 10,0:10:45.79,0:10:48.16,Default,Hatsune,0,0,0,,Shiorin, why...
+Dialogue: 10,0:10:45.79,0:10:48.16,Default,Hatsune,0,0,0,,Why, Shiorin?
 Dialogue: 10,0:11:00.63,0:11:03.10,Default,DarkShiori,0,0,0,,Make more. Make more.
 Dialogue: 10,0:11:03.10,0:11:05.72,Default,DarkShiori,0,0,0,,Make more of me.
-Dialogue: 10,0:11:08.81,0:11:10.27,Default,Aoi,0,0,0,,Hatsune!
+Dialogue: 10,0:11:08.81,0:11:10.27,Default,Aoi,0,0,0,,Hatsune{**-san}!
 Dialogue: 10,0:11:15.23,0:11:16.48,Default,Rima,0,0,0,,That arrow...
 Dialogue: 10,0:11:18.74,0:11:21.20,Default,Aoi,0,0,0,,You mean that attack earlier was...
 Dialogue: 10,0:11:22.20,0:11:23.78,Default,Hatsune,0,0,0,,Shiorin...
 Dialogue: 10,0:11:27.45,0:11:28.33,Default,Yuuki,0,0,0,,Let's go.
 Dialogue: 10,0:11:30.92,0:11:33.75,Default,Rima,0,0,0,,He's right! Let's go find out what's going on!
 Dialogue: 10,0:11:39.09,0:11:41.38,Default,Hatsune,0,0,0,,I'll find her again and confirm for myself!
-Dialogue: 10,0:11:47.68,0:11:50.48,Default,Karyl,0,0,0,,So they're doing it, huh?
-Dialogue: 10,0:11:50.48,0:11:54.23,Default,Karyl,0,0,0,,The one causing all this trouble's got to be her.
-Dialogue: 10,0:11:58.48,0:12:01.70,Default,Karyl,0,0,0,,My mission is to observe Pecorine.
+Dialogue: 10,0:11:47.68,0:11:50.48,Default,Karyl,0,0,0,,So they're going through with it, huh?
+Dialogue: 10,0:11:50.48,0:11:54.23,Default,Karyl,0,0,0,,She's got to be the instigator behind this.
+Dialogue: 10,0:11:58.48,0:12:01.70,Default,Karyl,0,0,0,,My mission is simply to observe Pecorine.
 Dialogue: 10,0:12:01.70,0:12:04.91,Default,Karyl,0,0,0,,Nobody told me the Shadows were active!
-Dialogue: 10,0:12:07.49,0:12:10.62,Default,Karyl,0,0,0,,If we don't stop them, the entire village could be...
-Dialogue: 10,0:12:12.21,0:12:14.33,Default,Pecorine,0,0,0,,Karyl!
-Dialogue: 10,0:12:16.96,0:12:19.25,Default,Pecorine,0,0,0,,Karyl!
-Dialogue: 10,0:12:22.63,0:12:25.97,Default,Karyl,0,0,0,,No need to yell. I'm right here.
-Dialogue: 10,0:12:25.97,0:12:27.39,Default,Pecorine,0,0,0,,Karyl!
+Dialogue: 10,0:12:07.49,0:12:10.62,Default,Karyl,0,0,0,,{\q2}If we don't stop them, \Nthe entire village could be... {## Generally I prefer finishing up sentences, but I feel that here it works to not do that}
+Dialogue: 10,0:12:12.21,0:12:14.33,Default,Pecorine,0,0,0,,Karyl{**-chan}!
+Dialogue: 10,0:12:16.96,0:12:19.25,Default,Pecorine,0,0,0,,Karyl{**-chan}!
+Dialogue: 10,0:12:22.63,0:12:25.97,Default,Karyl,0,0,0,,You don't need to yell. \NI can hear you just fine.
+Dialogue: 10,0:12:25.97,0:12:27.39,Default,Pecorine,0,0,0,,Karyl{**-chan}!
 Dialogue: 10,0:12:27.97,0:12:29.81,Default,Pecorine,0,0,0,,I'm so relieved!
 Dialogue: 10,0:12:29.81,0:12:31.10,Default,Karyl,0,0,0,,Relieved?
 Dialogue: 10,0:12:31.10,0:12:35.35,Default,Pecorine,0,0,0,,{\q2}You looked down earlier, \Nso I was wondering if you were okay.
-Dialogue: 10,0:12:36.40,0:12:40.19,Default,Karyl,0,0,0,,Wh-What's that? I'm always like this.
-Dialogue: 10,0:12:40.19,0:12:43.53,Default,Karyl,0,0,0,,I'm not some happy camper like you!
-Dialogue: 10,0:12:48.83,0:12:50.12,Default,Karyl,0,0,0,,Wh-What?
+Dialogue: 10,0:12:36.40,0:12:40.19,Default,Karyl,0,0,0,,{\q2}H-How'd I look down? \NI'm no different from usual.
+Dialogue: 10,0:12:40.19,0:12:43.53,Default,Karyl,0,0,0,,Sorry for not being a happy camper like you!
+Dialogue: 10,0:12:48.83,0:12:50.12,Default,Karyl,0,0,0,,Wh-What do you want?
 Dialogue: 10,0:12:51.91,0:12:55.29,Default,Pecorine,0,0,0,,Yeah! This is how you ought to be!
-Dialogue: 10,0:12:57.54,0:12:59.63,Default,Karyl,0,0,0,,D-Don't be stupid.
-Dialogue: 10,0:13:00.25,0:13:05.13,Default,Pecorine,0,0,0,,{\q2}Well, come on! Let's go with Yuuki \Nand the others and look for Shiori!
+Dialogue: 10,0:12:57.54,0:12:59.63,Default,Karyl,0,0,0,,D-Don't be silly.
+Dialogue: 10,0:13:00.25,0:13:05.13,Default,Pecorine,0,0,0,,{\q2}Come on! Let's go with Yuuki{**-kun} \Nand the others and look for Shiori{**-chan}!
 Dialogue: 10,0:13:06.18,0:13:07.51,Default,Pecorine,0,0,0,,Those voices...
 Dialogue: 10,0:13:07.51,0:13:09.64,Default,Karyl,0,0,0,,Wai—Pecorine!
 Dialogue: 10,0:13:11.77,0:13:14.77,Default,Shadow,0,0,0,,Make more... Make more...
-Dialogue: 10,0:13:20.32,0:13:21.90,Default,Kid,0,0,0,,Help me!
-Dialogue: 10,0:13:21.90,0:13:24.40,Default,Pecorine,0,0,0,,Coming right up!
+Dialogue: 10,0:13:20.32,0:13:21.90,Default,Kid,0,0,0,,Save me!
+Dialogue: 10,0:13:21.90,0:13:23.99,Default,Pecorine,0,0,0,,Help's coming right up!
 Dialogue: 10,0:13:27.20,0:13:28.95,Default,Pecorine,0,0,0,,You have nothing to fear.
 Dialogue: 10,0:13:28.95,0:13:31.37,Default,Pecorine,0,0,0,,I'll take care of these nasty monsters.
 Dialogue: 10,0:13:31.37,0:13:33.45,Default,Kid,0,0,0,,Thank you, lady!
 Dialogue: 10,0:13:41.05,0:13:43.76,Default,DarkShiori,0,0,0,,Make more. Make more.
 Dialogue: 10,0:13:43.76,0:13:47.76,Default,Shadow,0,0,0,,Make more of me.
 Dialogue: 10,0:13:51.01,0:13:52.22,Default,Karyl,0,0,0,,Pecorine...
-Dialogue: 10,0:13:54.64,0:13:55.85,Default,Rima,0,0,0,,What's that?
+Dialogue: 10,0:13:54.64,0:13:55.85,Default,Rima,0,0,0,,What's going on?
 Dialogue: 10,0:13:55.85,0:13:58.31,Default,Kokkoro,0,0,0,,Is the village under attack?
 Dialogue: 10,0:13:58.31,0:14:00.94,Default,Aoi,0,0,0,,W-We have to hurry back!
-Dialogue: 10,0:14:00.94,0:14:02.86,Default,Christina,0,0,0,,Wait just a minute.
+Dialogue: 10,0:14:00.94,0:14:02.86,Default,Christina,0,0,0,,Oh no, you don't.
 Dialogue: 10,0:14:03.78,0:14:07.36,Default,Christina,0,0,0,,A fun new act is about to begin.
-Dialogue: 10,0:14:07.36,0:14:09.87,Default,Christina,0,0,0,,Don't put a dampener on it.
-Dialogue: 10,0:14:13.37,0:14:17.00,Default,Rima,0,0,0,,{\q2}Careful, everyone! That's the \Nswordswoman who attacked us!
+Dialogue: 10,0:14:07.36,0:14:09.87,Default,Christina,0,0,0,,Let's not dampen those spirits now.
+Dialogue: 10,0:14:13.37,0:14:15.00,Default,Rima,0,0,0,,Careful, everyone!
+Dialogue: 10,0:14:15.00,0:14:17.00,Default,Rima,0,0,0,,That's the swordswoman who attacked us!
 Dialogue: 10,0:14:20.29,0:14:24.21,Default,Hatsune,0,0,0,,Do you know what's going on here?
-Dialogue: 10,0:14:26.72,0:14:29.09,Default,Christina,0,0,0,,If you want to know,
-Dialogue: 10,0:14:29.09,0:14:30.72,Default,Christina,0,0,0,,let our swords do the speaking.
+Dialogue: 10,0:14:26.72,0:14:29.09,Default,Christina,0,0,0,,If you want to ask so badly,
+Dialogue: 10,0:14:29.09,0:14:30.72,Default,Christina,0,0,0,,let your blades do the asking.
 Dialogue: 10,0:14:44.44,0:14:45.69,Default,Rima,0,0,0,,Rima!
 Dialogue: 10,0:15:07.51,0:15:08.59,Default,Kokkoro,0,0,0,,My lord!
-Dialogue: 10,0:15:08.59,0:15:09.34,Default,Aoi,0,0,0,,Yuuki!
-Dialogue: 10,0:15:09.34,0:15:10.59,Default,Hatsune,0,0,0,,Yuuki!
-Dialogue: 10,0:15:12.72,0:15:14.81,Default,Ameth,0,0,0,,Wake up! Wake up!
+Dialogue: 10,0:15:08.59,0:15:09.34,Default,Aoi,0,0,0,,Yuuki{**-san}!
+Dialogue: 10,0:15:09.34,0:15:10.59,Default,Hatsune,0,0,0,,Yuuki{**-kun}!
+Dialogue: 10,0:15:12.72,0:15:14.81,Default,Ameth,0,0,0,,Wake up! Now!
 Dialogue: 10,0:15:14.81,0:15:16.10,Default,Ameth,0,0,0,,Open your eyes, Yuuki!
-Dialogue: 10,0:15:17.81,0:15:20.02,Default,Ameth,0,0,0,,Good. You seem fine.
+Dialogue: 10,0:15:17.81,0:15:20.02,Default,Ameth,0,0,0,,Good, you're still with me.
 Dialogue: 10,0:15:20.02,0:15:21.27,Default,Yuuki,0,0,0,,What about the others?!
 Dialogue: 10,0:15:23.94,0:15:26.32,Default,Ameth,0,0,0,,This is basically a dream.
 Dialogue: 10,0:15:26.32,0:15:30.07,Default,Ameth,0,0,0,,I just called your consciousness forth temporarily.
-Dialogue: 10,0:15:30.57,0:15:31.70,Default,Yuuki,0,0,0,,You mean...
-Dialogue: 10,0:15:32.78,0:15:35.78,Default,Ameth,0,0,0,,Kokkoro and the others are still in combat.
-Dialogue: 10,0:15:36.24,0:15:40.25,Default,Ameth,0,0,0,,No... they can't even put up a fight against her.
+Dialogue: 10,0:15:30.57,0:15:31.70,Default,Yuuki,0,0,0,,So the others are...
+Dialogue: 10,0:15:32.78,0:15:35.78,Default,Ameth,0,0,0,,Kokkoro{**-tan} and the others are still in combat.
+Dialogue: 10,0:15:36.24,0:15:40.25,Default,Ameth,0,0,0,,No. They can't even put up a fight against her.
 Dialogue: 10,0:15:41.29,0:15:42.46,Default,Ameth,0,0,0,,They'll be slaughtered.
 Dialogue: 10,0:15:43.00,0:15:45.46,Default,Yuuki,0,0,0,,Send me back! Right now!
 Dialogue: 10,0:15:46.75,0:15:49.88,Default,Ameth,0,0,0,,I wasn't expecting Christina to pop up so soon.
 Dialogue: 10,0:15:50.34,0:15:51.76,Default,Yuuki,0,0,0,,You've met her before?
 Dialogue: 10,0:15:52.22,0:15:53.64,Default,Ameth,0,0,0,,Many times.
 Dialogue: 10,0:15:53.64,0:15:57.35,Default,Ameth,0,0,0,,I doubt she even remembers that, though.
-Dialogue: 10,0:15:57.76,0:16:01.64,Default,Ameth,0,0,0,,{\q2}Understand this: I can't get involved \Nwith the real world yet.
-Dialogue: 10,0:16:02.14,0:16:06.06,Default,Ameth,0,0,0,,The fate of Kokkoro and co lies on your shoulders.
+Dialogue: 10,0:15:57.76,0:16:01.64,Default,Ameth,0,0,0,,{\q2}Understand this: I can't get involved with the real world yet.
+Dialogue: 10,0:16:02.14,0:16:06.06,Default,Ameth,0,0,0,,The fate of Kokkoro{**-tan} and co lies on your shoulders.
 Dialogue: 10,0:16:06.73,0:16:09.65,Default,Ameth,0,0,0,,The only way to put up a fight against Christina
-Dialogue: 10,0:16:09.65,0:16:12.24,Default,Ameth,0,0,0,,is by unleashing your Princess Knight ability.
+Dialogue: 10,0:16:09.65,0:16:12.24,Default,Ameth,0,0,0,,is by unleashing your Princess Knight ability. {### drop "ability"? I'm not familiar enough with the game}
 Dialogue: 10,0:16:13.53,0:16:16.12,Default,Yuuki,0,0,0,,Princess... Knight?
 Dialogue: 10,0:16:16.62,0:16:18.79,Default,Ameth,0,0,0,,You once made use of this power
 Dialogue: 10,0:16:18.79,0:16:20.66,Default,Ameth,0,0,0,,before losing your memories.
@@ -244,33 +245,33 @@ Dialogue: 10,0:17:15.18,0:17:17.26,Default,Rima,0,0,0,,I feel power welling up i
 Dialogue: 10,0:17:19.51,0:17:21.52,Default,Kokkoro,0,0,0,,Let us advance.
 Dialogue: 10,0:17:22.02,0:17:23.27,Default,Christina,0,0,0,,Is this
 Dialogue: 10,0:17:24.35,0:17:26.27,Default,Christina,0,0,0,,your power?
-Dialogue: 10,0:17:26.27,0:17:27.90,Default,Rima,0,0,0,,Here I go!
+Dialogue: 10,0:17:26.27,0:17:27.90,Default,Rima,0,0,0,,Here I come!
 Dialogue: 10,0:17:27.90,0:17:29.86,Default,Rima,0,0,0,,Metamorapple!
 Dialogue: 10,0:17:30.69,0:17:34.32,Default,Rima,0,0,0,,Rima, rima!
-Dialogue: 10,0:17:36.36,0:17:38.28,Default,Rima,0,0,0,,Many thanks, Yuuki!
+Dialogue: 10,0:17:36.36,0:17:38.28,Default,Rima,0,0,0,,Many a thanks, Yuuki!
 Dialogue: 10,0:17:42.70,0:17:43.75,Default,Christina,0,0,0,,What?
-Dialogue: 10,0:17:45.12,0:17:46.50,Default,Aoi,0,0,0,,I've got you.
+Dialogue: 10,0:17:45.12,0:17:46.50,Default,Aoi,0,0,0,,I've got you now.
 Dialogue: 10,0:17:54.38,0:17:55.63,Default,Hatsune,0,0,0,,Wish upon a star!
 Dialogue: 10,0:17:58.01,0:17:59.89,Default,Hatsune,0,0,0,,Shooting Star!
 Dialogue: 10,0:18:22.66,0:18:24.12,Default,Kokkoro,0,0,0,,I wish you luck!
-Dialogue: 10,0:18:31.96,0:18:33.59,Default,Christina,0,0,0,,How interesting.
+Dialogue: 10,0:18:31.96,0:18:33.59,Default,Christina,0,0,0,,Interesting.
 Dialogue: 10,0:18:33.59,0:18:37.59,Default,Christina,0,0,0,,{\q2}Your party's power has grown so much, \Nthey almost seem like different people.
 Dialogue: 10,0:18:38.18,0:18:41.01,Default,Christina,0,0,0,,And... this isn't magic, is it?
 Dialogue: 10,0:18:45.39,0:18:46.68,Default,Kokkoro,0,0,0,,My lord!
-Dialogue: 10,0:18:49.85,0:18:51.56,Default,Christina,0,0,0,,What's your name?
+Dialogue: 10,0:18:49.85,0:18:51.56,Default,Christina,0,0,0,,State your name.
 Dialogue: 10,0:18:52.06,0:18:53.27,Default,Yuuki,0,0,0,,Yuuki.
-Dialogue: 10,0:18:55.94,0:18:59.11,Default,Christina,0,0,0,,{\q2}This day has yielded a greater \Nharvest than I anticipated.
-Dialogue: 10,0:18:59.11,0:19:02.03,Default,Christina,0,0,0,,It's been too long since I've had such a good time.
+Dialogue: 10,0:18:55.94,0:18:59.11,Default,Christina,0,0,0,,{\q2}This day has yielded \Na greater harvest than I anticipated.
+Dialogue: 10,0:18:59.11,0:19:02.03,Default,Christina,0,0,0,,I haven't had such a good time in a while.
 Dialogue: 10,0:19:04.24,0:19:08.50,Default,Christina,0,0,0,,Oh, yes. As for that archer beast...
 Dialogue: 10,0:19:09.92,0:19:12.92,Default,Christina,0,0,0,,She's most likely been swallowed by a Shadow.
-Dialogue: 10,0:19:13.38,0:19:16.46,Default,Christina,0,0,0,,If she is still herself, then perhaps...
+Dialogue: 10,0:19:13.38,0:19:16.46,Default,Christina,0,0,0,,If she's still herself... Who knows?
 Dialogue: 10,0:19:17.42,0:19:19.01,Default,Hatsune,0,0,0,,Shiorin!
-Dialogue: 10,0:19:32.23,0:19:33.27,Default,Karyl,0,0,0,,{\i1}That's right.
+Dialogue: 10,0:19:32.23,0:19:33.27,Default,Karyl,0,0,0,,{\i1}I can't forget.
 Dialogue: 10,0:19:33.27,0:19:37.28,Default,Karyl,0,0,0,,{\i1}My mission is to observe Pecorine and Yuuki.
 Dialogue: 10,0:19:38.40,0:19:42.70,Default,Karyl,0,0,0,,{\q2\i1}I just... I just need to continue \Nkeeping an eye on where this goes.
 Dialogue: 10,0:19:45.03,0:19:48.41,Default,Pecorine,0,0,0,,Yeah! This is how you ought to be!
-Dialogue: 10,0:20:00.17,0:20:02.63,Default,Pecorine,0,0,0,,My tummy's giving in...
-Dialogue: 10,0:20:02.63,0:20:07.10,Default,Pecorine,0,0,0,,{\a2}I would've gone for a bigger breakfast \Nhad I known this would happen...
+Dialogue: 10,0:20:00.17,0:20:02.63,Default,Pecorine,0,0,0,,My tummy's caving in...
+Dialogue: 10,0:20:02.63,0:20:07.10,Default,Pecorine,0,0,0,,{\a2}I would've had a larger breakfast \Nhad I known this would happen.
 Dialogue: 10,0:20:09.93,0:20:14.98,Default,Shadows,0,0,0,,Make more... Make more...
 Dialogue: 10,0:20:21.90,0:20:24.32,Default,Karyl,0,0,0,,What do you think you're doing, Pecorine?
 Dialogue: 10,0:20:31.08,0:20:34.83,Default,Karyl,0,0,0,,{\q2}We have to get rid of these fiends \Nand harvest a lot of spice, no?
@@ -290,45 +291,46 @@ Dialogue: 10,0:21:23.26,0:21:25.09,Default,Hatsune,0,0,0,,Stay strong, Shiorin!
 Dialogue: 10,0:21:25.09,0:21:26.89,Default,Hatsune,0,0,0,,We're getting out of here!
 Dialogue: 10,0:21:29.26,0:21:31.52,Default,Shiori,0,0,0,,Hatsune?
 Dialogue: 10,0:21:32.14,0:21:34.39,Default,Hatsune,0,0,0,,Don't fall asleep, Shiorin!
-Dialogue: 10,0:21:34.39,0:21:37.52,Default,Hatsune,0,0,0,,{\q2}Sleeping is {\i1}my{\i0} job! Things will \Nget hairy if you take over my job!
+Dialogue: 10,0:21:34.39,0:21:37.52,Default,Hatsune,0,0,0,,{\q2}Sleeping is {\i1}my{\i0} job! \NThings will get hairy if you take over!
 Dialogue: 10,0:21:37.52,0:21:39.02,Default,Hatsune,0,0,0,,Come on, let's go!
 Dialogue: 10,0:21:39.52,0:21:40.61,Default,Shiori,0,0,0,,I can't.
-Dialogue: 10,0:21:41.48,0:21:46.45,Default,Shiori,0,0,0,,I'll... only be a burden to you.
-Dialogue: 10,0:21:46.95,0:21:50.03,Default,Shiori,0,0,0,,If this goes on, we'll both...
-Dialogue: 10,0:21:50.99,0:21:55.91,Default,Shiori,0,0,0,,{\q2}So you have to get out of here, \Neven if you're the only one...
-Dialogue: 10,0:21:58.79,0:22:00.50,Default,Shiori,0,0,0,,Hatsune?
+Dialogue: 10,0:21:41.48,0:21:46.45,Default,Shiori,0,0,0,,I'll only be a burden to you.
+Dialogue: 10,0:21:46.95,0:21:50.03,Default,Shiori,0,0,0,,If this goes on, we'll both disappear.
+Dialogue: 10,0:21:50.99,0:21:55.91,Default,Shiori,0,0,0,,{\q2}So you have to get out of here, \Neven if you need to leave me behind.
+Dialogue: 10,0:21:58.79,0:22:00.50,Default,Shiori,0,0,0,,Hwyatsune?
 Dialogue: 10,0:22:01.25,0:22:03.88,Default,Hatsune,0,0,0,,You're not a burden at all, Shiorin.
-Dialogue: 10,0:22:04.42,0:22:08.30,Default,Hatsune,0,0,0,,You're always cheering me up!
+Dialogue: 10,0:22:04.42,0:22:08.27,Default,Hatsune,0,0,0,,You always cheer me up!
 Dialogue: 10,0:22:11.39,0:22:12.60,Default,Hatsune,0,0,0,,Remember what I told you?
-Dialogue: 10,0:22:13.14,0:22:17.39,Default,Hatsune,0,0,0,,I'll just carry you on my back and fly away!
-Dialogue: 10,0:22:22.27,0:22:25.19,Default,ShadoW,0,0,0,,Make more... Make more...
+Dialogue: 10,0:22:13.14,0:22:17.39,Default,Hatsune,0,0,0,,I'll just carry you on my back \Nand soar through the sky!
+Dialogue: 10,0:22:22.27,0:22:25.19,Default,Shadow,0,0,0,,Make more... Make more...
 Dialogue: 10,0:22:25.19,0:22:27.28,Default,Shadow,0,0,0,,Make more of me...
 Dialogue: 10,0:22:27.28,0:22:28.74,Default,Hatsune,0,0,0,,A Shadow!
-Dialogue: 10,0:22:30.70,0:22:33.24,Default,Hatsune,0,0,0,,I used too much of my power...
+Dialogue: 10,0:22:30.70,0:22:33.24,Default,Hatsune,0,0,0,,I used too much of my power.
 Dialogue: 10,0:22:33.24,0:22:35.29,Default,Hatsune,0,0,0,,I made it this far, and yet...
 Dialogue: 10,0:22:36.04,0:22:37.54,Default,Hatsune,0,0,0,,Shiorin?
 Dialogue: 10,0:22:38.71,0:22:41.04,Default,Shiori,0,0,0,,Thank you, Hatsune.
 Dialogue: 10,0:22:41.04,0:22:43.04,Default,Shiori,0,0,0,,Thank you for always protecting me.
-Dialogue: 10,0:22:43.96,0:22:48.34,Default,Shiori,0,0,0,,One day, I will be the one to protect you.
+Dialogue: 10,0:22:43.96,0:22:48.34,Default,Shiori,0,0,0,,I hope that one day, I will be able to protect you.
 Dialogue: 10,0:22:48.34,0:22:52.51,Default,Shiori,0,0,0,,That is my wish, and my goal.
 Dialogue: 10,0:22:58.94,0:23:00.81,Default,Hatsune,0,0,0,,I'm right here with you.
 Dialogue: 10,0:23:06.07,0:23:08.65,Default,Both,0,0,0,,Enchanted Arrow!
 Dialogue: 10,0:23:21.25,0:23:22.58,Default,Shiori,0,0,0,,Get out...
 Dialogue: 10,0:23:24.42,0:23:29.13,Default,Shiori,0,0,0,,Get out of me!
 Dialogue: 10,0:23:32.80,0:23:33.85,Default,Kokkoro,0,0,0,,That's...
-Dialogue: 10,0:23:41.77,0:23:42.60,Default,Pecorine,0,0,0,,Karyl!
-Dialogue: 10,0:23:42.65,0:23:46.15,Default,Karyl,0,0,0,,I know! You'd better do this right!
+Dialogue: 10,0:23:41.77,0:23:42.60,Default,Pecorine,0,0,0,,Karyl{**-chan}!
+Dialogue: 10,0:23:42.65,0:23:44.61,Default,Karyl,0,0,0,,I know!
+Dialogue: 10,0:23:44.61,0:23:46.11,Default,Karyl,0,0,0,,Don't mess this up now!
 Dialogue: 10,0:23:47.44,0:23:49.61,Default,Karyl,0,0,0,,Dark Vortex!
 Dialogue: 10,0:23:56.66,0:23:58.45,Default,Pecorine,0,0,0,,Full power! Full throttle!
 Dialogue: 10,0:23:59.37,0:24:02.12,Default,Pecorine,0,0,0,,Princess Strike!
-Dialogue: 10,0:24:17.31,0:24:19.02,Default,Karyl,0,0,0,,Talk about sloppy.
-Dialogue: 10,0:24:19.02,0:24:21.14,Default,Karyl,0,0,0,,You must not have eaten enough.
+Dialogue: 10,0:24:17.31,0:24:19.02,Default,Karyl,0,0,0,,Boy, talk about sloppy.
+Dialogue: 10,0:24:19.02,0:24:21.14,Default,Karyl,0,0,0,,Did you skimp out on breakfast or something?
 Dialogue: 10,0:24:27.69,0:24:29.94,Default,Pecorine,0,0,0,,I sure am hungry.
-Dialogue: 10,0:24:33.07,0:24:34.95,Default,Rima,0,0,0,,Shiori?
-Dialogue: 10,0:24:38.37,0:24:39.58,Default,Shiori,0,0,0,,Rima...
-Dialogue: 10,0:24:42.54,0:24:46.13,Default,Rima,0,0,0,,Thank goodness! She's the usual Shiori again!
-Dialogue: 10,0:24:47.46,0:24:48.92,Default,Aoi,0,0,0,,Is Hatsune all right?!
-Dialogue: 10,0:24:53.80,0:24:56.18,Default,Aoi,0,0,0,,She's... sleeping?
+Dialogue: 10,0:24:33.07,0:24:34.95,Default,Rima,0,0,0,,Shiori{**-chan}?
+Dialogue: 10,0:24:38.37,0:24:39.58,Default,Shiori,0,0,0,,Rima{**-san}.
+Dialogue: 10,0:24:42.54,0:24:46.13,Default,Rima,0,0,0,,Thank goodness! That's our usual Shiori{**-chan}!
+Dialogue: 10,0:24:47.46,0:24:48.92,Default,Aoi,0,0,0,,Is Hatsune{**-san} all right?!
+Dialogue: 10,0:24:53.80,0:24:56.18,Default,Aoi,0,0,0,,She's... sound asleep?
 Dialogue: 10,0:24:59.35,0:25:00.85,Default,Shiori,0,0,0,,Shh.
-Dialogue: 10,0:26:37.32,0:26:38.82,Default,Karyl,0,0,0,,{\pos(1438,1024)}Wow! This is so good!
-Dialogue: 10,0:26:38.82,0:26:39.82,Default,Pecorine,0,0,0,,{\pos(1438,1024)}So good!
+Dialogue: 10,0:26:37.32,0:26:38.82,Default,Pecorine,0,0,0,,{\pos(1438,1024)}Wow! This is so good!
+Dialogue: 10,0:26:38.82,0:26:39.82,Default,Karyl,0,0,0,,{\pos(1438,1024)}So good!
