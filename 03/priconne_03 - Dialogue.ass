@@ -44,10 +44,10 @@ Dialogue: 10,0:02:13.15,0:02:14.23,Default,Pecorine,0,0,0,,Heya!
 Dialogue: 10,0:02:14.23,0:02:16.62,Default,Pecorine,0,0,0,,Ten plates of fried rice, extra large!
 Dialogue: 10,0:02:19.47,0:02:21.55,Default,Owner,0,0,0,,Thank you for your patronage!
 Dialogue: 10,0:02:24.04,0:02:26.37,Default,Pecorine,0,0,0,,The fried rice here is the best.
-Dialogue: 10,0:02:26.37,0:02:27.63,Default,Charlie,0,0,0,,Peco lady!
+Dialogue: 10,0:02:26.37,0:02:27.63,Default,Charlie,0,0,0,,{*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:02:28.44,0:02:30.40,Default,Pecorine,0,0,0,,Oh! The beriberi man!
 Dialogue: 10,0:02:30.40,0:02:32.63,Default,Pecorine,0,0,0,,Heya!
-Dialogue: 10,0:02:32.63,0:02:35.28,Default,Ikacchi,0,0,0,,We've been looking all over for ya, Peco lady!
+Dialogue: 10,0:02:32.63,0:02:35.28,Default,Ikacchi,0,0,0,,We've been looking all over for ya, {*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:02:35.76,0:02:38.77,Default,Charlie,0,0,0,,We still ain't thanked ya for saving our sorry hides!
 Dialogue: 10,0:02:38.77,0:02:40.96,Default,Ikacchi,0,0,0,,{\q2}There's this great restaurant \Nwe go to all the time!
 Dialogue: 10,0:02:40.96,0:02:43.16,Default,Pecorine,0,0,0,,With tasty menus?! That's crazy!
@@ -71,7 +71,7 @@ Dialogue: 10,0:04:12.21,0:04:14.36,Default,Kokkoro,0,0,0,,Well, shall we go?
 Dialogue: 10,0:04:16.84,0:04:18.68,Default,Kokkoro,0,0,0,,I wonder where those two are.
 Dialogue: 10,0:04:18.68,0:04:19.94,Default,Guy,0,0,0,,Whoa, hang on!
 Dialogue: 10,0:04:19.94,0:04:21.11,Default,Guy,0,0,0,,You {\i1}still{\i0} want to eat more?
-Dialogue: 10,0:04:21.11,0:04:24.85,Default,Ikacchi,0,0,0,,{\q2}You utter imbecile! Don't you {\i1}dare{\i0} \Nunderestimate our Peco lady!
+Dialogue: 10,0:04:21.11,0:04:24.85,Default,Ikacchi,0,0,0,,{\q2}You utter imbecile! Don't you {\i1}dare{\i0} \Nunderestimate our {*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:04:24.85,0:04:26.61,Default,Kokkoro,0,0,0,,There they are.
 Dialogue: 10,0:04:27.26,0:04:27.87,Default,Kokkoro,0,0,0,,Oh?
 Dialogue: 10,0:04:27.87,0:04:29.13,Default,Kokkoro,0,0,0,,Might that be...?
@@ -81,25 +81,25 @@ Dialogue: 10,0:04:41.22,0:04:43.89,Default,Karyl,0,0,0,,C'mon, show me your weak
 Dialogue: 10,0:04:44.58,0:04:48.14,Default,Karyl,0,0,0,,{\q2}Then I'll finally snatch you up, \Ncut you into little bite-sized pieces, and then...
 Dialogue: 10,0:04:48.79,0:04:49.63,Default,Yuuki,0,0,0,,Heya.
 Dialogue: 10,0:04:51.84,0:04:55.40,Default,Karyl,0,0,0,,{\q2}S-Stop sneaking up behind people \Nbefore I kill you!
-Dialogue: 10,0:04:55.94,0:04:57.92,Default,Kokkoro,0,0,0,,Good day to you, Miss Karyl.
+Dialogue: 10,0:04:55.94,0:04:57.92,Default,Kokkoro,0,0,0,,Good day to you, {*}Miss Karyl{*Kyaru-sama}.
 Dialogue: 10,0:04:57.92,0:05:01.27,Default,Kokkoro,0,0,0,,What might you be doing over there?
 Dialogue: 10,0:05:01.27,0:05:03.89,Default,Karyl,0,0,0,,N-N-N-Nothing...
 Dialogue: 10,0:05:03.89,0:05:08.53,Default,Karyl,0,0,0,,{\q2}I just felt like grabbing a bite, \Nso I wanted to see what they were serving here.
 Dialogue: 10,0:05:08.99,0:05:11.26,Default,Kokkoro,0,0,0,,{\q2}Our timing couldn't have been \Nmore perfect, then.
 Dialogue: 10,0:05:11.26,0:05:14.59,Default,Pecorine,0,0,0,,Master! Another serving, pretty please!
-Dialogue: 10,0:05:14.59,0:05:17.44,Default,Kokkoro,0,0,0,,{\q2}By the sounds of it, \NMiss Pecorine is here as well.
+Dialogue: 10,0:05:14.59,0:05:17.44,Default,Kokkoro,0,0,0,,{\q2}By the sounds of it, \N{*}Miss Pecorine{*Pecorine-sama} is here as well.
 Dialogue: 10,0:05:17.44,0:05:19.43,Default,Kokkoro,0,0,0,,Would you care to join us?
 Dialogue: 10,0:05:19.43,0:05:22.30,Default,Karyl,0,0,0,,And exactly {\i1}why{\i0} should I eat together with—
 Dialogue: 10,0:05:30.80,0:05:32.04,Default,Pecorine,0,0,0,,Oh, it's y'all!
 Dialogue: 10,0:05:32.73,0:05:34.00,Default,Pecorine,0,0,0,,Heya!
 Dialogue: 10,0:05:34.00,0:05:35.43,Default,Both,0,0,0,,Heya.
-Dialogue: 10,0:05:36.16,0:05:39.72,Default,Pecorine,0,0,0,,Ikacchi and Charlie just finished eating.
+Dialogue: 10,0:05:36.16,0:05:39.72,Default,Pecorine,0,0,0,,Ikacchi{**-san} and Charlie{**-san} just finished eating.
 Dialogue: 10,0:05:39.72,0:05:41.68,Default,Pecorine,0,0,0,,Come join me!
 Dialogue: 10,0:05:41.68,0:05:45.33,Default,Ikacchi,0,0,0,,Y-Yeah... You guys go enjoy yourselves.
 Dialogue: 10,0:05:47.22,0:05:51.17,Default,Kokkoro,0,0,0,,This restaurant's food really is delicious.
 Dialogue: 10,0:05:51.17,0:05:52.38,Default,Yuuki,0,0,0,,The best!
 Dialogue: 10,0:05:52.38,0:05:53.94,Default,Pecorine,0,0,0,,Isn't it?
-Dialogue: 10,0:05:53.94,0:05:57.44,Default,Pecorine,0,0,0,,You seem a bit low on energy, Karyl.
+Dialogue: 10,0:05:53.94,0:05:57.44,Default,Pecorine,0,0,0,,You seem a bit low on energy, {*}Karyl{*Kyaru-chan}.
 Dialogue: 10,0:05:57.44,0:06:00.12,Default,Pecorine,0,0,0,,What's the matter? Are you anemic?
 Dialogue: 10,0:06:00.12,0:06:02.22,Default,Pecorine,0,0,0,,Eating tasty food will fix that!
 Dialogue: 10,0:06:02.22,0:06:04.10,Default,Pecorine,0,0,0,,By all means!
@@ -111,13 +111,13 @@ Dialogue: 10,0:06:20.86,0:06:22.86,Default,Karyl,0,0,0,,Fish and chips, then.
 Dialogue: 10,0:06:28.29,0:06:30.87,Default,Owner,0,0,0,,No can do. We ain't got the ingredients.
 Dialogue: 10,0:06:33.68,0:06:36.34,Default,Karyl,0,0,0,,This is all because you're such a damn glutton!
 Dialogue: 10,0:06:36.34,0:06:38.94,Default,Karyl,0,0,0,,{\q2}This mouth! It's this portal \Nto an infinite dimension's fault!
-Dialogue: 10,0:06:38.21,0:06:40.63,Alt,Pecorine,0,0,0,,Ow! It hurts, Karyl! It hurts!
+Dialogue: 10,0:06:38.21,0:06:40.63,Alt,Pecorine,0,0,0,,Ow! It hurts, {*}Karyl{*Kyaru-chan}! It hurts!
 Dialogue: 10,0:06:40.91,0:06:43.70,Default,Kokkoro,0,0,0,,I suppose we should go to a different restaurant.
-Dialogue: 10,0:06:43.70,0:06:46.13,Default,Pecorine,0,0,0,,Nhot so fwast, Kokkowo!
+Dialogue: 10,0:06:43.70,0:06:46.13,Default,Pecorine,0,0,0,,Nhot so fwast, Kokkowo{**-chan}!
 Dialogue: 10,0:06:46.60,0:06:50.52,Default,Pecorine,0,0,0,,I heard dis restaurant has a secwet menu!
 Dialogue: 10,0:06:50.52,0:06:51.76,Default,Karyl,0,0,0,,A secret menu?
 Dialogue: 10,0:06:52.57,0:06:56.40,Default,Owner,0,0,0,,Miss, might I ask where you heard that?
-Dialogue: 10,0:06:58.54,0:07:00.52,Default,Pecorine,0,0,0,,It was Ikacchi.
+Dialogue: 10,0:06:58.54,0:07:00.52,Default,Pecorine,0,0,0,,It was Ikacchi{**-san}.
 Dialogue: 10,0:07:01.99,0:07:04.13,Default,Pecorine,0,0,0,,Master! We'll have the secret menu!
 Dialogue: 10,0:07:12.03,0:07:17.17,Default,Pecorine,0,0,0,,{\q2}Well then, it's time to start today's \Nmain event: the bug food party!
 Dialogue: 10,0:07:17.17,0:07:18.54,Default,Both,0,0,0,,{\move(960,1022,960,1142,900,1000)}Yay!
@@ -128,7 +128,7 @@ Dialogue: 10,0:07:24.66,0:07:27.53,Default,Karyl,0,0,0,,{\q2}I don't get you! \N
 Dialogue: 10,0:07:27.53,0:07:30.56,Default,Kokkoro,0,0,0,,I'm quite intrigued by this concept.
 Dialogue: 10,0:07:30.56,0:07:33.13,Default,Karyl,0,0,0,,{\q2}Oh, come on, you guys! \NUse your noggin!
 Dialogue: 10,0:07:33.13,0:07:36.05,Default,Karyl,0,0,0,,{\q2}Most people would pour \Nbug-ridden food down the {\i1}drain{\i0}!
-Dialogue: 10,0:07:36.05,0:07:37.99,Default,Pecorine,0,0,0,,Oh, come now, Karyl.
+Dialogue: 10,0:07:36.05,0:07:37.99,Default,Pecorine,0,0,0,,Oh, come now, {*}Karyl{*Kyaru-chan}.
 Dialogue: 10,0:07:38.56,0:07:41.02,Default,Pecorine,0,0,0,,Don't-act-so-spoiled!
 Dialogue: 10,0:07:41.02,0:07:42.68,Default,Karyl,0,0,0,,Please spare me!
 Dialogue: 10,0:07:42.68,0:07:46.78,Default,Karyl,0,0,0,,{\q2}Don't shove your bugs in my face \Nwith such an angelic smile!
@@ -162,10 +162,10 @@ Dialogue: 10,0:09:21.54,0:09:22.79,Default,Pecorine,0,0,0,,Now, now.
 Dialogue: 10,0:09:22.79,0:09:25.85,Default,Pecorine,0,0,0,,{\q2}Overcoming that barrier has \Nopened up many new doors for you!
 Dialogue: 10,0:09:25.85,0:09:28.79,Default,Karyl,0,0,0,,You mean {\i1}you{\i0} forced open many new doors!
 Dialogue: 10,0:09:28.79,0:09:30.95,Default,Karyl,0,0,0,,{\an8}I can't believe you. I swear.
-Dialogue: 10,0:09:29.77,0:09:33.22,Default,Kokkoro,0,0,0,,Um, Miss Karyl, Miss Pecorine...
+Dialogue: 10,0:09:29.77,0:09:33.22,Default,Kokkoro,0,0,0,,Um, {*}Miss Karyl{*Kyaru-sama}, {*}Miss Pecorine{*Pecorine-sama}...
 Dialogue: 10,0:09:34.30,0:09:39.81,Default,Kokkoro,0,0,0,,{\q2}If I may, I know this is a bit presumptuous of me, \Nbut I picked up a guild application.
 Dialogue: 10,0:09:40.14,0:09:44.32,Default,Kokkoro,0,0,0,,{\q2}I was hoping we could start \Na guild together, just the four of us.
-Dialogue: 10,0:09:45.39,0:09:47.39,Default,Pecorine,0,0,0,,Thank you, Kokkoro!
+Dialogue: 10,0:09:45.39,0:09:47.39,Default,Pecorine,0,0,0,,Thank you, Kokkoro{**-chan}!
 Dialogue: 10,0:09:47.39,0:09:49.18,Default,Pecorine,0,0,0,,You're such a sweet girl!
 Dialogue: 10,0:09:50.47,0:09:51.75,Default,Kaeyl,0,0,0,,Not so fast.
 Dialogue: 10,0:09:55.42,0:09:58.00,Default,Karyl,0,0,0,,I thought I was clear I'm not joining.
@@ -213,7 +213,7 @@ Dialogue: 10,0:12:55.54,0:12:57.63,Default,Pecorine,0,0,0,,Really? Ain't that cr
 Dialogue: 10,0:12:57.63,0:12:59.84,Default,Both,0,0,0,,Super duper crazy!
 Dialogue: 10,0:12:59.84,0:13:01.76,Default,Master,0,0,0,,Table three, order up.
 Dialogue: 10,0:13:01.76,0:13:03.01,Default,Pecorine,0,0,0,,Coming!
-Dialogue: 10,0:13:03.01,0:13:05.76,Default,Mimi,0,0,0,,No, Misogi! Stop pushing me!
+Dialogue: 10,0:13:03.01,0:13:05.76,Default,Mimi,0,0,0,,No, Misogi{**-chan}! Stop pushing me!
 Dialogue: 10,0:13:06.43,0:13:08.97,Default,Misogi,0,0,0,,I've never been to a restaurant like this before!
 Dialogue: 10,0:13:08.97,0:13:12.27,Default,Kyoka,0,0,0,,Quiet! You'll disturb the other customers!
 Dialogue: 10,0:13:12.27,0:13:15.35,Default,Pecorine,0,0,0,,Oh, my? What cute little customers!
@@ -225,20 +225,20 @@ Dialogue: 10,0:13:22.90,0:13:24.65,Default,Three,0,0,0,,Th-Thanks!
 Dialogue: 10,0:13:28.28,0:13:29.99,Default,Kyoka,0,0,0,,Stop it, you two!
 Dialogue: 10,0:13:29.99,0:13:32.41,Default,Both,0,1500,0,,{\q2}Aw, but it's fun.
 Dialogue: 10,0:13:29.99,0:13:32.41,Default,Both,0,400,0,,Aw, but it's fun.
-Dialogue: 10,0:13:32.41,0:13:34.75,Default,Mimi,0,0,0,,You should try it, Kyouka.
+Dialogue: 10,0:13:32.41,0:13:34.75,Default,Mimi,0,0,0,,You should try it, Kyouka{**-chan}.
 Dialogue: 10,0:13:36.50,0:13:38.50,Default,Kyoka,0,0,0,,I'm gonna tell your mom, Mimi.
 Dialogue: 10,0:13:38.50,0:13:40.92,Default,Mimi,0,0,0,,Please don't....
 Dialogue: 10,0:13:40.92,0:13:42.63,Default,Pecorine,0,0,0,,Those are some cute little moustaches.
 Dialogue: 10,0:13:45.55,0:13:47.51,Default,Pecorine,0,0,0,,Is this your first time here?
 Dialogue: 10,0:13:47.51,0:13:49.89,Default,Misogi,0,0,0,,D-Don't treat us like kids!
-Dialogue: 10,0:13:49.89,0:13:53.39,Default,Misogi,0,0,0,,We're part of the guild Little Lyrical!
+Dialogue: 10,0:13:49.89,0:13:53.39,Default,Misogi,0,0,0,,We're part of the guild, Little Lyrical!
 Dialogue: 10,0:13:54.06,0:13:59.86,Default,Misogi,0,0,0,,{\q2}I-It's not officially registered yet though, \Nsince we're not old enough yet...
 Dialogue: 10,0:14:00.77,0:14:02.40,Default,Pecorine,0,0,0,,You have a lovely group of friends.
 Dialogue: 10,0:14:04.28,0:14:06.40,Default,Misogi,0,0,0,,Th-Thanks.
 Dialogue: 10,0:14:10.53,0:14:12.66,Default,Pecorine,0,0,0,,Oh? You must be hungry, huh?
 Dialogue: 10,0:14:12.66,0:14:14.58,Default,Pecorine,0,0,0,,Have you decided what you'd like?
 Dialogue: 10,0:14:14.58,0:14:17.96,Default,Kyoka,0,0,0,,N-Not yet. There's so much to choose from.
-Dialogue: 10,0:14:17.96,0:14:21.21,Default,Mimi,0,0,0,,What do you recommend, miss?
+Dialogue: 10,0:14:17.96,0:14:21.21,Default,Mimi,0,0,0,,What do you recommend, {*}miss{*onee-chan}?
 Dialogue: 10,0:14:21.92,0:14:24.05,Default,Pecorine,0,0,0,,There's a ton of stuff I'd recommend!
 Dialogue: 10,0:14:37.23,0:14:39.06,Default,Karyl,0,0,0,,What? Observe her?
 Dialogue: 10,0:14:39.52,0:14:42.56,Default,Kaiser,0,0,0,,Yes. We're calling off the assassination.
@@ -255,8 +255,8 @@ Dialogue: 10,0:15:15.06,0:15:17.64,Default,Karyl,0,0,0,,For her sake, I have to�
 Dialogue: 10,0:15:17.64,0:15:19.39,Default,Pecorine,0,0,0,,Here comes the airplane!
 Dialogue: 10,0:15:19.94,0:15:21.52,Default,Pecorine,0,0,0,,Open wide!
 Dialogue: 10,0:15:21.52,0:15:22.69,Default,Karyl,0,0,0,,The hell?
-Dialogue: 10,0:15:22.69,0:15:23.36,Default,Pecorine,0,0,0,,Karyl!
-Dialogue: 10,0:15:23.36,0:15:25.65,Default,Karyl,0,0,0,,{\q2}What are you trying to feed to \Nthese little kids?!
+Dialogue: 10,0:15:22.69,0:15:23.36,Default,Pecorine,0,0,0,,Karyl{**-chan}!
+Dialogue: 10,0:15:23.36,0:15:25.65,Default,Karyl,0,0,0,,What are you trying to feed these kids?!
 Dialogue: 10,0:15:25.65,0:15:27.99,Default,Karyl,0,0,0,,And why are you dressed like that?!
 Dialogue: 10,0:15:27.99,0:15:29.61,Default,Pecorine,0,0,0,,How do I look?
 Dialogue: 10,0:15:29.61,0:15:31.16,Default,Pecorine,0,0,0,,I'm a waitress!
@@ -270,17 +270,17 @@ Dialogue: 10,0:15:48.21,0:15:50.01,Default,Karyl,0,0,0,,I mean... I guess I chan
 Dialogue: 10,0:15:53.89,0:15:59.02,Default,Bly,0,0,0,,{\q2}This the place that's been serving \Nnasty food with bugs in 'em?
 Dialogue: 10,0:15:59.02,0:16:02.39,Default,Ikacchi,0,0,0,,{\q2}Hey, you! Ya got somethin' to say \N'bout master's cooking?
 Dialogue: 10,0:16:07.15,0:16:09.07,Default,Charlie,0,0,0,,Bro!
-Dialogue: 10,0:16:14.53,0:16:18.29,Default,Bly,0,0,0,,{\q2}Hey! You lazy asses can serve bugs, \Nbut not a glass of water?
+Dialogue: 10,0:16:14.53,0:16:18.29,Default,Bly,0,0,0,,{\q2}Hey! You lazy asses can serve bugs, \Nbut not a single cup of water?
 Dialogue: 10,0:16:23.67,0:16:25.88,Default,Owner,0,0,0,,What'd you say about my restaurant?
 Dialogue: 10,0:16:33.22,0:16:35.84,Default,Owner,0,0,0,,{\q2}Leave the yapping until \N{\i1}after{\i0} you've had a taste of my—
 Dialogue: 10,0:16:37.22,0:16:40.56,Default,Bly,0,0,0,,Oopsie. Sorry, man! My hand slipped there!
 Dialogue: 10,0:16:42.27,0:16:43.44,Default,Owner,0,0,0,,Shit!
 Dialogue: 10,0:16:45.90,0:16:48.82,Default,Pecorine,0,0,0,,Are you grumpy because you're hungry?
-Dialogue: 10,0:16:50.07,0:16:52.07,Default,Bly,0,0,0,,What'll it be, darling?
+Dialogue: 10,0:16:50.07,0:16:52.07,Default,Bly,0,0,0,,What'll it be, {*}darling{*nee-chan}?
 Dialogue: 10,0:16:52.07,0:16:55.82,Default,Bly,0,0,0,,{\q2}You gonna go to the kitchen \Nto make me food in place of that old fart?
 Dialogue: 10,0:16:55.82,0:16:59.91,Default,Bly,0,0,0,,{\q2}Tell ya what! If I think it tastes like dogshit, \NI'll have you close up shop right now!
 Dialogue: 10,0:17:02.54,0:17:07.33,Default,Pecorine,0,0,0,,{\q2}Landosol is a place where anyone, \Nno matter who they may be,
-Dialogue: 10,0:17:07.88,0:17:09.84,Default,Pecorine,0,0,0,,can enjoy a good meal equally.
+Dialogue: 10,0:17:07.88,0:17:09.84,Default,Pecorine,0,0,0,,can enjoy a good meal.
 Dialogue: 10,0:17:12.09,0:17:13.80,Default,Pecorine,0,0,0,,Your order's coming right up!
 Dialogue: 10,0:17:24.10,0:17:25.60,Default,Charlie,0,0,0,,Hallelujah...
 Dialogue: 10,0:17:25.60,0:17:27.44,Default,Kokkoro,0,0,0,,She's incredibly skilled.
@@ -298,7 +298,7 @@ Dialogue: 10,0:18:05.18,0:18:10.65,Default,Bly,0,0,0,,{\i1\q2}If I crush their w
 Dialogue: 10,0:18:11.57,0:18:16.45,Default,Bly,0,0,0,,Now, what's going down the hatch first, I wonder?
 Dialogue: 10,0:18:25.25,0:18:28.04,Default,Bly,0,0,0,,Man, that bug looks {\i1}disgusting{\i0}!
 Dialogue: 10,0:18:28.04,0:18:29.12,Default,Karyl,0,0,0,,Wait.
-Dialogue: 10,0:18:32.17,0:18:33.25,Default,Pecorine,0,0,0,,Karyl?
+Dialogue: 10,0:18:32.17,0:18:33.25,Default,Pecorine,0,0,0,,Karyl{**-chan}?
 Dialogue: 10,0:18:33.71,0:18:36.38,Default,Karyl,0,0,0,,This dish isn't complete yet.
 Dialogue: 10,0:18:38.93,0:18:42.35,Default,Karyl,0,0,0,,A single drop of the blessed juice of this fruit
 Dialogue: 10,0:18:43.51,0:18:46.77,Default,Karyl,0,0,0,,will have you hearing a chorus of angels.
@@ -319,25 +319,25 @@ Dialogue: 10,0:19:42.86,0:19:45.95,Default,Bly,0,0,0,,{\i1}Say this food isn't a
 Dialogue: 10,0:19:45.95,0:19:51.71,Default,Bly,0,0,0,,It's... It's... It's not...
 Dialogue: 10,0:19:51.71,0:19:54.46,Default,Bly,0,0,0,,It's... It's... It's...
 Dialogue: 10,0:20:00.97,0:20:03.97,Default,Bly,0,0,0,,It's so good!
-Dialogue: 10,0:20:06.22,0:20:08.56,Default,Pecorine,0,0,0,,We did it, Karyl!
+Dialogue: 10,0:20:06.22,0:20:08.56,Default,Pecorine,0,0,0,,We did it, Karyl{**-chan}!
 Dialogue: 10,0:20:11.64,0:20:13.48,Default,Bly,0,0,0,,Don't screw with me!
 Dialogue: 10,0:20:13.48,0:20:16.94,Default,Bly,0,0,0,,Like hell could some nasty bugs taste any good!
 Dialogue: 10,0:20:21.70,0:20:25.49,Default,Bly,0,0,0,,I'll shut down any restaurant that serves bad food!
 Dialogue: 10,0:20:29.70,0:20:32.46,Default,Pecorine,0,0,0,,Bad boys who waste food
 Dialogue: 10,0:20:32.46,0:20:33.83,Default,Pecorine,0,0,0,,need to be punished.
 Dialogue: 10,0:20:41.09,0:20:42.55,Default,Pecorine,0,0,0,,Bad boy! Am I clear?
-Dialogue: 10,0:20:43.13,0:20:45.55,Default,Charlie,0,0,0,,Way to go, Peco lady!
+Dialogue: 10,0:20:43.13,0:20:45.55,Default,Charlie,0,0,0,,Way to go, {*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:20:45.55,0:20:47.64,Default,Three,0,0,0,,You're amazing!
-Dialogue: 10,0:20:52.93,0:20:55.27,Default,Ikacchi,0,0,0,,{\an8}Yay, Peco lady!
+Dialogue: 10,0:20:52.93,0:20:55.27,Default,Ikacchi,0,0,0,,{\an8}Yay, {*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:20:55.27,0:20:56.10,Default,Charlie,0,0,0,,{\an8}All right!
 Dialogue: 10,0:20:56.10,0:21:00.82,Default,Pecorine,0,0,0,,{\i1}Have I perhaps grown a little, Father?
 Dialogue: 10,0:21:03.53,0:21:06.53,Default,Guy,0,0,0,,Heave-ho. Heave-ho.
 Dialogue: 10,0:21:07.45,0:21:09.45,Default,Kokkoro,0,0,0,,Here it is, my lord.
-Dialogue: 10,0:21:11.04,0:21:11.79,Default,Pecorine,0,0,0,,Karyl?
+Dialogue: 10,0:21:11.04,0:21:11.79,Default,Pecorine,0,0,0,,Karyl{**-chan}?
 Dialogue: 10,0:21:12.70,0:21:14.75,Default,Karyl,0,0,0,,Guess I've got no choice, huh?
 Dialogue: 10,0:21:14.75,0:21:18.96,Default,Karyl,0,0,0,,{\q2}You guys can't be trusted on your own, \Nso I'll join your guild to keep an eye on you.
 Dialogue: 10,0:21:19.88,0:21:22.42,Default,Karyl,0,0,0,,You'd better show me some gratitude.
-Dialogue: 10,0:21:26.30,0:21:28.43,Default,Pecorine,0,0,0,,Thank you, Karyl!
+Dialogue: 10,0:21:26.30,0:21:28.43,Default,Pecorine,0,0,0,,Thank you, Karyl{**-chan}!
 Dialogue: 10,0:21:28.43,0:21:31.43,Default,Karyl,0,0,0,,Hey! Quit hugging me!
 Dialogue: 10,0:21:40.52,0:21:43.53,Default,Pecorine,0,0,0,,Time to get this show on the road!
 Dialogue: 10,0:21:43.53,0:21:45.49,Default,Pecorine,0,0,0,,Our guild's objective
