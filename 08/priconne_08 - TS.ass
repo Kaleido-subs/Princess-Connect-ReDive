@@ -218,24 +218,24 @@ Dialogue: 0,0:15:19.51,0:15:19.56,Sign,,0,0,0,,{\pos(968.83,186.25)\fscx98.16\fs
 Dialogue: 0,0:15:19.56,0:15:19.60,Sign,,0,0,0,,{\pos(968.93,186.43)\fscx98.14\fscy98.14\fnGotham Bold\fs180\fsp3\1c&HB894F7&\blur0.6}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
 Dialogue: 0,0:15:19.60,0:15:19.64,Sign,,0,0,0,,{\pos(968.9,186.52)\fscx98.18\fscy98.18\fnGotham Bold\fs180\fsp3\1c&HB894F7&\blur0.6}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
 Dialogue: 0,0:15:19.64,0:15:20.34,Sign,,0,0,0,,{\pos(968.9,186.61)\fscx98.2\fscy98.2\fnGotham Bold\fs180\fsp3\1c&HB894F7&\blur0.6}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(571.601,341.081)\fscx74\fscy103\frz59.102\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}W
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(592.054,309.949)\fscx74\fscy103\frz52.284\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}a
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(609.599,288.856)\fscx74\fscy103\frz47.326\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}t
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(628.347,269.935)\fscx74\fscy103\frz42.569\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}c
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(649.246,251.891)\fscx74\fscy103\frz38.02\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}h
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(683.69,224.196)\fscx74\fscy103\frz32.33\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}a
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(708.205,210.092)\fscx74\fscy103\frz28.345\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}g
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(733.628,197.694)\fscx74\fscy103\frz24.601\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}a
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(753.472,189.339)\fscx74\fscy103\frz21.07\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}i
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(773.825,181.98)\fscx74\fscy103\frz18.837\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}n
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(817.457,171.832)\fscx74\fscy103\frz13.586\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}n
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(846.156,165.628)\fscx74\fscy103\frz10.174\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}e
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(874.959,160.47)\fscx74\fscy103\frz8.298\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}x
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(902.253,157.431)\fscx74\fscy103\frz4.677\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}t
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(943.668,154.73)\fscx74\fscy103\frz1.186\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}t
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(963.918,154.229)\fscx74\fscy103\frz-0.526\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}i
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(992.033,155.031)\fscx74\fscy103\frz-2.233\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}m
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(1027.792,157.552)\fscx74\fscy103\frz-5.638\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}e
-Dialogue: 1,0:23:35.01,0:23:40.07,Sign,Text,0,0,0,,{\pos(1049.68,160.071)\fscx74\fscy103\frz-7.362\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}!
-Dialogue: 0,0:23:36.93,0:23:40.07,Sign,Title,0,0,0,,{\fnAngie\fs50\fsp1\bord2.4\3c&H6F6A6E&\blur0.6\fad(692,1)\pos(481,831)}A Gourmet Getaway
-Dialogue: 0,0:23:36.93,0:23:40.07,Sign,Title,0,0,0,,{\fnAlegreya Sans\fs40\fsp1\bord2.4\3c&H6F6A6E&\blur0.6\fad(692,1)\pos(400,1008)}Fragrant Tentacles on the Beach
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(571.601,341.081)\fscx74\fscy103\frz59.102\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}W
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(592.054,309.949)\fscx74\fscy103\frz52.284\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}a
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(609.599,288.856)\fscx74\fscy103\frz47.326\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}t
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(628.347,269.935)\fscx74\fscy103\frz42.569\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}c
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(649.246,251.891)\fscx74\fscy103\frz38.02\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}h
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(683.69,224.196)\fscx74\fscy103\frz32.33\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}a
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(708.205,210.092)\fscx74\fscy103\frz28.345\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}g
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(733.628,197.694)\fscx74\fscy103\frz24.601\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}a
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(753.472,189.339)\fscx74\fscy103\frz21.07\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}i
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(773.825,181.98)\fscx74\fscy103\frz18.837\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}n
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(817.457,171.832)\fscx74\fscy103\frz13.586\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}n
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(846.156,165.628)\fscx74\fscy103\frz10.174\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}e
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(874.959,160.47)\fscx74\fscy103\frz8.298\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}x
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(902.253,157.431)\fscx74\fscy103\frz4.677\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}t
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(943.668,154.73)\fscx74\fscy103\frz1.186\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}t
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(963.918,154.229)\fscx74\fscy103\frz-0.526\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}i
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(992.033,155.031)\fscx74\fscy103\frz-2.233\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}m
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(1027.792,157.552)\fscx74\fscy103\frz-5.638\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}e
+Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(1049.68,160.071)\fscx74\fscy103\frz-7.362\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}!
+Dialogue: 0,0:23:36.93,0:23:40.07,Sign,,0,0,0,,{\fnAngie\fs50\fsp1\bord2.4\3c&H6F6A6E&\blur0.6\fad(692,1)\pos(481,831)}A Gourmet Getaway
+Dialogue: 0,0:23:36.93,0:23:40.07,Sign,,0,0,0,,{\fnAlegreya Sans\fs40\fsp1\bord2.4\3c&H6F6A6E&\blur0.6\fad(692,1)\pos(400,1008)}Fragrant Tentacles on the Beach
