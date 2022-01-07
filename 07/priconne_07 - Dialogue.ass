@@ -91,7 +91,7 @@ Dialogue: 10,0:04:49.81,0:04:54.89,Default,Rin,0,0,0,,{\q2}She fought with all h
 Dialogue: 10,0:04:54.89,0:04:57.36,Default,Kokkoro,0,0,0,,{*}Miss Rima{*Rima-sama}, allow me to attend to your wounds.
 Dialogue: 10,0:04:57.94,0:05:01.44,Default,Rima,0,0,0,,Thanks, Kokkoro{**-chan}. What are you doing here?
 Dialogue: 10,0:05:01.44,0:05:04.49,Default,Kokkoro,0,0,0,,We also came to help with the harvest.
-Dialogue: 10,0:05:04.49,0:05:07.07,Default,Guy1,0,0,0,,That means the rumours {\i1}are{\i0} true!
+Dialogue: 10,0:05:04.49,0:05:07.07,Default,Guy1,0,0,0,,So the rumours {\i1}are{\i0} true!
 Dialogue: 10,0:05:07.78,0:05:13.91,Default,Guy1,0,0,0,,{\q2}This is another one of many cases where travellers \Nhave said they were attacked by lookalikes!
 Dialogue: 10,0:05:13.91,0:05:17.67,Default,Guy2,0,0,0,,{\q2}Come to think of it, \Ndidn't the innkeeper go missing recently?
 Dialogue: 10,0:05:18.63,0:05:19.96,Default,Hatsune,0,0,0,,Excuse me!
@@ -100,7 +100,7 @@ Dialogue: 10,0:05:39.44,0:05:41.69,Default,Christina,0,0,0,,Perhaps I should hav
 Dialogue: 10,0:05:49.70,0:05:51.41,Default,Christina,0,0,0,,So that's what those Shadows look like.
 Dialogue: 10,0:05:52.12,0:05:56.12,Default,Christina,0,0,0,,What in the world is she trying to accomplish?
 Dialogue: 10,0:06:04.88,0:06:06.38,Default,Christina,0,0,0,,Whatever.
-Dialogue: 10,0:06:06.38,0:06:11.76,Default,Christina,0,0,0,,{\q2}There's nobody in the world \Nwho can quench my bloodthirst like she can.
+Dialogue: 10,0:06:06.38,0:06:11.76,Default,Christina,0,0,0,,{\q2}There's nobody in the world \Nwho can quench my bloodthirst the way she can.
 Dialogue: 10,0:06:13.93,0:06:17.89,Default,Christina,0,0,0,,I believe it's time for act two.
 Dialogue: 10,0:06:17.89,0:06:21.56,Default,Shadows,0,0,0,,Make more... Make more...
 Dialogue: 10,0:06:22.57,0:06:24.23,Default,Christina,0,0,0,,Having fun?
@@ -126,7 +126,7 @@ Dialogue: 10,0:07:23.21,0:07:24.34,Default,Pecorine,0,0,0,,Karyl{**-chan}?
 Dialogue: 10,0:07:26.50,0:07:29.76,Default,Charlie,0,0,0,,Ya think our {*}Peco lady{*Peco-neesan}'s harvesting now?
 Dialogue: 10,0:07:30.80,0:07:32.59,Default,Ikacchi,0,0,0,,'Spose so.
 Dialogue: 10,0:07:32.59,0:07:38.02,Default,Ikacchi,0,0,0,,{\q2}I can't wait for her to prepare that dish \Nwith the legendary spice when she gets back.
-Dialogue: 10,0:07:38.02,0:07:40.73,Default,Charlie,0,0,0,,I'm psyched up, bro!
+Dialogue: 10,0:07:38.02,0:07:40.73,Default,Charlie,0,0,0,,I'm psyched, Bro!
 Dialogue: 10,0:07:40.73,0:07:41.85,Default,Ikacchi,0,0,0,,I know!
 Dialogue: 10,0:07:43.56,0:07:46.65,Default,Ikacchi,0,0,0,,Look at that. That's our Landosol Castle.
 Dialogue: 10,0:07:47.36,0:07:50.15,Default,Charlie,0,0,0,,Wow, sure's pretty.
@@ -202,8 +202,8 @@ Dialogue: 10,0:14:07.36,0:14:09.87,Default,Christina,0,0,0,,Let's not dampen tho
 Dialogue: 10,0:14:13.37,0:14:15.00,Default,Rima,0,0,0,,Careful, everyone!
 Dialogue: 10,0:14:15.00,0:14:17.00,Default,Rima,0,0,0,,That's the swordswoman who attacked us!
 Dialogue: 10,0:14:20.29,0:14:24.21,Default,Hatsune,0,0,0,,Do you know what's going on here?
-Dialogue: 10,0:14:26.72,0:14:29.09,Default,Christina,0,0,0,,If you want to ask so badly,
-Dialogue: 10,0:14:29.09,0:14:30.72,Default,Christina,0,0,0,,let your blades do the asking.
+Dialogue: 10,0:14:26.72,0:14:29.09,Default,Christina,0,0,0,,If you want to know so badly,
+Dialogue: 10,0:14:29.09,0:14:30.72,Default,Christina,0,0,0,,let's have our blades do the talking.
 Dialogue: 10,0:14:44.44,0:14:45.69,Default,Rima,0,0,0,,Rima!
 Dialogue: 10,0:15:07.51,0:15:08.59,Default,Kokkoro,0,0,0,,My lord!
 Dialogue: 10,0:15:08.59,0:15:09.34,Default,Aoi,0,0,0,,Yuuki{**-san}!
@@ -226,7 +226,7 @@ Dialogue: 10,0:15:53.64,0:15:57.35,Default,Ameth,0,0,0,,I doubt she even remembe
 Dialogue: 10,0:15:57.76,0:16:01.64,Default,Ameth,0,0,0,,{\q2}Understand this: I can't get involved with the real world yet.
 Dialogue: 10,0:16:02.14,0:16:06.06,Default,Ameth,0,0,0,,The fate of Kokkoro{**-tan} and co lies on your shoulders.
 Dialogue: 10,0:16:06.73,0:16:09.65,Default,Ameth,0,0,0,,The only way to put up a fight against Christina
-Dialogue: 10,0:16:09.65,0:16:12.24,Default,Ameth,0,0,0,,is by unleashing your Princess Knight ability. {### drop "ability"? I'm not familiar enough with the game}
+Dialogue: 10,0:16:09.65,0:16:12.24,Default,Ameth,0,0,0,,is by unleashing your Princess Knight ability.
 Dialogue: 10,0:16:13.53,0:16:16.12,Default,Yuuki,0,0,0,,Princess... Knight?
 Dialogue: 10,0:16:16.62,0:16:18.79,Default,Ameth,0,0,0,,You once made use of this power
 Dialogue: 10,0:16:18.79,0:16:20.66,Default,Ameth,0,0,0,,before losing your memories.
@@ -243,7 +243,7 @@ Dialogue: 10,0:17:09.88,0:17:12.05,Default,Hatsune,0,0,0,,Huh? What's going on?
 Dialogue: 10,0:17:12.42,0:17:13.84,Default,Aoi,0,0,0,,This power...
 Dialogue: 10,0:17:15.18,0:17:17.26,Default,Rima,0,0,0,,I feel power welling up in me!
 Dialogue: 10,0:17:19.51,0:17:21.52,Default,Kokkoro,0,0,0,,Let us advance.
-Dialogue: 10,0:17:22.02,0:17:23.27,Default,Christina,0,0,0,,Is this
+Dialogue: 10,0:17:22.02,0:17:23.27,Default,Christina,0,0,0,,Is this...
 Dialogue: 10,0:17:24.35,0:17:26.27,Default,Christina,0,0,0,,your power?
 Dialogue: 10,0:17:26.27,0:17:27.90,Default,Rima,0,0,0,,Here I come!
 Dialogue: 10,0:17:27.90,0:17:29.86,Default,Rima,0,0,0,,Metamorapple!
@@ -328,7 +328,7 @@ Dialogue: 10,0:24:19.02,0:24:21.14,Default,Karyl,0,0,0,,Did you skimp out on bre
 Dialogue: 10,0:24:27.69,0:24:29.94,Default,Pecorine,0,0,0,,I sure am hungry.
 Dialogue: 10,0:24:33.07,0:24:34.95,Default,Rima,0,0,0,,Shiori{**-chan}?
 Dialogue: 10,0:24:38.37,0:24:39.58,Default,Shiori,0,0,0,,Rima{**-san}.
-Dialogue: 10,0:24:42.54,0:24:46.13,Default,Rima,0,0,0,,Thank goodness! That's our usual Shiori{**-chan}!
+Dialogue: 10,0:24:42.54,0:24:46.13,Default,Rima,0,0,0,,Thank goodness! She's back to normal!
 Dialogue: 10,0:24:47.46,0:24:48.92,Default,Aoi,0,0,0,,Is Hatsune{**-san} all right?!
 Dialogue: 10,0:24:53.80,0:24:56.18,Default,Aoi,0,0,0,,She's... sound asleep?
 Dialogue: 10,0:24:59.35,0:25:00.85,Default,Shiori,0,0,0,,Shh.
