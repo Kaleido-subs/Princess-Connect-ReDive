@@ -36,18 +36,18 @@ Dialogue: 10,0:00:03.97,0:00:06.94,Default,Kokkoro,0,0,0,,{\i1}Elder, are you do
 Dialogue: 10,0:00:07.88,0:00:10.88,Default,Kokkoro,0,0,0,,{\i1}I have been hard at work in our guild,
 Dialogue: 10,0:00:10.88,0:00:16.51,Default,Kokkoro,0,0,0,,{\i1\q2}along with my beloved lord, \N{*}Lady Pecorine{*Pecorine-sama}, and {*}Lady Karyl{*Kyaru-sama}.
 Dialogue: 10,0:00:17.16,0:00:18.79,Default,Kokkoro,0,0,0,,{\i1}In the Village of Targum,
-Dialogue: 10,0:00:18.79,0:00:22.80,Default,Kokkoro,0,0,0,,{\i1\q2}we faced an incident involving \Nstrange monsters called Shadows.
+Dialogue: 10,0:00:18.79,0:00:22.80,Default,Kokkoro,0,0,0,,{\i1\q2}we faced an incident involving \Nstrange monsters known as Shadows.
 Dialogue: 10,0:00:22.80,0:00:27.17,Default,Kokkoro,0,0,0,,{\i1\q2}Nevertheless, we managed to complete \Nour very first quest successfully.
 Dialogue: 10,0:00:28.01,0:00:32.73,Default,Kokkoro,0,0,0,,{\i1\q2}Ever since, our Gourmet Guild \Nhas completed many more quests.
 Dialogue: 10,0:00:33.17,0:00:38.03,Default,Kokkoro,0,0,0,,{\i1\q2}We have even earned words of praise\N from {*}Miss Karin{*Karin-sama} of the Guild Association.
-Dialogue: 10,0:00:39.18,0:00:44.15,Default,Kokkoro,0,0,0,,{\i1\q2}I am beyond blessed for being able to \Nexperience these priceless days.
-Dialogue: 10,0:00:46.46,0:00:49.19,Default,Karyl,0,0,0,,Hey! Those seedlings aren't aligned!
+Dialogue: 10,0:00:39.18,0:00:44.15,Default,Kokkoro,0,0,0,,{\i1\q2}I am beyond blessed to be able to \Nexperience these priceless days.
+Dialogue: 10,0:00:46.46,0:00:49.19,Default,Karyl,0,0,0,,Hey! Those seedlings aren't properly lined up!
 Dialogue: 10,0:00:49.19,0:00:51.78,Default,Karyl,0,0,0,,You need to double-check after planting each row!
 Dialogue: 10,0:00:51.78,0:00:54.54,Default,Pecorine,0,0,0,,I'm glad we've got her around.
 Dialogue: 10,0:00:54.54,0:00:57.65,Default,Kokkoro,0,0,0,,It's wonderful that {*}Lady Karyl{*Kyaru-sama} is so meticulous.
 Dialogue: 10,0:02:34.61,0:02:36.54,Default,Pecorine,0,0,0,,Yummy!
 Dialogue: 10,0:02:36.54,0:02:40.96,Default,Pecorine,0,0,0,,Most of Landosol's rice is harvested here, y'know!
-Dialogue: 10,0:02:41.59,0:02:44.05,Default,Kokkoro,0,0,0,,It certainly is sceny.
+Dialogue: 10,0:02:41.59,0:02:44.05,Default,Kokkoro,0,0,0,,It certainly is scenic.
 Dialogue: 10,0:02:45.50,0:02:48.62,Default,Pecorine,0,0,0,,The princess of Landosol loves rice,
 Dialogue: 10,0:02:48.62,0:02:51.99,Default,Pecorine,0,0,0,,so she was determined to start raising rice crops.
 Dialogue: 10,0:02:53.59,0:02:55.08,Default,Kokkoro,0,0,0,,I see.
@@ -63,7 +63,7 @@ Dialogue: 10,0:03:17.67,0:03:18.63,Default,Pecorine,0,0,0,,And that's where we c
 Dialogue: 10,0:03:18.63,0:03:23.90,Default,Pecorine,0,0,0,,{\q2}Our current quest is to \Nhelp out the farmer with pest control!
 Dialogue: 10,0:03:25.18,0:03:28.33,Default,Pecorine,0,0,0,,{\q2}And our reward will be \Na handsome amount of princess rice!
 Dialogue: 10,0:03:28.33,0:03:32.15,Default,Karyl,0,0,0,,Your quests always revolve around food!
-Dialogue: 10,0:03:32.54,0:03:35.15,Default,Karyl,0,0,0,,Fetch us a quest with {\i1}actual{\i0} rewards!
+Dialogue: 10,0:03:32.54,0:03:35.15,Default,Karyl,0,0,0,,Find us a quest with {\i1}actual{\i0} rewards!
 Dialogue: 10,0:03:35.65,0:03:40.22,Default,Kokkoro,0,0,0,,This quest to help the farmer is wonderful, however.
 Dialogue: 10,0:03:40.22,0:03:42.62,Default,Kokkoro,0,0,0,,My lord appears to be having the time of his life!
 Dialogue: 10,0:03:44.41,0:03:47.33,Default,Kokkoro,0,0,0,,That's our {*}Lady Ameth{*Ameth-sama} scarecrow, {*}Lady Amethy{*Amethy-sama}.
@@ -82,7 +82,7 @@ Dialogue: 10,0:04:28.56,0:04:30.33,Default,Kaiser,0,0,0,,Are you nervous?
 Dialogue: 10,0:04:34.12,0:04:38.16,Default,Kaiser,0,0,0,,I never told you about the Shadows, did I?
 Dialogue: 10,0:04:41.47,0:04:47.20,Default,Kaiser,0,0,0,,Incidentally, about that boy in your little play-guild...
 Dialogue: 10,0:04:47.20,0:04:48.93,Default,Karyl,0,0,0,,Yuuki?
-Dialogue: 10,0:04:49.57,0:04:52.93,Default,Kaiser,0,0,0,,I want you to keep a keen eye on him as well.
+Dialogue: 10,0:04:49.57,0:04:52.93,Default,Kaiser,0,0,0,,I want you to keep a close eye on him as well.
 Dialogue: 10,0:04:53.65,0:04:58.19,Default,Kaiser,0,0,0,,{\q2}If anything comes to pass, you need only \Nreport to me as you are doing now.
 Dialogue: 10,0:05:01.04,0:05:02.61,Default,Kaiser,0,0,0,,You can do that, can't you,
 Dialogue: 10,0:05:03.51,0:05:05.61,Default,Kaiser,0,0,0,,my sweet {*}Karyl{*Kyaru}?
@@ -106,7 +106,7 @@ Dialogue: 10,0:06:04.86,0:06:08.66,Default,Karin,0,0,0,,Oh, that flyer's been po
 Dialogue: 10,0:06:08.66,0:06:11.79,Default,Karin,0,0,0,,I'm sorry. I'll take it down now.
 Dialogue: 10,0:06:11.79,0:06:13.06,Default,Kokkoro,0,0,0,,{*}Miss Karin{*Karin-sama}...
 Dialogue: 10,0:06:13.88,0:06:17.69,Default,Karin,0,0,0,,This is not an officially-approved quest.
-Dialogue: 10,0:06:18.07,0:06:23.13,Default,Karin,0,0,0,,{\q2}I keep taking it down, but next thing \NI know, someone puts it back up.
+Dialogue: 10,0:06:18.07,0:06:23.13,Default,Karin,0,0,0,,{\q2}I keep taking it down, but the next thing \NI know, it's back up again.
 Dialogue: 10,0:06:23.13,0:06:24.41,Default,Karyl,0,0,0,,You heard her.
 Dialogue: 10,0:06:24.41,0:06:27.40,Default,Karyl,0,0,0,,So that quest is out, then.
 Dialogue: 10,0:06:33.29,0:06:36.30,Default,Misogi,0,0,0,,Wah! Wah, wah, wah!
@@ -133,7 +133,7 @@ Dialogue: 10,0:07:36.11,0:07:37.30,Default,Karyl,0,0,0,,Oh, are you now?
 Dialogue: 10,0:07:38.74,0:07:41.86,Default,Karyl,0,0,0,,Why do you want to do guild stuff, anyway?
 Dialogue: 10,0:07:45.09,0:07:47.72,Default,Kyouka,0,0,0,,We want to protect the peace in Landosol.
 Dialogue: 10,0:07:48.75,0:07:51.85,Default,Karyl,0,0,0,,{\i1}Anyway, next time, pick a quest that pays out—
-Dialogue: 10,0:07:52.38,0:07:54.61,Default,Pecorine,0,0,0,,{\i1}As a reward we can eat all the fish we want!
+Dialogue: 10,0:07:52.38,0:07:54.61,Default,Pecorine,0,0,0,,{\i1}As a reward, we can eat all the fish we want!
 Dialogue: 10,0:07:55.00,0:07:57.51,Default,Kokkoro,0,0,0,,{\i1}My lord and I made them together.
 Dialogue: 10,0:08:02.00,0:08:06.12,Default,Karyl,0,0,0,,I-I totally get you. Truthfully, we feel the same way!
 Dialogue: 10,0:08:06.12,0:08:07.47,Default,Mimi,0,0,0,,You do?
@@ -159,7 +159,7 @@ Dialogue: 10,0:09:13.81,0:09:15.53,Default,Pecorine,0,0,0,,You'll find out tomor
 Dialogue: 10,0:09:17.28,0:09:21.23,Default,Kokkoro,0,0,0,,{\q2}I suppose even we can't help \Ngetting excited about this.
 Dialogue: 10,0:09:21.23,0:09:22.29,Default,Karyl,0,0,0,,What's Yuuki up to?
 Dialogue: 10,0:09:22.62,0:09:26.30,Default,Kokkoro,0,0,0,,{\q2}My lord is preparing the treasure \Nwe'll find at the finish line.
-Dialogue: 10,0:09:33.55,0:09:36.68,Default,All,0,0,0,,Eek!
+Comment: 10,0:09:33.55,0:09:36.68,Default,All,0,0,0,,Eek!
 Dialogue: 10,0:09:44.33,0:09:45.60,Default,Pecorine,0,0,0,,Stand fast!
 Dialogue: 10,0:09:46.04,0:09:46.77,Default,Pecorine,0,0,0,,Count off!
 Dialogue: 10,0:09:46.89,0:09:46.94,Default,Kyouka,0,0,0,,{\pos(488,1024)}One!
@@ -275,7 +275,7 @@ Dialogue: 10,0:11:06.90,0:11:08.14,Default,Mimi,0,0,0,,This way?
 Dialogue: 10,0:11:08.14,0:11:09.31,Default,Misogi,0,0,0,,See?
 Dialogue: 10,0:11:09.31,0:11:11.89,Default,Pecorine,0,0,0,,No, it's the other way!
 Dialogue: 10,0:11:11.89,0:11:13.33,Default,Kokkoro,0,0,0,,My lord...
-Dialogue: 10,0:11:13.33,0:11:16.07,Default,Karyl,0,0,0,,He's {\i1}so{\i0} gonna have it when he comes back!
+Dialogue: 10,0:11:13.33,0:11:15.70,Default,Karyl,0,0,0,,He's {\i1}so{\i0} gonna have it when this is over!
 Dialogue: 10,0:11:24.96,0:11:28.73,Default,Kyouka,0,0,0,,What's wrong, Mimi? Why are you yelling?
 Dialogue: 10,0:11:35.59,0:11:38.02,Default,Misogi,0,0,0,,C-Calm down, guys!
 Dialogue: 10,0:11:38.02,0:11:41.35,Default,Misogi,0,0,0,,I'll take care of these monsters!
@@ -287,7 +287,7 @@ Dialogue: 10,0:11:58.86,0:12:02.99,Default,Misogi,0,0,0,,Take this! And that! An
 Dialogue: 10,0:12:04.85,0:12:05.79,Default,Yuuki,0,0,0,,Good luck!
 Dialogue: 10,0:12:07.00,0:12:09.30,Default,Mimi,0,0,0,,Let's fight with her!
 Dialogue: 10,0:12:09.30,0:12:10.63,Default,Kyouka,0,0,0,,R-Right!
-Dialogue: 10,0:12:14.50,0:12:16.46,Default,Pecorine,0,0,0,,Yuuki{**-kun}!
+Dialogue: 10,0:12:14.50,0:12:16.46,Default,Pecorine,0,0,0,,Hey, Yuuki{**-kun}!
 Dialogue: 10,0:12:19.06,0:12:21.23,Default,Karyl,0,0,0,,Wrong way!
 Dialogue: 10,0:12:21.23,0:12:24.07,Default,Kokkoro,0,0,0,,The other way! It's the other way!
 Dialogue: 10,0:12:24.07,0:12:26.01,Default,Pecorine,0,0,0,,Please turn back!
@@ -429,14 +429,14 @@ Dialogue: 10,0:21:05.22,0:21:06.91,Default,Pecorine,0,0,0,,You figured us out, h
 Dialogue: 10,0:21:08.00,0:21:09.62,Default,Kyouka,0,0,0,,Thank you so much.
 Dialogue: 10,0:21:11.14,0:21:14.00,Default,Kyouka,0,0,0,,I won't tell the other two, okay?
 Dialogue: 10,0:21:14.67,0:21:18.32,Default,Kyouka,0,0,0,,Mentor—No, Yuuki{**-san}. Thank you so much, as well.
-Dialogue: 10,0:21:18.93,0:21:21.96,Default,Kyouka,0,0,0,,{\q2}You went so far as pretend \Nthat bird caught you for us!
-Dialogue: 10,0:21:21.96,0:21:24.50,Default,Karyl,0,0,0,,It wasn't really "pretending" per se...
+Dialogue: 10,0:21:18.93,0:21:21.96,Default,Kyouka,0,0,0,,{\q2}You even pretended \Nthat bird caught you for us!
+Dialogue: 10,0:21:21.96,0:21:24.50,Default,Karyl,0,0,0,,Well, I wouldn't say "pretending", but...
 Dialogue: 10,0:21:24.50,0:21:25.29,Default,Yuuki,0,0,0,,Mhm!
 Dialogue: 10,0:21:25.29,0:21:26.47,Default,Three,0,0,0,,What?!
 Dialogue: 10,0:21:29.92,0:21:32.06,Default,Karyl,0,0,0,,Why are we back to planting seedlings again?
-Dialogue: 10,0:21:32.99,0:21:36.83,Default,Karyl,0,0,0,,I told you to pick a quest with a decent reward next!
+Dialogue: 10,0:21:32.99,0:21:36.83,Default,Karyl,0,0,0,,I told you to find a quest with a decent reward next!
 Dialogue: 10,0:21:36.83,0:21:40.08,Default,Pecorine,0,0,0,,Well, the farmer asked for our help again.
-Dialogue: 10,0:21:40.08,0:21:43.44,Default,Karyl,0,0,0,,{\q2}Once these seedlings grow, \NI'm getting the first bite!
+Dialogue: 10,0:21:40.08,0:21:43.44,Default,Karyl,0,0,0,,{\q2}Once these seedlings grow, \NI'm calling dibs!
 Dialogue: 10,0:21:43.44,0:21:44.99,Default,Mimi,0,0,0,,Whee!
 Dialogue: 10,0:21:52.84,0:21:55.18,Default,Kokkoro,0,0,0,,It's the mixed duck farming method.
 Dialogue: 10,0:21:55.79,0:21:58.75,Default,Pecorine,0,0,0,,It lets you grow delicious rice, pesticide-free!
