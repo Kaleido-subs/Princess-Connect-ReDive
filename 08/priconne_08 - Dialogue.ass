@@ -24,26 +24,29 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:58.03,0:01:03.03,Default,,0,0,0,,{OP}
-Comment: 0,0:02:28.00,0:02:33.00,Default,,0,0,0,,{PART A}
-Comment: 0,0:09:37.06,0:09:42.05,Default,,0,0,0,,{PART B}
-Comment: 0,0:22:05.01,0:22:10.01,Default,,0,0,0,,{ED}
-Comment: 0,0:23:35.01,0:23:40.01,Default,,0,0,0,,{PREV}
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
+Comment: 0,0:00:58.04,0:00:58.04,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:01:00.04,0:01:00.04,Default,,0,0,0,opsync,{OP sync — second cut}
+Comment: 0,0:02:28.00,0:02:28.00,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:09:37.06,0:09:37.06,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:22:05.01,0:22:05.01,Default,chapter,0,0,0,,{ED}
+Comment: 0,0:23:04.03,0:23:04.03,Default,,0,0,0,edsync,{ED sync — second cut}
+Comment: 0,0:23:35.01,0:23:35.02,Default,chapter,0,0,0,,{Preview}
 Dialogue: 10,0:00:03.97,0:00:06.94,Default,Kokkoro,0,0,0,,{\i1}Elder, are you doing well?
-Dialogue: 10,0:00:07.88,0:00:10.88,Default,Kokkoro,0,0,0,,{\i1}I have been working hard in our guild,
-Dialogue: 10,0:00:10.88,0:00:16.51,Default,Kokkoro,0,0,0,,{\q2\i1}along with my beloved lord, \NMiss Pecorine, and Miss Karyl.
-Dialogue: 10,0:00:17.16,0:00:18.79,Default,Kokkoro,0,0,0,,{\i1}In Targum Village,
-Dialogue: 10,0:00:18.79,0:00:22.80,Default,Kokkoro,0,0,0,,{\q2\i1}we faced an incident involving \Nstrange monsters called Shadows.
-Dialogue: 10,0:00:22.80,0:00:27.17,Default,Kokkoro,0,0,0,,{\i1\q2}However, we managed to complete \Nour very first quest successfully.
-Dialogue: 10,0:00:28.01,0:00:32.73,Default,Kokkoro,0,0,0,,{\q2\i1}Ever since, our Gourmet Guild \Nhas completed many more quests.
-Dialogue: 10,0:00:33.17,0:00:38.03,Default,Kokkoro,0,0,0,,{\q2\i1}We have even earned words of praise\N from Miss Karin of the Guild Association.
-Dialogue: 10,0:00:39.18,0:00:44.15,Default,Kokkoro,0,0,0,,{\q2\i1}I am beyond blessed for being able to \Nexperience these priceless days.
+Dialogue: 10,0:00:07.88,0:00:10.88,Default,Kokkoro,0,0,0,,{\i1}I have been hard at work in our guild,
+Dialogue: 10,0:00:10.88,0:00:16.51,Default,Kokkoro,0,0,0,,{\i1\q2}along with my beloved lord, \N{*}Lady Pecorine{*Pecorine-sama}, and {*}Lady Karyl{*Kyaru-sama}.
+Dialogue: 10,0:00:17.16,0:00:18.79,Default,Kokkoro,0,0,0,,{\i1}In the Village of Targum,
+Dialogue: 10,0:00:18.79,0:00:22.80,Default,Kokkoro,0,0,0,,{\i1\q2}we faced an incident involving \Nstrange monsters called Shadows.
+Dialogue: 10,0:00:22.80,0:00:27.17,Default,Kokkoro,0,0,0,,{\i1\q2}Nevertheless, we managed to complete \Nour very first quest successfully.
+Dialogue: 10,0:00:28.01,0:00:32.73,Default,Kokkoro,0,0,0,,{\i1\q2}Ever since, our Gourmet Guild \Nhas completed many more quests.
+Dialogue: 10,0:00:33.17,0:00:38.03,Default,Kokkoro,0,0,0,,{\i1\q2}We have even earned words of praise\N from {*}Miss Karin{*Karin-sama} of the Guild Association.
+Dialogue: 10,0:00:39.18,0:00:44.15,Default,Kokkoro,0,0,0,,{\i1\q2}I am beyond blessed for being able to \Nexperience these priceless days.
 Dialogue: 10,0:00:46.46,0:00:49.19,Default,Karyl,0,0,0,,Hey! Those seedlings aren't aligned!
 Dialogue: 10,0:00:49.19,0:00:51.78,Default,Karyl,0,0,0,,You need to double-check after planting each row!
-Dialogue: 10,0:00:51.78,0:00:54.54,Default,Pecorine,0,0,0,,It's great that we've got her around.
-Dialogue: 10,0:00:54.54,0:00:57.65,Default,Kokkoro,0,0,0,,It's wonderful that Miss Karyl is so meticulous.
+Dialogue: 10,0:00:51.78,0:00:54.54,Default,Pecorine,0,0,0,,I'm glad we've got her around.
+Dialogue: 10,0:00:54.54,0:00:57.65,Default,Kokkoro,0,0,0,,It's wonderful that {*}Lady Karyl{*Kyaru-sama} is so meticulous.
 Dialogue: 10,0:02:34.61,0:02:36.54,Default,Pecorine,0,0,0,,Yummy!
-Dialogue: 10,0:02:36.54,0:02:40.96,Default,Pecorine,0,0,0,,Most of Landosol's rice is harvested from here, y'know!
+Dialogue: 10,0:02:36.54,0:02:40.96,Default,Pecorine,0,0,0,,Most of Landosol's rice is harvested here, y'know!
 Dialogue: 10,0:02:41.59,0:02:44.05,Default,Kokkoro,0,0,0,,It certainly is sceny.
 Dialogue: 10,0:02:45.50,0:02:48.62,Default,Pecorine,0,0,0,,The princess of Landosol loves rice,
 Dialogue: 10,0:02:48.62,0:02:51.99,Default,Pecorine,0,0,0,,so she was determined to start raising rice crops.
@@ -52,28 +55,28 @@ Dialogue: 10,0:02:55.08,0:02:59.13,Default,Kokkoro,0,0,0,,So that's why it's cal
 Dialogue: 10,0:02:59.13,0:02:59.99,Default,Pecorine,0,0,0,,Yes!
 Dialogue: 10,0:03:01.00,0:03:06.49,Default,Pecorine,0,0,0,,{\q2}But it seems animals have been \Ndamaging the paddies a lot lately.
 Dialogue: 10,0:03:06.49,0:03:09.58,Default,Karyl,0,0,0,,Oh, you mean like wild boars and birds?
-Dialogue: 10,0:03:09.58,0:03:11.40,Default,Karyl,0,0,0,,Are they eating the crops?
-Dialogue: 10,0:03:11.40,0:03:12.88,Default,Pecorine,0,0,0,,Yes, you got it!
+Dialogue: 10,0:03:09.58,0:03:11.40,Default,Karyl,0,0,0,,Are they eating the crops or something?
+Dialogue: 10,0:03:11.40,0:03:12.88,Default,Pecorine,0,0,0,,Yes, spot on!
 Dialogue: 10,0:03:12.88,0:03:15.12,Default,Pecorine,0,0,0,,The farmer's been trying to shoo them away,
-Dialogue: 10,0:03:15.12,0:03:17.26,Default,Pecorine,0,0,0,,but nothing seems to be working.
+Dialogue: 10,0:03:15.12,0:03:17.26,Default,Pecorine,0,0,0,,but they just keep coming back.
 Dialogue: 10,0:03:17.67,0:03:18.63,Default,Pecorine,0,0,0,,And that's where we come in!
-Dialogue: 10,0:03:18.63,0:03:23.90,Default,Pecorine,0,0,0,,{\q2}Our current quest is to help out \Nthe farmer with pest control!
+Dialogue: 10,0:03:18.63,0:03:23.90,Default,Pecorine,0,0,0,,{\q2}Our current quest is to \Nhelp out the farmer with pest control!
 Dialogue: 10,0:03:25.18,0:03:28.33,Default,Pecorine,0,0,0,,{\q2}And our reward will be \Na handsome amount of princess rice!
-Dialogue: 10,0:03:28.33,0:03:32.15,Default,Karyl,0,0,0,,Your quests always involve nothing but food!
+Dialogue: 10,0:03:28.33,0:03:32.15,Default,Karyl,0,0,0,,Your quests always revolve around food!
 Dialogue: 10,0:03:32.54,0:03:35.15,Default,Karyl,0,0,0,,Fetch us a quest with {\i1}actual{\i0} rewards!
-Dialogue: 10,0:03:35.65,0:03:40.22,Default,Kokkoro,0,0,0,,This quest to help the farmer is wonderful, though.
+Dialogue: 10,0:03:35.65,0:03:40.22,Default,Kokkoro,0,0,0,,This quest to help the farmer is wonderful, however.
 Dialogue: 10,0:03:40.22,0:03:42.62,Default,Kokkoro,0,0,0,,My lord appears to be having the time of his life!
-Dialogue: 10,0:03:44.41,0:03:47.33,Default,Kokkoro,0,0,0,,That's our Lady Ameth scarecrow, Lady Amethy.
-Dialogue: 10,0:03:48.79,0:03:51.08,Default,Kokkoro,0,0,0,,My lord and I made them together.
-Dialogue: 10,0:03:52.01,0:03:53.70,Default,Pecorine,0,0,0,,Lady Ameth?
+Dialogue: 10,0:03:44.41,0:03:47.33,Default,Kokkoro,0,0,0,,That's our {*}Lady Ameth{*Ameth-sama} scarecrow, {*}Lady Amethy{*Amethy-sama}.
+Dialogue: 10,0:03:48.79,0:03:51.08,Default,Kokkoro,0,0,0,,My lord and I built them together.
+Dialogue: 10,0:03:52.01,0:03:53.70,Default,Pecorine,0,0,0,,{*}Lady Ameth{*Ameth-sama}?
 Dialogue: 10,0:03:53.70,0:03:55.25,Default,Karyl,0,0,0,,Is that what she looks like?
 Dialogue: 10,0:03:55.66,0:04:00.15,Default,Karyl,0,0,0,,{\q2}I guess anything goes so long as Yuuki's \Nenjoying himself, huh, Korosuke?
 Dialogue: 10,0:04:00.15,0:04:03.13,Default,Karyl,0,0,0,,Anyway, next time, pick a quest that pays out—
 Dialogue: 10,0:04:08.67,0:04:10.27,Default,Karyl,0,0,0,,Yummy!
-Dialogue: 10,0:04:10.63,0:04:14.10,Default,Karyl,0,0,0,,{\q2}You've at least got your cooking \Ngoing for you if nothing else.
+Dialogue: 10,0:04:10.63,0:04:14.10,Default,Karyl,0,0,0,,{\q2}If nothing else, at least you've got \Nyour cooking going for you.
 Dialogue: 10,0:04:14.10,0:04:16.27,Default,Pecorine,0,0,0,,I appreciate the compliments!
-Dialogue: 10,0:04:21.26,0:04:23.65,Default,Karyl,0,0,0,,That concludes my report on Targum Village.
-Dialogue: 10,0:04:24.82,0:04:25.84,Default,Kaiser,0,0,0,,Karyl...
+Dialogue: 10,0:04:21.26,0:04:23.65,Default,Karyl,0,0,0,,That concludes my report on Targum.
+Dialogue: 10,0:04:24.82,0:04:25.84,Default,Kaiser,0,0,0,,{*}Karyl{*Kyaru}...
 Dialogue: 10,0:04:25.84,0:04:27.16,Default,Karyl,0,0,0,,Y-Yes?
 Dialogue: 10,0:04:28.56,0:04:30.33,Default,Kaiser,0,0,0,,Are you nervous?
 Dialogue: 10,0:04:34.12,0:04:38.16,Default,Kaiser,0,0,0,,I never told you about the Shadows, did I?
@@ -82,106 +85,106 @@ Dialogue: 10,0:04:47.20,0:04:48.93,Default,Karyl,0,0,0,,Yuuki?
 Dialogue: 10,0:04:49.57,0:04:52.93,Default,Kaiser,0,0,0,,I want you to keep a keen eye on him as well.
 Dialogue: 10,0:04:53.65,0:04:58.19,Default,Kaiser,0,0,0,,{\q2}If anything comes to pass, you need only \Nreport to me as you are doing now.
 Dialogue: 10,0:05:01.04,0:05:02.61,Default,Kaiser,0,0,0,,You can do that, can't you,
-Dialogue: 10,0:05:03.51,0:05:05.61,Default,Kaiser,0,0,0,,my sweet Karyl?
+Dialogue: 10,0:05:03.51,0:05:05.61,Default,Kaiser,0,0,0,,my sweet {*}Karyl{*Kyaru}?
 Dialogue: 10,0:05:06.52,0:05:07.49,Default,Karyl,0,0,0,,Yes...
 Dialogue: 10,0:05:09.19,0:05:10.28,Default,Karyl,0,0,0,,Your Majesty.
 Dialogue: 10,0:05:18.38,0:05:22.01,Default,Kokkoro,0,0,0,,My lord, it's coming your way.
 Dialogue: 10,0:05:24.21,0:05:25.30,Default,Kokkoro,0,0,0,,My lord!
-Dialogue: 10,0:05:25.30,0:05:28.66,Default,Pecorine,0,0,0,,{\q2}Yuuki! Let's have that as \Nour side dish for supper tonight!
+Dialogue: 10,0:05:25.30,0:05:28.66,Default,Pecorine,0,0,0,,{\q2}Yuuki{**-kun}! Let's have that as \Nour side dish for supper tonight!
 Dialogue: 10,0:05:29.27,0:05:32.89,Default,Karyl,0,0,0,,{\q2}Is there really a reason to bother \Nobserving these clowns?
-Dialogue: 10,0:05:37.85,0:05:40.43,Default,Pecorine,0,0,0,,Karyl, lookie! Let's do this one!
+Dialogue: 10,0:05:37.85,0:05:40.43,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}, lookie! Let's do this one!
 Dialogue: 10,0:05:40.43,0:05:42.14,Default,Pecorine,0,0,0,,We have to assist some fishermen,
 Dialogue: 10,0:05:42.14,0:05:44.32,Default,Pecorine,0,0,0,,and as a reward, we can eat all the fish we want!
 Dialogue: 10,0:05:44.32,0:05:45.78,Default,Karyl,0,0,0,,Denied!
 Dialogue: 10,0:05:46.83,0:05:48.19,Default,Kokkoro,0,0,0,,What do you think, my lord?
 Dialogue: 10,0:05:49.86,0:05:51.79,Default,Kokkoro,0,0,0,,That one?
-Dialogue: 10,0:05:52.33,0:05:54.29,Default,Kokkoro,0,0,0,,"Seeking a tutor"?
-Dialogue: 10,0:05:54.29,0:05:59.51,Default,Pecorine,0,0,0,,{\q2}"We are looking for a kind teacher \Nto teach us about working as a guild."
-Dialogue: 10,0:05:59.51,0:06:02.73,Default,Karyl,0,0,0,,"We'll give you lots of rewards. They'll be amazing."
+Dialogue: 10,0:05:52.33,0:05:54.29,Default,Kokkoro,0,0,0,,"Looking for a mentor"?
+Dialogue: 10,0:05:54.29,0:05:59.51,Default,Pecorine,0,0,0,,{\q2}"We are looking for a kind teacher \Nto teach us how to work as a guild."
+Dialogue: 10,0:05:59.51,0:06:02.73,Default,Karyl,0,0,0,,"We'll give you lots of rewards. They're amazing!"
 Dialogue: 10,0:06:02.73,0:06:03.86,Default,Karyl,0,0,0,,The hell's this?
 Dialogue: 10,0:06:04.86,0:06:08.66,Default,Karin,0,0,0,,Oh, that flyer's been posted again?
 Dialogue: 10,0:06:08.66,0:06:11.79,Default,Karin,0,0,0,,I'm sorry. I'll take it down now.
-Dialogue: 10,0:06:11.79,0:06:13.06,Default,Kokkoro,0,0,0,,Miss Karin...
+Dialogue: 10,0:06:11.79,0:06:13.06,Default,Kokkoro,0,0,0,,{*}Miss Karin{*Karin-sama}...
 Dialogue: 10,0:06:13.88,0:06:17.69,Default,Karin,0,0,0,,This is not an officially-approved quest.
-Dialogue: 10,0:06:18.07,0:06:23.13,Default,Karin,0,0,0,,{\q2}I keep taking it down, but next thing \NI notice, someone put it back up.
+Dialogue: 10,0:06:18.07,0:06:23.13,Default,Karin,0,0,0,,{\q2}I keep taking it down, but next thing \NI know, someone puts it back up.
 Dialogue: 10,0:06:23.13,0:06:24.41,Default,Karyl,0,0,0,,You heard her.
 Dialogue: 10,0:06:24.41,0:06:27.40,Default,Karyl,0,0,0,,So that quest is out, then.
 Dialogue: 10,0:06:33.29,0:06:36.30,Default,Misogi,0,0,0,,Wah! Wah, wah, wah!
 Dialogue: 10,0:06:36.30,0:06:39.51,Default,Misogi,0,0,0,,Wah, wah, wah, wah!
-Dialogue: 10,0:06:39.51,0:06:42.36,Default,Kyoka,0,0,0,,Don't cry, Misogi!
+Dialogue: 10,0:06:39.51,0:06:42.36,Default,Kyouka,0,0,0,,Don't cry, Misogi!
 Dialogue: 10,0:06:42.36,0:06:44.55,Default,Mimi,0,0,0,,You can't give up!
 Dialogue: 10,0:06:45.16,0:06:46.76,Default,Pecorine,0,0,0,,I wonder what that's about.
-Dialogue: 10,0:06:46.76,0:06:48.97,Default,Karyl,0,0,0,,{\q2}Probably practicing for \Na school play or something.
+Dialogue: 10,0:06:46.76,0:06:48.97,Default,Karyl,0,0,0,,{\q2}Probably practising for \Na school play or something.
 Dialogue: 10,0:06:48.97,0:06:50.01,Default,Karyl,0,0,0,,Let's go.
 Dialogue: 10,0:06:56.66,0:06:59.00,Default,Misogi,0,0,0,,Wah, wah, wah, wah!
 Dialogue: 10,0:06:59.00,0:07:00.63,Default,Kyoko,0,0,0,,Misogi!
-Dialogue: 10,0:07:00.63,0:07:02.27,Default,Mimi,0,0,0,,Poor Misogi!
+Dialogue: 10,0:07:00.63,0:07:02.27,Default,Mimi,0,0,0,,Poor Misogi{**-chan}!
 Dialogue: 10,0:07:03.15,0:07:04.46,Default,Karyl,0,0,0,,Wh-What?!
 Dialogue: 10,0:07:04.46,0:07:06.20,Default,Pecorine,0,0,0,,There's more to the play?
 Dialogue: 10,0:07:12.58,0:07:14.34,Default,Misogi,0,0,0,,Are you...
-Dialogue: 10,0:07:14.87,0:07:17.33,Default,Misogi,0,0,0,,interested in that quest, by any chance?
-Dialogue: 10,0:07:18.46,0:07:20.08,Default,Pecorine,0,0,0,,You want us to be your tutor?
-Dialogue: 10,0:07:20.08,0:07:24.71,Default,Kyoka,0,0,0,,{\q2}Yes. We're not really sure about \Nwhat guilds actually do.
+Dialogue: 10,0:07:14.87,0:07:17.33,Default,Misogi,0,0,0,,interested in that quest, perhaps?
+Dialogue: 10,0:07:18.46,0:07:20.08,Default,Pecorine,0,0,0,,You want us to be your mentors?
+Dialogue: 10,0:07:20.08,0:07:24.71,Default,Kyouka,0,0,0,,{\q2}Yes. We're not really sure about \Nwhat guilds actually do.
 Dialogue: 10,0:07:24.71,0:07:27.44,Default,Misogi,0,0,0,,So we're looking for someone to guide us!
-Dialogue: 10,0:07:28.14,0:07:31.47,Default,Mimi,0,0,0,,Please tutor our guild, Little Lyrical!
+Dialogue: 10,0:07:28.14,0:07:31.47,Default,Mimi,0,0,0,,Please mentor our guild, Little Lyrical!
 Dialogue: 10,0:07:31.94,0:07:34.32,Default,Karyl,0,0,0,,A bunch of brats play-pretending to be a guild, huh?
 Dialogue: 10,0:07:34.32,0:07:36.11,Default,Misogi,0,0,0,,We're not pretending!
-Dialogue: 10,0:07:36.11,0:07:37.30,Default,Karyl,0,0,0,,Oh, really?
+Dialogue: 10,0:07:36.11,0:07:37.30,Default,Karyl,0,0,0,,Oh, are you now?
 Dialogue: 10,0:07:38.74,0:07:41.86,Default,Karyl,0,0,0,,Why do you want to do guild stuff, anyway?
-Dialogue: 10,0:07:45.09,0:07:47.72,Default,Kyoka,0,0,0,,We want to protect the peace in Landosol.
+Dialogue: 10,0:07:45.09,0:07:47.72,Default,Kyouka,0,0,0,,We want to protect the peace in Landosol.
 Dialogue: 10,0:07:48.75,0:07:51.85,Default,Karyl,0,0,0,,{\i1}Anyway, next time, pick a quest that pays out—
 Dialogue: 10,0:07:52.38,0:07:54.61,Default,Pecorine,0,0,0,,{\i1}As a reward we can eat all the fish we want!
 Dialogue: 10,0:07:55.00,0:07:57.51,Default,Kokkoro,0,0,0,,{\i1}My lord and I made them together.
-Dialogue: 10,0:08:02.00,0:08:06.12,Default,Karyl,0,0,0,,I-I get it. Truthfully, we feel the same way!
+Dialogue: 10,0:08:02.00,0:08:06.12,Default,Karyl,0,0,0,,I-I totally get you. Truthfully, we feel the same way!
 Dialogue: 10,0:08:06.12,0:08:07.47,Default,Mimi,0,0,0,,You do?
-Dialogue: 10,0:08:07.47,0:08:11.55,Default,Kokkoro,0,0,0,,Peace is very important to Landosol, after all.
-Dialogue: 10,0:08:11.55,0:08:12.67,Default,Misogi,0,0,0,,Right?!
+Dialogue: 10,0:08:07.47,0:08:11.55,Default,Kokkoro,0,0,0,,Peace is very important to Landosol.
+Dialogue: 10,0:08:11.55,0:08:12.67,Default,Misogi,0,0,0,,Isn't it?!
 Dialogue: 10,0:08:12.67,0:08:15.16,Default,Pecorine,0,0,0,,You three are truly admirable.
-Dialogue: 10,0:08:15.16,0:08:16.77,Default,Kyoka,0,0,0,,N-Not really...
-Dialogue: 10,0:08:17.31,0:08:21.02,Default,Misogi,0,0,0,,Please, tutor our guild!
+Dialogue: 10,0:08:15.16,0:08:16.77,Default,Kyouka,0,0,0,,N-Not really...
+Dialogue: 10,0:08:17.31,0:08:21.02,Default,Misogi,0,0,0,,Please, mentor our guild!
 Dialogue: 10,0:08:22.15,0:08:23.14,Default,Yuuki,0,0,0,,Mhm!
 Dialogue: 10,0:08:23.14,0:08:25.53,Default,Three,0,0,0,,Yay!
-Dialogue: 10,0:08:32.52,0:08:35.68,Default,Karyl,0,0,0,,What's a place that's {\i1}just{\i0} safe enough, \N{\i1}just{\i0} dangerous enough,
+Dialogue: 10,0:08:32.52,0:08:35.68,Default,Karyl,0,0,0,,{\q2}What's a place that's {\i1}just{\i0} safe enough, \N{\i1}just{\i0} dangerous enough,
 Dialogue: 10,0:08:35.68,0:08:38.31,Default,Karyl,0,0,0,,and {\i1}just{\i0} difficult enough to get through?
-Dialogue: 10,0:08:40.95,0:08:45.38,Default,Karyl,0,0,0,,{\q2}I feel like a school teacher \Ndeciding where to go on a field trip.
-Dialogue: 10,0:08:46.71,0:08:49.84,Default,Kokkoro,0,0,0,,You would be a great teacher, Miss Karyl.
+Dialogue: 10,0:08:40.95,0:08:45.38,Default,Karyl,0,0,0,,{\q2}I feel like an elementary school teacher \Npondering where to go on a field trip.
+Dialogue: 10,0:08:46.71,0:08:49.84,Default,Kokkoro,0,0,0,,You would make for a wonderful teacher, {*}Lady Karyl{*Kyaru-sama}.
 Dialogue: 10,0:08:50.38,0:08:52.16,Default,Karyl,0,0,0,,Spare me the jokes.
 Dialogue: 10,0:08:52.16,0:08:54.18,Default,Karyl,0,0,0,,I can't stand kids.
 Dialogue: 10,0:08:54.55,0:08:56.11,Default,Kokkoro,0,0,0,,Really?
 Dialogue: 10,0:08:56.95,0:09:00.55,Default,Kokkoro,0,0,0,,But you're always very kind to me.
-Dialogue: 10,0:09:01.20,0:09:04.81,Default,Karyl,0,0,0,,You're way more responsible than most adults.
-Dialogue: 10,0:09:07.64,0:09:08.61,Default,Karyl,0,0,0,,And...
+Dialogue: 10,0:09:01.20,0:09:04.81,Default,Karyl,0,0,0,,You've got most adults beat in responsibleness.
+Dialogue: 10,0:09:07.64,0:09:08.61,Default,Karyl,0,0,0,,What about you?
 Dialogue: 10,0:09:08.61,0:09:11.78,Default,Karyl,0,0,0,,Exactly what are you crafting up there?
 Dialogue: 10,0:09:13.81,0:09:15.53,Default,Pecorine,0,0,0,,You'll find out tomorrow!
-Dialogue: 10,0:09:17.28,0:09:21.23,Default,Kokkoro,0,0,0,,I guess even we are getting excited about this.
+Dialogue: 10,0:09:17.28,0:09:21.23,Default,Kokkoro,0,0,0,,{\q2}I suppose even we can't help \Ngetting excited about this.
 Dialogue: 10,0:09:21.23,0:09:22.29,Default,Karyl,0,0,0,,What's Yuuki up to?
-Dialogue: 10,0:09:22.62,0:09:26.30,Default,Kokkoro,0,0,0,,{\q2}My lord is preparing the treasure \Nwe'll find at the end of the quest.
+Dialogue: 10,0:09:22.62,0:09:26.30,Default,Kokkoro,0,0,0,,{\q2}My lord is preparing the treasure \Nwe'll find at the finish line.
 Dialogue: 10,0:09:33.55,0:09:36.68,Default,All,0,0,0,,Eek!
-Dialogue: 10,0:09:44.33,0:09:45.60,Default,Pecorine,0,0,0,,Line up!
+Dialogue: 10,0:09:44.33,0:09:45.60,Default,Pecorine,0,0,0,,Stand fast!
 Dialogue: 10,0:09:46.04,0:09:46.77,Default,Pecorine,0,0,0,,Count off!
-Dialogue: 10,0:09:46.89,0:09:46.94,Default,Kyoka,0,0,0,,{\pos(488,1024)}One!
-Dialogue: 10,0:09:46.94,0:09:46.98,Default,Kyoka,0,0,0,,{\pos(463.06,1024)}One!
-Dialogue: 10,0:09:46.98,0:09:47.02,Default,Kyoka,0,0,0,,{\pos(438.05,1024)}One!
-Dialogue: 10,0:09:47.02,0:09:47.06,Default,Kyoka,0,0,0,,{\pos(413.17,1024)}One!
-Dialogue: 10,0:09:47.06,0:09:47.10,Default,Kyoka,0,0,0,,{\pos(388.46,1024)}One!
-Dialogue: 10,0:09:47.10,0:09:47.14,Default,Kyoka,0,0,0,,{\pos(363.93,1024)}One!
-Dialogue: 10,0:09:47.14,0:09:47.19,Default,Kyoka,0,0,0,,{\pos(339.45,1024)}One!
-Dialogue: 10,0:09:47.19,0:09:47.23,Default,Kyoka,0,0,0,,{\pos(314.89,1024)}One!
-Dialogue: 10,0:09:47.23,0:09:47.27,Default,Kyoka,0,0,0,,{\pos(290.46,1024)}One!
-Dialogue: 10,0:09:47.27,0:09:47.31,Default,Kyoka,0,0,0,,{\pos(266.14,1024)}One!
-Dialogue: 10,0:09:47.31,0:09:47.35,Default,Kyoka,0,0,0,,{\pos(241.82,1024)}One!
-Dialogue: 10,0:09:47.35,0:09:47.39,Default,Kyoka,0,0,0,,{\pos(217.59,1024)}One!
-Dialogue: 10,0:09:47.39,0:09:47.44,Default,Kyoka,0,0,0,,{\pos(193.36,1024)}One!
-Dialogue: 10,0:09:47.44,0:09:47.48,Default,Kyoka,0,0,0,,{\pos(169.16,1024)}One!
-Dialogue: 10,0:09:47.48,0:09:47.52,Default,Kyoka,0,0,0,,{\pos(144.93,1024)}One!
-Dialogue: 10,0:09:47.52,0:09:47.56,Default,Kyoka,0,0,0,,{\pos(120.89,1024)}One!
-Dialogue: 10,0:09:47.56,0:09:47.60,Default,Kyoka,0,0,0,,{\pos(96.83,1024)}One!
-Dialogue: 10,0:09:47.60,0:09:47.65,Default,Kyoka,0,0,0,,{\pos(72.7,1024)}One!
-Dialogue: 10,0:09:47.65,0:09:47.69,Default,Kyoka,0,0,0,,{\pos(48.77,1024)}One!
-Dialogue: 10,0:09:47.69,0:09:47.73,Default,Kyoka,0,0,0,,{\pos(24.75,1024)}One!
-Dialogue: 10,0:09:47.73,0:09:47.77,Default,Kyoka,0,0,0,,{\pos(0.81,1024)}One!
-Dialogue: 10,0:09:47.77,0:09:47.81,Default,Kyoka,0,0,0,,{\pos(-23.18,1024)}One!
-Dialogue: 10,0:09:47.81,0:09:47.85,Default,Kyoka,0,0,0,,{\pos(-47.08,1024)}One!
+Dialogue: 10,0:09:46.89,0:09:46.94,Default,Kyouka,0,0,0,,{\pos(488,1024)}One!
+Dialogue: 10,0:09:46.94,0:09:46.98,Default,Kyouka,0,0,0,,{\pos(463.06,1024)}One!
+Dialogue: 10,0:09:46.98,0:09:47.02,Default,Kyouka,0,0,0,,{\pos(438.05,1024)}One!
+Dialogue: 10,0:09:47.02,0:09:47.06,Default,Kyouka,0,0,0,,{\pos(413.17,1024)}One!
+Dialogue: 10,0:09:47.06,0:09:47.10,Default,Kyouka,0,0,0,,{\pos(388.46,1024)}One!
+Dialogue: 10,0:09:47.10,0:09:47.14,Default,Kyouka,0,0,0,,{\pos(363.93,1024)}One!
+Dialogue: 10,0:09:47.14,0:09:47.19,Default,Kyouka,0,0,0,,{\pos(339.45,1024)}One!
+Dialogue: 10,0:09:47.19,0:09:47.23,Default,Kyouka,0,0,0,,{\pos(314.89,1024)}One!
+Dialogue: 10,0:09:47.23,0:09:47.27,Default,Kyouka,0,0,0,,{\pos(290.46,1024)}One!
+Dialogue: 10,0:09:47.27,0:09:47.31,Default,Kyouka,0,0,0,,{\pos(266.14,1024)}One!
+Dialogue: 10,0:09:47.31,0:09:47.35,Default,Kyouka,0,0,0,,{\pos(241.82,1024)}One!
+Dialogue: 10,0:09:47.35,0:09:47.39,Default,Kyouka,0,0,0,,{\pos(217.59,1024)}One!
+Dialogue: 10,0:09:47.39,0:09:47.44,Default,Kyouka,0,0,0,,{\pos(193.36,1024)}One!
+Dialogue: 10,0:09:47.44,0:09:47.48,Default,Kyouka,0,0,0,,{\pos(169.16,1024)}One!
+Dialogue: 10,0:09:47.48,0:09:47.52,Default,Kyouka,0,0,0,,{\pos(144.93,1024)}One!
+Dialogue: 10,0:09:47.52,0:09:47.56,Default,Kyouka,0,0,0,,{\pos(120.89,1024)}One!
+Dialogue: 10,0:09:47.56,0:09:47.60,Default,Kyouka,0,0,0,,{\pos(96.83,1024)}One!
+Dialogue: 10,0:09:47.60,0:09:47.65,Default,Kyouka,0,0,0,,{\pos(72.7,1024)}One!
+Dialogue: 10,0:09:47.65,0:09:47.69,Default,Kyouka,0,0,0,,{\pos(48.77,1024)}One!
+Dialogue: 10,0:09:47.69,0:09:47.73,Default,Kyouka,0,0,0,,{\pos(24.75,1024)}One!
+Dialogue: 10,0:09:47.73,0:09:47.77,Default,Kyouka,0,0,0,,{\pos(0.81,1024)}One!
+Dialogue: 10,0:09:47.77,0:09:47.81,Default,Kyouka,0,0,0,,{\pos(-23.18,1024)}One!
+Dialogue: 10,0:09:47.81,0:09:47.85,Default,Kyouka,0,0,0,,{\pos(-47.08,1024)}One!
 Dialogue: 10,0:09:47.94,0:09:47.98,Default,Misogi,0,0,0,,{\pos(1031,1024)}Two!
 Dialogue: 10,0:09:47.98,0:09:48.02,Default,Misogi,0,0,0,,{\pos(1007.2,1024)}Two!
 Dialogue: 10,0:09:48.02,0:09:48.06,Default,Misogi,0,0,0,,{\pos(983.5,1024)}Two!
@@ -248,62 +251,62 @@ Dialogue: 10,0:09:49.78,0:09:51.10,Default,Pecorine,0,0,0,,Good!
 Dialogue: 10,0:09:51.70,0:09:55.12,Default,Pecorine,0,0,0,,This is the quest you will undertake today!
 Dialogue: 10,0:09:58.54,0:10:03.00,Default,Pecorine,0,0,0,,The treasure is marked on this map.
 Dialogue: 10,0:10:03.00,0:10:05.29,Default,Pecorine,0,0,0,,Make sure you bring it back.
-Dialogue: 10,0:10:05.67,0:10:09.05,Default,Kokkoro,0,0,0,,{\q2}Did you bring the camping gear \Nwe told you about yesterday?
+Dialogue: 10,0:10:05.67,0:10:09.05,Default,Kokkoro,0,0,0,,{\q2}Did you bring the camping gear \Nwe told you to yesterday?
 Dialogue: 10,0:10:09.05,0:10:10.24,Default,Mimi,0,0,0,,Yes!
 Dialogue: 10,0:10:11.21,0:10:12.05,Default,Mimi,0,0,0,,Heave-ho.
 Dialogue: 10,0:10:12.05,0:10:13.66,Default,Mimi,0,0,0,,We have lunch...
 Dialogue: 10,0:10:13.66,0:10:15.24,Default,Kyoko,0,0,0,,...a canteen...
-Dialogue: 10,0:10:15.24,0:10:17.30,Default,Misogi,0,0,0,,...and some snacks!
-Dialogue: 10,0:10:18.30,0:10:22.23,Default,Pecorine,0,0,0,,Yuuki, take good care of them, okay?
+Dialogue: 10,0:10:15.24,0:10:17.30,Default,Misogi,0,0,0,,...and snacks!
+Dialogue: 10,0:10:18.30,0:10:22.23,Default,Pecorine,0,0,0,,Yuuki{**-kun}, take good care of them, okay?
 Dialogue: 10,0:10:22.23,0:10:23.06,Default,Yuuki,0,0,0,,Mhm!
-Dialogue: 10,0:10:23.06,0:10:26.06,Default,Three,0,0,0,,Thank you for helping us, Teacher!
+Dialogue: 10,0:10:23.06,0:10:26.06,Default,Three,0,0,0,,Thank you for helping us, Mentor!
 Dialogue: 10,0:10:28.57,0:10:30.48,Default,Karyl,0,0,0,,You sure they'll be fine?
 Dialogue: 10,0:10:30.48,0:10:34.24,Default,Pecorine,0,0,0,,{\q2}So long as they follow the map closely, \Nthey won't run into any dangerous monsters.
 Dialogue: 10,0:10:34.24,0:10:37.58,Default,Kokkoro,0,0,0,,That's right. Besides, my lord is with them.
-Dialogue: 10,0:10:39.59,0:10:41.20,Default,Karyl,0,0,0,,I'm worried.
-Dialogue: 10,0:10:41.96,0:10:45.08,Default,Kyoka,0,0,0,,Hmm... I think we go right?
+Dialogue: 10,0:10:39.59,0:10:41.20,Default,Karyl,0,0,0,,I'm worried already.
+Dialogue: 10,0:10:41.96,0:10:45.08,Default,Kyouka,0,0,0,,Hmm... I think we go right?
 Dialogue: 10,0:10:45.82,0:10:47.56,Default,Misogi,0,0,0,,No, it's this way!
-Dialogue: 10,0:10:47.56,0:10:50.31,Default,Kyoka,0,0,0,,But it looks like the map says to go right.
+Dialogue: 10,0:10:47.56,0:10:50.31,Default,Kyouka,0,0,0,,But it looks like the map says to go right.
 Dialogue: 10,0:10:50.31,0:10:53.09,Default,Misogi,0,0,0,,Look, the compass is pointing left.
 Dialogue: 10,0:10:53.60,0:10:54.97,Default,Karyl,0,0,0,,No, no!
-Dialogue: 10,0:10:54.97,0:10:57.97,Default,Karyl,0,0,0,,A compass will always point north!
-Dialogue: 10,0:10:58.51,0:11:01.72,Default,Mimi,0,0,0,,Teacher, please tell us which way we should go.
+Dialogue: 10,0:10:54.97,0:10:57.97,Default,Karyl,0,0,0,,A compass always points north!
+Dialogue: 10,0:10:58.51,0:11:01.72,Default,Mimi,0,0,0,,{\q2}Mentor, could you please \Ntell us which way to go?
 Dialogue: 10,0:11:06.90,0:11:08.14,Default,Mimi,0,0,0,,This way?
-Dialogue: 10,0:11:08.14,0:11:09.31,Default,Misogi,0,0,0,,I knew it!
+Dialogue: 10,0:11:08.14,0:11:09.31,Default,Misogi,0,0,0,,See?
 Dialogue: 10,0:11:09.31,0:11:11.89,Default,Pecorine,0,0,0,,No, it's the other way!
 Dialogue: 10,0:11:11.89,0:11:13.33,Default,Kokkoro,0,0,0,,My lord...
 Dialogue: 10,0:11:13.33,0:11:16.07,Default,Karyl,0,0,0,,He's {\i1}so{\i0} gonna have it when he comes back!
-Dialogue: 10,0:11:24.96,0:11:28.73,Default,Kyoka,0,0,0,,What's wrong, Mimi? Why are you yelling?
-Dialogue: 10,0:11:35.59,0:11:38.02,Default,Misogi,0,0,0,,C-Calm down, both of you!
+Dialogue: 10,0:11:24.96,0:11:28.73,Default,Kyouka,0,0,0,,What's wrong, Mimi? Why are you yelling?
+Dialogue: 10,0:11:35.59,0:11:38.02,Default,Misogi,0,0,0,,C-Calm down, guys!
 Dialogue: 10,0:11:38.02,0:11:41.35,Default,Misogi,0,0,0,,I'll take care of these monsters!
 Dialogue: 10,0:11:47.34,0:11:49.28,Default,Kokkoro,0,0,0,,M-Monsters...?
-Dialogue: 10,0:11:49.28,0:11:51.73,Default,Karyl,0,0,0,,For crying out loud, they're panicking.
-Dialogue: 10,0:11:51.73,0:11:54.02,Default,Three,0,0,0,,Teacher!
+Dialogue: 10,0:11:49.28,0:11:51.73,Default,Karyl,0,0,0,,For crying out loud, they're already panicking.
+Dialogue: 10,0:11:51.73,0:11:54.02,Default,Three,0,0,0,,Mentor!
 Dialogue: 10,0:11:56.92,0:11:58.51,Default,Misogi,0,0,0,,Darn you!
 Dialogue: 10,0:11:58.86,0:12:02.99,Default,Misogi,0,0,0,,Take this! And that! And some of {\i1}this{\i0}!
 Dialogue: 10,0:12:04.85,0:12:05.79,Default,Yuuki,0,0,0,,Good luck!
-Dialogue: 10,0:12:07.00,0:12:09.30,Default,Mimi,0,0,0,,Let's fight them with her!
-Dialogue: 10,0:12:09.30,0:12:10.63,Default,Kyoka,0,0,0,,R-Right!
-Dialogue: 10,0:12:14.50,0:12:16.46,Default,Pecorine,0,0,0,,Yuuki!
+Dialogue: 10,0:12:07.00,0:12:09.30,Default,Mimi,0,0,0,,Let's fight with her!
+Dialogue: 10,0:12:09.30,0:12:10.63,Default,Kyouka,0,0,0,,R-Right!
+Dialogue: 10,0:12:14.50,0:12:16.46,Default,Pecorine,0,0,0,,Yuuki{**-kun}!
 Dialogue: 10,0:12:19.06,0:12:21.23,Default,Karyl,0,0,0,,Wrong way!
 Dialogue: 10,0:12:21.23,0:12:24.07,Default,Kokkoro,0,0,0,,The other way! It's the other way!
 Dialogue: 10,0:12:24.07,0:12:26.01,Default,Pecorine,0,0,0,,Please turn back!
 Dialogue: 10,0:12:28.59,0:12:29.68,Default,Yuuki,0,0,0,,Oh!
-Dialogue: 10,0:12:29.68,0:12:31.02,Default,Three,0,0,0,,Teacher!
+Dialogue: 10,0:12:29.68,0:12:31.02,Default,Three,0,0,0,,Mentor!
 Dialogue: 10,0:12:33.02,0:12:35.26,Default,Misogi,0,0,0,,We beat the monsters!
 Dialogue: 10,0:12:37.12,0:12:38.19,Default,Yuuki,0,0,0,,Nice!
-Dialogue: 10,0:12:38.19,0:12:40.53,Default,Misogi,0,0,0,,Teacher, do we go this way next?
+Dialogue: 10,0:12:38.19,0:12:40.53,Default,Misogi,0,0,0,,Mentor, do we go this way next?
 Dialogue: 10,0:12:45.00,0:12:47.06,Default,Misogi,0,0,0,,Okay! Off we go!
 Dialogue: 10,0:12:47.06,0:12:48.29,Default,Both,0,0,0,,Yeah!
 Dialogue: 10,0:12:48.29,0:12:50.29,Default,Karyl,0,0,0,,No, not {\i1}that{\i0} way!
 Dialogue: 10,0:12:50.29,0:12:52.29,Default,Kokkoro,0,0,0,,M-My lord!
 Dialogue: 10,0:12:53.53,0:12:55.41,Default,Kokkoro,0,0,0,,Wh-What shall we do?
 Dialogue: 10,0:12:55.93,0:12:58.65,Default,Karyl,0,0,0,,So much for my perfectly designed route...
-Dialogue: 10,0:12:59.17,0:13:00.92,Default,Pecorine,0,0,0,,We have no choice.
+Dialogue: 10,0:12:59.17,0:13:00.92,Default,Pecorine,0,0,0,,I was prepared for this.
 Dialogue: 10,0:13:02.58,0:13:04.18,Default,Pecorine,0,0,0,,We'll use this.
 Dialogue: 10,0:13:13.03,0:13:16.99,Default,Pecorine,0,0,0,,Are there any naaaaaughty kids around here?
 Dialogue: 10,0:13:18.43,0:13:23.77,Default,Pecorine,0,0,0,,This path is daaaaaangerous!
-Dialogue: 10,0:13:23.77,0:13:24.85,Default,Kyoka,0,0,0,,A monster?!
+Dialogue: 10,0:13:23.77,0:13:24.85,Default,Kyouka,0,0,0,,A monster?!
 Dialogue: 10,0:13:24.85,0:13:26.82,Default,Mimi,0,0,0,,I-It's so big!
 Dialogue: 10,0:13:26.82,0:13:31.58,Default,Pecorine,0,0,0,,You'd better turn back or I'll eat you for dinner!
 Dialogue: 10,0:13:31.58,0:13:34.81,Default,Karyl,0,0,0,,{\q2}It doesn't sound like a joke at all \Nwhen {\i1}she's{\i0} the one saying it.
@@ -311,132 +314,132 @@ Dialogue: 10,0:13:33.01,0:13:35.83,Default,Pecorine,0,0,0,,{\an8}I'll gobble you
 Dialogue: 10,0:13:35.34,0:13:39.34,Default,Kokkoro,0,0,0,,So this is what she was busy with last night.
 Dialogue: 10,0:13:35.83,0:13:40.16,Default,Pecorine,0,0,0,,{\an8}I'll slurp you right up and swallow you whole!
 Dialogue: 10,0:13:40.16,0:13:41.90,Default,Misogi,0,0,0,,We can't just cower in fear!
-Dialogue: 10,0:13:42.52,0:13:44.64,Default,Kyoka,0,0,0,,If we fight hard, like before...
+Dialogue: 10,0:13:42.52,0:13:44.64,Default,Kyouka,0,0,0,,If we fight hard, like before...
 Dialogue: 10,0:13:44.64,0:13:46.26,Default,Mimi,0,0,0,,Y-Yeah!
 Dialogue: 10,0:13:47.74,0:13:48.59,Default,Pecorine,0,0,0,,Huh?
 Dialogue: 10,0:13:50.90,0:13:52.81,Default,Misogi,0,0,0,,Take this! Pepper Bomb!
 Dialogue: 10,0:13:55.93,0:13:58.56,Default,Pecorine,0,0,0,,My eyes! My eyes!
-Dialogue: 10,0:13:58.98,0:14:01.19,Default,Misogi,0,0,0,,Mimi! Kyoka! Now!
-Dialogue: 10,0:14:05.36,0:14:07.36,Default,Pecorine,0,0,0,,Owie!
-Dialogue: 10,0:14:07.86,0:14:11.09,Default,Kokkoro,0,0,0,,They seem much more coordinated than before.
+Dialogue: 10,0:13:58.98,0:14:01.19,Default,Misogi,0,0,0,,Mimi! Kyouka! Now!
+Dialogue: 10,0:14:05.36,0:14:07.36,Default,Pecorine,0,0,0,,Owwie!
+Dialogue: 10,0:14:07.86,0:14:11.09,Default,Kokkoro,0,0,0,,They seem much more coördinated than before.
 Dialogue: 10,0:14:11.09,0:14:13.63,Default,Karyl,0,0,0,,Kids sure grow up fast.
-Dialogue: 10,0:14:15.65,0:14:17.70,Default,Pecorine,0,0,0,,My eyes! I can't see—
+Dialogue: 10,0:14:15.65,0:14:17.70,Default,Pecorine,0,0,0,,My eyes! I can't see!
 Dialogue: 10,0:14:20.42,0:14:23.14,Default,Pecorine,0,0,0,,My eyes!
 Dialogue: 10,0:14:23.14,0:14:25.05,Default,Three,0,0,0,,We did it!
-Dialogue: 10,0:14:25.85,0:14:28.30,Default,Karyl,0,0,0,,How could you get beaten up by little kids?!
+Dialogue: 10,0:14:25.85,0:14:28.30,Default,Karyl,0,0,0,,How did little {\i1}kids{\i0} get the better of you?!
 Dialogue: 10,0:14:34.81,0:14:36.61,Default,Karyl,0,0,0,,This is bad news!
-Dialogue: 10,0:14:36.61,0:14:39.68,Default,Karyl,0,0,0,,{\q2}They're just going farther and farther \Ndown an unplanned route!
-Dialogue: 10,0:14:39.68,0:14:42.47,Default,Kokkoro,0,0,0,,What will happen if they keep heading in this direction?
-Dialogue: 10,0:14:43.01,0:14:45.40,Default,Karyl,0,0,0,,There'll be a lot of scary things.
+Dialogue: 10,0:14:36.61,0:14:39.68,Default,Karyl,0,0,0,,{\q2}They're just straying further and further \Nfrom the right path!
+Dialogue: 10,0:14:39.68,0:14:42.47,Default,Kokkoro,0,0,0,,{\q2}What will happen if they \Nkeep heading in this direction?
+Dialogue: 10,0:14:43.01,0:14:45.40,Default,Karyl,0,0,0,,They'll run into many a scare.
 Dialogue: 10,0:14:45.40,0:14:46.57,Default,Kokkoro,0,0,0,,What?!
-Dialogue: 10,0:14:52.32,0:14:54.10,Default,Three,0,0,0,,Teacher!
-Dialogue: 10,0:14:55.26,0:14:56.33,Default,Three,0,0,0,,Teacher?!
+Dialogue: 10,0:14:52.32,0:14:54.10,Default,Three,0,0,0,,Mentor!
+Dialogue: 10,0:14:55.26,0:14:56.33,Default,Three,0,0,0,,Mentor?!
 Dialogue: 10,0:14:56.33,0:14:57.83,Default,Kokkoro,0,0,0,,My lord!
-Dialogue: 10,0:14:58.31,0:15:00.39,Default,Misogi,0,0,0,,We have to save our teacher!
+Dialogue: 10,0:14:58.31,0:15:00.39,Default,Misogi,0,0,0,,We have to save our mentor!
 Dialogue: 10,0:15:04.30,0:15:06.13,Default,Karyl,0,0,0,,Grim Burst!
-Dialogue: 10,0:15:09.42,0:15:10.62,Default,Kyoka,0,0,0,,Huh?
+Dialogue: 10,0:15:09.42,0:15:10.62,Default,Kyouka,0,0,0,,Huh?
 Dialogue: 10,0:15:10.62,0:15:11.97,Default,Mimi,0,0,0,,Did we beat it?
-Dialogue: 10,0:15:13.67,0:15:16.43,Default,Three,0,0,0,,You're amazing, Teacher!
-Dialogue: 10,0:15:25.36,0:15:26.86,Default,Karyl,0,0,0,,Take that!
-Dialogue: 10,0:15:28.93,0:15:30.86,Default,Three,0,0,0,,Time to eat!
+Dialogue: 10,0:15:13.67,0:15:16.43,Default,Three,0,0,0,,You're so cool, Mentor!
+Dialogue: 10,0:15:25.36,0:15:26.86,Default,Karyl,0,0,0,,Eat this!
+Dialogue: 10,0:15:28.93,0:15:30.86,Default,Three,0,0,0,,Enjoy the food!
 Dialogue: 10,0:15:31.98,0:15:33.43,Default,Misogi,0,0,0,,Yummy!
 Dialogue: 10,0:15:33.43,0:15:35.81,Default,Mimi,0,0,0,,Eating outside makes it taste even better!
-Dialogue: 10,0:15:35.81,0:15:37.62,Default,Kyoka,0,0,0,,Your lunch is so cute, Mimi!
+Dialogue: 10,0:15:35.81,0:15:37.62,Default,Kyouka,0,0,0,,Your lunch looks so cute, Mimi!
 Dialogue: 10,0:15:39.03,0:15:42.30,Default,Karyl,0,0,0,,Why are we stuck with monster slaying now?
-Dialogue: 10,0:15:42.30,0:15:44.66,Default,Kokkoro,0,0,0,,I'm getting hungry.
-Dialogue: 10,0:15:45.15,0:15:47.20,Default,Pecorine,0,0,0,,Karyl! Kokkoro!
+Dialogue: 10,0:15:42.30,0:15:44.66,Default,Kokkoro,0,0,0,,I'm starting to get hungry.
+Dialogue: 10,0:15:45.15,0:15:47.20,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}! Kokkoro{**-chan}!
 Dialogue: 10,0:15:48.85,0:15:51.59,Default,Karyl,0,0,0,,Don't scare us like that, Dumborine!
-Dialogue: 10,0:15:51.59,0:15:55.39,Default,Pecorine,0,0,0,,I'm sorry. I can't get this costume off.
+Dialogue: 10,0:15:51.59,0:15:55.39,Default,Pecorine,0,0,0,,I'm sorry, but I can't get this costume off.
 Dialogue: 10,0:15:55.39,0:15:57.10,Default,Pecorine,0,0,0,,More importantly,
 Dialogue: 10,0:15:57.10,0:16:00.17,Default,Pecorine,0,0,0,,they're heading toward a giant monster bird's nest!
 Dialogue: 10,0:16:00.17,0:16:01.39,Default,Pecorine,0,0,0,,They're in danger!
 Dialogue: 10,0:16:01.39,0:16:03.05,Default,Karyl,0,0,0,,A monster bird's nest?
 Dialogue: 10,0:16:03.05,0:16:07.36,Default,Pecorine,0,0,0,,I come here to collect its eggs occasionally.
 Dialogue: 10,0:16:07.36,0:16:08.95,Default,Pecorine,0,0,0,,They're super tasty!
-Dialogue: 10,0:16:08.95,0:16:11.73,Default,Pecorine,0,0,0,,{\q2}You liked them when you \Nate them yesterday, remember?
-Dialogue: 10,0:16:11.93,0:16:13.11,Default,Karyl,0,0,0,,{\bord0\c&HF0F0F0&\shad0\fad(200,400)\blur1\frz335.8\move(1472,999.999,1530.667,874.666,0,-1)\fnChewy\fsp2}Yummy!
-Dialogue: 10,0:16:11.93,0:16:13.11,Default,Karyl,0,0,0,,{\c&HF0F0F0&\shad0\fad(200,400)\blur1\1a&H80&\frz335.8\move(1472,999.999,1530.667,874.666,0,-1)\fnChewy\fsp2}Yummy!
-Dialogue: 10,0:16:13.59,0:16:15.86,Default,Karyl,0,0,0,,Those were a monster's eggs?!
-Dialogue: 10,0:16:15.86,0:16:18.01,Default,Karyl,0,0,0,,Why'd you feed me something like that?!
-Dialogue: 10,0:16:18.01,0:16:20.40,Default,Kokkoro,0,0,0,,We should call off this quest...
-Dialogue: 10,0:16:19.59,0:16:20.91,Alt,Kyoka,0,0,0,,Teacher!
+Dialogue: 10,0:16:08.95,0:16:11.73,Default,Pecorine,0,0,0,,{\q2}You really liked the fried eggs \NI made the other day, right?
+Dialogue: 11,0:16:11.93,0:16:13.11,Default,Karyl,1400,0,100,,{\frz350\fnChewy\fs100\fsp2\bord0\xshad0.01\c&HF0F0F0&\4c&HFFFFFF&\1a&HFE&\3a&HFE&\4a&H00&\blur1\fad(150,180)\t(0.65,\yshad-200)}Yummy!
+Dialogue: 10,0:16:11.93,0:16:13.11,Default,Karyl,1400,0,100,,{\frz350\fnChewy\fs100\fsp2\xshad0.01\c&HF0F0F0&\1a&HFE&\3a&HFE&\4a&H00&\blur2\fad(150,180)\t(0.65,\yshad-200)}Yummy!
+Dialogue: 10,0:16:13.59,0:16:15.86,Default,Karyl,0,0,0,,Those were {\i1}monster{\i0} eggs?!
+Dialogue: 10,0:16:15.86,0:16:18.01,Default,Karyl,0,0,0,,Why'd you feed me {\i1}that{\i0}?!
+Dialogue: 10,0:16:18.01,0:16:20.40,Default,Kokkoro,0,0,0,,It would be for the best if we called off the quest.
+Dialogue: 10,0:16:19.59,0:16:20.91,Alt,Kyouka,0,0,0,,Mentor!
 Dialogue: 10,0:16:27.04,0:16:29.52,Default,Kokkoro,0,0,0,,My lord!
-Dialogue: 10,0:16:29.52,0:16:31.31,Default,Karyl,0,0,0,,What is that idiot doing?!
-Dialogue: 10,0:16:31.31,0:16:33.54,Default,Misogi,0,0,0,,Give our teacher back!
-Dialogue: 10,0:16:33.54,0:16:35.05,Default,Kyoka,0,0,0,,Cosmo Blue Flash!
-Dialogue: 10,0:16:48.54,0:16:50.72,Default,Three,0,0,0,,Teacher!
-Dialogue: 10,0:17:07.70,0:17:09.18,Default,Kyoka,0,0,0,,I'm scared...
+Dialogue: 10,0:16:29.52,0:16:31.31,Default,Karyl,0,0,0,,What is that dumbass doing?!
+Dialogue: 10,0:16:31.31,0:16:33.54,Default,Misogi,0,0,0,,Give our mentor back!
+Dialogue: 10,0:16:33.54,0:16:35.05,Default,Kyouka,0,0,0,,Cosmo Blue Flash!
+Dialogue: 10,0:16:48.54,0:16:50.72,Default,Three,0,0,0,,Mentor!
+Dialogue: 10,0:17:07.70,0:17:09.18,Default,Kyouka,0,0,0,,I'm scared...
 Dialogue: 10,0:17:09.91,0:17:13.28,Default,Misogi,0,0,0,,We have to work together to beat that thing!
-Dialogue: 10,0:17:13.87,0:17:14.84,Default,Both,0,0,0,,Right!
+Dialogue: 10,0:17:13.87,0:17:14.84,Default,Both,0,0,0,,Yes!
 Dialogue: 10,0:17:17.79,0:17:20.31,Default,Misogi,0,0,0,,Trick Bomber!
 Dialogue: 10,0:17:20.31,0:17:23.73,Default,Mimi,0,0,0,,Bunny Slash!
-Dialogue: 10,0:17:24.85,0:17:27.73,Default,Kyoka,0,0,0,,Cosmo Blue Flash!
-Dialogue: 10,0:17:34.65,0:17:36.05,Default,Pecorine,0,0,0,,It's in there!
-Dialogue: 10,0:17:36.05,0:17:37.99,Default,Karyl,0,0,0,,Are those kids all right?!
+Dialogue: 10,0:17:24.85,0:17:27.73,Default,Kyouka,0,0,0,,Cosmo Blue Flash!
+Dialogue: 10,0:17:34.65,0:17:36.05,Default,Pecorine,0,0,0,,That's its nest!
+Dialogue: 10,0:17:36.05,0:17:37.99,Default,Karyl,0,0,0,,Do you see those kids?
 Dialogue: 10,0:17:41.20,0:17:42.69,Default,Pecorine,0,0,0,,There they are!
-Dialogue: 10,0:17:45.75,0:17:48.26,Default,Karyl,0,0,0,,They're unconscious!
+Dialogue: 10,0:17:45.75,0:17:48.26,Default,Karyl,0,0,0,,They're out cold!
 Dialogue: 10,0:17:48.26,0:17:49.50,Default,Kokkoro,0,0,0,,Where's my lord?
 Dialogue: 10,0:18:02.91,0:18:04.27,Default,Kokkoro,0,0,0,,My lord!
-Dialogue: 10,0:18:04.27,0:18:06.02,Default,Kokkoro,0,0,0,,And... Lady Ameth?
-Dialogue: 10,0:18:07.38,0:18:11.08,Default,Karyl,0,0,0,,Was the monster eating the crops this bird thing?
+Dialogue: 10,0:18:04.27,0:18:06.02,Default,Kokkoro,0,0,0,,And... {*}Lady Amethy{*Amethy-sama}?
+Dialogue: 10,0:18:07.38,0:18:11.08,Default,Karyl,0,0,0,,So this is the pest we were supposed to control?
 Dialogue: 10,0:18:11.50,0:18:14.57,Default,Kokkoro,0,0,0,,No wonder the farmer was powerless to stop it.
-Dialogue: 10,0:18:21.24,0:18:22.64,Default,Karyl,0,0,0,,Oh, no!
+Dialogue: 10,0:18:21.24,0:18:22.64,Default,Karyl,0,0,0,,Oh, crap!
 Dialogue: 10,0:18:23.10,0:18:25.24,Default,Karyl,0,0,0,,Grim Burst!
-Dialogue: 10,0:18:28.01,0:18:31.14,Default,Kokkoro,0,0,0,,Perfect, Miss Karyl! Hit it with more magic!
+Dialogue: 10,0:18:28.01,0:18:31.14,Default,Kokkoro,0,0,0,,Perfect, {*}Lady Karyl{*Kyaru-sama}! Hit it with more magic!
 Dialogue: 10,0:18:31.14,0:18:33.12,Default,Karyl,0,0,0,,N-No can do.
-Dialogue: 10,0:18:33.12,0:18:34.00,Default,Kokkoro,0,0,0,,What?
-Dialogue: 10,0:18:34.56,0:18:37.58,Default,Karyl,0,0,0,,I've been doing nothing but fight monsters all day.
+Dialogue: 10,0:18:33.12,0:18:34.00,Default,Kokkoro,0,0,0,,Excuse me?
+Dialogue: 10,0:18:34.56,0:18:37.58,Default,Karyl,0,0,0,,I've been fighting monsters all freaking day.
 Dialogue: 10,0:18:37.58,0:18:40.14,Default,Karyl,0,0,0,,I'm absolutely drained.
-Dialogue: 10,0:18:40.73,0:18:42.26,Default,Karyl,0,0,0,,So are you, right?
-Dialogue: 10,0:18:46.25,0:18:48.96,Default,Karyl,0,0,0,,What happened to that ridiculous strength of yours?!
+Dialogue: 10,0:18:40.73,0:18:42.26,Default,Karyl,0,0,0,,Aren't you pooped too, Korosuke?
+Dialogue: 10,0:18:46.25,0:18:48.96,Default,Karyl,0,0,0,,When'd you become such a weakling?!
 Dialogue: 10,0:18:48.96,0:18:51.78,Default,Pecorine,0,0,0,,I-I'm so hungry, my strength's all gone!
-Dialogue: 10,0:18:51.78,0:18:56.94,Default,Pecorine,0,0,0,,{\q2}I missed lunch because I couldn't \Nget out of this costume!
+Dialogue: 10,0:18:51.78,0:18:56.94,Default,Pecorine,0,0,0,,{\q2}I skipped out on lunch \Nbecause I was stuck in this costume!
 Dialogue: 10,0:18:56.94,0:19:00.07,Default,Karyl,0,0,0,,That costume will be the death of us!
 Dialogue: 10,0:19:01.11,0:19:01.93,Default,Pecorine,0,0,0,,Oh?
 Dialogue: 10,0:19:11.96,0:19:13.49,Default,Karyl,0,0,0,,P-Pecorine!
-Dialogue: 10,0:19:11.96,0:19:13.49,Alt,Kokkoro,0,0,0,,{\pos(960,950)}Miss Pecorine!
+Dialogue: 10,0:19:11.96,0:19:13.49,Alt,Kokkoro,0,0,0,,{*}L-Lady Pecorine{*P-Pecorine-sama}!
 Dialogue: 10,0:19:15.52,0:19:17.76,Default,Pecorine,0,0,0,,Yum!
-Dialogue: 10,0:19:24.02,0:19:27.52,Default,Pecorine,0,0,0,,Those girls are going to make fine adventurers!
+Dialogue: 10,0:19:24.02,0:19:27.52,Default,Pecorine,0,0,0,,Those girls will make fine adventurers!
 Dialogue: 10,0:19:28.03,0:19:29.52,Default,Pecorine,0,0,0,,Full power!
 Dialogue: 10,0:19:30.19,0:19:31.52,Default,Pecorine,0,0,0,,Full throttle!
 Dialogue: 10,0:19:32.18,0:19:35.52,Default,Pecorine,0,0,0,,Princess Strike!
-Dialogue: 10,0:19:48.41,0:19:49.66,Default,Mimi,0,0,0,,Was that...
-Dialogue: 10,0:19:50.14,0:19:51.92,Default,Kyoka,0,0,0,,...us?
+Dialogue: 10,0:19:48.41,0:19:49.66,Default,Mimi,0,0,0,,Did we...
+Dialogue: 10,0:19:50.14,0:19:51.92,Default,Kyouka,0,0,0,,...do that?
 Dialogue: 10,0:19:52.46,0:19:54.16,Default,Misogi,0,0,0,,We beat it!
-Dialogue: 10,0:19:54.16,0:19:57.02,Default,Three,0,0,0,,All right!
-Dialogue: 10,0:20:00.42,0:20:02.44,Default,Karyl,0,0,0,,Not bad, you three.
-Dialogue: 10,0:20:02.44,0:20:03.68,Default,Kyoka,0,0,0,,Teacher!
+Dialogue: 10,0:19:54.16,0:19:57.02,Default,Three,0,0,0,,Yay!
+Dialogue: 10,0:20:00.42,0:20:02.44,Default,Karyl,0,0,0,,Not half bad, kiddos.
+Dialogue: 10,0:20:02.44,0:20:03.68,Default,Kyouka,0,0,0,,Mentor!
 Dialogue: 10,0:20:04.29,0:20:06.80,Default,Mimi,0,0,0,,We completed our quest!
 Dialogue: 10,0:20:07.52,0:20:11.69,Default,Kokkoro,0,0,0,,{\q2}You've done wonderfully. \NWe have nothing more to teach you.
 Dialogue: 10,0:20:13.95,0:20:16.07,Default,Misogi,0,0,0,,So, where's the treasure?
 Dialogue: 10,0:20:17.90,0:20:19.76,Default,Karyl,0,0,0,,Korosuke, where's the treasure?
-Dialogue: 10,0:20:20.46,0:20:22.88,Default,Kokkoro,0,0,0,,At the original goal.
+Dialogue: 10,0:20:20.46,0:20:22.88,Default,Kokkoro,0,0,0,,At the original finish line.
 Dialogue: 10,0:20:24.07,0:20:25.58,Default,Pecorine,0,0,0,,The treasure is
 Dialogue: 10,0:20:26.07,0:20:27.58,Default,Pecorine,0,0,0,,this egg!
-Dialogue: 10,0:20:27.98,0:20:29.62,Default,Three,0,0,0,,We did it!
+Dialogue: 10,0:20:27.98,0:20:29.62,Default,Three,0,0,0,,Yay!
 Dialogue: 10,0:20:30.20,0:20:33.49,Default,Pecorine,0,0,0,,Let's all have some delicious fried eggs together!
-Dialogue: 10,0:20:37.99,0:20:39.04,Default,Pecorine,0,0,0,,Oh?
-Dialogue: 10,0:20:47.04,0:20:48.84,Default,Mimi,0,0,0,,How cute!
+Dialogue: 10,0:20:37.99,0:20:39.04,Default,Pecorine,0,0,0,,Oh, dear?
+Dialogue: 10,0:20:47.04,0:20:48.84,Default,Mimi,0,0,0,,It's so cute!
 Dialogue: 10,0:20:48.84,0:20:50.53,Default,Misogi,0,0,0,,It's so fluffy!
-Dialogue: 10,0:20:52.19,0:20:54.36,Default,Karyl,0,0,0,,You want to eat that?
+Dialogue: 10,0:20:52.19,0:20:54.36,Default,Karyl,0,0,0,,You want to eat that thing?
 Dialogue: 10,0:20:54.36,0:20:56.87,Default,Pecorine,0,0,0,,I guess that's out of the question now.
-Dialogue: 10,0:20:57.66,0:20:58.77,Default,Kyoka,0,0,0,,Um...
-Dialogue: 10,0:20:59.26,0:21:02.94,Default,Kyoka,0,0,0,,You were all actors in this quest, right?
+Dialogue: 10,0:20:57.66,0:20:58.77,Default,Kyouka,0,0,0,,Um...
+Dialogue: 10,0:20:59.26,0:21:02.94,Default,Kyouka,0,0,0,,You were all acting during this quest, right?
 Dialogue: 10,0:21:05.22,0:21:06.91,Default,Pecorine,0,0,0,,You figured us out, huh?
-Dialogue: 10,0:21:08.00,0:21:09.62,Default,Kyoka,0,0,0,,Thank you.
-Dialogue: 10,0:21:11.14,0:21:14.00,Default,Kyoka,0,0,0,,I won't tell the other two, okay?
-Dialogue: 10,0:21:14.67,0:21:18.32,Default,Kyoka,0,0,0,,Teacher—No, Yuuki. Thank you very much, as well.
-Dialogue: 10,0:21:18.93,0:21:21.96,Default,Kyoka,0,0,0,,You even pretended that bird caught you.
+Dialogue: 10,0:21:08.00,0:21:09.62,Default,Kyouka,0,0,0,,Thank you so much.
+Dialogue: 10,0:21:11.14,0:21:14.00,Default,Kyouka,0,0,0,,I won't tell the other two, okay?
+Dialogue: 10,0:21:14.67,0:21:18.32,Default,Kyouka,0,0,0,,Mentor—No, Yuuki{**-san}. Thank you so much, as well.
+Dialogue: 10,0:21:18.93,0:21:21.96,Default,Kyouka,0,0,0,,{\q2}You went so far as pretend \Nthat bird caught you for us!
 Dialogue: 10,0:21:21.96,0:21:24.50,Default,Karyl,0,0,0,,It wasn't really "pretending" per se...
 Dialogue: 10,0:21:24.50,0:21:25.29,Default,Yuuki,0,0,0,,Mhm!
-Dialogue: 10,0:21:25.29,0:21:26.47,Default,Three,0,0,0,,Huh?!
+Dialogue: 10,0:21:25.29,0:21:26.47,Default,Three,0,0,0,,What?!
 Dialogue: 10,0:21:29.92,0:21:32.06,Default,Karyl,0,0,0,,Why are we back to planting seedlings again?
 Dialogue: 10,0:21:32.99,0:21:36.83,Default,Karyl,0,0,0,,I told you to pick a quest with a decent reward next!
-Dialogue: 10,0:21:36.83,0:21:40.08,Default,Pecorine,0,0,0,,Well, the farmer asked for help.
-Dialogue: 10,0:21:40.08,0:21:43.44,Default,Karyl,0,0,0,,Once these seedlings grow into rice, I'm eating it first!
+Dialogue: 10,0:21:36.83,0:21:40.08,Default,Pecorine,0,0,0,,Well, the farmer asked for our help again.
+Dialogue: 10,0:21:40.08,0:21:43.44,Default,Karyl,0,0,0,,{\q2}Once these seedlings grow, \NI'm getting the first bite!
 Dialogue: 10,0:21:43.44,0:21:44.99,Default,Mimi,0,0,0,,Whee!
 Dialogue: 10,0:21:52.84,0:21:55.18,Default,Kokkoro,0,0,0,,It's the mixed duck farming method.
 Dialogue: 10,0:21:55.79,0:21:58.75,Default,Pecorine,0,0,0,,It lets you grow delicious rice, pesticide-free!
 Dialogue: 10,0:21:59.78,0:22:01.00,Default,Karyl,0,0,0,,Hey, you hooligans!
 Dialogue: 10,0:22:01.58,0:22:04.31,Default,Karyl,0,0,0,,Don't step on the seedlings!
-Dialogue: 10,0:23:37.42,0:23:40.02,Default,Karyl,0,0,0,,{\an3\pos(1610,1024)}Ew! Bugs!
+Dialogue: 10,0:23:37.42,0:23:40.02,Default,Karyl,1250,0,0,,Ew! Bugs!
