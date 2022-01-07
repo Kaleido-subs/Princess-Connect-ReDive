@@ -181,10 +181,10 @@ Dialogue: 10,0:11:15.03,0:11:16.88,Default,Karyl,0,0,0,,Looking for something?
 Dialogue: 10,0:11:18.22,0:11:19.29,Default,Kokkoro,0,0,0,,You're...
 Dialogue: 10,0:11:19.29,0:11:20.65,Default,Pecorine,0,0,0,,The girl who can't eat hot food!
 Dialogue: 10,0:11:20.65,0:11:21.98,Default,Karyl,0,0,0,,Shut up!
-Dialogue: 10,0:11:21.98,0:11:24.74,Default,Karyl,0,0,0,,I have a name, y'know! It's Karyl!
+Dialogue: 10,0:11:21.98,0:11:24.74,Default,Karyl,0,0,0,,I have a name, y'know! It's {*}Karyl{*Kyaru}!
 Dialogue: 10,0:11:24.74,0:11:26.49,Default,Karyl,0,0,0,,You can keep the labels to yourself!
 Dialogue: 10,0:11:26.49,0:11:27.79,Default,Pecorine,0,0,0,,Karyl?
-Dialogue: 10,0:11:28.67,0:11:31.16,Default,Pecorine,0,0,0,,{*}Karyl! Wow{*Karyl-chan}! That's such a cute name!
+Dialogue: 10,0:11:28.67,0:11:31.16,Default,Pecorine,0,0,0,,{*}Karyl! Wow{*Kyaru-chan}! That's such a cute name!
 Dialogue: 10,0:11:31.16,0:11:32.24,Default,Pecorine,0,0,0,,That's crazy!
 Dialogue: 10,0:11:32.24,0:11:33.86,Default,Karyl,0,0,0,,It's {\i1}not{\i0} crazy!
 Dialogue: 10,0:11:33.86,0:11:37.30,Default,Karyl,0,0,0,,Calling someone's name crazy is rude! {\i1}Rude{\i0}!
@@ -215,7 +215,7 @@ Dialogue: 10,0:12:50.21,0:12:53.08,Default,Pecorine,0,0,0,,Yes! My father gave i
 Dialogue: 10,0:12:54.06,0:12:56.57,Default,Kokkoro,0,0,0,,{\q2}I have a feeling things may be \Nmore twisted than you realise...
 Dialogue: 10,0:12:56.57,0:12:59.43,Default,Karyl,0,0,0,,Boy, you guys sure lucked out.
 Dialogue: 10,0:12:59.43,0:13:02.09,Default,Karyl,0,0,0,,I know {\i1}exactly{\i0} where to find them.
-Dialogue: 10,0:13:02.09,0:13:03.78,Default,Pecorine,0,0,0,,You do, Karyl{**-chan}?!
+Dialogue: 10,0:13:02.09,0:13:03.78,Default,Pecorine,0,0,0,,You do, {*}Karyl{*Kyaru-chan}?!
 Dialogue: 10,0:13:03.78,0:13:06.30,Default,Pecorine,0,0,0,,I love you! Thank you!
 Dialogue: 10,0:13:06.30,0:13:10.28,Default,Karyl,0,0,0,,Hey! Get off me!
 Dialogue: 10,0:13:14.06,0:13:15.07,Default,Karyl,0,0,0,,There they are.
@@ -223,7 +223,7 @@ Dialogue: 10,0:13:21.87,0:13:24.16,Default,Kokkoro,0,0,0,,I-It certainly is larg
 Dialogue: 10,0:13:24.16,0:13:26.58,Default,Pecorine,0,0,0,,That's my sword! I'm sure of it!
 Dialogue: 10,0:13:26.58,0:13:28.84,Default,Karyl,0,0,0,,And this is as far as I go.
 Dialogue: 10,0:13:28.84,0:13:31.86,Default,Karyl,0,0,0,,No way I'm messing with {\i1}that{\i0} thing.
-Dialogue: 10,0:13:32.78,0:13:36.34,Default,Pecorine,0,0,0,,No worries, Karyl! Thanks for leading the way!
+Dialogue: 10,0:13:32.78,0:13:36.34,Default,Pecorine,0,0,0,,No worries, {*}Karyl{*Kyaru-chan}! Thanks for leading the way!
 Dialogue: 10,0:13:38.39,0:13:41.73,Default,Karyl,0,0,0,,I-I'll wait for you somewhere safe nearby.
 Dialogue: 10,0:13:46.09,0:13:49.11,Default,Kokkoro,0,0,0,,It's holding the sword securely in its mouth.
 Dialogue: 10,0:13:54.22,0:13:56.71,Default,Ikacchi,0,0,0,,Mama!
@@ -267,7 +267,7 @@ Dialogue: 10,0:16:51.49,0:16:53.38,Default,Pecorine,0,0,0,,Nice one, Yuuki{**-ku
 Dialogue: 10,0:16:57.98,0:17:00.04,Default,Charlie,0,0,0,,She did it!
 Dialogue: 10,0:17:34.36,0:17:35.16,Default,Karyl,0,0,0,,Crap!
 Dialogue: 10,0:17:52.73,0:17:53.97,Default,Karyl,0,0,0,,Pecorine?
-Dialogue: 10,0:17:53.97,0:17:55.67,Default,Pecorine,0,0,0,,Are you okay, Karyl{**-chan}?
+Dialogue: 10,0:17:53.97,0:17:55.67,Default,Pecorine,0,0,0,,Are you okay, {*}Karyl{*Kyaru-chan}?
 Dialogue: 10,0:17:56.11,0:17:57.68,Default,Karyl,0,0,0,,You... got the...
 Dialogue: 10,0:17:58.36,0:18:00.80,Default,Pecorine,0,0,0,,Yes, I finally got it back!
 Dialogue: 10,0:18:08.02,0:18:10.19,Default,Kokkoro,0,0,0,,M-My lord!
