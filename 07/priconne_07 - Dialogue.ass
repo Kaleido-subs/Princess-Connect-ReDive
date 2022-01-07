@@ -47,7 +47,7 @@ Dialogue: 10,0:00:40.72,0:00:45.85,Default,Hatsune,0,0,0,,{\q2}I'll even carry y
 Dialogue: 10,0:00:50.48,0:00:51.69,Default,Hatsune,0,0,0,,Are you okay?
 Dialogue: 10,0:00:51.69,0:00:53.99,Default,Hatsune,0,0,0,,We spent the entire day shopping today...
 Dialogue: 10,0:00:58.03,0:00:59.62,Default,Hatsune,0,0,0,,You go rest up now.
-Dialogue: 10,0:01:07.38,0:01:12.38,Default,Shiori,0,0,0,,{\i1}I'm sorry, Hatsune. All I ever do is make you worry...
+Dialogue: 10,0:01:07.38,0:01:12.38,Default,Shiori,0,0,0,,{\i1}I'm sorry, {*}Hatsune{*Onee-chan}. \NAll I ever do is make you worry...
 Dialogue: 10,0:01:16.88,0:01:17.97,Default,Shiori,0,0,0,,{\i1}I'm sorry...
 Dialogue: 10,0:02:54.52,0:02:57.32,Default,Pecorine,0,0,0,,Rise and shine! It's harvest time!
 Dialogue: 10,0:02:57.32,0:02:58.90,Default,All,0,0,0,,Yeah!
@@ -57,7 +57,7 @@ Dialogue: 10,0:03:02.49,0:03:04.33,Default,All,0,0,0,,Okay!
 Dialogue: 10,0:03:08.70,0:03:11.50,Default,Kokkoro,0,0,0,,This soil is well-drained.
 Dialogue: 10,0:03:11.50,0:03:14.42,Default,Kokkoro,0,0,0,,I can tell they take good care of it every day.
 Dialogue: 10,0:03:14.42,0:03:18.55,Default,Karyl,0,0,0,,Huh... So this is the plant spice comes from?
-Dialogue: 10,0:03:18.55,0:03:21.43,Default,Pecorine,0,0,0,,Karyl{**-chan}, here. Smell this.
+Dialogue: 10,0:03:18.55,0:03:21.43,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}, here. Smell this.
 Dialogue: 10,0:03:23.47,0:03:25.51,Default,Karyl,0,0,0,,It smells great!
 Dialogue: 10,0:03:26.01,0:03:28.39,Default,Karyl,0,0,0,,It makes my stomach roar.
 Dialogue: 10,0:03:28.39,0:03:29.77,Default,Pecorine,0,0,0,,Doesn't it?
@@ -280,16 +280,16 @@ Dialogue: 10,0:20:39.09,0:20:40.80,Default,Karyl,0,0,0,,Are you ready for this?
 Dialogue: 10,0:20:40.80,0:20:43.09,Default,Karyl,0,0,0,,Grim Burst!
 Dialogue: 10,0:20:51.93,0:20:53.52,Default,Hatsune,0,0,0,,Shiorin!
 Dialogue: 10,0:20:55.85,0:20:58.02,Default,Hatsune,0,0,0,,Don't give in! I'm coming to save you right now!
-Dialogue: 10,0:21:01.03,0:21:02.90,Default,Pecorine,0,0,0,,Hatsune?!
+Dialogue: 10,0:21:01.03,0:21:02.90,Default,Pecorine,0,0,0,,Hatsune{**-chan}?!
 Dialogue: 10,0:21:02.90,0:21:04.53,Default,Kokkoro,0,0,0,,Are you all right?
 Dialogue: 10,0:21:05.28,0:21:06.28,Default,Karyl,0,0,0,,Korosuke!
 Dialogue: 10,0:21:06.28,0:21:08.78,Default,Karyl,0,0,0,,Exactly what the hell is going on?
-Dialogue: 10,0:21:12.66,0:21:15.33,Default,Shiori,0,0,0,,I'm sorry, Hatsune...
+Dialogue: 10,0:21:12.66,0:21:15.33,Default,Shiori,0,0,0,,I'm sorry, {*}Hatsune{*Onee-chan}...
 Dialogue: 10,0:21:15.83,0:21:18.17,Default,Shiori,0,0,0,,I... can't...
 Dialogue: 10,0:21:21.80,0:21:23.26,Default,Hatsune,0,0,0,,Shiorin!
 Dialogue: 10,0:21:23.26,0:21:25.09,Default,Hatsune,0,0,0,,Stay strong, Shiorin!
 Dialogue: 10,0:21:25.09,0:21:26.89,Default,Hatsune,0,0,0,,We're getting out of here!
-Dialogue: 10,0:21:29.26,0:21:31.52,Default,Shiori,0,0,0,,Hatsune?
+Dialogue: 10,0:21:29.26,0:21:31.52,Default,Shiori,0,0,0,,{*}Hatsune{*Onee-chan}?
 Dialogue: 10,0:21:32.14,0:21:34.39,Default,Hatsune,0,0,0,,Don't fall asleep, Shiorin!
 Dialogue: 10,0:21:34.39,0:21:37.52,Default,Hatsune,0,0,0,,{\q2}Sleeping is {\i1}my{\i0} job! \NThings will get hairy if you take over!
 Dialogue: 10,0:21:37.52,0:21:39.02,Default,Hatsune,0,0,0,,Come on, let's go!
@@ -308,7 +308,7 @@ Dialogue: 10,0:22:27.28,0:22:28.74,Default,Hatsune,0,0,0,,A Shadow!
 Dialogue: 10,0:22:30.70,0:22:33.24,Default,Hatsune,0,0,0,,I used too much of my power.
 Dialogue: 10,0:22:33.24,0:22:35.29,Default,Hatsune,0,0,0,,I made it this far, and yet...
 Dialogue: 10,0:22:36.04,0:22:37.54,Default,Hatsune,0,0,0,,Shiorin?
-Dialogue: 10,0:22:38.71,0:22:41.04,Default,Shiori,0,0,0,,Thank you, Hatsune.
+Dialogue: 10,0:22:38.71,0:22:41.04,Default,Shiori,0,0,0,,Thank you, {*}Hatsune{*Onee-chan}.
 Dialogue: 10,0:22:41.04,0:22:43.04,Default,Shiori,0,0,0,,Thank you for always protecting me.
 Dialogue: 10,0:22:43.96,0:22:48.34,Default,Shiori,0,0,0,,I hope that one day, I will be able to protect you.
 Dialogue: 10,0:22:48.34,0:22:52.51,Default,Shiori,0,0,0,,That is my wish, and my goal.
@@ -333,4 +333,4 @@ Dialogue: 10,0:24:47.46,0:24:48.92,Default,Aoi,0,0,0,,Is Hatsune{**-san} all rig
 Dialogue: 10,0:24:53.80,0:24:56.18,Default,Aoi,0,0,0,,She's... sound asleep?
 Dialogue: 10,0:24:59.35,0:25:00.85,Default,Shiori,0,0,0,,Shh.
 Dialogue: 10,0:26:37.32,0:26:38.82,Default,Pecorine,0,0,0,,{\pos(1438,1024)}Wow! This is so good!
-Dialogue: 10,0:26:38.82,0:26:39.82,Default,Karyl,0,0,0,,{\pos(1438,1024)}So good!
+Dialogue: 10,0:26:38.82,0:26:39.99,Default,Karyl,1400,0,0,,So good!
