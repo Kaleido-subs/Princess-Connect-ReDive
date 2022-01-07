@@ -45,20 +45,20 @@ Dialogue: 10,0:00:37.36,0:00:39.01,Default,Karyl,0,0,0,,Bugs!
 Dialogue: 10,0:02:10.06,0:02:11.23,Default,Karyl,0,0,0,,Gather 'round, people!
 Dialogue: 10,0:02:11.23,0:02:14.77,Default,Karyl,0,0,0,,{\q2}Excuse me, but what the {\i1}hell{\i0}?! \NIs this a haunted mansion or something?
 Dialogue: 10,0:02:14.77,0:02:16.24,Default,Karin,0,0,0,,My deepest apologies.
-Dialogue: 10,0:02:16.24,0:02:19.87,Default,Karin,0,0,0,,{\q2}We're a bit short on guild houses \Nto lend out at the moment.
+Dialogue: 10,0:02:16.24,0:02:19.87,Default,Karin,0,0,0,,{\q2}We're a bit short on guild houses \Nto lend out to people at the moment.
 Dialogue: 10,0:02:20.22,0:02:24.74,Default,Karyl,0,0,0,,{\q2}Maybe not people, but what about those snakes \Nand centipede-looking things in there?!
-Dialogue: 10,0:02:27.57,0:02:30.34,Default,Karyl,0,0,0,,{\q2}This house wasn't the site of some \Nfreak accident or something, right?
+Dialogue: 10,0:02:27.57,0:02:30.34,Default,Karyl,0,0,0,,{\q2}This house wasn't the site of \Nsome freak accident or something, right?
 Dialogue: 10,0:02:30.34,0:02:32.80,Default,Karin,0,0,0,,You need not worry about things like that.
 Dialogue: 10,0:02:32.80,0:02:34.08,Default,Karin,0,0,0,,It's just that
 Dialogue: 10,0:02:34.08,0:02:36.85,Default,Karin,0,0,0,,{\fscx70\fscy70\bord2\t(\fscx68\fscy65)}this {\i1}might{\i0} be the home of ghosts and other spectres...
 Dialogue: 10,0:02:36.85,0:02:39.81,Default,Karyl,0,0,0,,Hold on! I could've sworn I heard "ghosts" there!
-Dialogue: 10,0:02:39.81,0:02:41.72,Default,Pecorine,0,0,0,,Nothing to worry about, Karyl.
+Dialogue: 10,0:02:39.81,0:02:41.72,Default,Pecorine,0,0,0,,Nothing to worry about, {*}Karyl{*Kyaru-chan}.
 Dialogue: 10,0:02:41.72,0:02:44.71,Default,Pecorine,0,0,0,,{\q2}I'm sure they'd be more than happy \Nto join us for dinner!
 Dialogue: 10,0:02:44.71,0:02:45.90,Default,Pecorine,0,0,0,,Wouldn't that be crazy?
 Dialogue: 10,0:02:45.90,0:02:49.40,Default,Karyl,0,0,0,,{\q2}Do you not care about who you're \Ndining with so long as you can dine?!
 Dialogue: 10,0:02:49.40,0:02:50.73,Default,Karyl,0,0,0,,Give me a break already!
-Dialogue: 10,0:02:51.33,0:02:55.29,Default,Kokkoro,0,0,0,,{\q2}Even so, I'm glad we no longer \Nhave to camp out in the elements.
-Dialogue: 10,0:02:55.87,0:03:00.49,Default,Kokkoro,0,0,0,,{\q2}Miss Karin, is it all right if we do \Na little work to make it more liveable?
+Dialogue: 10,0:02:51.33,0:02:55.29,Default,Kokkoro,0,0,0,,{\q2}Be that as it may, I'm glad we no longer \Nhave to camp out in the elements.
+Dialogue: 10,0:02:55.87,0:03:00.49,Default,Kokkoro,0,0,0,,{\q2}{*}Miss Karin{*Karin-sama}, is it all right if we do \Na little work to make it more liveable?
 Dialogue: 10,0:03:00.80,0:03:02.37,Default,Karin,0,0,0,,By all means.
 Dialogue: 10,0:03:03.63,0:03:05.36,Default,Karyl,0,0,0,,Is everyone ready?
 Dialogue: 10,0:03:05.36,0:03:09.09,Default,Karyl,0,0,0,,{\q2}If we're doing this, we're being thorough! \NLeave not a single speck of dust behind!
@@ -77,25 +77,25 @@ Dialogue: 10,0:03:49.00,0:03:51.49,Default,Pecorine,0,0,0,,I think that was the 
 Dialogue: 10,0:03:51.49,0:03:52.44,Default,Yuuki,0,0,0,,Mhm!
 Dialogue: 10,0:03:52.44,0:03:56.54,Default,Pecorine,0,0,0,,Dresser, sofa... I'm not missing anything, am I?
 Dialogue: 10,0:04:02.38,0:04:03.77,Default,Kokkoro,0,0,0,,What's the matter?
-Dialogue: 10,0:04:03.77,0:04:05.94,Default,Pecorine,0,0,0,,This is an emergency, Kokkoro!
+Dialogue: 10,0:04:03.77,0:04:05.94,Default,Pecorine,0,0,0,,This is an emergency, Kokkoro{**-chan}!
 Dialogue: 10,0:04:05.94,0:04:08.67,Default,Pecorine,0,0,0,,This house has a major flaw!
 Dialogue: 10,0:04:08.67,0:04:11.24,Default,Karyl,0,0,0,,Huh? What are you going on about?
 Dialogue: 10,0:04:11.24,0:04:16.03,Default,Karyl,0,0,0,,{\q2}It's already infested with snakes and bugs. \NWhat could possibly be {\i1}more{\i0} of an emergency?
-Dialogue: 10,0:04:16.40,0:04:19.29,Default,Pecorine,0,0,0,,It's missing a key element!
+Dialogue: 10,0:04:16.40,0:04:19.29,Default,Pecorine,0,0,0,,It's missing one key element!
 Dialogue: 10,0:04:21.05,0:04:23.91,Default,Pecorine,0,0,0,,It doesn't have a table to eat at!
 Dialogue: 10,0:04:26.67,0:04:27.92,Default,Both,0,0,0,,Oh, now that you mention it.
 Dialogue: 10,0:04:27.92,0:04:30.05,Default,Karyl,0,0,0,,So that's what you meant.
 Dialogue: 10,0:04:30.05,0:04:33.46,Default,Karyl,0,0,0,,Just go to town and buy one then.
-Dialogue: 10,0:04:33.46,0:04:37.91,Default,Pecorine,0,0,0,,Karyl, what is the goal of the Gourmet Guild?
+Dialogue: 10,0:04:33.46,0:04:37.91,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}, what is the goal of the Gourmet Guild?
 Dialogue: 10,0:04:37.91,0:04:41.09,Default,Karyl,0,0,0,,Huh? Oh, uh...
 Dialogue: 10,0:04:41.09,0:04:42.18,Default,Karyl,0,0,0,,Eating?
 Dialogue: 10,0:04:42.54,0:04:43.90,Default,Pecorine,0,0,0,,No!
 Dialogue: 10,0:04:43.90,0:04:46.30,Default,Pecorine,0,0,0,,It's for all of us to {\i1}enjoy{\i0} our meals together!
 Dialogue: 10,0:04:46.66,0:04:48.57,Default,Karyl,0,0,0,,Uh... Right...
-Dialogue: 10,0:04:49.31,0:04:52.89,Default,Pecorine,0,0,0,,{\q2}The dining table is too precious \Nan element to pick on a whim!
+Dialogue: 10,0:04:49.31,0:04:52.89,Default,Pecorine,0,0,0,,{\q2}The dining table is too precious \Nto just pick on a whim!
 Dialogue: 10,0:04:53.73,0:04:58.41,Default,Pecorine,0,0,0,,{\q2}So I will {\i1}build{\i0} the perfect table \Nfor us to enjoy our meals on!
 Dialogue: 10,0:05:07.35,0:05:08.65,Default,Karyl,0,0,0,,From scratch?
-Dialogue: 10,0:05:08.65,0:05:09.84,Default,Kokkoro,0,0,0,,Lady Karyl.
+Dialogue: 10,0:05:08.65,0:05:09.84,Default,Kokkoro,0,0,0,,{*}Lady Karyl{*Kyaru-sama}.
 Dialogue: 10,0:05:11.43,0:05:13.02,Default,Karyl,0,0,0,,What's up, Korosuke?
 Dialogue: 10,0:05:13.02,0:05:13.86,Default,Kokkoro,0,0,0,,Koro...
 Dialogue: 10,0:05:14.54,0:05:17.54,Default,Kokkoro,0,0,0,,I'd appreciate it if you could call me "Kokkoro"...
@@ -121,7 +121,7 @@ Dialogue: 10,0:06:46.08,0:06:47.00,Default,Kokkoro,0,0,0,,Yes.
 Dialogue: 10,0:06:47.79,0:06:49.68,Default,Kokkoro,0,0,0,,But they're a bit over budget.
 Dialogue: 10,0:06:50.83,0:06:52.43,Default,Saren,0,0,0,,This is a bazaar.
 Dialogue: 10,0:06:53.17,0:06:55.34,Default,Saren,0,0,0,,Haggling is part of the fun.
-Dialogue: 10,0:06:56.68,0:06:58.14,Default,Saren,0,0,0,,I'll give you a deal!
+Dialogue: 10,0:06:56.68,0:06:58.14,Default,Saren,0,0,0,,I'll cut you a deal!
 Dialogue: 10,0:06:59.55,0:07:01.21,Default,Kokkoro,0,0,0,,Thank you very much.
 Dialogue: 10,0:07:01.21,0:07:04.33,Default,Kokkoro,0,0,0,,Um, my name is Kokkoro.
 Dialogue: 10,0:07:04.33,0:07:05.70,Default,Saren,0,0,0,,And mine's Saren.
@@ -226,18 +226,18 @@ Dialogue: 10,0:07:28.17,0:07:32.64,Default,Suzume,0,0,0,,{\an8}Somebody, save me
 Dialogue: 10,0:07:31.47,0:07:32.64,Default,Kokkoro,0,0,0,,What's going on?
 Dialogue: 10,0:07:32.64,0:07:34.75,Default,Saren,0,0,0,,I swear, that girl!
 Dialogue: 10,0:07:35.91,0:07:38.67,Default,Suzume,0,0,0,,I'm so sorry, milady!
-Dialogue: 10,0:07:39.06,0:07:40.72,Default,Saren,0,0,0,,You could imagine my shock.
+Dialogue: 10,0:07:39.06,0:07:40.72,Default,Saren,0,0,0,,Imagine my shock.
 Dialogue: 10,0:07:40.72,0:07:43.62,Default,Saren,0,0,0,,{\q2}I thought I heard you calling out, \Nonly to find you flying right past me.
-Dialogue: 10,0:07:43.62,0:07:46.51,Default,Suzume,0,0,0,,I-I-I-I-I'm so sorry!
+Dialogue: 10,0:07:43.62,0:07:46.51,Default,Suzume,0,0,0,,I-I'm so sorry!
 Dialogue: 10,0:07:46.51,0:07:49.68,Default,Saren,0,0,0,,But I'm glad you don't seem to be hurt.
 Dialogue: 10,0:07:49.68,0:07:53.21,Default,Suzume,0,0,0,,Yes, and our bazaar goods are still in one piece.
 Dialogue: 10,0:07:53.68,0:07:56.03,Default,Suzume,0,0,0,,By the way, who might this be?
 Dialogue: 10,0:07:56.03,0:07:59.32,Default,Kokkoro,0,0,0,,Pleased to meet you. My name is Kokkoro.
 Dialogue: 10,0:07:59.32,0:08:01.54,Default,Suzume,0,0,0,,Oh, you're very polite.
-Dialogue: 10,0:08:01.54,0:08:06.08,Default,Suzume,0,0,0,,{\q2}My name is Suzume, and I have the honour \Nof serving as Lady Saren's maid.
+Dialogue: 10,0:08:01.54,0:08:06.08,Default,Suzume,0,0,0,,{\q2}My name is Suzume, and I have the honour \Nof serving as {*}Lady Saren{*Saren-sama}'s maid.
 Dialogue: 10,0:08:06.46,0:08:08.14,Default,Saren,0,0,0,,I'm glad you're here.
 Dialogue: 10,0:08:08.14,0:08:10.73,Default,Saren,0,0,0,,I'll keep an eye on our booth.
-Dialogue: 10,0:08:10.73,0:08:13.61,Default,Saren,0,0,0,,{\q2}Suzume, could you please help \Ncarry Kokkoro's things for her?
+Dialogue: 10,0:08:10.73,0:08:13.61,Default,Saren,0,0,0,,{\q2}Suzume, could you please help carry \NKokkoro{**-san}'s stuff for her?
 Dialogue: 10,0:08:13.61,0:08:15.30,Default,Kokkoro,0,0,0,,Th-That won't be necessary!
 Dialogue: 10,0:08:15.74,0:08:18.86,Default,Saren,0,0,0,,That's too much for you to carry all by yourself.
 Dialogue: 10,0:08:18.86,0:08:21.11,Default,Saren,0,0,0,,Us ladies need to help each other out!
@@ -255,16 +255,16 @@ Dialogue: 10,0:09:00.60,0:09:01.55,Default,Kokkoro,0,0,0,,Yes.
 Dialogue: 10,0:09:01.55,0:09:06.35,Default,Suzume,0,0,0,,{\q2}They are incredibly lucky to have \Nsomeone as adorable as you serving them!
 Dialogue: 10,0:09:06.35,0:09:07.46,Default,Kokkoro,0,0,0,,Oh, heavens no...
 Dialogue: 10,0:09:07.46,0:09:12.37,Default,Kokkoro,0,0,0,,I feel blessed to be able to serve my lord.
-Dialogue: 10,0:09:13.10,0:09:16.98,Default,Kokkoro,0,0,0,,Have you been serving Lady Saren long?
+Dialogue: 10,0:09:13.10,0:09:16.98,Default,Kokkoro,0,0,0,,Have you been serving {*}Lady Saren{*Saren-sama} long?
 Dialogue: 10,0:09:16.98,0:09:18.16,Default,Suzume,0,0,0,,Yes!
 Dialogue: 10,0:09:19.61,0:09:24.87,Default,Suzume,0,0,0,,Milady used to be the vice captain of the palace knights,
 Dialogue: 10,0:09:25.49,0:09:32.32,Default,Suzume,0,0,0,,{\q2}but she abandoned her status to help children \Nwithout families or who were separated from their parents.
 Dialogue: 10,0:09:32.32,0:09:34.88,Default,Suzume,0,0,0,,That's why she founded the Sarendia Orphanage.
 Dialogue: 10,0:09:35.49,0:09:40.27,Default,Suzume,0,0,0,,I wanted to help her however I could in that endeavour.
-Dialogue: 10,0:09:41.55,0:09:45.49,Default,Kokkoro,0,0,0,,How wonderful of both you and Lady Saren.
-Dialogue: 10,0:09:46.12,0:09:50.26,Default,Suzume,0,0,0,,{\q2}I-I'm not wonderful at all! \NAll I ever do is mess stuff up!
+Dialogue: 10,0:09:41.55,0:09:45.49,Default,Kokkoro,0,0,0,,How wonderful of both you and {*}Lady Saren{*Saren-sama}.
+Dialogue: 10,0:09:46.12,0:09:50.26,Default,Suzume,0,0,0,,{\q2}I-I'm not wonderful in the slightest! \NAll I ever do is mess stuff up!
 Dialogue: 10,0:09:50.26,0:09:51.87,Default,Kokkoro,0,0,0,,As do I.
-Dialogue: 10,0:09:53.14,0:09:59.79,Default,Kokkoro,0,0,0,,{\q2}I hope to one day share the kind of bond \Nwith my lord that you do with Lady Saren.
+Dialogue: 10,0:09:53.14,0:09:59.79,Default,Kokkoro,0,0,0,,{\q2}I hope to one day share the kind of bond \Nwith my lord that you do with {*}Lady Saren{*Saren-sama}.
 Dialogue: 10,0:10:01.73,0:10:04.33,Default,Suzume,0,0,0,,You will. I know you can do it.
 Dialogue: 10,0:10:06.90,0:10:08.20,Default,Kokkoro,0,0,0,,I won't give up.
 Dialogue: 10,0:10:10.79,0:10:11.76,Default,Kokkoro,0,0,0,,Eep!
@@ -275,10 +275,10 @@ Dialogue: 10,0:10:24.92,0:10:27.02,Default,Suzume,0,0,0,,W-We're just a teensy-w
 Dialogue: 10,0:10:27.29,0:10:29.01,Default,Kokkoro,0,0,0,,I-I understand...
 Dialogue: 10,0:10:30.48,0:10:34.75,Default,Kokkoro,0,0,0,,But it's so dark despite it being the middle of the day.
 Dialogue: 10,0:10:34.75,0:10:36.22,Default,Kokkoro,0,0,0,,There may even be monsters.
-Dialogue: 10,0:10:36.22,0:10:37.82,Default,Suzume,0,0,0,,M-M-M-M-M-M-Monsters?!
+Dialogue: 10,0:10:36.22,0:10:37.82,Default,Suzume,0,0,0,,M-Monsters?!
 Dialogue: 10,0:10:37.82,0:10:40.07,Default,Suzume,0,0,0,,Wh-Where?! Where are they?!
 Dialogue: 10,0:10:40.61,0:10:42.49,Default,Suzume,0,0,0,,Th-There they are!
-Dialogue: 10,0:10:44.74,0:10:47.63,Default,Kokkoro,0,0,0,,M-Miss Suzume, please calm down!
+Dialogue: 10,0:10:44.74,0:10:47.63,Default,Kokkoro,0,0,0,,{*}M-Miss Suzume{*S-Suzume-sama}, please calm down!
 Dialogue: 10,0:10:51.29,0:10:52.88,Default,Kokkoro,0,0,0,,Are you all right?
 Dialogue: 10,0:10:54.59,0:10:56.54,Default,Suzume,0,0,0,,I-I'm fine...
 Dialogue: 10,0:10:56.54,0:10:58.10,Default,Suzume,0,0,0,,Wh-Where'd the donkey go?
@@ -287,10 +287,10 @@ Dialogue: 10,0:11:00.16,0:11:02.22,Default,Suzume,0,0,0,,Wh-What do we do now?!
 Dialogue: 10,0:11:02.22,0:11:04.54,Default,Suzume,0,0,0,,We can't pull the cart without the donkey!
 Dialogue: 10,0:11:07.81,0:11:10.02,Default,Kokkoro,0,0,0,,That might be our donkey.
 Dialogue: 10,0:11:12.37,0:11:13.55,Default,Kokkoro,0,0,0,,Is that...
-Dialogue: 10,0:11:14.02,0:11:16.32,Default,Suzume,0,0,0,,The donkey? A horse?
+Dialogue: 10,0:11:14.02,0:11:16.32,Default,Suzume,0,0,0,,The donkey? A wild horse, maybe?
 Dialogue: 10,0:11:18.33,0:11:20.90,Default,Kokkoro,0,0,0,,{\q2}I'm going to borrow this rope \Nthat was in the cart.
 Dialogue: 10,0:11:21.82,0:11:25.45,Default,Kokkoro,0,0,0,,We'll catch that animal and have it pull the cart.
-Dialogue: 10,0:11:25.45,0:11:28.55,Default,Suzume,0,0,0,,That's a great idea, Kokkoro!
+Dialogue: 10,0:11:25.45,0:11:28.55,Default,Suzume,0,0,0,,That's a great idea, Kokkoro{**-chan}!
 Dialogue: 10,0:11:37.18,0:11:38.67,Default,Rima,0,0,0,,Rima-rima?!
 Dialogue: 10,0:11:39.67,0:11:41.01,Default,Rima,0,0,0,,I can't breathe!
 Dialogue: 10,0:11:41.01,0:11:43.68,Default,Rima,0,0,0,,Please don't eat me, rima!
@@ -333,7 +333,7 @@ Dialogue: 10,0:13:09.69,0:13:12.22,Default,Rima,0,0,0,,Would you like me to pull
 Dialogue: 10,0:13:12.22,0:13:13.60,Default,Suzume,0,0,0,,Would you?
 Dialogue: 10,0:13:14.00,0:13:16.86,Default,Rima,0,0,0,,I may look all cute, but I'm plenty strong, too!
 Dialogue: 10,0:13:18.36,0:13:20.26,Default,Rima,0,0,0,,Up we go.
-Dialogue: 10,0:13:20.86,0:13:23.29,Default,Kokkoro,0,0,0,,It's not too heavy, is it, Miss Rima?
+Dialogue: 10,0:13:20.86,0:13:23.29,Default,Kokkoro,0,0,0,,It's not too heavy, is it, {*}Miss Rima{*Rima-sama}?
 Dialogue: 10,0:13:23.29,0:13:24.76,Default,Rima,0,0,0,,No problem!
 Dialogue: 10,0:13:24.76,0:13:27.36,Default,Rima,0,0,0,,A load like this is a piece of cake!
 Dialogue: 10,0:13:29.38,0:13:30.99,Default,Karyl,0,0,0,,There we go.
@@ -364,9 +364,9 @@ Dialogue: 10,0:14:54.04,0:14:55.06,Default,Yuuki,0,0,0,,Mystery?
 Dialogue: 10,0:14:55.52,0:14:56.16,Default,Ameth,0,0,0,,Yes.
 Dialogue: 10,0:14:57.05,0:15:00.69,Default,Ameth,0,0,0,,{\q2}What everyone in that world \Nnaturally accepts as "the truth"
 Dialogue: 10,0:15:00.69,0:15:02.43,Default,Ameth,0,0,0,,is actually anything but.
-Dialogue: 10,0:15:02.87,0:15:06.47,Default,Ameth,0,0,0,,Pecorine, Karyl, and even Kokkoro.
+Dialogue: 10,0:15:02.87,0:15:06.47,Default,Ameth,0,0,0,,Pecorine{**-chan}, {*}Karyl{*Kyaru-chan}, and even Kokkoro{**-tan}.
 Dialogue: 10,0:15:07.32,0:15:10.58,Default,Ameth,0,0,0,,{\q2}Each have their own demons to overcome, \Nas well as their own missions.
-Dialogue: 10,0:15:11.12,0:15:14.42,Default,Ameth,0,0,0,,Karyl in particular has it very rough.
+Dialogue: 10,0:15:11.12,0:15:14.42,Default,Ameth,0,0,0,,{*}Karyl{*Kyaru-chan} in particular has it very rough.
 Dialogue: 10,0:15:16.43,0:15:21.72,Default,Ameth,0,0,0,,{\q2}Even if I told you everything I know, \Nit wouldn't solve a thing.
 Dialogue: 10,0:15:22.91,0:15:24.26,Default,Ameth,0,0,0,,Be careful.
 Dialogue: 10,0:15:24.26,0:15:26.81,Default,Ameth,0,0,0,,Our enemy is aware of your existence.
@@ -377,10 +377,10 @@ Dialogue: 10,0:15:42.10,0:15:43.12,Default,Ameth,0,0,0,,Good luck.
 Dialogue: 10,0:15:49.93,0:15:51.47,Default,Karyl,0,0,0,,Thank goodness.
 Dialogue: 10,0:15:52.44,0:15:55.75,Default,Karyl,0,0,0,,{\q2}This house almost became the site of \Na freak accident right after we moved in!
 Dialogue: 10,0:15:56.61,0:15:57.38,Default,Karyl,0,0,0,,Are you okay?
-Dialogue: 10,0:15:59.05,0:16:02.66,Default,Ameth,0,0,0,,{\i1}Karyl in particular has it very rough.
+Dialogue: 10,0:15:59.05,0:16:02.66,Default,Ameth,0,0,0,,{\i1}{*}Karyl{*Kyaru-chan} in particular has it very rough.
 Dialogue: 10,0:16:05.75,0:16:06.57,Default,Yuuki,0,0,0,,Mhm.
 Dialogue: 10,0:16:09.36,0:16:11.24,Default,Karyl,0,0,0,,Looks like you're okay to me.
-Dialogue: 10,0:16:11.69,0:16:14.17,Default,Pecorine,0,0,0,,Yuuki! Karyl!
+Dialogue: 10,0:16:11.69,0:16:14.17,Default,Pecorine,0,0,0,,Yuuki{**-kun}! {*}Karyl{*Kyaru-chan}!
 Dialogue: 10,0:16:19.68,0:16:21.04,Default,Pecorine,0,0,0,,What do you think?
 Dialogue: 10,0:16:21.04,0:16:23.76,Default,Pecorine,0,0,0,,Really looks like we would enjoy our meals now, right?
 Dialogue: 10,0:16:23.76,0:16:26.95,Default,Karyl,0,0,0,,{\q2}You really {\i1}are{\i0} handy, \Nand I don't just mean at cooking.
@@ -407,7 +407,7 @@ Dialogue: 10,0:17:36.40,0:17:38.20,Default,Bandit2,0,0,0,,It's not a donkey?!
 Dialogue: 10,0:17:38.20,0:17:41.75,Default,Bandit1,0,0,0,,Wh-Whatever! We'll grab it for the circus!
 Dialogue: 10,0:17:42.45,0:17:43.83,Default,Rima,0,0,0,,Stop!
 Dialogue: 10,0:17:43.83,0:17:47.07,Default,Rima,0,0,0,,We should get to know each other a bit better first!
-Dialogue: 10,0:17:47.07,0:17:48.47,Default,Kokkoro,0,0,0,,Miss Rima!
+Dialogue: 10,0:17:47.07,0:17:48.47,Default,Kokkoro,0,0,0,,{*}Miss Rima{*Rima-sama}!
 Dialogue: 10,0:17:49.14,0:17:50.21,Default,Bandit3,0,0,0,,It's really strong!
 Dialogue: 10,0:17:50.21,0:17:52.33,Default,Bandit1,0,0,0,,It's too fluffy to grab hold of!
 Dialogue: 10,0:17:52.61,0:17:54.83,Default,Bandit2,0,0,0,,Damn it! Hold still, donkey!
@@ -440,7 +440,7 @@ Dialogue: 10,0:20:01.05,0:20:02.92,Default,Karyl,0,0,0,,Come take a look inside.
 Dialogue: 10,0:20:07.06,0:20:08.39,Default,Kokkoro,0,0,0,,Wow...
 Dialogue: 10,0:20:08.39,0:20:10.54,Default,Karyl,0,0,0,,I know, right?
 Dialogue: 10,0:20:10.54,0:20:13.49,Default,Karyl,0,0,0,,{\q2}Don't hold back! I {\i1}know{\i0} my cleaning skills \Nare out of this world!
-Dialogue: 10,0:20:13.49,0:20:15.55,Default,Pecorine,0,0,0,,Kokkoro!
+Dialogue: 10,0:20:13.49,0:20:15.55,Default,Pecorine,0,0,0,,Kokkoro{**-chan}!
 Dialogue: 10,0:20:17.77,0:20:19.20,Default,Kokkoro,0,0,0,,This is...
 Dialogue: 10,0:20:19.80,0:20:21.78,Default,Kokkoro,0,0,0,,Absolutely wonderful.
 Dialogue: 10,0:20:25.79,0:20:27.35,Default,Pecorine,0,0,0,,What do you think?
@@ -456,9 +456,9 @@ Dialogue: 10,0:21:26.73,0:21:28.68,Default,Karyl,0,0,0,,This looks great!
 Dialogue: 10,0:21:28.68,0:21:32.61,Default,Karyl,0,0,0,,{\q2}Boy, I {\i1}oh{\i0}, so miss those bugs of yours. \NImagine if we had those as our first meal here.
 Dialogue: 10,0:21:32.61,0:21:34.72,Default,Pecorine,0,0,0,,{\q2}Oh? If you miss them {\i1}so{\i0} much, \NI can make some right now!
 Dialogue: 10,0:21:34.72,0:21:36.89,Default,Karyl,0,0,0,,I was being sarcastic!
-Dialogue: 10,0:21:36.89,0:21:39.36,Default,Kokkoro,0,0,0,,Lady Pecorine, Lady Karyl.
+Dialogue: 10,0:21:36.89,0:21:39.36,Default,Kokkoro,0,0,0,,{*}Lady Pecorine{*Pecorine-sama}, {*}Lady Karyl{*Kyaru-sama}.
 Dialogue: 10,0:21:41.08,0:21:44.12,Default,Kokkoro,0,0,0,,I look forward to working with both of you.
 Dialogue: 10,0:21:45.19,0:21:48.00,Default,Pecorine,0,0,0,,You don't need to be so formal with us.
 Dialogue: 10,0:21:48.00,0:21:50.95,Default,Pecorine,0,0,0,,C'mon now, before dinner gets cold!
-Dialogue: 10,0:22:00.61,0:22:02.83,Default,All,0,0,0,,Thanks for the food!
+Dialogue: 10,0:22:00.61,0:22:02.83,Default,All,0,0,0,,Enjoy the food!
 Dialogue: 10,0:23:38.21,0:23:39.71,Default,Karyl,1440,0,0,,Perfecto!
