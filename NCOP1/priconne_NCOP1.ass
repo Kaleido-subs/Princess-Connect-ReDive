@@ -32,19 +32,19 @@ Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,template line noblank loop lay
 Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,template syl noblank loop layer 4 actor rom,!relayer($loop_layer - 1)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1 - ENG,,0,0,0,mixin line,!retime('line', -50, 300)!{!ln.tag.pos(5,5,0,pos_y())!\fad(0,250)\1a&HFE&\3a&HFE&\4a&HFE&\bord!get_bord()!\xshad0.01}
 Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,mixin char noblank layer 0 layer 1,{\blur!get_blur()*2.5!\4c!gc(1)!\4a&HFF&\t(!lchar_start()!,!lchar_start()+200!,1.2,\4a&H00&)\t(!lchar_start()+100!,!lchar_start()+300!,1.2,\4c!get_4c()!\blur1)}
-Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,mixin char noblank layer 0 layer 1 actor eng,{\t(!line.duration-600+lchar_start()!,!line.duration-300+lchar_start()!,1.2,\4a&HFF&\blur!get_blur()*2.5!)}
-Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,mixin char actor rom layer 0 layer 1,{\t(!st(0)!,!st(0)!,\4a&HFF&)\t(!st(1)!,!st(1)!,\4a&H00&)\t(!line.duration-700+lchar_start()!,!line.duration-400+lchar_start()!,1.2,\4a&HFF&\blur!get_blur()*2.5!)}
+Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,mixin char actor rom layer 0 layer 1,{\t(!st(0)!,!st(0)!,\4a&HFF&)\t(!st(1)!,!st(1)!,\4a&H00&)}
 Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,mixin syl actor rom layer 2 layer 3,{\4a&HFF&\t(!st(0)!,!st(0)!,\4c!gc(1)!\4a&H00&\fscx125\fscy125\blur!get_blur()*1.5!)\t(!st(0)!,!st(1)!,\4c!get_4c()!\fscx100\fscy100\blur!get_blur()!)\t(!st(1)!,!st(1)!,\4a&HFF&)}
+Comment: 0,0:00:01.98,0:00:01.98,OP1 - ENG,,0,0,0,mixin char,{\t(!line.duration-600+lchar_start()!,!line.duration-300+lchar_start()!,1.2,\4a&HFF&\blur!get_blur()*2.5!)}
 Comment: 0,0:00:01.98,0:00:01.98,Default,,0,0,0,sync,{OP sync — second cut}
 Dialogue: 0,0:00:08.07,0:00:10.78,OP1 - ENG,rom,0,0,0,kara,{\k5}{\k31}ma{\k47}ssa{\k22}ra {\k39}na {\k38}se{\k22}ka{\k51}i{\k16}
 Dialogue: 0,0:00:10.87,0:00:16.08,OP1 - ENG,rom,0,0,0,kara,{\k3}{\k44}na{\k19}ni {\k56}wo{\k39} {\k32}ki{\k33}mi {\k25}wa {\k50}e{\k20}ga{\k193}ku{\k7}
-Dialogue: 0,0:00:29.01,0:00:33.39,OP1 - ENG,rom,0,0,0,kara,{\k10}{\k17}guu{\k62}zen {\k18}no {\k22}sa{\k19}i{\k22}ka{\k17}i {\k66}wa{\k15} {\k20}to{\k18}tsu{\k27}ze{\k15}n {\k94}ni{\k10}
+Dialogue: 0,0:00:29.01,0:00:33.39,OP1 - ENG,rom,0,0,0,kara,{\k10}{\k17}guu{\k62}zen {\k18}no {\k22}sa{\k19}i{\k22}ka{\k17}i {\k66}wa{\k15} {\k27}to{\k14}tsu{\k26}ze{\k14}n {\k79}ni{\k10}
 Dialogue: 0,0:00:33.72,0:00:36.89,OP1 - ENG,rom,0,0,0,kara,{\k18}{\k11}ho{\k8}tsu{\k20}re{\k21}ta {\k21}i{\k20}to {\k20}tsu{\k22}mu{\k21}i{\k40}de {\k17}yu{\k90}ku{\k2}
 Dialogue: 0,0:00:37.02,0:00:41.31,OP1 - ENG,rom,0,0,0,kara,{\k11}{\k17}un{\k63}mei {\k19}no {\k18}sa{\k21}i{\k18}ha{\k22}i {\k60}wa{\k21} {\k19}i{\k20}ta{\k18}zu{\k22}ra {\k90}ni{\k4}
 Dialogue: 0,0:00:41.69,0:00:44.90,OP1 - ENG,rom,0,0,0,kara,{\k20}{\k12}ha{\k10}ku{\k21}shi {\k19}no {\k23}pe{\k16}e{\k43}ji{\k18} {\k21}me{\k23}ku{\k15}ri {\k19}me{\k72}ku{\k2}
-Dialogue: 0,0:00:46.36,0:00:49.90,OP1 - ENG,rom,0,0,0,kara,{\k12}{\k18}a{\k26}a {\k39}u{\k26}ma{\k54}re {\k41}ka{\k59}wa{\k43}ru {\k21}ta{\k15}bi {\k25}ni{\k0}
-Dialogue: 0,0:00:50.11,0:00:53.12,OP1 - ENG,rom,0,0,0,kara,{\k3}{\k36}ka{\k25}sa{\k55}ne{\k42}ta {\k60}nu{\k40}ku{\k22}mo{\k20}ri {\k24}wo{\k0}
-Dialogue: 0,0:00:53.24,0:00:57.95,OP1 - ENG,rom,0,0,0,kara,{\k2}{\k85}sa{\k73}ga{\k85}shi{\k63}te{\k200}ru{\k0}
+Dialogue: 0,0:00:46.36,0:00:50.07,OP1 - ENG,rom,0,0,0,kara,{\k12}{\k18}a{\k26}a {\k39}u{\k26}ma{\k54}re {\k41}ka{\k59}wa{\k43}ru {\k21}ta{\k15}bi {\k21}ni{\k9}
+Dialogue: 0,0:00:50.11,0:00:53.16,OP1 - ENG,rom,0,0,0,kara,{\k3}{\k36}ka{\k25}sa{\k55}ne{\k42}ta {\k60}nu{\k40}ku{\k22}mo{\k20}ri {\k20}wo{\k0}
+Dialogue: 0,0:00:53.24,0:00:57.95,OP1 - ENG,rom,0,0,0,kara,{\k2}{\k85}sa{\k73}ga{\k85}shi{\k63}te{\k150}ru{\k13}
 Dialogue: 0,0:00:58.62,0:01:01.87,OP1 - ENG,rom,0,0,0,kara,{\k9}{\k19}ki{\k21}mi {\k20}to {\k20}de{\k20}a{\k62}i {\k19}ki{\k19}mi {\k20}to {\k21}yu{\k75}ku{\k0}
 Dialogue: 0,0:01:02.04,0:01:05.25,OP1 - ENG,rom,0,0,0,kara,{\k10}{\k40}hap{\k39}pii {\k37}en{\k22}do {\k18}no {\k22}so{\k21}no {\k19}sa{\k18}ki {\k85}de{\k0}
 Dialogue: 0,0:01:05.46,0:01:08.92,OP1 - ENG,rom,0,0,0,kara,{\k10}{\k19}a{\k19}ri{\k19}ki{\k20}ta{\k20}ri {\k46}de{\k15} {\k17}ke{\k21}re{\k20}do {\k37}i{\k41}to{\k50}shii{\k0}
@@ -53,14 +53,14 @@ Dialogue: 0,0:01:11.43,0:01:14.64,OP1 - ENG,rom,0,0,0,kara,{\k6}{\k9}ki{\k25}mi 
 Dialogue: 0,0:01:14.76,0:01:18.06,OP1 - ENG,rom,0,0,0,kara,{\k14}{\k38}bad{\k40}do {\k39}en{\k25}do {\k15}no {\k21}so{\k19}no {\k23}sa{\k22}ki {\k74}de{\k16}
 Dialogue: 0,0:01:18.18,0:01:21.69,OP1 - ENG,rom,0,0,0,kara,{\k11}{\k23}na{\k21}n{\k39}do{\k17}de{\k66}mo {\k18}ki{\k20}mi {\k43}no {\k18}te {\k78}wo{\k13}
 Dialogue: 0,0:01:21.81,0:01:27.07,OP1 - ENG,rom,0,0,0,kara,{\k8}{\k14}ni{\k12}gi{\k110}ri{\k42}shi{\k80}me{\k61}ru {\k25}ka{\k160}ra{\k14}
-Dialogue: 0,0:00:08.07,0:00:10.78,OP1 - ENG,eng,0,0,0,kara,What wonders will we behold? 
+Dialogue: 0,0:00:08.07,0:00:10.78,OP1 - ENG,eng,0,0,0,kara,What wonders will we behold?
 Dialogue: 0,0:00:10.87,0:00:16.08,OP1 - ENG,eng,0,0,0,kara,Take your hand, draw it across the world
 Dialogue: 0,0:00:29.01,0:00:33.39,OP1 - ENG,eng,0,0,0,kara,Back when we first found one another
 Dialogue: 0,0:00:33.72,0:00:36.89,OP1 - ENG,eng,0,0,0,kara,Our destinies had already begun to intertwine
 Dialogue: 0,0:00:37.02,0:00:41.31,OP1 - ENG,eng,0,0,0,kara,And yet, the hands of fate began to dastardly flip
 Dialogue: 0,0:00:41.69,0:00:44.90,OP1 - ENG,eng,0,0,0,kara,Towards a blank page, starting our lives anew
-Dialogue: 0,0:00:46.36,0:00:49.90,OP1 - ENG,eng,0,0,0,kara,No matter how many times we may be reborn
-Dialogue: 0,0:00:50.11,0:00:53.12,OP1 - ENG,eng,0,0,0,kara,We’ll always find our way to each other
+Dialogue: 0,0:00:46.36,0:00:50.07,OP1 - ENG,eng,0,0,0,kara,No matter how many times we may be reborn
+Dialogue: 0,0:00:50.11,0:00:53.16,OP1 - ENG,eng,0,0,0,kara,We’ll always find our way to each other
 Dialogue: 0,0:00:53.24,0:00:57.95,OP1 - ENG,eng,0,0,0,kara,Fate can never tear us apart
 Dialogue: 0,0:00:58.62,0:01:01.87,OP1 - ENG,eng,0,0,0,kara,The place where our journey began
 Dialogue: 0,0:01:02.04,0:01:05.25,OP1 - ENG,eng,0,0,0,kara,In search of our own happy ending
