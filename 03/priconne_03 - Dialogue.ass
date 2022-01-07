@@ -219,18 +219,18 @@ Dialogue: 10,0:12:59.84,0:13:01.76,Default,Master,0,0,0,,Table three, order up.
 Dialogue: 10,0:13:01.76,0:13:03.01,Default,Pecorine,0,0,0,,Coming!
 Dialogue: 10,0:13:03.01,0:13:05.76,Default,Mimi,0,0,0,,No, Misogi{**-chan}! Stop pushing me!
 Dialogue: 10,0:13:06.43,0:13:08.97,Default,Misogi,0,0,0,,I've never been to a restaurant like this before!
-Dialogue: 10,0:13:08.97,0:13:12.27,Default,Kyoka,0,0,0,,Quiet! You'll disturb the other customers!
+Dialogue: 10,0:13:08.97,0:13:12.27,Default,Kyouka,0,0,0,,Quiet! You'll disturb the other customers!
 Dialogue: 10,0:13:12.27,0:13:15.35,Default,Pecorine,0,0,0,,Oh, my? What cute little customers!
 Dialogue: 10,0:13:15.35,0:13:16.90,Default,Pecorine,0,0,0,,Welcome!
 Dialogue: 10,0:13:16.90,0:13:18.65,Default,Three,0,0,0,,H-H-Hello!
 Dialogue: 10,0:13:18.65,0:13:20.69,Default,Pecorine,0,0,0,,Hello to you, too!
 Dialogue: 10,0:13:20.69,0:13:22.90,Default,Pecorine,0,0,0,,Help yourselves to any open table!
 Dialogue: 10,0:13:22.90,0:13:24.65,Default,Three,0,0,0,,Th-Thanks!
-Dialogue: 10,0:13:28.28,0:13:29.99,Default,Kyoka,0,0,0,,Stop it, you two!
+Dialogue: 10,0:13:28.28,0:13:29.99,Default,Kyouka,0,0,0,,Stop it, you two!
 Dialogue: 10,0:13:29.99,0:13:32.41,Default,Both,0,1500,0,,{\q2}Aw, but it's fun.
 Dialogue: 10,0:13:29.99,0:13:32.41,Default,Both,0,400,0,,Aw, but it's fun.
 Dialogue: 10,0:13:32.41,0:13:34.75,Default,Mimi,0,0,0,,You should try it, Kyouka{**-chan}.
-Dialogue: 10,0:13:36.50,0:13:38.50,Default,Kyoka,0,0,0,,I'm gonna tell your mom, Mimi.
+Dialogue: 10,0:13:36.50,0:13:38.50,Default,Kyouka,0,0,0,,I'm gonna tell your mom, Mimi.
 Dialogue: 10,0:13:38.50,0:13:40.92,Default,Mimi,0,0,0,,Please don't....
 Dialogue: 10,0:13:40.92,0:13:42.63,Default,Pecorine,0,0,0,,Those are some cute little moustaches.
 Dialogue: 10,0:13:45.55,0:13:47.51,Default,Pecorine,0,0,0,,Is this your first time here?
@@ -241,7 +241,7 @@ Dialogue: 10,0:14:00.77,0:14:02.40,Default,Pecorine,0,0,0,,You have a lovely gro
 Dialogue: 10,0:14:04.28,0:14:06.40,Default,Misogi,0,0,0,,Th-Thanks.
 Dialogue: 10,0:14:10.53,0:14:12.66,Default,Pecorine,0,0,0,,Oh? You must be hungry, huh?
 Dialogue: 10,0:14:12.66,0:14:14.58,Default,Pecorine,0,0,0,,Have you decided what you'd like?
-Dialogue: 10,0:14:14.58,0:14:17.96,Default,Kyoka,0,0,0,,N-Not yet. There's so much to choose from.
+Dialogue: 10,0:14:14.58,0:14:17.96,Default,Kyouka,0,0,0,,N-Not yet. There's so much to choose from.
 Dialogue: 10,0:14:17.96,0:14:21.21,Default,Mimi,0,0,0,,What do you recommend, {*}miss{*onee-chan}?
 Dialogue: 10,0:14:21.92,0:14:24.05,Default,Pecorine,0,0,0,,There's a ton of stuff I'd recommend!
 Dialogue: 10,0:14:37.23,0:14:39.06,Default,Karyl,0,0,0,,What? Observe her?
