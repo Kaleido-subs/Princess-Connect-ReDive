@@ -32,7 +32,7 @@ Comment: 0,0:13:12.98,0:13:12.98,Default,chapter,0,0,0,,{Part B}
 Comment: 0,0:22:04.97,0:22:04.97,Default,chapter,0,0,0,,{ED}
 Comment: 0,0:23:03.99,0:23:03.99,Default,,0,0,0,edsync,{ED sync — second cut}
 Comment: 0,0:23:34.98,0:23:34.98,Default,chapter,0,0,0,,{Preview}
-Dialogue: 10,0:00:08.27,0:00:11.32,Default,Guy,0,0,0,,Sorry, lad! That one's not a winner.
+Dialogue: 10,0:00:08.27,0:00:11.32,Default,Guy,0,0,0,,Sorry, lad! That one's not quite a winner.
 Dialogue: 10,0:00:11.32,0:00:13.07,Default,Guy,0,0,0,,Have a piece of candy as a consolation.
 Dialogue: 10,0:00:13.07,0:00:14.91,Default,Guy,0,0,0,,Okay, who's next?
 Dialogue: 10,0:00:16.28,0:00:18.99,Default,Kokkoro,0,0,0,,{\i1}There's nothing like the bustling city of Landosol.
@@ -46,7 +46,7 @@ Dialogue: 10,0:00:34.76,0:00:36.05,Default,Kokkoro,0,0,0,,Here you are.
 Dialogue: 10,0:00:36.05,0:00:37.51,Default,Guy,0,0,0,,All right.
 Dialogue: 10,0:00:37.51,0:00:39.81,Default,Guy,0,0,0,,You get four spins.
 Dialogue: 10,0:00:39.81,0:00:40.60,Default,Kokkoro,0,0,0,,All right.
-Dialogue: 10,0:00:51.44,0:00:55.11,Default,Guy,0,0,0,,{\q2}That's a poor streak, but you still have \None spin left, young lady!
+Dialogue: 10,0:00:51.44,0:00:55.11,Default,Guy,0,0,0,,{\q2}That's a poor streak, but you still got \None spin left to go, young lady!
 Dialogue: 10,0:00:55.11,0:00:57.03,Default,Kokkoro,0,0,0,,I-Indeed...
 Dialogue: 10,0:00:58.62,0:01:02.16,Default,Kokkoro,0,0,0,,Great {*}Lady Ameth{*Ameth-sama}, please lend me strength.
 Dialogue: 10,0:02:53.94,0:02:56.28,Default,Karyl,0,0,0,,I worked up a good sweat again today.
@@ -91,7 +91,7 @@ Dialogue: 10,0:05:37.73,0:05:39.65,Default,Pecorine,0,0,0,,Lookie at that, it's 
 Dialogue: 10,0:05:39.65,0:05:41.23,Default,Pecorine,0,0,0,,Crazy, ain't it?
 Dialogue: 10,0:05:41.61,0:05:44.65,Default,Pecorine,0,0,0,,Thank you, Kokkoro{**-chan}!
 Dialogue: 10,0:05:44.65,0:05:48.07,Default,Kokkoro,0,0,0,,I'm happy to see you're enjoying it.
-Dialogue: 10,0:05:52.12,0:05:53.79,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan} spotted!
+Dialogue: 10,0:05:52.12,0:05:53.79,Default,Pecorine,0,0,0,,There you are, {*}Karyl{*Kyaru-chan}!
 Dialogue: 10,0:05:53.79,0:05:57.00,Default,Pecorine,0,0,0,,Now, now! Don't just hide in the back!
 Dialogue: 10,0:05:57.62,0:05:59.38,Default,Karyl,0,0,0,,H-Hey!
 Dialogue: 10,0:06:02.30,0:06:05.59,Default,Karyl,0,0,0,,S-Stop looking at me! Don't make me kill you!
@@ -108,8 +108,8 @@ Dialogue: 10,0:06:35.75,0:06:37.83,Default,Pecorine,0,0,0,,Now you've gone and d
 Dialogue: 10,0:06:37.83,0:06:39.46,Default,Pecorine,0,0,0,,If that's how you wanna play...
 Dialogue: 10,0:06:39.46,0:06:42.71,Default,Pecorine,0,0,0,,Princess Splash!
 Dialogue: 10,0:06:48.97,0:06:51.76,Default,Karyl,0,0,0,,Am I on vacation with toddlers or something?
-Dialogue: 10,0:06:51.76,0:06:55.31,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}! Don't be shy, you can swim with us!
-Dialogue: 10,0:06:55.31,0:06:58.73,Default,Karyl,0,0,0,,Hey! Get off! Are you trying to drown me?
+Dialogue: 10,0:06:51.76,0:06:55.31,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}! Don't be shy, you can come swim with us!
+Dialogue: 10,0:06:55.31,0:06:58.73,Default,Karyl,0,0,0,,Hey! Get off! Are you {\i1}trying{\i0} to drown me?
 Dialogue: 10,0:06:58.73,0:07:00.73,Default,Pecorine,0,0,0,,You can't swim?
 Dialogue: 10,0:07:00.73,0:07:03.56,Default,Karyl,0,0,0,,N-No, I can't! If you get it, let go of me!
 Dialogue: 10,0:07:06.53,0:07:10.20,Default,Pecorine,0,0,0,,In that case, let me invite you on a cruise!
@@ -201,7 +201,7 @@ Dialogue: 10,0:08:55.76,0:08:58.26,Default,Karyl,0,0,0,,Likewise. I'm {*}Karyl{*
 Dialogue: 10,0:08:58.26,0:09:00.97,Default,Pecorine,0,0,0,,Heya! I'm Pecorine!
 Dialogue: 10,0:09:01.43,0:09:02.43,Default,Yuuki,0,0,0,,Yuuki.
 Dialogue: 10,0:09:03.18,0:09:04.89,Default,Kokkoro,0,0,0,,What are you delivering?
-Dialogue: 10,0:09:04.89,0:09:08.06,Default,Suzume,0,0,0,,Well, we've actually started a beach-side snack hut.
+Dialogue: 10,0:09:04.89,0:09:08.06,Default,Suzume,0,0,0,,Well, we've actually started a beachside snack hut.
 Dialogue: 10,0:09:08.06,0:09:09.27,Default,Suzume,0,0,0,,Oh, I know!
 Dialogue: 10,0:09:10.48,0:09:12.78,Default,Saren,0,0,0,,It's wonderful to see you again.
 Dialogue: 10,0:09:12.78,0:09:15.49,Default,Kokkoro,0,0,0,,A pleasure to see you after so long, {*}Miss Saren{*Saren-sama}.
@@ -231,7 +231,7 @@ Dialogue: 10,0:10:18.59,0:10:19.84,Default,Guy,0,0,0,,Three taiyaki!
 Dialogue: 10,0:10:19.84,0:10:20.76,Default,Girl,0,0,0,,I want seven!
 Dialogue: 10,0:10:20.76,0:10:22.39,Default,Guy,0,0,0,,Eight with white bean paste, please!
 Dialogue: 10,0:10:22.39,0:10:24.06,Default,Tamaki,0,0,0,,You got it!
-Dialogue: 10,0:10:24.06,0:10:25.68,Default,Tamaki,0,0,0,,No pushing, meow!
+Dialogue: 10,0:10:24.06,0:10:25.68,Default,Tamaki,0,0,0,,No purrshing, meow!
 Dialogue: 10,0:10:25.68,0:10:29.94,Default,Tamaki,0,0,0,,{\q2}We'll bake up enough furresh, \Ntasty taiyaki for all of you!
 Dialogue: 10,0:10:29.94,0:10:32.86,Default,Yukari,0,0,0,,Please enter the line here!
 Dialogue: 10,0:10:32.86,0:10:34.57,Default,Kokkoro,0,0,0,,Oh, wow...
@@ -251,9 +251,9 @@ Dialogue: 10,0:11:15.86,0:11:17.90,Default,Akino,0,0,0,,Hence, taiyaki!
 Dialogue: 10,0:11:17.90,0:11:20.65,Default,Akino,0,0,0,,You absolute novice!
 Dialogue: 10,0:11:26.62,0:11:29.12,Default,Akino,0,0,0,,Once again, good day!
 Dialogue: 10,0:11:29.75,0:11:34.34,Default,Akino,0,0,0,,{\q2}I hope you have prepared a favourable \Nanswer for me today, Saren{**-san}.
-Dialogue: 10,0:11:34.34,0:11:36.88,Default,Saren,0,0,0,,Not one to give up, huh?
-Dialogue: 10,0:11:36.88,0:11:40.76,Default,Saren,0,0,0,,We have no intention of working for you.
-Dialogue: 10,0:11:41.18,0:11:42.72,Default,Akino,0,0,0,,You do play tough.
+Dialogue: 10,0:11:34.34,0:11:36.88,Default,Saren,0,0,0,,Not one to give up, are you?
+Dialogue: 10,0:11:36.88,0:11:40.76,Default,Saren,0,0,0,,We have no intention of working under you.
+Dialogue: 10,0:11:41.18,0:11:42.72,Default,Akino,0,0,0,,You certainly play hard to get.
 Dialogue: 10,0:11:42.72,0:11:46.68,Default,Akino,0,0,0,,If you keep this up, you'll find yourself in debt.
 Dialogue: 10,0:11:46.68,0:11:50.77,Default,Akino,0,0,0,,Just cave in and become my business partner.
 Dialogue: 10,0:11:52.52,0:11:55.36,Default,Mifuyu,0,0,0,,Akino{**-san} recognises and values your talent, Saren{**-san}.
@@ -279,7 +279,7 @@ Dialogue: 10,0:12:49.45,0:12:53.29,Default,Saren,0,0,0,,{\q2}We appreciate that 
 Dialogue: 10,0:12:53.29,0:12:56.17,Default,Saren,0,0,0,,{\q2}but we wouldn't want to take away \Nfrom your precious holiday time.
 Dialogue: 10,0:12:56.17,0:12:59.71,Default,Pecorine,0,0,0,,We very much enjoy coming up with new dishes!
 Dialogue: 10,0:13:00.05,0:13:01.42,Default,Kokkoro,0,0,0,,That's true.
-Dialogue: 10,0:13:02.38,0:13:07.09,Default,Kokkoro,0,0,0,,{\q2}The goal of the Gourmet Guild \Nis the study of delicious foods.
+Dialogue: 10,0:13:02.38,0:13:07.09,Default,Kokkoro,0,0,0,,{\q2}The Gourmet Guild's mission \Nis to study delicious foods.
 Dialogue: 10,0:13:09.56,0:13:12.18,Default,Karyl,0,0,0,,You can leave everything in our capable hands!
 Dialogue: 10,0:13:14.18,0:13:17.81,Default,Kokkoro,0,0,0,,Ingredients...
 Dialogue: 10,0:13:17.81,0:13:20.69,Default,Pecorine,0,0,0,,Ready, Suzume{**-san}? Here I go!
@@ -311,13 +311,13 @@ Dialogue: 10,0:14:50.74,0:14:54.03,Default,Yukari,0,0,0,,Who just got ordered to
 Dialogue: 10,0:14:54.03,0:14:56.37,Default,Tamaki,0,0,0,,Meow, take it easy!
 Dialogue: 10,0:14:56.37,0:14:58.79,Default,Tamaki,0,0,0,,It's just a customer ordering taiyaki to go!
 Dialogue: 10,0:14:58.79,0:15:00.71,Default,Yukari,0,0,0,,Fine! I'll just drink!
-Dialogue: 10,0:15:00.71,0:15:04.13,Default,Tamaki,0,0,0,,{\q2}You're gonna cause damage \Nto the snack hut if you keep this up!
+Dialogue: 10,0:15:00.71,0:15:04.13,Default,Tamaki,0,0,0,,{\q2}You're gonna damage the snack hut \Nif you don't knock it off!
 Dialogue: 10,0:15:04.13,0:15:06.96,Default,Tamaki,0,0,0,,Yukari, you need to cool your head!
 Dialogue: 10,0:15:08.01,0:15:12.47,Default,Yukari,0,0,0,,Oh, gosh! Tamaki's takin' me out!
 Dialogue: 10,0:15:11.72,0:15:13.01,Alt,Tamaki,0,0,0,,No, I'm not!
 Dialogue: 10,0:15:13.01,0:15:15.97,Default,Tamaki,0,0,0,,Don't say junk that'll give people funny ideas!
 Dialogue: 10,0:15:21.94,0:15:26.48,Default,Yukari,0,0,0,,{\q2}Why'd you bring me to this place \Nwhere we're all alone, oh gosh, you?
-Dialogue: 10,0:15:26.48,0:15:30.99,Default,Tamaki,0,0,0,,{\q2}Sheesh, let's give the usual level-headed \NTamaki a rude wake-up call!
+Dialogue: 10,0:15:26.48,0:15:30.99,Default,Tamaki,0,0,0,,{\q2}Sheesh, how about we snap the \Nusually-cool-as-a-cucumber Tamaki back to her senses?
 Dialogue: 10,0:15:30.99,0:15:33.16,Default,Tamaki,0,0,0,,Hi-yah!
 Dialogue: 10,0:15:37.49,0:15:39.33,Default,Tamaki,0,0,0,,It's shallow?
 Dialogue: 10,0:15:39.33,0:15:41.87,Default,Tamaki,0,0,0,,Is she stuck in the sand?
@@ -331,8 +331,8 @@ Dialogue: 10,0:15:59.93,0:16:03.02,Default,Suzume,0,0,0,,{\q2}How about a stewed
 Dialogue: 10,0:16:03.02,0:16:05.86,Default,Karyl,0,0,0,,Hmm... Lacks punch, I'd say.
 Dialogue: 10,0:16:05.86,0:16:07.23,Default,Kokkoro,0,0,0,,If I may...
 Dialogue: 10,0:16:08.82,0:16:11.53,Default,Kokkoro,0,0,0,,I believe this offers quite a punch.
-Dialogue: 10,0:16:13.70,0:16:17.66,Default,Karyl,0,0,0,,It sure does, but it kinda kills my appetite.
-Dialogue: 10,0:16:17.66,0:16:19.83,Default,Kokkoro,0,0,0,,Oh, it does?
+Dialogue: 10,0:16:13.70,0:16:17.66,Default,Karyl,0,0,0,,I mean, yes, but it also kinda kills my appetite.
+Dialogue: 10,0:16:17.66,0:16:19.83,Default,Kokkoro,0,0,0,,Does it?
 Dialogue: 10,0:16:25.38,0:16:27.38,Default,Guy,0,0,0,,It's the Kraken!
 Dialogue: 10,0:16:31.38,0:16:36.01,Default,Tamaki,0,0,0,,Come to your senses already, you drunkard!
 Dialogue: 10,0:16:36.01,0:16:38.56,Default,Saren,0,0,0,,Tamaki{**-san}! What's going on?
@@ -371,7 +371,7 @@ Comment: 10,0:18:08.60,0:18:10.23,Default,Kraken,0,0,0,,Squid!
 Comment: 10,0:18:12.61,0:18:14.44,Default,Kraken,0,0,0,,{\an8}Squid...
 Dialogue: 10,0:18:13.86,0:18:15.49,Default,Saren,0,0,0,,Leave the rest to me!
 Dialogue: 10,0:18:15.49,0:18:18.16,Default,Saren,0,0,0,,Sword of Phoenix!
-Comment: 10,0:18:21.78,0:18:25.20,Default,Kraken,0,0,0,,Squid... Centre...
+Comment: 10,0:18:21.78,0:18:25.25,Default,Kraken,0,0,0,,Squid... Centre...
 Dialogue: 10,0:18:26.20,0:18:29.96,Default,Tamaki,0,0,0,,Thanks so much! You saved the day!
 Dialogue: 10,0:18:30.63,0:18:32.63,Default,Kokkoro,0,0,0,,Take care.
 Dialogue: 10,0:18:34.00,0:18:36.09,Default,Saren,0,0,0,,I'm glad everyone's all right.
