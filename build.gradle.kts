@@ -185,9 +185,7 @@ subs {
         }
 
     val op_title by task<ASS> {
-        if (propertyExists("OP")) {
-            from(get("OP_TITLE"))
-        }
+        from(get("OP_TITLE"))
 
         val ep_title = getRaw("eptitle")
         val ep_subtitle = getRaw("subtitle")
@@ -202,9 +200,7 @@ subs {
     }
 
     val op_title_ktemplate by task<Automation> {
-        if (propertyExists("OP")) {
-            from(op_title.item())
-        }
+        from(op_title.item())
 
         video(get("premux"))
         script("ln.kara-templater-mod.lua")
@@ -214,7 +210,10 @@ subs {
 
         merge {
             from(run_ktemplate.item())
-            from(op_title_ktemplate.item())
+
+            if (propertyExists("OP")) {
+                from(op_title_ktemplate.item())
+            }
 
             includeExtraData(false)
             includeProjectGarbage(false)
