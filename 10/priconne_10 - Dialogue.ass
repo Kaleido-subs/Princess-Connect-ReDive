@@ -331,20 +331,20 @@ Dialogue: 10,0:18:58.86,0:19:01.37,Default,All,0,0,0,,See you soon!
 Dialogue: 10,0:19:01.37,0:19:03.37,Default,Charlie,0,0,0,,{*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:19:03.37,0:19:06.04,Default,Guy,0,0,0,,{\t(1732,2650,\c&H000000&)}Come help out again!
 Dialogue: 10,0:19:06.58,0:19:08.46,Default,Pecorine,0,0,0,,I'm home!
-Dialogue: 10,0:19:08.46,0:19:12.67,Default,Karyl,0,0,0,,No! Don't eat me!
+Dialogue: 10,0:19:08.46,0:19:12.67,Default,Karyl,0,0,0,,No! I don't wanna be eaten!
 Dialogue: 10,0:19:13.34,0:19:15.21,Default,Pecorine,0,0,0,,What happened to all of you?!
-Dialogue: 10,0:19:15.21,0:19:18.92,Default,Kokkoro,0,0,0,,Welcome back, {*}Lady Pecorine{*Pecorine-sama}.
+Dialogue: 10,0:19:15.21,0:19:18.92,Default,Kokkoro,0,0,0,,Welcome home, {*}Lady Pecorine{*Pecorine-sama}.
 Dialogue: 10,0:19:18.92,0:19:20.97,Default,Kokkoro,0,0,0,,There are several reasons for this.
 Dialogue: 10,0:19:20.97,0:19:22.59,Default,Shinobu,0,0,0,,Pardon our intrusion.
 Dialogue: 10,0:19:22.59,0:19:24.01,Default,QP (Dangerous),0,0,0,,Who are you?
-Dialogue: 10,0:19:24.01,0:19:27.85,Default,QP (Dangerous),0,0,0,,{\q2}If you're gonna stop me from eating my pudding, \NI'll turn you into pudding too!
+Dialogue: 10,0:19:24.01,0:19:27.85,Default,QP (Dangerous),0,0,0,,{\q2}If you're gonna stop me from eating, \NI'll turn you into pudding too!
 Dialogue: 10,0:19:27.85,0:19:30.02,Default,Pecorine,0,0,0,,You turned them all into pudding?
 Dialogue: 10,0:19:30.02,0:19:34.48,Default,QP (Dangerous),0,0,0,,{\q2}I gave them all this time, and they {\i1}still{\i0} \Ncouldn't make any yummy pudding!
-Dialogue: 10,0:19:34.48,0:19:35.57,Default,Pecorine,0,0,0,,Please hold on!
-Dialogue: 10,0:19:36.07,0:19:38.36,Default,Pecorine,0,0,0,,I'll make delicious pudding for you!
+Dialogue: 10,0:19:34.48,0:19:35.57,Default,Pecorine,0,0,0,,Please wait!
+Dialogue: 10,0:19:36.07,0:19:38.36,Default,Pecorine,0,0,0,,I'll make you delicious pudding!
 Dialogue: 10,0:19:38.36,0:19:41.03,Default,Pecorine,0,0,0,,Would you please turn them back to normal?
-Dialogue: 10,0:19:41.03,0:19:44.91,Default,QP (Dangerous),0,0,0,,I don't think so. I've waited long enough today.
-Dialogue: 10,0:19:44.91,0:19:46.54,Default,Pecorine,0,0,0,,You can look forward to it!
+Dialogue: 10,0:19:41.03,0:19:44.91,Default,QP (Dangerous),0,0,0,,I don't think so. I've waited long enough.
+Dialogue: 10,0:19:44.91,0:19:46.54,Default,Pecorine,0,0,0,,It will be worth the wait!
 Dialogue: 10,0:19:46.54,0:19:49.29,Default,Pecorine,0,0,0,,{\q2}I'll make pudding that's better \Nthan any you've ever had!
 Dialogue: 10,0:19:51.37,0:19:53.46,Default,QP (Dangerous),0,0,0,,Th-That good?
 Dialogue: 10,0:19:54.63,0:19:55.96,Default,Pecorine,0,0,0,,Of course!
