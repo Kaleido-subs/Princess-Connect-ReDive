@@ -18,13 +18,15 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: OP1,Amaranth,68,&H00FFFFFF,&H00FFFFFF,&H009252F8,&H009252F8,-1,0,0,0,100,100,0,0,1,0,0,2,100,100,56,1
+Style: OP1,Amaranth,66,&H00FFFFFF,&H14FFF7FE,&H009252F8,&H009D65F4,-1,0,0,0,100,100,0,0,1,0,0,2,100,100,56,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function pos_y() return orgline.actor:match('rom') and -904 or 0; end
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function lchar_start() return char.left/2; end
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function get_4c_pre() return (line.layer == 1 or line.layer == 3) and gc(4) or gc(2); end
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function get_4c() return (line.layer == 1 or line.layer == 3) and gc(3) or gc(1); end
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function get_4a_pre() return (line.layer == 1 or line.layer == 3) and ga(4) or ga(2); end
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function get_blur() return (line.layer == 1 or line.layer == 3) and 2 or 0.7; end
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function get_bord() return (line.layer == 1 or line.layer == 3) and 3.6 or 0; end
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,function get_start_time() return rnd(0, syl.duration * 4/5); end
@@ -33,8 +35,10 @@ Dialogue: 0,0:00:00.00,0:00:00.00,OP1,spark,0,0,0,template syl noblank notext ac
 Comment: 0,0:00:00.00,0:00:00.00,OP1,main,0,0,0,template line noblank loop layer 2 actor eng,!relayer($loop_layer)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,main,0,0,0,template syl noblank loop layer 4 actor rom,!relayer($loop_layer)!
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin line t_actor main,!retime('line', -50, 300)!{!ln.tag.pos(5,5,0,pos_y())!\fad(0,250)\1a&HFE&\3a&HFE&\4a&HFE&\bord!get_bord()!\xshad0.01}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char noblank layer 1 layer 2,{\blur!get_blur()*2.5!\4c!gc(1)!\4a&HFF&\t(!lchar_start()!,!lchar_start()+200!,1.2,\4a&H00&)\t(!lchar_start()+100!,!lchar_start()+300!,1.2,\4c!get_4c()!\blur1)}
-Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char actor rom layer 1 layer 2,{\t(!st(0)!,!st(0)!,\4a&HFF&)\t(!st(1)!,!st(1)!,\4a&H00&)}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char noblank layer 1 layer 2,{\blur!get_blur()*2.5!\4c!gc(1)!\4a&HFF&\t(!lchar_start()!,!lchar_start()+200!,1.2,\4a!get_4a_pre()!)}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char noblank layer 1 layer 2 actor rom,{\t(!lchar_start()+100!,!lchar_start()+300!,1.2,\4c!get_4c_pre()!\blur1)}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char noblank layer 1 layer 2 actor eng,{\t(!lchar_start()+100!,!lchar_start()+300!,1.2,\4c!get_4c()!\4a&H00&\blur1)}
+Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char actor rom layer 1 layer 2,{\t(!st(0)!,!st(0)!,\4c!get_4c()!\4a&HFF&)\t(!st(1)!,!st(1)!,\4a&H00&)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin syl actor rom layer 3 layer 4,{\4a&HFF&\t(!st(0)!,!st(0)!,\4c!gc(1)!\4a&H00&\fscx125\fscy125\blur!get_blur()*1.5!)\t(!st(0)!,!st(1)!,\4c!get_4c()!\fscx100\fscy100\blur!get_blur()!)\t(!st(1)!,!st(1)!,\4a&HFF&)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,mixin char t_actor main noblank,{\t(!line.duration-600+lchar_start()!,!line.duration-300+lchar_start()!,1.2,\4a&HFF&\blur!get_blur()*2.5!)}
 Comment: 0,0:00:00.00,0:00:00.00,OP1,,0,0,0,code once,
