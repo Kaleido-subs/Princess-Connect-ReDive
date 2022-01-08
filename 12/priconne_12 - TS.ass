@@ -220,7 +220,7 @@ Dialogue: 0,0:09:48.10,0:09:48.15,Sign,,0,0,0,,{\pos(968.9,176.33)\fscx98.2\fscy
 Dialogue: 0,0:09:48.15,0:09:48.19,Sign,,0,0,0,,{\pos(968.9,176.33)\fscx98.2\fscy98.2\fnGotham Bold\fs180\fsp3\1c&HB894F7&\blur0.6\iclip(m 1093.4 80.8 l 1074 287 845 286 825 75.2)}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
 Dialogue: 0,0:09:48.19,0:09:48.23,Sign,,0,0,0,,{\pos(968.9,176.33)\fscx98.2\fscy98.2\fnGotham Bold\fs180\fsp3\1c&HB894F7&\blur0.6\iclip(m 1227 54.29 l 1182 287 736 286 691.43 40)}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
 Dialogue: 0,0:19:41.32,0:19:43.32,Sign,,0,0,0,,{\an7\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
-Dialogue: 0,0:19:41.45,0:19:43.32,Sign,,0,0,0,,{\fnFOT-テロップ明朝 Pro B\fsp50\b1\3c&HFFFFFF&\blur20\fad(649,0)\t(107,608,\fsp0\blur15)}Why...
+Dialogue: 0,0:19:41.45,0:19:43.32,Sign,,0,0,0,,{\fnFOT-テロップ明朝 Pro B\fsp50\b1\3c&HFFFFFF&\blur20\fad(649,0)\t(107,608,\fsp0\blur15)}Why... {## I feel like this can be improved. The flash woudl also be nice to keep imo}
 Dialogue: 0,0:19:42.07,0:19:43.32,Sign,,0,0,0,,{\fnFOT-テロップ明朝 Pro B\b1\4c&HFFFFFF&\blur6\t(29,71,\shad0.1\blur5\4c&HFFFFFF&)\t(71,154,\shad0.1\blur3)\t(154,196,\shad0.1\blur0.7)}Why...
 Dialogue: 0,0:19:47.33,0:19:49.33,Sign,,0,0,0,,{\an7\c&H000000&\p1}m 0 0 l 1920 0 1920 1080 0 1080
 Dialogue: 0,0:19:47.45,0:19:49.33,Sign,,0,0,0,,{\fnFOT-テロップ明朝 Pro B\fsp50\b1\3c&HFFFFFF&\blur20\fad(649,0)\t(107,608,\fsp0\blur15)}Why do you go that far
