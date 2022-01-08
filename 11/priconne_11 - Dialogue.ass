@@ -740,7 +740,7 @@ Dialogue: 10,0:19:05.04,0:19:07.16,Default,Kokkoro,0,0,0,,You did such a difficu
 Dialogue: 10,0:19:08.00,0:19:09.37,Default,Kokkoro,0,0,0,,I'm so glad you're safe.
 Dialogue: 10,0:19:10.62,0:19:12.75,Default,Yuuki,0,0,0,,It almost ate me!
 Dialogue: 10,0:19:13.25,0:19:16.25,Default,Pecorine,0,0,0,,Thank you so much, Yuuki{**-kun}!
-Dialogue: 10,0:19:20.72,0:19:24.26,Default,Yuuki,0,0,0,,Do you think we can fix Karyl's plushie now?
+Dialogue: 10,0:19:20.72,0:19:24.26,Default,Yuuki,0,0,0,,Do you think we can fix {*}Karyl{*Kyaru}'s plushie now?
 Dialogue: 10,0:19:26.10,0:19:27.27,Default,Both,0,0,0,,Yes!
 Dialogue: 10,0:19:29.43,0:19:31.77,Default,Shizuru,0,0,0,,He may have lost his memories,
 Dialogue: 10,0:19:31.77,0:19:34.90,Default,Shizuru,0,0,0,,but his selflessness is still in tact.
