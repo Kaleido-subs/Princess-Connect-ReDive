@@ -24,29 +24,32 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:35.01,0:00:40.06,Default,,0,0,0,,{OP}
-Comment: 0,0:02:04.97,0:02:10.02,Default,,0,0,0,,{PART A}
-Comment: 0,0:10:05.33,0:10:05.37,Default,,0,0,0,,{PART B}
-Comment: 0,0:20:56.98,0:21:01.99,Default,,0,0,0,,{ED}
-Comment: 0,0:22:27.03,0:22:32.03,Default,,0,0,0,,{OUTRO}
-Comment: 0,0:23:35.01,0:23:40.02,Default,,0,0,0,,{PREV}
-Dialogue: 10,0:00:17.70,0:00:20.91,Default,Labyrista,0,0,0,,Looks like {\i1}someone's{\i0} already made quite the move.
-Dialogue: 10,0:00:20.91,0:00:22.12,Default,Rino,0,0,0,,You mean...?
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
+Comment: 0,0:00:35.01,0:00:35.01,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:00:37.02,0:00:37.02,Default,,0,0,0,opsync,{OP sync — second cut}
+Comment: 0,0:02:04.97,0:02:04.98,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:10:05.33,0:10:05.33,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:20:56.98,0:20:56.99,Default,chapter,0,0,0,,{ED}
+Comment: 0,0:21:56.00,0:21:56.00,Default,,0,0,0,edsync,{ED sync — second cut}
+Comment: 0,0:22:27.03,0:22:27.03,Default,chapter,0,0,0,,{Outro}
+Comment: 0,0:23:35.01,0:23:35.02,Default,chapter,0,0,0,,{Preview}
+Dialogue: 10,0:00:17.70,0:00:20.91,Default,Labyrista,0,0,0,,Looks like {\i1}someone's{\i0} been making their move.
+Dialogue: 10,0:00:20.91,0:00:22.12,Default,Rino,0,0,0,,You mean her?
 Dialogue: 10,0:00:22.12,0:00:24.75,Default,Labyrista,0,0,0,,Well, time will continue to march on.
-Dialogue: 10,0:00:24.75,0:00:28.04,Default,Labyrista,0,0,0,,The enemy won't just loiter around forever.
+Dialogue: 10,0:00:24.75,0:00:28.04,Default,Labyrista,0,0,0,,Our enemy won't loiter around forever.
 Dialogue: 10,0:00:32.09,0:00:32.97,Default,Labyrista,0,0,0,,It's in your hands now.
 Dialogue: 10,0:02:10.81,0:02:12.57,Default,Karyl,0,0,0,,Your Majesty...
-Dialogue: 10,0:02:14.32,0:02:16.36,Default,Pecorine,0,0,0,,It's morning, everyone!
-Dialogue: 10,0:02:16.36,0:02:19.82,Default,Pecorine,0,0,0,,Your delicious, delicious breakfast is ready!
+Dialogue: 10,0:02:14.32,0:02:16.36,Default,Pecorine,0,0,0,,It's morning, everybody!
+Dialogue: 10,0:02:16.36,0:02:19.82,Default,Pecorine,0,0,0,,Your suepr yummy breakfast is ready!
 Dialogue: 10,0:02:23.58,0:02:26.25,Default,Kokkoro,0,0,0,,{*}Lady Karyl{*Kyaru-sama} is awfully late.
 Dialogue: 10,0:02:26.83,0:02:28.04,Default,Yuuki,0,0,0,,Sleepyhead.
 Dialogue: 10,0:02:29.29,0:02:30.58,Default,Pecorine,0,0,0,,We can't have that!
-Dialogue: 10,0:02:30.58,0:02:32.88,Default,Pecorine,0,0,0,,Her delicious breakfast will get cold!
+Dialogue: 10,0:02:30.58,0:02:32.88,Default,Pecorine,0,0,0,,Her yummy breakfast will get cold!
 Dialogue: 10,0:02:36.26,0:02:38.59,Default,Pecorine,0,0,0,,Good morning, {*}Karyl{*Kyaru-chan}!
 Dialogue: 10,0:02:38.59,0:02:40.68,Default,Pecorine,0,0,0,,Breakfast is getting cold!
 Dialogue: 10,0:02:41.64,0:02:44.89,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}! {*}Karyl{*Kyaru-chan}!
 Dialogue: 10,0:02:44.89,0:02:47.77,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}? {*}Karyl{*Kyaru-chan}?!
-Dialogue: 10,0:02:47.77,0:02:50.44,Default,Pecorine,0,0,0,,E-E-E-Emergency, Kokkoro{**-chan}!
+Dialogue: 10,0:02:47.77,0:02:50.44,Default,Pecorine,0,0,0,,E-Emergency, Kokkoro{**-chan}!
 Dialogue: 10,0:02:50.44,0:02:52.36,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan} isn't answering!
 Dialogue: 10,0:02:52.36,0:02:54.61,Default,Pecorine,0,0,0,,What if she's fallen and can't get up?!
 Dialogue: 10,0:02:54.61,0:02:57.32,Default,Karyl,0,0,0,,Hey! What gave you that stupid idea, Dumborine?!
@@ -54,38 +57,38 @@ Dialogue: 10,0:02:57.32,0:02:58.82,Default,Karyl,0,0,0,,I just want to slee—
 Dialogue: 10,0:03:08.37,0:03:09.96,Default,Pecorine,0,0,0,,Are you okay, {*}Karyl{*Kyaru-chan}?!
 Dialogue: 10,0:03:10.37,0:03:10.87,Default,Pecorine,0,0,0,,Oh...
 Dialogue: 10,0:03:12.75,0:03:14.34,Default,Karyl,0,0,0,,Learn to control yourself!
-Dialogue: 10,0:03:14.75,0:03:18.42,Default,Karyl,0,0,0,,You need to be more respectful \Nof people's personal space.
-Dialogue: 10,0:03:19.51,0:03:21.13,Default,Pecorine,0,0,0,,Perfonahl...?
+Dialogue: 10,0:03:14.75,0:03:18.42,Default,Karyl,0,0,0,,{\q2}You need to be more respectful \Nof people's personal space.
+Dialogue: 10,0:03:19.51,0:03:21.13,Default,Pecorine,0,0,0,,Perfonahl?
 Dialogue: 10,0:03:21.93,0:03:24.85,Default,Pecorine,0,0,0,,What's that? Sounds tasty!
-Dialogue: 10,0:03:24.85,0:03:26.47,Default,Karyl,0,0,0,,It isn't food!
-Dialogue: 10,0:03:26.47,0:03:30.10,Default,Kokkoro,0,0,0,,I believe it means the distance you keep from others.
-Dialogue: 10,0:03:32.56,0:03:35.61,Default,Pecorine,0,0,0,,I'm sorry. I'll try to be more careful.
-Dialogue: 10,0:03:35.61,0:03:38.11,Default,Karyl,0,0,0,,Are you {\i1}sure{\i0} you actually get it?
-Dialogue: 10,0:03:38.57,0:03:43.20,Default,Karyl,0,0,0,,That aside, what are you gonna do \Nabout my favourite plushie?
+Dialogue: 10,0:03:24.85,0:03:26.47,Default,Karyl,0,0,0,,Not something for you to eat!
+Dialogue: 10,0:03:26.47,0:03:30.10,Default,Kokkoro,0,0,0,,{\q2}I believe she means you need to learn \Nhow to keep your distance from others.
+Dialogue: 10,0:03:32.56,0:03:35.61,Default,Pecorine,0,0,0,,I'm sorry. I'll try to be more thoughtful.
+Dialogue: 10,0:03:35.61,0:03:38.11,Default,Karyl,0,0,0,,Are you {\i1}sure{\i0} you get it?
+Dialogue: 10,0:03:38.57,0:03:43.20,Default,Karyl,0,0,0,,{\q2}That aside, what are you gonna do \Nabout my favourite plushie?
 Dialogue: 10,0:03:43.61,0:03:44.95,Default,Yuuki,0,0,0,,All torn up.
-Dialogue: 10,0:03:45.37,0:03:48.29,Default,Kokkoro,0,0,0,,Um, if you'd like, I could...
-Dialogue: 10,0:03:48.29,0:03:49.66,Default,Karyl,0,0,0,,You can fix it?
-Dialogue: 10,0:03:49.66,0:03:52.87,Default,Kokkoro,0,0,0,,I did quite a bit of sewing work back home.
+Dialogue: 10,0:03:45.37,0:03:48.29,Default,Kokkoro,0,0,0,,Um, if you'd like, I could fix it.
+Dialogue: 10,0:03:48.29,0:03:49.66,Default,Karyl,0,0,0,,You can?
+Dialogue: 10,0:03:49.66,0:03:52.87,Default,Kokkoro,0,0,0,,I did a lot of sewing work back home.
 Dialogue: 10,0:03:52.87,0:03:54.79,Default,Pecorine,0,0,0,,That's our Kokkoro{**-chan}!
 Dialogue: 10,0:03:54.79,0:03:55.71,Default,Yuuki,0,0,0,,Nice.
 Dialogue: 10,0:03:55.71,0:03:59.84,Default,Karyl,0,0,0,,You really shine at times like these, Korosuke!
-Dialogue: 10,0:03:59.84,0:04:00.92,Default,Kokkoro,0,0,0,,Yes.
+Dialogue: 10,0:03:59.84,0:04:00.92,Default,Kokkoro,0,0,0,,Thank you.
 Dialogue: 10,0:04:02.80,0:04:04.64,Default,Kokkoro,0,0,0,,We'll be off now.
 Dialogue: 10,0:04:04.64,0:04:06.39,Default,Pecorine,0,0,0,,See you later!
-Dialogue: 10,0:04:06.39,0:04:07.72,Default,Karyl,0,0,0,,You'd better take care of it!
-Dialogue: 10,0:04:08.64,0:04:11.18,Default,Karyl,0,0,0,,Well, guess I'll tidy up my room.
-Dialogue: 10,0:04:16.52,0:04:20.36,Default,Kokkoro,0,0,0,,First, we'll look for material \Nthat matches the plushie's colour.
+Dialogue: 10,0:04:06.39,0:04:07.72,Default,Karyl,0,0,0,,You'd better take good care of him!
+Dialogue: 10,0:04:08.64,0:04:11.18,Default,Karyl,0,0,0,,Well, guess I'll tidy my room.
+Dialogue: 10,0:04:16.52,0:04:20.36,Default,Kokkoro,0,0,0,,{\q2}First we must look for material \Nthat matches the plushie's colour.
 Dialogue: 10,0:04:20.86,0:04:21.74,Default,Yuuki,0,0,0,,Mhm!
 Dialogue: 10,0:04:28.53,0:04:31.04,Default,Kokkoro,0,0,0,,There are so many lovely shops.
-Dialogue: 10,0:04:31.04,0:04:33.29,Default,Kokkoro,0,0,0,,I can't help feeling excited.
+Dialogue: 10,0:04:31.04,0:04:33.29,Default,Kokkoro,0,0,0,,My heart can't help but skip a beat.
 Dialogue: 10,0:04:36.08,0:04:37.75,Default,Guy,0,0,0,,Did you finish the shoes I ordered?
-Dialogue: 10,0:04:37.75,0:04:40.63,Default,Lady,0,0,0,,Sure did. Just a moment.
+Dialogue: 10,0:04:37.75,0:04:40.63,Default,Lady,0,0,0,,Sure did. Just a moment, please.
 Dialogue: 10,0:04:42.26,0:04:43.26,Default,Lady,0,0,0,,What?
 Dialogue: 10,0:04:43.84,0:04:47.68,Default,Lady,0,0,0,,Wait. Who made those shoes, anyway?
 Dialogue: 10,0:04:47.68,0:04:49.68,Default,Lady,0,0,0,,I can't make them.
 Dialogue: 10,0:04:49.68,0:04:51.93,Default,Guy,0,0,0,,Hey, what's the hold-up?
 Dialogue: 10,0:04:51.93,0:04:54.14,Default,Guy,0,0,0,,You going senile already?
-Dialogue: 10,0:05:00.69,0:05:03.15,Default,Kokkoro,0,0,0,,It's harder to find than I anticipated.
+Dialogue: 10,0:05:00.69,0:05:03.15,Default,Kokkoro,0,0,0,,It's harder to find a fabric store than I expected.
 Dialogue: 10,0:05:03.78,0:05:08.53,Default,Kokkoro,0,0,0,,I'm sure there's gotta be some in a town this big.
 Dialogue: 10,0:05:08.99,0:05:11.29,Default,Yuuki,0,0,0,,I'll look there.
 Dialogue: 10,0:05:11.29,0:05:12.58,Default,Pecorine,0,0,0,,I get it!
@@ -93,406 +96,406 @@ Dialogue: 10,0:05:12.58,0:05:15.58,Default,Pecorine,0,0,0,,It'll be more efficie
 Dialogue: 10,0:05:15.58,0:05:16.12,Default,Yuuki,0,0,0,,Mhm.
 Dialogue: 10,0:05:17.04,0:05:22.09,Default,Kokkoro,0,0,0,,I'm worried that my lord might get lost.
 Dialogue: 10,0:05:23.88,0:05:24.84,Default,Yuuki,0,0,0,,It's okay.
-Dialogue: 10,0:05:26.97,0:05:27.93,Default,Kokkoro,0,0,0,,Right.
+Dialogue: 10,0:05:26.97,0:05:27.93,Default,Kokkoro,0,0,0,,Okay.
 Dialogue: 10,0:05:32.97,0:05:35.35,Default,Yuuki,0,0,0,,Material...
 Dialogue: 10,0:05:36.85,0:05:38.15,Default,Yuuki,0,0,0,,Material...
 Dialogue: 10,0:06:21.86,0:06:24.53,Default,Shizuru,0,0,0,,Sacred Punish!
 Dialogue: 10,0:06:35.95,0:06:37.71,Default,Shizuru,0,0,0,,It's a good thing I came.
 Dialogue: 10,0:06:39.08,0:06:41.25,Default,Shizuru,0,0,0,,I can't believe they'd show up here, too.
 Dialogue: 10,0:06:42.79,0:06:45.17,Default,Yuuki,0,0,0,,Um, thank—
-Dialogue: 10,0:06:45.17,0:06:47.76,Default,Shizuru,0,0,0,,I've missed you, my dear little brother!
+Dialogue: 10,0:06:45.17,0:06:47.76,Default,Shizuru,0,0,0,,I've missed you, my dearest little brother!
 Dialogue: 10,0:06:48.84,0:06:51.05,Default,Shizuru,0,0,0,,You're not hurt, are you? Were you scared?
 Dialogue: 10,0:06:51.05,0:06:52.35,Default,Shizuru,0,0,0,,Is your tummy okay?
-Dialogue: 10,0:06:52.35,0:06:55.10,Default,Shizuru,0,0,0,,You always got tummy-aches \Nwhenever you were nervous.
+Dialogue: 10,0:06:52.35,0:06:55.10,Default,Shizuru,0,0,0,,{\q2}You always got tummy-aches \Nwhenever you were nervous.
 Dialogue: 10,0:06:55.10,0:06:57.56,Default,Shizuru,0,0,0,,Are you okay? Should I take you to the bathroom?
 Dialogue: 10,0:06:57.56,0:06:58.98,Default,Shizuru,0,0,0,,Can you pull your pants down by yourself?
 Dialogue: 10,0:06:58.98,0:07:03.40,Default,Shizuru,0,0,0,,Oh, that's right. You've lost your memories.
 Dialogue: 10,0:07:04.40,0:07:09.20,Default,Shizuru,0,0,0,,Don't worry. Your big sister's right here with you.
 Dialogue: 10,0:07:09.20,0:07:11.03,Default,Yuuki,0,0,0,,Big... sister?
-Dialogue: 10,0:07:11.03,0:07:11.07,Default,Rino,0,0,0,,{\an5\fscx199.26\fscy199.26\pos(960.4,200.6)}Hey!
-Dialogue: 10,0:07:11.07,0:07:11.11,Default,Rino,0,0,0,,{\an5\fscx197.7\fscy197.7\pos(964.2,210.2)}Hey!
-Dialogue: 10,0:07:11.11,0:07:11.16,Default,Rino,0,0,0,,{\an5\fscx196.1\fscy196.1\pos(959.4,179.2)}Hey!
-Dialogue: 10,0:07:11.16,0:07:11.20,Default,Rino,0,0,0,,{\an5\fscx194.5\fscy194.5\pos(972.8,198.2)}Hey!
-Dialogue: 10,0:07:11.20,0:07:11.24,Default,Rino,0,0,0,,{\an5\fscx192.94\fscy192.94\pos(962.4,209)}Hey!
-Dialogue: 10,0:07:11.24,0:07:11.28,Default,Rino,0,0,0,,{\an5\fscx191.34\fscy191.34\pos(960.4,180.2)}Hey!
-Dialogue: 10,0:07:11.28,0:07:11.32,Default,Rino,0,0,0,,{\an5\fscx189.74\fscy189.74\pos(966.8,189.4)}Hey!
-Dialogue: 10,0:07:11.32,0:07:11.36,Default,Rino,0,0,0,,{\an5\fscx188.14\fscy188.14\pos(963.6,210.4)}Hey!
-Dialogue: 10,0:07:11.36,0:07:11.41,Default,Rino,0,0,0,,{\an5\fscx186.58\fscy186.58\pos(965.2,182.4)}Hey!
-Dialogue: 10,0:07:11.41,0:07:11.45,Default,Rino,0,0,0,,{\an5\fscx184.98\fscy184.98\pos(977.2,185)}Hey!
-Dialogue: 10,0:07:11.45,0:07:11.49,Default,Rino,0,0,0,,{\an5\fscx183.38\fscy183.38\pos(983.6,179.2)}Hey!
-Dialogue: 10,0:07:11.49,0:07:11.53,Default,Rino,0,0,0,,{\an5\fscx181.82\fscy181.82\pos(949.6,174.2)}Hey!
-Dialogue: 10,0:07:11.53,0:07:11.57,Default,Rino,0,0,0,,{\an5\fscx180.22\fscy180.22\pos(971,203.2)}Hey!
-Dialogue: 10,0:07:11.57,0:07:11.61,Default,Rino,0,0,0,,{\an5\fscx178.62\fscy178.62\pos(956.4,196.2)}Hey!
-Dialogue: 10,0:07:11.61,0:07:11.66,Default,Rino,0,0,0,,{\an5\fscx177.02\fscy177.02\pos(967.6,209.4)}Hey!
-Dialogue: 10,0:07:11.66,0:07:11.70,Default,Rino,0,0,0,,{\an5\fscx175.46\fscy175.46\pos(970.8,188.2)}Hey!
-Dialogue: 10,0:07:11.70,0:07:11.74,Default,Rino,0,0,0,,{\an5\fscx173.86\fscy173.86\pos(981,179.6)}Hey!
-Dialogue: 10,0:07:11.74,0:07:11.78,Default,Rino,0,0,0,,{\an5\fscx172.26\fscy172.26\pos(969.2,182.2)}Hey!
-Dialogue: 10,0:07:11.78,0:07:11.82,Default,Rino,0,0,0,,{\an5\fscx170.7\fscy170.7\pos(950,204)}Hey!
-Dialogue: 10,0:07:11.82,0:07:11.86,Default,Rino,0,0,0,,{\an5\fscx169.1\fscy169.1\pos(985.4,207)}Hey!
-Dialogue: 10,0:07:11.86,0:07:11.91,Default,Rino,0,0,0,,{\an5\fscx167.5\fscy167.5\pos(955,207.4)}Hey!
-Dialogue: 10,0:07:11.91,0:07:11.95,Default,Rino,0,0,0,,{\an5\fscx165.94\fscy165.94\pos(988,211.8)}Hey!
-Dialogue: 10,0:07:11.95,0:07:11.99,Default,Rino,0,0,0,,{\an5\fscx164.34\fscy164.34\pos(959.6,201.2)}Hey!
-Dialogue: 10,0:07:11.99,0:07:12.03,Default,Rino,0,0,0,,{\an5\fscx162.74\fscy162.74\pos(960,189)}Hey!
-Dialogue: 10,0:07:12.03,0:07:12.07,Default,Rino,0,0,0,,{\an5\fscx161.14\fscy161.14\pos(964.4,193)}Hey!
-Dialogue: 10,0:07:12.07,0:07:12.11,Default,Rino,0,0,0,,{\an5\fscx159.58\fscy159.58\pos(965.8,178.4)}Hey!
-Dialogue: 10,0:07:12.11,0:07:12.16,Default,Rino,0,0,0,,{\an5\fscx157.98\fscy157.98\pos(981.8,209.2)}Hey!
-Dialogue: 10,0:07:12.16,0:07:12.20,Default,Rino,0,0,0,,{\an5\fscx156.38\fscy156.38\pos(983,181.8)}Hey!
-Dialogue: 10,0:07:12.20,0:07:12.24,Default,Rino,0,0,0,,{\an5\fscx154.82\fscy154.82\pos(967.4,191.6)}Hey!
-Dialogue: 10,0:07:12.24,0:07:12.28,Default,Rino,0,0,0,,{\an5\fscx153.22\fscy153.22\pos(962,175.8)}Hey!
-Dialogue: 10,0:07:12.28,0:07:12.32,Default,Rino,0,0,0,,{\an5\fscx151.62\fscy151.62\pos(983,199.2)}Hey!
-Dialogue: 10,0:07:12.32,0:07:12.37,Default,Rino,0,0,0,,{\an5\fscx150.02\fscy150.02\pos(961.6,194.4)}Hey!
-Dialogue: 10,0:07:12.37,0:07:12.41,Default,Rino,0,0,0,,{\an5\fscx148.46\fscy148.46\pos(973.6,182.2)}Hey!
-Dialogue: 10,0:07:12.41,0:07:12.45,Default,Rino,0,0,0,,{\an5\fscx146.86\fscy146.86\pos(958.6,177)}Hey!
-Dialogue: 10,0:07:12.45,0:07:12.49,Default,Rino,0,0,0,,{\an5\fscx145.26\fscy145.26\pos(979,181.6)}Hey!
-Dialogue: 10,0:07:12.49,0:07:12.53,Default,Rino,0,0,0,,{\an5\fscx143.7\fscy143.7\pos(967,179.6)}Hey!
-Dialogue: 10,0:07:12.53,0:07:12.57,Default,Rino,0,0,0,,{\an5\fscx142.1\fscy142.1\pos(985,173.6)}Hey!
-Dialogue: 10,0:07:12.57,0:07:12.62,Default,Rino,0,0,0,,{\an5\fscx140.5\fscy140.5\pos(950.8,198.6)}Hey!
-Dialogue: 10,0:07:12.62,0:07:12.66,Default,Rino,0,0,0,,{\an5\fscx138.9\fscy138.9\pos(965.6,185.2)}Hey!
-Dialogue: 10,0:07:12.66,0:07:12.70,Default,Rino,0,0,0,,{\an5\fscx137.34\fscy137.34\pos(986.8,207)}Hey!
-Dialogue: 10,0:07:12.70,0:07:12.74,Default,Rino,0,0,0,,{\an5\fscx135.74\fscy135.74\pos(965.8,174)}Hey!
-Dialogue: 10,0:07:12.74,0:07:12.78,Default,Rino,0,0,0,,{\an5\fscx134.14\fscy134.14\pos(980.2,209)}Hey!
-Dialogue: 10,0:07:12.78,0:07:12.82,Default,Rino,0,0,0,,{\an5\fscx132.58\fscy132.58\pos(970.8,204.2)}Hey!
-Dialogue: 10,0:07:12.82,0:07:12.87,Default,Rino,0,0,0,,{\an5\fscx130.98\fscy130.98\pos(954.6,209.2)}Hey!
-Dialogue: 10,0:07:12.87,0:07:12.91,Default,Rino,0,0,0,,{\an5\fscx129.38\fscy129.38\pos(948.4,178)}Hey!
-Dialogue: 10,0:07:12.91,0:07:12.95,Default,Rino,0,0,0,,{\an5\fscx127.82\fscy127.82\pos(955.8,199.8)}Hey!
-Dialogue: 10,0:07:12.95,0:07:12.99,Default,Rino,0,0,0,,{\an5\fscx126.22\fscy126.22\pos(970.2,191.6)}Hey!
-Dialogue: 10,0:07:12.99,0:07:13.03,Default,Rino,0,0,0,,{\an5\fscx124.62\fscy124.62\pos(978.4,211.4)}Hey!
-Dialogue: 10,0:07:13.03,0:07:13.07,Default,Rino,0,0,0,,{\an5\fscx123.02\fscy123.02\pos(950,207.2)}Hey!
-Dialogue: 10,0:07:13.07,0:07:13.12,Default,Rino,0,0,0,,{\an5\fscx121.46\fscy121.46\pos(959.4,188.4)}Hey!
-Dialogue: 10,0:07:13.12,0:07:13.16,Default,Rino,0,0,0,,{\an5\fscx119.86\fscy119.86\pos(987.6,187.6)}Hey!
-Dialogue: 10,0:07:13.16,0:07:13.20,Default,Rino,0,0,0,,{\an5\fscx118.26\fscy118.26\pos(979,198.6)}Hey!
-Dialogue: 10,0:07:13.20,0:07:13.24,Default,Rino,0,0,0,,{\an5\fscx116.7\fscy116.7\pos(970.4,185.4)}Hey!
-Dialogue: 10,0:07:13.24,0:07:13.28,Default,Rino,0,0,0,,{\an5\fscx115.1\fscy115.1\pos(968.2,175)}Hey!
-Dialogue: 10,0:07:13.28,0:07:13.32,Default,Rino,0,0,0,,{\an5\fscx113.5\fscy113.5\pos(969.2,180.8)}Hey!
-Dialogue: 10,0:07:13.32,0:07:13.37,Default,Rino,0,0,0,,{\an5\fscx111.9\fscy111.9\pos(967.8,212)}Hey!
-Dialogue: 10,0:07:13.37,0:07:13.41,Default,Rino,0,0,0,,{\an5\fscx110.34\fscy110.34\pos(968.2,205.2)}Hey!
-Dialogue: 10,0:07:13.41,0:07:13.45,Default,Rino,0,0,0,,{\an5\fscx108.74\fscy108.74\pos(977.6,205.6)}Hey!
-Dialogue: 10,0:07:13.45,0:07:13.49,Default,Rino,0,0,0,,{\an5\fscx107.14\fscy107.14\pos(969.4,198.6)}Hey!
-Dialogue: 10,0:07:13.49,0:07:13.53,Default,Rino,0,0,0,,{\an5\fscx105.58\fscy105.58\pos(987.6,205.2)}Hey!
-Dialogue: 10,0:07:13.53,0:07:13.57,Default,Rino,0,0,0,,{\an5\fscx103.98\fscy103.98\pos(976.6,198.8)}Hey!
-Dialogue: 10,0:07:13.57,0:07:13.62,Default,Rino,0,0,0,,{\an5\fscx102.38\fscy102.38\pos(974.4,212.4)}Hey!
-Dialogue: 10,0:07:13.62,0:07:13.66,Default,Rino,0,0,0,,{\an5\fscx100.78\fscy100.78\pos(981.6,191.2)}Hey!
-Dialogue: 10,0:07:11.03,0:07:11.07,Default,Rino,0,0,0,,{\an5\fscx199.26\fscy199.26\pos(452.4,562.6)}Hey!
-Dialogue: 10,0:07:11.07,0:07:11.11,Default,Rino,0,0,0,,{\an5\fscx197.7\fscy197.7\pos(456.2,572.2)}Hey!
-Dialogue: 10,0:07:11.11,0:07:11.16,Default,Rino,0,0,0,,{\an5\fscx196.1\fscy196.1\pos(451.4,541.2)}Hey!
-Dialogue: 10,0:07:11.16,0:07:11.20,Default,Rino,0,0,0,,{\an5\fscx194.5\fscy194.5\pos(464.8,560.2)}Hey!
-Dialogue: 10,0:07:11.20,0:07:11.24,Default,Rino,0,0,0,,{\an5\fscx192.94\fscy192.94\pos(454.4,571)}Hey!
-Dialogue: 10,0:07:11.24,0:07:11.28,Default,Rino,0,0,0,,{\an5\fscx191.34\fscy191.34\pos(452.4,542.2)}Hey!
-Dialogue: 10,0:07:11.28,0:07:11.32,Default,Rino,0,0,0,,{\an5\fscx189.74\fscy189.74\pos(458.8,551.4)}Hey!
-Dialogue: 10,0:07:11.32,0:07:11.36,Default,Rino,0,0,0,,{\an5\fscx188.14\fscy188.14\pos(455.6,572.4)}Hey!
-Dialogue: 10,0:07:11.36,0:07:11.41,Default,Rino,0,0,0,,{\an5\fscx186.58\fscy186.58\pos(457.2,544.4)}Hey!
-Dialogue: 10,0:07:11.41,0:07:11.45,Default,Rino,0,0,0,,{\an5\fscx184.98\fscy184.98\pos(469.2,547)}Hey!
-Dialogue: 10,0:07:11.45,0:07:11.49,Default,Rino,0,0,0,,{\an5\fscx183.38\fscy183.38\pos(475.6,541.2)}Hey!
-Dialogue: 10,0:07:11.49,0:07:11.53,Default,Rino,0,0,0,,{\an5\fscx181.82\fscy181.82\pos(441.6,536.2)}Hey!
-Dialogue: 10,0:07:11.53,0:07:11.57,Default,Rino,0,0,0,,{\an5\fscx180.22\fscy180.22\pos(463,565.2)}Hey!
-Dialogue: 10,0:07:11.57,0:07:11.61,Default,Rino,0,0,0,,{\an5\fscx178.62\fscy178.62\pos(448.4,558.2)}Hey!
-Dialogue: 10,0:07:11.61,0:07:11.66,Default,Rino,0,0,0,,{\an5\fscx177.02\fscy177.02\pos(459.6,571.4)}Hey!
-Dialogue: 10,0:07:11.66,0:07:11.70,Default,Rino,0,0,0,,{\an5\fscx175.46\fscy175.46\pos(462.8,550.2)}Hey!
-Dialogue: 10,0:07:11.70,0:07:11.74,Default,Rino,0,0,0,,{\an5\fscx173.86\fscy173.86\pos(473,541.6)}Hey!
-Dialogue: 10,0:07:11.74,0:07:11.78,Default,Rino,0,0,0,,{\an5\fscx172.26\fscy172.26\pos(461.2,544.2)}Hey!
-Dialogue: 10,0:07:11.78,0:07:11.82,Default,Rino,0,0,0,,{\an5\fscx170.7\fscy170.7\pos(442,566)}Hey!
-Dialogue: 10,0:07:11.82,0:07:11.86,Default,Rino,0,0,0,,{\an5\fscx169.1\fscy169.1\pos(477.4,569)}Hey!
-Dialogue: 10,0:07:11.86,0:07:11.91,Default,Rino,0,0,0,,{\an5\fscx167.5\fscy167.5\pos(447,569.4)}Hey!
-Dialogue: 10,0:07:11.91,0:07:11.95,Default,Rino,0,0,0,,{\an5\fscx165.94\fscy165.94\pos(480,573.8)}Hey!
-Dialogue: 10,0:07:11.95,0:07:11.99,Default,Rino,0,0,0,,{\an5\fscx164.34\fscy164.34\pos(451.6,563.2)}Hey!
-Dialogue: 10,0:07:11.99,0:07:12.03,Default,Rino,0,0,0,,{\an5\fscx162.74\fscy162.74\pos(452,551)}Hey!
-Dialogue: 10,0:07:12.03,0:07:12.07,Default,Rino,0,0,0,,{\an5\fscx161.14\fscy161.14\pos(456.4,555)}Hey!
-Dialogue: 10,0:07:12.07,0:07:12.11,Default,Rino,0,0,0,,{\an5\fscx159.58\fscy159.58\pos(457.8,540.4)}Hey!
-Dialogue: 10,0:07:12.11,0:07:12.16,Default,Rino,0,0,0,,{\an5\fscx157.98\fscy157.98\pos(473.8,571.2)}Hey!
-Dialogue: 10,0:07:12.16,0:07:12.20,Default,Rino,0,0,0,,{\an5\fscx156.38\fscy156.38\pos(475,543.8)}Hey!
-Dialogue: 10,0:07:12.20,0:07:12.24,Default,Rino,0,0,0,,{\an5\fscx154.82\fscy154.82\pos(459.4,553.6)}Hey!
-Dialogue: 10,0:07:12.24,0:07:12.28,Default,Rino,0,0,0,,{\an5\fscx153.22\fscy153.22\pos(454,537.8)}Hey!
-Dialogue: 10,0:07:12.28,0:07:12.32,Default,Rino,0,0,0,,{\an5\fscx151.62\fscy151.62\pos(475,561.2)}Hey!
-Dialogue: 10,0:07:12.32,0:07:12.37,Default,Rino,0,0,0,,{\an5\fscx150.02\fscy150.02\pos(453.6,556.4)}Hey!
-Dialogue: 10,0:07:12.37,0:07:12.41,Default,Rino,0,0,0,,{\an5\fscx148.46\fscy148.46\pos(465.6,544.2)}Hey!
-Dialogue: 10,0:07:12.41,0:07:12.45,Default,Rino,0,0,0,,{\an5\fscx146.86\fscy146.86\pos(450.6,539)}Hey!
-Dialogue: 10,0:07:12.45,0:07:12.49,Default,Rino,0,0,0,,{\an5\fscx145.26\fscy145.26\pos(471,543.6)}Hey!
-Dialogue: 10,0:07:12.49,0:07:12.53,Default,Rino,0,0,0,,{\an5\fscx143.7\fscy143.7\pos(459,541.6)}Hey!
-Dialogue: 10,0:07:12.53,0:07:12.57,Default,Rino,0,0,0,,{\an5\fscx142.1\fscy142.1\pos(477,535.6)}Hey!
-Dialogue: 10,0:07:12.57,0:07:12.62,Default,Rino,0,0,0,,{\an5\fscx140.5\fscy140.5\pos(442.8,560.6)}Hey!
-Dialogue: 10,0:07:12.62,0:07:12.66,Default,Rino,0,0,0,,{\an5\fscx138.9\fscy138.9\pos(457.6,547.2)}Hey!
-Dialogue: 10,0:07:12.66,0:07:12.70,Default,Rino,0,0,0,,{\an5\fscx137.34\fscy137.34\pos(478.8,569)}Hey!
-Dialogue: 10,0:07:12.70,0:07:12.74,Default,Rino,0,0,0,,{\an5\fscx135.74\fscy135.74\pos(457.8,536)}Hey!
-Dialogue: 10,0:07:12.74,0:07:12.78,Default,Rino,0,0,0,,{\an5\fscx134.14\fscy134.14\pos(472.2,571)}Hey!
-Dialogue: 10,0:07:12.78,0:07:12.82,Default,Rino,0,0,0,,{\an5\fscx132.58\fscy132.58\pos(462.8,566.2)}Hey!
-Dialogue: 10,0:07:12.82,0:07:12.87,Default,Rino,0,0,0,,{\an5\fscx130.98\fscy130.98\pos(446.6,571.2)}Hey!
-Dialogue: 10,0:07:12.87,0:07:12.91,Default,Rino,0,0,0,,{\an5\fscx129.38\fscy129.38\pos(440.4,540)}Hey!
-Dialogue: 10,0:07:12.91,0:07:12.95,Default,Rino,0,0,0,,{\an5\fscx127.82\fscy127.82\pos(447.8,561.8)}Hey!
-Dialogue: 10,0:07:12.95,0:07:12.99,Default,Rino,0,0,0,,{\an5\fscx126.22\fscy126.22\pos(462.2,553.6)}Hey!
-Dialogue: 10,0:07:12.99,0:07:13.03,Default,Rino,0,0,0,,{\an5\fscx124.62\fscy124.62\pos(470.4,573.4)}Hey!
-Dialogue: 10,0:07:13.03,0:07:13.07,Default,Rino,0,0,0,,{\an5\fscx123.02\fscy123.02\pos(442,569.2)}Hey!
-Dialogue: 10,0:07:13.07,0:07:13.12,Default,Rino,0,0,0,,{\an5\fscx121.46\fscy121.46\pos(451.4,550.4)}Hey!
-Dialogue: 10,0:07:13.12,0:07:13.16,Default,Rino,0,0,0,,{\an5\fscx119.86\fscy119.86\pos(479.6,549.6)}Hey!
-Dialogue: 10,0:07:13.16,0:07:13.20,Default,Rino,0,0,0,,{\an5\fscx118.26\fscy118.26\pos(471,560.6)}Hey!
-Dialogue: 10,0:07:13.20,0:07:13.24,Default,Rino,0,0,0,,{\an5\fscx116.7\fscy116.7\pos(462.4,547.4)}Hey!
-Dialogue: 10,0:07:13.24,0:07:13.28,Default,Rino,0,0,0,,{\an5\fscx115.1\fscy115.1\pos(460.2,537)}Hey!
-Dialogue: 10,0:07:13.28,0:07:13.32,Default,Rino,0,0,0,,{\an5\fscx113.5\fscy113.5\pos(461.2,542.8)}Hey!
-Dialogue: 10,0:07:13.32,0:07:13.37,Default,Rino,0,0,0,,{\an5\fscx111.9\fscy111.9\pos(459.8,574)}Hey!
-Dialogue: 10,0:07:13.37,0:07:13.41,Default,Rino,0,0,0,,{\an5\fscx110.34\fscy110.34\pos(460.2,567.2)}Hey!
-Dialogue: 10,0:07:13.41,0:07:13.45,Default,Rino,0,0,0,,{\an5\fscx108.74\fscy108.74\pos(469.6,567.6)}Hey!
-Dialogue: 10,0:07:13.45,0:07:13.49,Default,Rino,0,0,0,,{\an5\fscx107.14\fscy107.14\pos(461.4,560.6)}Hey!
-Dialogue: 10,0:07:13.49,0:07:13.53,Default,Rino,0,0,0,,{\an5\fscx105.58\fscy105.58\pos(479.6,567.2)}Hey!
-Dialogue: 10,0:07:13.53,0:07:13.57,Default,Rino,0,0,0,,{\an5\fscx103.98\fscy103.98\pos(468.6,560.8)}Hey!
-Dialogue: 10,0:07:13.57,0:07:13.62,Default,Rino,0,0,0,,{\an5\fscx102.38\fscy102.38\pos(466.4,574.4)}Hey!
-Dialogue: 10,0:07:13.62,0:07:13.66,Default,Rino,0,0,0,,{\an5\fscx100.78\fscy100.78\pos(473.6,553.2)}Hey!
-Dialogue: 10,0:07:11.03,0:07:11.07,Default,Rino,0,0,0,,{\an5\fscx199.26\fscy199.26\pos(1504.4,520.6)}Hey!
-Dialogue: 10,0:07:11.07,0:07:11.11,Default,Rino,0,0,0,,{\an5\fscx197.7\fscy197.7\pos(1508.2,530.2)}Hey!
-Dialogue: 10,0:07:11.11,0:07:11.16,Default,Rino,0,0,0,,{\an5\fscx196.1\fscy196.1\pos(1503.4,499.2)}Hey!
-Dialogue: 10,0:07:11.16,0:07:11.20,Default,Rino,0,0,0,,{\an5\fscx194.5\fscy194.5\pos(1516.8,518.2)}Hey!
-Dialogue: 10,0:07:11.20,0:07:11.24,Default,Rino,0,0,0,,{\an5\fscx192.94\fscy192.94\pos(1506.4,529)}Hey!
-Dialogue: 10,0:07:11.24,0:07:11.28,Default,Rino,0,0,0,,{\an5\fscx191.34\fscy191.34\pos(1504.4,500.2)}Hey!
-Dialogue: 10,0:07:11.28,0:07:11.32,Default,Rino,0,0,0,,{\an5\fscx189.74\fscy189.74\pos(1510.8,509.4)}Hey!
-Dialogue: 10,0:07:11.32,0:07:11.36,Default,Rino,0,0,0,,{\an5\fscx188.14\fscy188.14\pos(1507.6,530.4)}Hey!
-Dialogue: 10,0:07:11.36,0:07:11.41,Default,Rino,0,0,0,,{\an5\fscx186.58\fscy186.58\pos(1509.2,502.4)}Hey!
-Dialogue: 10,0:07:11.41,0:07:11.45,Default,Rino,0,0,0,,{\an5\fscx184.98\fscy184.98\pos(1521.2,505)}Hey!
-Dialogue: 10,0:07:11.45,0:07:11.49,Default,Rino,0,0,0,,{\an5\fscx183.38\fscy183.38\pos(1527.6,499.2)}Hey!
-Dialogue: 10,0:07:11.49,0:07:11.53,Default,Rino,0,0,0,,{\an5\fscx181.82\fscy181.82\pos(1493.6,494.2)}Hey!
-Dialogue: 10,0:07:11.53,0:07:11.57,Default,Rino,0,0,0,,{\an5\fscx180.22\fscy180.22\pos(1515,523.2)}Hey!
-Dialogue: 10,0:07:11.57,0:07:11.61,Default,Rino,0,0,0,,{\an5\fscx178.62\fscy178.62\pos(1500.4,516.2)}Hey!
-Dialogue: 10,0:07:11.61,0:07:11.66,Default,Rino,0,0,0,,{\an5\fscx177.02\fscy177.02\pos(1511.6,529.4)}Hey!
-Dialogue: 10,0:07:11.66,0:07:11.70,Default,Rino,0,0,0,,{\an5\fscx175.46\fscy175.46\pos(1514.8,508.2)}Hey!
-Dialogue: 10,0:07:11.70,0:07:11.74,Default,Rino,0,0,0,,{\an5\fscx173.86\fscy173.86\pos(1525,499.6)}Hey!
-Dialogue: 10,0:07:11.74,0:07:11.78,Default,Rino,0,0,0,,{\an5\fscx172.26\fscy172.26\pos(1513.2,502.2)}Hey!
-Dialogue: 10,0:07:11.78,0:07:11.82,Default,Rino,0,0,0,,{\an5\fscx170.7\fscy170.7\pos(1494,524)}Hey!
-Dialogue: 10,0:07:11.82,0:07:11.86,Default,Rino,0,0,0,,{\an5\fscx169.1\fscy169.1\pos(1529.4,527)}Hey!
-Dialogue: 10,0:07:11.86,0:07:11.91,Default,Rino,0,0,0,,{\an5\fscx167.5\fscy167.5\pos(1499,527.4)}Hey!
-Dialogue: 10,0:07:11.91,0:07:11.95,Default,Rino,0,0,0,,{\an5\fscx165.94\fscy165.94\pos(1532,531.8)}Hey!
-Dialogue: 10,0:07:11.95,0:07:11.99,Default,Rino,0,0,0,,{\an5\fscx164.34\fscy164.34\pos(1503.6,521.2)}Hey!
-Dialogue: 10,0:07:11.99,0:07:12.03,Default,Rino,0,0,0,,{\an5\fscx162.74\fscy162.74\pos(1504,509)}Hey!
-Dialogue: 10,0:07:12.03,0:07:12.07,Default,Rino,0,0,0,,{\an5\fscx161.14\fscy161.14\pos(1508.4,513)}Hey!
-Dialogue: 10,0:07:12.07,0:07:12.11,Default,Rino,0,0,0,,{\an5\fscx159.58\fscy159.58\pos(1509.8,498.4)}Hey!
-Dialogue: 10,0:07:12.11,0:07:12.16,Default,Rino,0,0,0,,{\an5\fscx157.98\fscy157.98\pos(1525.8,529.2)}Hey!
-Dialogue: 10,0:07:12.16,0:07:12.20,Default,Rino,0,0,0,,{\an5\fscx156.38\fscy156.38\pos(1527,501.8)}Hey!
-Dialogue: 10,0:07:12.20,0:07:12.24,Default,Rino,0,0,0,,{\an5\fscx154.82\fscy154.82\pos(1511.4,511.6)}Hey!
-Dialogue: 10,0:07:12.24,0:07:12.28,Default,Rino,0,0,0,,{\an5\fscx153.22\fscy153.22\pos(1506,495.8)}Hey!
-Dialogue: 10,0:07:12.28,0:07:12.32,Default,Rino,0,0,0,,{\an5\fscx151.62\fscy151.62\pos(1527,519.2)}Hey!
-Dialogue: 10,0:07:12.32,0:07:12.37,Default,Rino,0,0,0,,{\an5\fscx150.02\fscy150.02\pos(1505.6,514.4)}Hey!
-Dialogue: 10,0:07:12.37,0:07:12.41,Default,Rino,0,0,0,,{\an5\fscx148.46\fscy148.46\pos(1517.6,502.2)}Hey!
-Dialogue: 10,0:07:12.41,0:07:12.45,Default,Rino,0,0,0,,{\an5\fscx146.86\fscy146.86\pos(1502.6,497)}Hey!
-Dialogue: 10,0:07:12.45,0:07:12.49,Default,Rino,0,0,0,,{\an5\fscx145.26\fscy145.26\pos(1523,501.6)}Hey!
-Dialogue: 10,0:07:12.49,0:07:12.53,Default,Rino,0,0,0,,{\an5\fscx143.7\fscy143.7\pos(1511,499.6)}Hey!
-Dialogue: 10,0:07:12.53,0:07:12.57,Default,Rino,0,0,0,,{\an5\fscx142.1\fscy142.1\pos(1529,493.6)}Hey!
-Dialogue: 10,0:07:12.57,0:07:12.62,Default,Rino,0,0,0,,{\an5\fscx140.5\fscy140.5\pos(1494.8,518.6)}Hey!
-Dialogue: 10,0:07:12.62,0:07:12.66,Default,Rino,0,0,0,,{\an5\fscx138.9\fscy138.9\pos(1509.6,505.2)}Hey!
-Dialogue: 10,0:07:12.66,0:07:12.70,Default,Rino,0,0,0,,{\an5\fscx137.34\fscy137.34\pos(1530.8,527)}Hey!
-Dialogue: 10,0:07:12.70,0:07:12.74,Default,Rino,0,0,0,,{\an5\fscx135.74\fscy135.74\pos(1509.8,494)}Hey!
-Dialogue: 10,0:07:12.74,0:07:12.78,Default,Rino,0,0,0,,{\an5\fscx134.14\fscy134.14\pos(1524.2,529)}Hey!
-Dialogue: 10,0:07:12.78,0:07:12.82,Default,Rino,0,0,0,,{\an5\fscx132.58\fscy132.58\pos(1514.8,524.2)}Hey!
-Dialogue: 10,0:07:12.82,0:07:12.87,Default,Rino,0,0,0,,{\an5\fscx130.98\fscy130.98\pos(1498.6,529.2)}Hey!
-Dialogue: 10,0:07:12.87,0:07:12.91,Default,Rino,0,0,0,,{\an5\fscx129.38\fscy129.38\pos(1492.4,498)}Hey!
-Dialogue: 10,0:07:12.91,0:07:12.95,Default,Rino,0,0,0,,{\an5\fscx127.82\fscy127.82\pos(1499.8,519.8)}Hey!
-Dialogue: 10,0:07:12.95,0:07:12.99,Default,Rino,0,0,0,,{\an5\fscx126.22\fscy126.22\pos(1514.2,511.6)}Hey!
-Dialogue: 10,0:07:12.99,0:07:13.03,Default,Rino,0,0,0,,{\an5\fscx124.62\fscy124.62\pos(1522.4,531.4)}Hey!
-Dialogue: 10,0:07:13.03,0:07:13.07,Default,Rino,0,0,0,,{\an5\fscx123.02\fscy123.02\pos(1494,527.2)}Hey!
-Dialogue: 10,0:07:13.07,0:07:13.12,Default,Rino,0,0,0,,{\an5\fscx121.46\fscy121.46\pos(1503.4,508.4)}Hey!
-Dialogue: 10,0:07:13.12,0:07:13.16,Default,Rino,0,0,0,,{\an5\fscx119.86\fscy119.86\pos(1531.6,507.6)}Hey!
-Dialogue: 10,0:07:13.16,0:07:13.20,Default,Rino,0,0,0,,{\an5\fscx118.26\fscy118.26\pos(1523,518.6)}Hey!
-Dialogue: 10,0:07:13.20,0:07:13.24,Default,Rino,0,0,0,,{\an5\fscx116.7\fscy116.7\pos(1514.4,505.4)}Hey!
-Dialogue: 10,0:07:13.24,0:07:13.28,Default,Rino,0,0,0,,{\an5\fscx115.1\fscy115.1\pos(1512.2,495)}Hey!
-Dialogue: 10,0:07:13.28,0:07:13.32,Default,Rino,0,0,0,,{\an5\fscx113.5\fscy113.5\pos(1513.2,500.8)}Hey!
-Dialogue: 10,0:07:13.32,0:07:13.37,Default,Rino,0,0,0,,{\an5\fscx111.9\fscy111.9\pos(1511.8,532)}Hey!
-Dialogue: 10,0:07:13.37,0:07:13.41,Default,Rino,0,0,0,,{\an5\fscx110.34\fscy110.34\pos(1512.2,525.2)}Hey!
-Dialogue: 10,0:07:13.41,0:07:13.45,Default,Rino,0,0,0,,{\an5\fscx108.74\fscy108.74\pos(1521.6,525.6)}Hey!
-Dialogue: 10,0:07:13.45,0:07:13.49,Default,Rino,0,0,0,,{\an5\fscx107.14\fscy107.14\pos(1513.4,518.6)}Hey!
-Dialogue: 10,0:07:13.49,0:07:13.53,Default,Rino,0,0,0,,{\an5\fscx105.58\fscy105.58\pos(1531.6,525.2)}Hey!
-Dialogue: 10,0:07:13.53,0:07:13.57,Default,Rino,0,0,0,,{\an5\fscx103.98\fscy103.98\pos(1520.6,518.8)}Hey!
-Dialogue: 10,0:07:13.57,0:07:13.62,Default,Rino,0,0,0,,{\an5\fscx102.38\fscy102.38\pos(1518.4,532.4)}Hey!
-Dialogue: 10,0:07:13.62,0:07:13.66,Default,Rino,0,0,0,,{\an5\fscx100.78\fscy100.78\pos(1525.6,511.2)}Hey!
-Dialogue: 10,0:07:14.03,0:07:16.45,Default,Rino,0,0,0,,You shouldn't be out here, Shizuru!
-Dialogue: 10,0:07:16.45,0:07:18.79,Default,Rino,0,0,0,,Did you forget what our Master told us?
+Dialogue: 10,0:07:11.03,0:07:11.07,Default,Rino,0,0,0,,{\an5\pos(960.4,200.6)\fscx199.26\fscy199.26}Hey!
+Dialogue: 10,0:07:11.07,0:07:11.11,Default,Rino,0,0,0,,{\an5\pos(964.2,210.2)\fscx197.7\fscy197.7}Hey!
+Dialogue: 10,0:07:11.11,0:07:11.16,Default,Rino,0,0,0,,{\an5\pos(959.4,179.2)\fscx196.1\fscy196.1}Hey!
+Dialogue: 10,0:07:11.16,0:07:11.20,Default,Rino,0,0,0,,{\an5\pos(972.8,198.2)\fscx194.5\fscy194.5}Hey!
+Dialogue: 10,0:07:11.20,0:07:11.24,Default,Rino,0,0,0,,{\an5\pos(962.4,209)\fscx192.94\fscy192.94}Hey!
+Dialogue: 10,0:07:11.24,0:07:11.28,Default,Rino,0,0,0,,{\an5\pos(960.4,180.2)\fscx191.34\fscy191.34}Hey!
+Dialogue: 10,0:07:11.28,0:07:11.32,Default,Rino,0,0,0,,{\an5\pos(966.8,189.4)\fscx189.74\fscy189.74}Hey!
+Dialogue: 10,0:07:11.32,0:07:11.36,Default,Rino,0,0,0,,{\an5\pos(963.6,210.4)\fscx188.14\fscy188.14}Hey!
+Dialogue: 10,0:07:11.36,0:07:11.41,Default,Rino,0,0,0,,{\an5\pos(965.2,182.4)\fscx186.58\fscy186.58}Hey!
+Dialogue: 10,0:07:11.41,0:07:11.45,Default,Rino,0,0,0,,{\an5\pos(977.2,185)\fscx184.98\fscy184.98}Hey!
+Dialogue: 10,0:07:11.45,0:07:11.49,Default,Rino,0,0,0,,{\an5\pos(983.6,179.2)\fscx183.38\fscy183.38}Hey!
+Dialogue: 10,0:07:11.49,0:07:11.53,Default,Rino,0,0,0,,{\an5\pos(949.6,174.2)\fscx181.82\fscy181.82}Hey!
+Dialogue: 10,0:07:11.53,0:07:11.57,Default,Rino,0,0,0,,{\an5\pos(971,203.2)\fscx180.22\fscy180.22}Hey!
+Dialogue: 10,0:07:11.57,0:07:11.61,Default,Rino,0,0,0,,{\an5\pos(956.4,196.2)\fscx178.62\fscy178.62}Hey!
+Dialogue: 10,0:07:11.61,0:07:11.66,Default,Rino,0,0,0,,{\an5\pos(967.6,209.4)\fscx177.02\fscy177.02}Hey!
+Dialogue: 10,0:07:11.66,0:07:11.70,Default,Rino,0,0,0,,{\an5\pos(970.8,188.2)\fscx175.46\fscy175.46}Hey!
+Dialogue: 10,0:07:11.70,0:07:11.74,Default,Rino,0,0,0,,{\an5\pos(981,179.6)\fscx173.86\fscy173.86}Hey!
+Dialogue: 10,0:07:11.74,0:07:11.78,Default,Rino,0,0,0,,{\an5\pos(969.2,182.2)\fscx172.26\fscy172.26}Hey!
+Dialogue: 10,0:07:11.78,0:07:11.82,Default,Rino,0,0,0,,{\an5\pos(950,204)\fscx170.7\fscy170.7}Hey!
+Dialogue: 10,0:07:11.82,0:07:11.86,Default,Rino,0,0,0,,{\an5\pos(985.4,207)\fscx169.1\fscy169.1}Hey!
+Dialogue: 10,0:07:11.86,0:07:11.91,Default,Rino,0,0,0,,{\an5\pos(955,207.4)\fscx167.5\fscy167.5}Hey!
+Dialogue: 10,0:07:11.91,0:07:11.95,Default,Rino,0,0,0,,{\an5\pos(988,211.8)\fscx165.94\fscy165.94}Hey!
+Dialogue: 10,0:07:11.95,0:07:11.99,Default,Rino,0,0,0,,{\an5\pos(959.6,201.2)\fscx164.34\fscy164.34}Hey!
+Dialogue: 10,0:07:11.99,0:07:12.03,Default,Rino,0,0,0,,{\an5\pos(960,189)\fscx162.74\fscy162.74}Hey!
+Dialogue: 10,0:07:12.03,0:07:12.07,Default,Rino,0,0,0,,{\an5\pos(964.4,193)\fscx161.14\fscy161.14}Hey!
+Dialogue: 10,0:07:12.07,0:07:12.11,Default,Rino,0,0,0,,{\an5\pos(965.8,178.4)\fscx159.58\fscy159.58}Hey!
+Dialogue: 10,0:07:12.11,0:07:12.16,Default,Rino,0,0,0,,{\an5\pos(981.8,209.2)\fscx157.98\fscy157.98}Hey!
+Dialogue: 10,0:07:12.16,0:07:12.20,Default,Rino,0,0,0,,{\an5\pos(983,181.8)\fscx156.38\fscy156.38}Hey!
+Dialogue: 10,0:07:12.20,0:07:12.24,Default,Rino,0,0,0,,{\an5\pos(967.4,191.6)\fscx154.82\fscy154.82}Hey!
+Dialogue: 10,0:07:12.24,0:07:12.28,Default,Rino,0,0,0,,{\an5\pos(962,175.8)\fscx153.22\fscy153.22}Hey!
+Dialogue: 10,0:07:12.28,0:07:12.32,Default,Rino,0,0,0,,{\an5\pos(983,199.2)\fscx151.62\fscy151.62}Hey!
+Dialogue: 10,0:07:12.32,0:07:12.37,Default,Rino,0,0,0,,{\an5\pos(961.6,194.4)\fscx150.02\fscy150.02}Hey!
+Dialogue: 10,0:07:12.37,0:07:12.41,Default,Rino,0,0,0,,{\an5\pos(973.6,182.2)\fscx148.46\fscy148.46}Hey!
+Dialogue: 10,0:07:12.41,0:07:12.45,Default,Rino,0,0,0,,{\an5\pos(958.6,177)\fscx146.86\fscy146.86}Hey!
+Dialogue: 10,0:07:12.45,0:07:12.49,Default,Rino,0,0,0,,{\an5\pos(979,181.6)\fscx145.26\fscy145.26}Hey!
+Dialogue: 10,0:07:12.49,0:07:12.53,Default,Rino,0,0,0,,{\an5\pos(967,179.6)\fscx143.7\fscy143.7}Hey!
+Dialogue: 10,0:07:12.53,0:07:12.57,Default,Rino,0,0,0,,{\an5\pos(985,173.6)\fscx142.1\fscy142.1}Hey!
+Dialogue: 10,0:07:12.57,0:07:12.62,Default,Rino,0,0,0,,{\an5\pos(950.8,198.6)\fscx140.5\fscy140.5}Hey!
+Dialogue: 10,0:07:12.62,0:07:12.66,Default,Rino,0,0,0,,{\an5\pos(965.6,185.2)\fscx138.9\fscy138.9}Hey!
+Dialogue: 10,0:07:12.66,0:07:12.70,Default,Rino,0,0,0,,{\an5\pos(986.8,207)\fscx137.34\fscy137.34}Hey!
+Dialogue: 10,0:07:12.70,0:07:12.74,Default,Rino,0,0,0,,{\an5\pos(965.8,174)\fscx135.74\fscy135.74}Hey!
+Dialogue: 10,0:07:12.74,0:07:12.78,Default,Rino,0,0,0,,{\an5\pos(980.2,209)\fscx134.14\fscy134.14}Hey!
+Dialogue: 10,0:07:12.78,0:07:12.82,Default,Rino,0,0,0,,{\an5\pos(970.8,204.2)\fscx132.58\fscy132.58}Hey!
+Dialogue: 10,0:07:12.82,0:07:12.87,Default,Rino,0,0,0,,{\an5\pos(954.6,209.2)\fscx130.98\fscy130.98}Hey!
+Dialogue: 10,0:07:12.87,0:07:12.91,Default,Rino,0,0,0,,{\an5\pos(948.4,178)\fscx129.38\fscy129.38}Hey!
+Dialogue: 10,0:07:12.91,0:07:12.95,Default,Rino,0,0,0,,{\an5\pos(955.8,199.8)\fscx127.82\fscy127.82}Hey!
+Dialogue: 10,0:07:12.95,0:07:12.99,Default,Rino,0,0,0,,{\an5\pos(970.2,191.6)\fscx126.22\fscy126.22}Hey!
+Dialogue: 10,0:07:12.99,0:07:13.03,Default,Rino,0,0,0,,{\an5\pos(978.4,211.4)\fscx124.62\fscy124.62}Hey!
+Dialogue: 10,0:07:13.03,0:07:13.07,Default,Rino,0,0,0,,{\an5\pos(950,207.2)\fscx123.02\fscy123.02}Hey!
+Dialogue: 10,0:07:13.07,0:07:13.12,Default,Rino,0,0,0,,{\an5\pos(959.4,188.4)\fscx121.46\fscy121.46}Hey!
+Dialogue: 10,0:07:13.12,0:07:13.16,Default,Rino,0,0,0,,{\an5\pos(987.6,187.6)\fscx119.86\fscy119.86}Hey!
+Dialogue: 10,0:07:13.16,0:07:13.20,Default,Rino,0,0,0,,{\an5\pos(979,198.6)\fscx118.26\fscy118.26}Hey!
+Dialogue: 10,0:07:13.20,0:07:13.24,Default,Rino,0,0,0,,{\an5\pos(970.4,185.4)\fscx116.7\fscy116.7}Hey!
+Dialogue: 10,0:07:13.24,0:07:13.28,Default,Rino,0,0,0,,{\an5\pos(968.2,175)\fscx115.1\fscy115.1}Hey!
+Dialogue: 10,0:07:13.28,0:07:13.32,Default,Rino,0,0,0,,{\an5\pos(969.2,180.8)\fscx113.5\fscy113.5}Hey!
+Dialogue: 10,0:07:13.32,0:07:13.37,Default,Rino,0,0,0,,{\an5\pos(967.8,212)\fscx111.9\fscy111.9}Hey!
+Dialogue: 10,0:07:13.37,0:07:13.41,Default,Rino,0,0,0,,{\an5\pos(968.2,205.2)\fscx110.34\fscy110.34}Hey!
+Dialogue: 10,0:07:13.41,0:07:13.45,Default,Rino,0,0,0,,{\an5\pos(977.6,205.6)\fscx108.74\fscy108.74}Hey!
+Dialogue: 10,0:07:13.45,0:07:13.49,Default,Rino,0,0,0,,{\an5\pos(969.4,198.6)\fscx107.14\fscy107.14}Hey!
+Dialogue: 10,0:07:13.49,0:07:13.53,Default,Rino,0,0,0,,{\an5\pos(987.6,205.2)\fscx105.58\fscy105.58}Hey!
+Dialogue: 10,0:07:13.53,0:07:13.57,Default,Rino,0,0,0,,{\an5\pos(976.6,198.8)\fscx103.98\fscy103.98}Hey!
+Dialogue: 10,0:07:13.57,0:07:13.62,Default,Rino,0,0,0,,{\an5\pos(974.4,212.4)\fscx102.38\fscy102.38}Hey!
+Dialogue: 10,0:07:13.62,0:07:13.66,Default,Rino,0,0,0,,{\an5\pos(981.6,191.2)\fscx100.78\fscy100.78}Hey!
+Dialogue: 10,0:07:11.03,0:07:11.07,Default,Rino,0,0,0,,{\an5\pos(452.4,562.6)\fscx199.26\fscy199.26}Hey!
+Dialogue: 10,0:07:11.07,0:07:11.11,Default,Rino,0,0,0,,{\an5\pos(456.2,572.2)\fscx197.7\fscy197.7}Hey!
+Dialogue: 10,0:07:11.11,0:07:11.16,Default,Rino,0,0,0,,{\an5\pos(451.4,541.2)\fscx196.1\fscy196.1}Hey!
+Dialogue: 10,0:07:11.16,0:07:11.20,Default,Rino,0,0,0,,{\an5\pos(464.8,560.2)\fscx194.5\fscy194.5}Hey!
+Dialogue: 10,0:07:11.20,0:07:11.24,Default,Rino,0,0,0,,{\an5\pos(454.4,571)\fscx192.94\fscy192.94}Hey!
+Dialogue: 10,0:07:11.24,0:07:11.28,Default,Rino,0,0,0,,{\an5\pos(452.4,542.2)\fscx191.34\fscy191.34}Hey!
+Dialogue: 10,0:07:11.28,0:07:11.32,Default,Rino,0,0,0,,{\an5\pos(458.8,551.4)\fscx189.74\fscy189.74}Hey!
+Dialogue: 10,0:07:11.32,0:07:11.36,Default,Rino,0,0,0,,{\an5\pos(455.6,572.4)\fscx188.14\fscy188.14}Hey!
+Dialogue: 10,0:07:11.36,0:07:11.41,Default,Rino,0,0,0,,{\an5\pos(457.2,544.4)\fscx186.58\fscy186.58}Hey!
+Dialogue: 10,0:07:11.41,0:07:11.45,Default,Rino,0,0,0,,{\an5\pos(469.2,547)\fscx184.98\fscy184.98}Hey!
+Dialogue: 10,0:07:11.45,0:07:11.49,Default,Rino,0,0,0,,{\an5\pos(475.6,541.2)\fscx183.38\fscy183.38}Hey!
+Dialogue: 10,0:07:11.49,0:07:11.53,Default,Rino,0,0,0,,{\an5\pos(441.6,536.2)\fscx181.82\fscy181.82}Hey!
+Dialogue: 10,0:07:11.53,0:07:11.57,Default,Rino,0,0,0,,{\an5\pos(463,565.2)\fscx180.22\fscy180.22}Hey!
+Dialogue: 10,0:07:11.57,0:07:11.61,Default,Rino,0,0,0,,{\an5\pos(448.4,558.2)\fscx178.62\fscy178.62}Hey!
+Dialogue: 10,0:07:11.61,0:07:11.66,Default,Rino,0,0,0,,{\an5\pos(459.6,571.4)\fscx177.02\fscy177.02}Hey!
+Dialogue: 10,0:07:11.66,0:07:11.70,Default,Rino,0,0,0,,{\an5\pos(462.8,550.2)\fscx175.46\fscy175.46}Hey!
+Dialogue: 10,0:07:11.70,0:07:11.74,Default,Rino,0,0,0,,{\an5\pos(473,541.6)\fscx173.86\fscy173.86}Hey!
+Dialogue: 10,0:07:11.74,0:07:11.78,Default,Rino,0,0,0,,{\an5\pos(461.2,544.2)\fscx172.26\fscy172.26}Hey!
+Dialogue: 10,0:07:11.78,0:07:11.82,Default,Rino,0,0,0,,{\an5\pos(442,566)\fscx170.7\fscy170.7}Hey!
+Dialogue: 10,0:07:11.82,0:07:11.86,Default,Rino,0,0,0,,{\an5\pos(477.4,569)\fscx169.1\fscy169.1}Hey!
+Dialogue: 10,0:07:11.86,0:07:11.91,Default,Rino,0,0,0,,{\an5\pos(447,569.4)\fscx167.5\fscy167.5}Hey!
+Dialogue: 10,0:07:11.91,0:07:11.95,Default,Rino,0,0,0,,{\an5\pos(480,573.8)\fscx165.94\fscy165.94}Hey!
+Dialogue: 10,0:07:11.95,0:07:11.99,Default,Rino,0,0,0,,{\an5\pos(451.6,563.2)\fscx164.34\fscy164.34}Hey!
+Dialogue: 10,0:07:11.99,0:07:12.03,Default,Rino,0,0,0,,{\an5\pos(452,551)\fscx162.74\fscy162.74}Hey!
+Dialogue: 10,0:07:12.03,0:07:12.07,Default,Rino,0,0,0,,{\an5\pos(456.4,555)\fscx161.14\fscy161.14}Hey!
+Dialogue: 10,0:07:12.07,0:07:12.11,Default,Rino,0,0,0,,{\an5\pos(457.8,540.4)\fscx159.58\fscy159.58}Hey!
+Dialogue: 10,0:07:12.11,0:07:12.16,Default,Rino,0,0,0,,{\an5\pos(473.8,571.2)\fscx157.98\fscy157.98}Hey!
+Dialogue: 10,0:07:12.16,0:07:12.20,Default,Rino,0,0,0,,{\an5\pos(475,543.8)\fscx156.38\fscy156.38}Hey!
+Dialogue: 10,0:07:12.20,0:07:12.24,Default,Rino,0,0,0,,{\an5\pos(459.4,553.6)\fscx154.82\fscy154.82}Hey!
+Dialogue: 10,0:07:12.24,0:07:12.28,Default,Rino,0,0,0,,{\an5\pos(454,537.8)\fscx153.22\fscy153.22}Hey!
+Dialogue: 10,0:07:12.28,0:07:12.32,Default,Rino,0,0,0,,{\an5\pos(475,561.2)\fscx151.62\fscy151.62}Hey!
+Dialogue: 10,0:07:12.32,0:07:12.37,Default,Rino,0,0,0,,{\an5\pos(453.6,556.4)\fscx150.02\fscy150.02}Hey!
+Dialogue: 10,0:07:12.37,0:07:12.41,Default,Rino,0,0,0,,{\an5\pos(465.6,544.2)\fscx148.46\fscy148.46}Hey!
+Dialogue: 10,0:07:12.41,0:07:12.45,Default,Rino,0,0,0,,{\an5\pos(450.6,539)\fscx146.86\fscy146.86}Hey!
+Dialogue: 10,0:07:12.45,0:07:12.49,Default,Rino,0,0,0,,{\an5\pos(471,543.6)\fscx145.26\fscy145.26}Hey!
+Dialogue: 10,0:07:12.49,0:07:12.53,Default,Rino,0,0,0,,{\an5\pos(459,541.6)\fscx143.7\fscy143.7}Hey!
+Dialogue: 10,0:07:12.53,0:07:12.57,Default,Rino,0,0,0,,{\an5\pos(477,535.6)\fscx142.1\fscy142.1}Hey!
+Dialogue: 10,0:07:12.57,0:07:12.62,Default,Rino,0,0,0,,{\an5\pos(442.8,560.6)\fscx140.5\fscy140.5}Hey!
+Dialogue: 10,0:07:12.62,0:07:12.66,Default,Rino,0,0,0,,{\an5\pos(457.6,547.2)\fscx138.9\fscy138.9}Hey!
+Dialogue: 10,0:07:12.66,0:07:12.70,Default,Rino,0,0,0,,{\an5\pos(478.8,569)\fscx137.34\fscy137.34}Hey!
+Dialogue: 10,0:07:12.70,0:07:12.74,Default,Rino,0,0,0,,{\an5\pos(457.8,536)\fscx135.74\fscy135.74}Hey!
+Dialogue: 10,0:07:12.74,0:07:12.78,Default,Rino,0,0,0,,{\an5\pos(472.2,571)\fscx134.14\fscy134.14}Hey!
+Dialogue: 10,0:07:12.78,0:07:12.82,Default,Rino,0,0,0,,{\an5\pos(462.8,566.2)\fscx132.58\fscy132.58}Hey!
+Dialogue: 10,0:07:12.82,0:07:12.87,Default,Rino,0,0,0,,{\an5\pos(446.6,571.2)\fscx130.98\fscy130.98}Hey!
+Dialogue: 10,0:07:12.87,0:07:12.91,Default,Rino,0,0,0,,{\an5\pos(440.4,540)\fscx129.38\fscy129.38}Hey!
+Dialogue: 10,0:07:12.91,0:07:12.95,Default,Rino,0,0,0,,{\an5\pos(447.8,561.8)\fscx127.82\fscy127.82}Hey!
+Dialogue: 10,0:07:12.95,0:07:12.99,Default,Rino,0,0,0,,{\an5\pos(462.2,553.6)\fscx126.22\fscy126.22}Hey!
+Dialogue: 10,0:07:12.99,0:07:13.03,Default,Rino,0,0,0,,{\an5\pos(470.4,573.4)\fscx124.62\fscy124.62}Hey!
+Dialogue: 10,0:07:13.03,0:07:13.07,Default,Rino,0,0,0,,{\an5\pos(442,569.2)\fscx123.02\fscy123.02}Hey!
+Dialogue: 10,0:07:13.07,0:07:13.12,Default,Rino,0,0,0,,{\an5\pos(451.4,550.4)\fscx121.46\fscy121.46}Hey!
+Dialogue: 10,0:07:13.12,0:07:13.16,Default,Rino,0,0,0,,{\an5\pos(479.6,549.6)\fscx119.86\fscy119.86}Hey!
+Dialogue: 10,0:07:13.16,0:07:13.20,Default,Rino,0,0,0,,{\an5\pos(471,560.6)\fscx118.26\fscy118.26}Hey!
+Dialogue: 10,0:07:13.20,0:07:13.24,Default,Rino,0,0,0,,{\an5\pos(462.4,547.4)\fscx116.7\fscy116.7}Hey!
+Dialogue: 10,0:07:13.24,0:07:13.28,Default,Rino,0,0,0,,{\an5\pos(460.2,537)\fscx115.1\fscy115.1}Hey!
+Dialogue: 10,0:07:13.28,0:07:13.32,Default,Rino,0,0,0,,{\an5\pos(461.2,542.8)\fscx113.5\fscy113.5}Hey!
+Dialogue: 10,0:07:13.32,0:07:13.37,Default,Rino,0,0,0,,{\an5\pos(459.8,574)\fscx111.9\fscy111.9}Hey!
+Dialogue: 10,0:07:13.37,0:07:13.41,Default,Rino,0,0,0,,{\an5\pos(460.2,567.2)\fscx110.34\fscy110.34}Hey!
+Dialogue: 10,0:07:13.41,0:07:13.45,Default,Rino,0,0,0,,{\an5\pos(469.6,567.6)\fscx108.74\fscy108.74}Hey!
+Dialogue: 10,0:07:13.45,0:07:13.49,Default,Rino,0,0,0,,{\an5\pos(461.4,560.6)\fscx107.14\fscy107.14}Hey!
+Dialogue: 10,0:07:13.49,0:07:13.53,Default,Rino,0,0,0,,{\an5\pos(479.6,567.2)\fscx105.58\fscy105.58}Hey!
+Dialogue: 10,0:07:13.53,0:07:13.57,Default,Rino,0,0,0,,{\an5\pos(468.6,560.8)\fscx103.98\fscy103.98}Hey!
+Dialogue: 10,0:07:13.57,0:07:13.62,Default,Rino,0,0,0,,{\an5\pos(466.4,574.4)\fscx102.38\fscy102.38}Hey!
+Dialogue: 10,0:07:13.62,0:07:13.66,Default,Rino,0,0,0,,{\an5\pos(473.6,553.2)\fscx100.78\fscy100.78}Hey!
+Dialogue: 10,0:07:11.03,0:07:11.07,Default,Rino,0,0,0,,{\an5\pos(1504.4,520.6)\fscx199.26\fscy199.26}Hey!
+Dialogue: 10,0:07:11.07,0:07:11.11,Default,Rino,0,0,0,,{\an5\pos(1508.2,530.2)\fscx197.7\fscy197.7}Hey!
+Dialogue: 10,0:07:11.11,0:07:11.16,Default,Rino,0,0,0,,{\an5\pos(1503.4,499.2)\fscx196.1\fscy196.1}Hey!
+Dialogue: 10,0:07:11.16,0:07:11.20,Default,Rino,0,0,0,,{\an5\pos(1516.8,518.2)\fscx194.5\fscy194.5}Hey!
+Dialogue: 10,0:07:11.20,0:07:11.24,Default,Rino,0,0,0,,{\an5\pos(1506.4,529)\fscx192.94\fscy192.94}Hey!
+Dialogue: 10,0:07:11.24,0:07:11.28,Default,Rino,0,0,0,,{\an5\pos(1504.4,500.2)\fscx191.34\fscy191.34}Hey!
+Dialogue: 10,0:07:11.28,0:07:11.32,Default,Rino,0,0,0,,{\an5\pos(1510.8,509.4)\fscx189.74\fscy189.74}Hey!
+Dialogue: 10,0:07:11.32,0:07:11.36,Default,Rino,0,0,0,,{\an5\pos(1507.6,530.4)\fscx188.14\fscy188.14}Hey!
+Dialogue: 10,0:07:11.36,0:07:11.41,Default,Rino,0,0,0,,{\an5\pos(1509.2,502.4)\fscx186.58\fscy186.58}Hey!
+Dialogue: 10,0:07:11.41,0:07:11.45,Default,Rino,0,0,0,,{\an5\pos(1521.2,505)\fscx184.98\fscy184.98}Hey!
+Dialogue: 10,0:07:11.45,0:07:11.49,Default,Rino,0,0,0,,{\an5\pos(1527.6,499.2)\fscx183.38\fscy183.38}Hey!
+Dialogue: 10,0:07:11.49,0:07:11.53,Default,Rino,0,0,0,,{\an5\pos(1493.6,494.2)\fscx181.82\fscy181.82}Hey!
+Dialogue: 10,0:07:11.53,0:07:11.57,Default,Rino,0,0,0,,{\an5\pos(1515,523.2)\fscx180.22\fscy180.22}Hey!
+Dialogue: 10,0:07:11.57,0:07:11.61,Default,Rino,0,0,0,,{\an5\pos(1500.4,516.2)\fscx178.62\fscy178.62}Hey!
+Dialogue: 10,0:07:11.61,0:07:11.66,Default,Rino,0,0,0,,{\an5\pos(1511.6,529.4)\fscx177.02\fscy177.02}Hey!
+Dialogue: 10,0:07:11.66,0:07:11.70,Default,Rino,0,0,0,,{\an5\pos(1514.8,508.2)\fscx175.46\fscy175.46}Hey!
+Dialogue: 10,0:07:11.70,0:07:11.74,Default,Rino,0,0,0,,{\an5\pos(1525,499.6)\fscx173.86\fscy173.86}Hey!
+Dialogue: 10,0:07:11.74,0:07:11.78,Default,Rino,0,0,0,,{\an5\pos(1513.2,502.2)\fscx172.26\fscy172.26}Hey!
+Dialogue: 10,0:07:11.78,0:07:11.82,Default,Rino,0,0,0,,{\an5\pos(1494,524)\fscx170.7\fscy170.7}Hey!
+Dialogue: 10,0:07:11.82,0:07:11.86,Default,Rino,0,0,0,,{\an5\pos(1529.4,527)\fscx169.1\fscy169.1}Hey!
+Dialogue: 10,0:07:11.86,0:07:11.91,Default,Rino,0,0,0,,{\an5\pos(1499,527.4)\fscx167.5\fscy167.5}Hey!
+Dialogue: 10,0:07:11.91,0:07:11.95,Default,Rino,0,0,0,,{\an5\pos(1532,531.8)\fscx165.94\fscy165.94}Hey!
+Dialogue: 10,0:07:11.95,0:07:11.99,Default,Rino,0,0,0,,{\an5\pos(1503.6,521.2)\fscx164.34\fscy164.34}Hey!
+Dialogue: 10,0:07:11.99,0:07:12.03,Default,Rino,0,0,0,,{\an5\pos(1504,509)\fscx162.74\fscy162.74}Hey!
+Dialogue: 10,0:07:12.03,0:07:12.07,Default,Rino,0,0,0,,{\an5\pos(1508.4,513)\fscx161.14\fscy161.14}Hey!
+Dialogue: 10,0:07:12.07,0:07:12.11,Default,Rino,0,0,0,,{\an5\pos(1509.8,498.4)\fscx159.58\fscy159.58}Hey!
+Dialogue: 10,0:07:12.11,0:07:12.16,Default,Rino,0,0,0,,{\an5\pos(1525.8,529.2)\fscx157.98\fscy157.98}Hey!
+Dialogue: 10,0:07:12.16,0:07:12.20,Default,Rino,0,0,0,,{\an5\pos(1527,501.8)\fscx156.38\fscy156.38}Hey!
+Dialogue: 10,0:07:12.20,0:07:12.24,Default,Rino,0,0,0,,{\an5\pos(1511.4,511.6)\fscx154.82\fscy154.82}Hey!
+Dialogue: 10,0:07:12.24,0:07:12.28,Default,Rino,0,0,0,,{\an5\pos(1506,495.8)\fscx153.22\fscy153.22}Hey!
+Dialogue: 10,0:07:12.28,0:07:12.32,Default,Rino,0,0,0,,{\an5\pos(1527,519.2)\fscx151.62\fscy151.62}Hey!
+Dialogue: 10,0:07:12.32,0:07:12.37,Default,Rino,0,0,0,,{\an5\pos(1505.6,514.4)\fscx150.02\fscy150.02}Hey!
+Dialogue: 10,0:07:12.37,0:07:12.41,Default,Rino,0,0,0,,{\an5\pos(1517.6,502.2)\fscx148.46\fscy148.46}Hey!
+Dialogue: 10,0:07:12.41,0:07:12.45,Default,Rino,0,0,0,,{\an5\pos(1502.6,497)\fscx146.86\fscy146.86}Hey!
+Dialogue: 10,0:07:12.45,0:07:12.49,Default,Rino,0,0,0,,{\an5\pos(1523,501.6)\fscx145.26\fscy145.26}Hey!
+Dialogue: 10,0:07:12.49,0:07:12.53,Default,Rino,0,0,0,,{\an5\pos(1511,499.6)\fscx143.7\fscy143.7}Hey!
+Dialogue: 10,0:07:12.53,0:07:12.57,Default,Rino,0,0,0,,{\an5\pos(1529,493.6)\fscx142.1\fscy142.1}Hey!
+Dialogue: 10,0:07:12.57,0:07:12.62,Default,Rino,0,0,0,,{\an5\pos(1494.8,518.6)\fscx140.5\fscy140.5}Hey!
+Dialogue: 10,0:07:12.62,0:07:12.66,Default,Rino,0,0,0,,{\an5\pos(1509.6,505.2)\fscx138.9\fscy138.9}Hey!
+Dialogue: 10,0:07:12.66,0:07:12.70,Default,Rino,0,0,0,,{\an5\pos(1530.8,527)\fscx137.34\fscy137.34}Hey!
+Dialogue: 10,0:07:12.70,0:07:12.74,Default,Rino,0,0,0,,{\an5\pos(1509.8,494)\fscx135.74\fscy135.74}Hey!
+Dialogue: 10,0:07:12.74,0:07:12.78,Default,Rino,0,0,0,,{\an5\pos(1524.2,529)\fscx134.14\fscy134.14}Hey!
+Dialogue: 10,0:07:12.78,0:07:12.82,Default,Rino,0,0,0,,{\an5\pos(1514.8,524.2)\fscx132.58\fscy132.58}Hey!
+Dialogue: 10,0:07:12.82,0:07:12.87,Default,Rino,0,0,0,,{\an5\pos(1498.6,529.2)\fscx130.98\fscy130.98}Hey!
+Dialogue: 10,0:07:12.87,0:07:12.91,Default,Rino,0,0,0,,{\an5\pos(1492.4,498)\fscx129.38\fscy129.38}Hey!
+Dialogue: 10,0:07:12.91,0:07:12.95,Default,Rino,0,0,0,,{\an5\pos(1499.8,519.8)\fscx127.82\fscy127.82}Hey!
+Dialogue: 10,0:07:12.95,0:07:12.99,Default,Rino,0,0,0,,{\an5\pos(1514.2,511.6)\fscx126.22\fscy126.22}Hey!
+Dialogue: 10,0:07:12.99,0:07:13.03,Default,Rino,0,0,0,,{\an5\pos(1522.4,531.4)\fscx124.62\fscy124.62}Hey!
+Dialogue: 10,0:07:13.03,0:07:13.07,Default,Rino,0,0,0,,{\an5\pos(1494,527.2)\fscx123.02\fscy123.02}Hey!
+Dialogue: 10,0:07:13.07,0:07:13.12,Default,Rino,0,0,0,,{\an5\pos(1503.4,508.4)\fscx121.46\fscy121.46}Hey!
+Dialogue: 10,0:07:13.12,0:07:13.16,Default,Rino,0,0,0,,{\an5\pos(1531.6,507.6)\fscx119.86\fscy119.86}Hey!
+Dialogue: 10,0:07:13.16,0:07:13.20,Default,Rino,0,0,0,,{\an5\pos(1523,518.6)\fscx118.26\fscy118.26}Hey!
+Dialogue: 10,0:07:13.20,0:07:13.24,Default,Rino,0,0,0,,{\an5\pos(1514.4,505.4)\fscx116.7\fscy116.7}Hey!
+Dialogue: 10,0:07:13.24,0:07:13.28,Default,Rino,0,0,0,,{\an5\pos(1512.2,495)\fscx115.1\fscy115.1}Hey!
+Dialogue: 10,0:07:13.28,0:07:13.32,Default,Rino,0,0,0,,{\an5\pos(1513.2,500.8)\fscx113.5\fscy113.5}Hey!
+Dialogue: 10,0:07:13.32,0:07:13.37,Default,Rino,0,0,0,,{\an5\pos(1511.8,532)\fscx111.9\fscy111.9}Hey!
+Dialogue: 10,0:07:13.37,0:07:13.41,Default,Rino,0,0,0,,{\an5\pos(1512.2,525.2)\fscx110.34\fscy110.34}Hey!
+Dialogue: 10,0:07:13.41,0:07:13.45,Default,Rino,0,0,0,,{\an5\pos(1521.6,525.6)\fscx108.74\fscy108.74}Hey!
+Dialogue: 10,0:07:13.45,0:07:13.49,Default,Rino,0,0,0,,{\an5\pos(1513.4,518.6)\fscx107.14\fscy107.14}Hey!
+Dialogue: 10,0:07:13.49,0:07:13.53,Default,Rino,0,0,0,,{\an5\pos(1531.6,525.2)\fscx105.58\fscy105.58}Hey!
+Dialogue: 10,0:07:13.53,0:07:13.57,Default,Rino,0,0,0,,{\an5\pos(1520.6,518.8)\fscx103.98\fscy103.98}Hey!
+Dialogue: 10,0:07:13.57,0:07:13.62,Default,Rino,0,0,0,,{\an5\pos(1518.4,532.4)\fscx102.38\fscy102.38}Hey!
+Dialogue: 10,0:07:13.62,0:07:13.66,Default,Rino,0,0,0,,{\an5\pos(1525.6,511.2)\fscx100.78\fscy100.78}Hey!
+Dialogue: 10,0:07:14.03,0:07:16.45,Default,Rino,0,0,0,,You shouldn't be out here, Shizuru{**-oneechan}!
+Dialogue: 10,0:07:16.45,0:07:18.79,Default,Rino,0,0,0,,Did you forget what our master told us?
 Dialogue: 10,0:07:18.79,0:07:21.08,Default,Rino,0,0,0,,We're supposed to watch from afar, remember?!
 Dialogue: 10,0:07:21.08,0:07:22.58,Default,Shizuru,0,0,0,,Sure, but...
 Dialogue: 10,0:07:22.58,0:07:24.50,Default,Rino,0,0,0,,Enough of that! Go!
-Dialogue: 10,0:07:24.50,0:07:30.13,Default,Rino,0,0,0,,{\fad(0,200)\an5\t(0.5,\fscy2,\fscx2\bord0.2\shad0.2\3a&HF0&)\move(995.2,555.8,971.2,586.2,0,4033)}Sorry about her!
+Dialogue: 10,0:07:24.50,0:07:30.13,Default,Rino,0,0,0,,{\an5\move(995.2,555.8,971.2,586.2,0,4033)\fad(0,200)\t(0.5,\fscy2,\fscx2\bord0.2\shad0.2\3a&HF0&)}Sorry about her!
 Dialogue: 10,0:07:24.50,0:07:28.38,Default,Shizuru,0,0,0,,No matter what happens, I'll watch over you!
 Dialogue: 10,0:07:28.38,0:07:30.13,Default,Shizuru,0,0,0,,I'll be watching over you!
 Dialogue: 10,0:07:30.13,0:07:34.01,Default,Shizuru,0,0,0,,I'll {\i1}always{\i0} be watching over you!
 Dialogue: 10,0:07:34.01,0:07:35.01,Default,Yuuki,0,0,0,,Who was that?
-Dialogue: 10,0:07:37.39,0:07:40.77,Default,Rino,0,0,0,,No fair, getting a head start on me, Shizuru!
-Dialogue: 10,0:07:41.27,0:07:44.36,Default,Shizuru,0,0,0,,Sorry, Rino. I was just so happy, I couldn't help myself.
-Dialogue: 10,0:07:44.36,0:07:47.36,Default,Rino,0,0,0,,I wanted to talk to my big brother, too!
-Dialogue: 10,0:07:47.36,0:07:49.74,Default,Rino,0,0,0,,About this and that, and that, too!
-Dialogue: 10,0:07:49.74,0:07:53.11,Default,Rino,0,0,0,,There was so much I wanted to ask him!
-Dialogue: 10,0:07:53.78,0:07:55.62,Default,Rino,0,0,0,,Actually, I'm gonna go see him right now!
+Dialogue: 10,0:07:37.39,0:07:40.77,Default,Rino,0,0,0,,No fair, {*}Sis{*Onee-chan}! You can't just get a head start on me!
+Dialogue: 10,0:07:41.27,0:07:44.36,Default,Shizuru,0,0,0,,{\q2}Sorry, Rino{**-chan}. I was just so happy, \NI couldn't stop myself.
+Dialogue: 10,0:07:44.36,0:07:47.36,Default,Rino,0,0,0,,I want to talk with my brother so much, too!
+Dialogue: 10,0:07:47.36,0:07:49.74,Default,Rino,0,0,0,,About this and that, and all that, too!
+Dialogue: 10,0:07:49.74,0:07:53.11,Default,Rino,0,0,0,,There's so much I want to ask him about!
+Dialogue: 10,0:07:53.78,0:07:55.62,Default,Rino,0,0,0,,Y'know what, I'm gonna go see him right now!
 Dialogue: 10,0:07:56.70,0:07:57.91,Default,Shizuru,0,0,0,,You need to calm... down!
 Dialogue: 10,0:07:57.91,0:07:58.87,Default,Shizuru,0,0,0,,You need to calm... {\alpha&HFF&}down!
-Dialogue: 10,0:07:57.91,0:07:57.95,Default,Shizuru,0,0,0,,{\pos(1236.9,1002.6)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:57.95,0:07:57.99,Default,Shizuru,0,0,0,,{\pos(1233.3,993.6)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:57.99,0:07:58.04,Default,Shizuru,0,0,0,,{\pos(1232.1,960.9)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.04,0:07:58.08,Default,Shizuru,0,0,0,,{\pos(1208.7,997.5)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.08,0:07:58.12,Default,Shizuru,0,0,0,,{\pos(1221.9,993.9)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.12,0:07:58.16,Default,Shizuru,0,0,0,,{\pos(1218.6,975.9)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.16,0:07:58.20,Default,Shizuru,0,0,0,,{\pos(1258.8,982.8)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.20,0:07:58.24,Default,Shizuru,0,0,0,,{\pos(1259.7,1012.5)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.24,0:07:58.29,Default,Shizuru,0,0,0,,{\pos(1221.3,1012.5)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.29,0:07:58.33,Default,Shizuru,0,0,0,,{\pos(1257.3,995.7)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.33,0:07:58.37,Default,Shizuru,0,0,0,,{\pos(1244.7,1013.1)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.37,0:07:58.41,Default,Shizuru,0,0,0,,{\pos(1212.9,959.1)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.41,0:07:58.45,Default,Shizuru,0,0,0,,{\pos(1252.5,978.6)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.45,0:07:58.49,Default,Shizuru,0,0,0,,{\pos(1236,957.6)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.49,0:07:58.54,Default,Shizuru,0,0,0,,{\pos(1214.4,975.9)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.54,0:07:58.58,Default,Shizuru,0,0,0,,{\pos(1200.3,991.2)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.58,0:07:58.62,Default,Shizuru,0,0,0,,{\pos(1206.9,994.8)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.62,0:07:58.66,Default,Shizuru,0,0,0,,{\pos(1250.4,1013.7)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.66,0:07:58.70,Default,Shizuru,0,0,0,,{\pos(1256.1,968.4)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.70,0:07:58.74,Default,Shizuru,0,0,0,,{\pos(1224.3,1014.9)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.74,0:07:58.79,Default,Shizuru,0,0,0,,{\pos(1212.6,1012.5)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.79,0:07:58.83,Default,Shizuru,0,0,0,,{\pos(1230.3,980.1)\an5\bord0\blur2}down!
-Dialogue: 10,0:07:58.83,0:07:58.87,Default,Shizuru,0,0,0,,{\pos(1202.7,972.9)\an5\bord0\blur2}down!
-Dialogue: 9,0:07:57.91,0:07:57.95,Default,Shizuru,0,0,0,,{\pos(1236.9,1002.6)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:57.95,0:07:57.99,Default,Shizuru,0,0,0,,{\pos(1233.3,993.6)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:57.99,0:07:58.04,Default,Shizuru,0,0,0,,{\pos(1232.1,960.9)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.04,0:07:58.08,Default,Shizuru,0,0,0,,{\pos(1208.7,997.5)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.08,0:07:58.12,Default,Shizuru,0,0,0,,{\pos(1221.9,993.9)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.12,0:07:58.16,Default,Shizuru,0,0,0,,{\pos(1218.6,975.9)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.16,0:07:58.20,Default,Shizuru,0,0,0,,{\pos(1258.8,982.8)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.20,0:07:58.24,Default,Shizuru,0,0,0,,{\pos(1259.7,1012.5)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.24,0:07:58.29,Default,Shizuru,0,0,0,,{\pos(1221.3,1012.5)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.29,0:07:58.33,Default,Shizuru,0,0,0,,{\pos(1257.3,995.7)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.33,0:07:58.37,Default,Shizuru,0,0,0,,{\pos(1244.7,1013.1)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.37,0:07:58.41,Default,Shizuru,0,0,0,,{\pos(1212.9,959.1)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.41,0:07:58.45,Default,Shizuru,0,0,0,,{\pos(1252.5,978.6)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.45,0:07:58.49,Default,Shizuru,0,0,0,,{\pos(1236,957.6)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.49,0:07:58.54,Default,Shizuru,0,0,0,,{\pos(1214.4,975.9)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.54,0:07:58.58,Default,Shizuru,0,0,0,,{\pos(1200.3,991.2)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.58,0:07:58.62,Default,Shizuru,0,0,0,,{\pos(1206.9,994.8)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.62,0:07:58.66,Default,Shizuru,0,0,0,,{\pos(1250.4,1013.7)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.66,0:07:58.70,Default,Shizuru,0,0,0,,{\pos(1256.1,968.4)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.70,0:07:58.74,Default,Shizuru,0,0,0,,{\pos(1224.3,1014.9)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.74,0:07:58.79,Default,Shizuru,0,0,0,,{\pos(1212.6,1012.5)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.79,0:07:58.83,Default,Shizuru,0,0,0,,{\pos(1230.3,980.1)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
-Dialogue: 9,0:07:58.83,0:07:58.87,Default,Shizuru,0,0,0,,{\pos(1202.7,972.9)\an5\blur6\c&HFFFFFF&\1a&HC8&\blur6}down!
+Dialogue: 10,0:07:57.91,0:07:57.95,Default,Shizuru,0,0,0,,{\an5\pos(1236.9,1002.6)\bord0\blur2}down!
+Dialogue: 10,0:07:57.95,0:07:57.99,Default,Shizuru,0,0,0,,{\an5\pos(1233.3,993.6)\bord0\blur2}down!
+Dialogue: 10,0:07:57.99,0:07:58.04,Default,Shizuru,0,0,0,,{\an5\pos(1232.1,960.9)\bord0\blur2}down!
+Dialogue: 10,0:07:58.04,0:07:58.08,Default,Shizuru,0,0,0,,{\an5\pos(1208.7,997.5)\bord0\blur2}down!
+Dialogue: 10,0:07:58.08,0:07:58.12,Default,Shizuru,0,0,0,,{\an5\pos(1221.9,993.9)\bord0\blur2}down!
+Dialogue: 10,0:07:58.12,0:07:58.16,Default,Shizuru,0,0,0,,{\an5\pos(1218.6,975.9)\bord0\blur2}down!
+Dialogue: 10,0:07:58.16,0:07:58.20,Default,Shizuru,0,0,0,,{\an5\pos(1258.8,982.8)\bord0\blur2}down!
+Dialogue: 10,0:07:58.20,0:07:58.24,Default,Shizuru,0,0,0,,{\an5\pos(1259.7,1012.5)\bord0\blur2}down!
+Dialogue: 10,0:07:58.24,0:07:58.29,Default,Shizuru,0,0,0,,{\an5\pos(1221.3,1012.5)\bord0\blur2}down!
+Dialogue: 10,0:07:58.29,0:07:58.33,Default,Shizuru,0,0,0,,{\an5\pos(1257.3,995.7)\bord0\blur2}down!
+Dialogue: 10,0:07:58.33,0:07:58.37,Default,Shizuru,0,0,0,,{\an5\pos(1244.7,1013.1)\bord0\blur2}down!
+Dialogue: 10,0:07:58.37,0:07:58.41,Default,Shizuru,0,0,0,,{\an5\pos(1212.9,959.1)\bord0\blur2}down!
+Dialogue: 10,0:07:58.41,0:07:58.45,Default,Shizuru,0,0,0,,{\an5\pos(1252.5,978.6)\bord0\blur2}down!
+Dialogue: 10,0:07:58.45,0:07:58.49,Default,Shizuru,0,0,0,,{\an5\pos(1236,957.6)\bord0\blur2}down!
+Dialogue: 10,0:07:58.49,0:07:58.54,Default,Shizuru,0,0,0,,{\an5\pos(1214.4,975.9)\bord0\blur2}down!
+Dialogue: 10,0:07:58.54,0:07:58.58,Default,Shizuru,0,0,0,,{\an5\pos(1200.3,991.2)\bord0\blur2}down!
+Dialogue: 10,0:07:58.58,0:07:58.62,Default,Shizuru,0,0,0,,{\an5\pos(1206.9,994.8)\bord0\blur2}down!
+Dialogue: 10,0:07:58.62,0:07:58.66,Default,Shizuru,0,0,0,,{\an5\pos(1250.4,1013.7)\bord0\blur2}down!
+Dialogue: 10,0:07:58.66,0:07:58.70,Default,Shizuru,0,0,0,,{\an5\pos(1256.1,968.4)\bord0\blur2}down!
+Dialogue: 10,0:07:58.70,0:07:58.74,Default,Shizuru,0,0,0,,{\an5\pos(1224.3,1014.9)\bord0\blur2}down!
+Dialogue: 10,0:07:58.74,0:07:58.79,Default,Shizuru,0,0,0,,{\an5\pos(1212.6,1012.5)\bord0\blur2}down!
+Dialogue: 10,0:07:58.79,0:07:58.83,Default,Shizuru,0,0,0,,{\an5\pos(1230.3,980.1)\bord0\blur2}down!
+Dialogue: 10,0:07:58.83,0:07:58.87,Default,Shizuru,0,0,0,,{\an5\pos(1202.7,972.9)\bord0\blur2}down!
+Dialogue: 9,0:07:57.91,0:07:57.95,Default,Shizuru,0,0,0,,{\an5\pos(1236.9,1002.6)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:57.95,0:07:57.99,Default,Shizuru,0,0,0,,{\an5\pos(1233.3,993.6)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:57.99,0:07:58.04,Default,Shizuru,0,0,0,,{\an5\pos(1232.1,960.9)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.04,0:07:58.08,Default,Shizuru,0,0,0,,{\an5\pos(1208.7,997.5)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.08,0:07:58.12,Default,Shizuru,0,0,0,,{\an5\pos(1221.9,993.9)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.12,0:07:58.16,Default,Shizuru,0,0,0,,{\an5\pos(1218.6,975.9)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.16,0:07:58.20,Default,Shizuru,0,0,0,,{\an5\pos(1258.8,982.8)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.20,0:07:58.24,Default,Shizuru,0,0,0,,{\an5\pos(1259.7,1012.5)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.24,0:07:58.29,Default,Shizuru,0,0,0,,{\an5\pos(1221.3,1012.5)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.29,0:07:58.33,Default,Shizuru,0,0,0,,{\an5\pos(1257.3,995.7)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.33,0:07:58.37,Default,Shizuru,0,0,0,,{\an5\pos(1244.7,1013.1)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.37,0:07:58.41,Default,Shizuru,0,0,0,,{\an5\pos(1212.9,959.1)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.41,0:07:58.45,Default,Shizuru,0,0,0,,{\an5\pos(1252.5,978.6)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.45,0:07:58.49,Default,Shizuru,0,0,0,,{\an5\pos(1236,957.6)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.49,0:07:58.54,Default,Shizuru,0,0,0,,{\an5\pos(1214.4,975.9)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.54,0:07:58.58,Default,Shizuru,0,0,0,,{\an5\pos(1200.3,991.2)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.58,0:07:58.62,Default,Shizuru,0,0,0,,{\an5\pos(1206.9,994.8)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.62,0:07:58.66,Default,Shizuru,0,0,0,,{\an5\pos(1250.4,1013.7)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.66,0:07:58.70,Default,Shizuru,0,0,0,,{\an5\pos(1256.1,968.4)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.70,0:07:58.74,Default,Shizuru,0,0,0,,{\an5\pos(1224.3,1014.9)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.74,0:07:58.79,Default,Shizuru,0,0,0,,{\an5\pos(1212.6,1012.5)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.79,0:07:58.83,Default,Shizuru,0,0,0,,{\an5\pos(1230.3,980.1)\1a&HC8&\blur6}down!
+Dialogue: 9,0:07:58.83,0:07:58.87,Default,Shizuru,0,0,0,,{\an5\pos(1202.7,972.9)\1a&HC8&\blur6}down!
 Dialogue: 10,0:07:58.87,0:07:59.12,Default,Shizuru,0,0,0,,Down!
-Dialogue: 10,0:07:59.12,0:07:59.16,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(967.5,995.5)}Down!
-Dialogue: 10,0:07:59.16,0:07:59.20,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(949.5,1040.8)}Down!
-Dialogue: 10,0:07:59.20,0:07:59.25,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(957,1048.9)}Down!
-Dialogue: 10,0:07:59.25,0:07:59.29,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(956.1,1009.6)}Down!
-Dialogue: 10,0:07:59.29,0:07:59.33,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(979.5,1002.4)}Down!
-Dialogue: 10,0:07:59.33,0:07:59.37,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(979.2,1015.6)}Down!
-Dialogue: 10,0:07:59.37,0:07:59.41,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(930.9,1029.4)}Down!
-Dialogue: 10,0:07:59.41,0:07:59.45,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(930.6,1019.8)}Down!
-Dialogue: 10,0:07:59.45,0:07:59.50,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(949.8,1034.8)}Down!
-Dialogue: 10,0:07:59.50,0:07:59.54,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(934.2,1036.6)}Down!
-Dialogue: 10,0:07:59.54,0:07:59.58,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(939.9,1033)}Down!
-Dialogue: 10,0:07:59.58,0:07:59.62,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(963.6,1005.4)}Down!
-Dialogue: 10,0:07:59.62,0:07:59.66,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(937.5,1019.5)}Down!
-Dialogue: 10,0:07:59.66,0:07:59.70,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(978,1033.9)}Down!
-Dialogue: 10,0:07:59.70,0:07:59.75,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(980.4,1030)}Down!
-Dialogue: 10,0:07:59.75,0:07:59.79,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(971.7,1018)}Down!
-Dialogue: 10,0:07:59.79,0:07:59.83,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(934.2,998.5)}Down!
-Dialogue: 10,0:07:59.83,0:07:59.87,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(983.7,1051.3)}Down!
-Dialogue: 10,0:07:59.87,0:07:59.91,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(981,1050.1)}Down!
-Dialogue: 10,0:07:59.91,0:07:59.95,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(943.5,1011.7)}Down!
-Dialogue: 10,0:07:59.95,0:08:00.00,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(964.8,1039.3)}Down!
-Dialogue: 10,0:08:00.00,0:08:00.04,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(937.2,1003.3)}Down!
-Dialogue: 10,0:08:00.04,0:08:00.08,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(952.5,1020.1)}Down!
-Dialogue: 10,0:08:00.08,0:08:00.12,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(948.3,1022.8)}Down!
-Dialogue: 9,0:07:59.12,0:07:59.16,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(967.5,995.5)}Down!
-Dialogue: 9,0:07:59.16,0:07:59.20,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(949.5,1040.8)}Down!
-Dialogue: 9,0:07:59.20,0:07:59.25,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(957,1048.9)}Down!
-Dialogue: 9,0:07:59.25,0:07:59.29,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(956.1,1009.6)}Down!
-Dialogue: 9,0:07:59.29,0:07:59.33,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(979.5,1002.4)}Down!
-Dialogue: 9,0:07:59.33,0:07:59.37,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(979.2,1015.6)}Down!
-Dialogue: 9,0:07:59.37,0:07:59.41,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(930.9,1029.4)}Down!
-Dialogue: 9,0:07:59.41,0:07:59.45,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(930.6,1019.8)}Down!
-Dialogue: 9,0:07:59.45,0:07:59.50,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(949.8,1034.8)}Down!
-Dialogue: 9,0:07:59.50,0:07:59.54,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(934.2,1036.6)}Down!
-Dialogue: 9,0:07:59.54,0:07:59.58,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(939.9,1033)}Down!
-Dialogue: 9,0:07:59.58,0:07:59.62,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(963.6,1005.4)}Down!
-Dialogue: 9,0:07:59.62,0:07:59.66,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(937.5,1019.5)}Down!
-Dialogue: 9,0:07:59.66,0:07:59.70,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(978,1033.9)}Down!
-Dialogue: 9,0:07:59.70,0:07:59.75,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(980.4,1030)}Down!
-Dialogue: 9,0:07:59.75,0:07:59.79,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(971.7,1018)}Down!
-Dialogue: 9,0:07:59.79,0:07:59.83,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(934.2,998.5)}Down!
-Dialogue: 9,0:07:59.83,0:07:59.87,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(983.7,1051.3)}Down!
-Dialogue: 9,0:07:59.87,0:07:59.91,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(981,1050.1)}Down!
-Dialogue: 9,0:07:59.91,0:07:59.95,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(943.5,1011.7)}Down!
-Dialogue: 9,0:07:59.95,0:08:00.00,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(964.8,1039.3)}Down!
-Dialogue: 9,0:08:00.00,0:08:00.04,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(937.2,1003.3)}Down!
-Dialogue: 9,0:08:00.04,0:08:00.08,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(952.5,1020.1)}Down!
-Dialogue: 9,0:08:00.08,0:08:00.12,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(948.3,1022.8)}Down!
+Dialogue: 10,0:07:59.12,0:07:59.16,Default,Shizuru,0,0,0,,{\pos(967.5,995.5)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.16,0:07:59.20,Default,Shizuru,0,0,0,,{\pos(949.5,1040.8)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.20,0:07:59.25,Default,Shizuru,0,0,0,,{\pos(957,1048.9)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.25,0:07:59.29,Default,Shizuru,0,0,0,,{\pos(956.1,1009.6)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.29,0:07:59.33,Default,Shizuru,0,0,0,,{\pos(979.5,1002.4)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.33,0:07:59.37,Default,Shizuru,0,0,0,,{\pos(979.2,1015.6)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.37,0:07:59.41,Default,Shizuru,0,0,0,,{\pos(930.9,1029.4)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.41,0:07:59.45,Default,Shizuru,0,0,0,,{\pos(930.6,1019.8)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.45,0:07:59.50,Default,Shizuru,0,0,0,,{\pos(949.8,1034.8)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.50,0:07:59.54,Default,Shizuru,0,0,0,,{\pos(934.2,1036.6)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.54,0:07:59.58,Default,Shizuru,0,0,0,,{\pos(939.9,1033)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.58,0:07:59.62,Default,Shizuru,0,0,0,,{\pos(963.6,1005.4)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.62,0:07:59.66,Default,Shizuru,0,0,0,,{\pos(937.5,1019.5)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.66,0:07:59.70,Default,Shizuru,0,0,0,,{\pos(978,1033.9)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.70,0:07:59.75,Default,Shizuru,0,0,0,,{\pos(980.4,1030)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.75,0:07:59.79,Default,Shizuru,0,0,0,,{\pos(971.7,1018)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.79,0:07:59.83,Default,Shizuru,0,0,0,,{\pos(934.2,998.5)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.83,0:07:59.87,Default,Shizuru,0,0,0,,{\pos(983.7,1051.3)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.87,0:07:59.91,Default,Shizuru,0,0,0,,{\pos(981,1050.1)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.91,0:07:59.95,Default,Shizuru,0,0,0,,{\pos(943.5,1011.7)\bord0\blur2}Down!
+Dialogue: 10,0:07:59.95,0:08:00.00,Default,Shizuru,0,0,0,,{\pos(964.8,1039.3)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.00,0:08:00.04,Default,Shizuru,0,0,0,,{\pos(937.2,1003.3)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.04,0:08:00.08,Default,Shizuru,0,0,0,,{\pos(952.5,1020.1)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.08,0:08:00.12,Default,Shizuru,0,0,0,,{\pos(948.3,1022.8)\bord0\blur2}Down!
+Dialogue: 9,0:07:59.12,0:07:59.16,Default,Shizuru,0,0,0,,{\pos(967.5,995.5)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.16,0:07:59.20,Default,Shizuru,0,0,0,,{\pos(949.5,1040.8)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.20,0:07:59.25,Default,Shizuru,0,0,0,,{\pos(957,1048.9)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.25,0:07:59.29,Default,Shizuru,0,0,0,,{\pos(956.1,1009.6)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.29,0:07:59.33,Default,Shizuru,0,0,0,,{\pos(979.5,1002.4)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.33,0:07:59.37,Default,Shizuru,0,0,0,,{\pos(979.2,1015.6)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.37,0:07:59.41,Default,Shizuru,0,0,0,,{\pos(930.9,1029.4)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.41,0:07:59.45,Default,Shizuru,0,0,0,,{\pos(930.6,1019.8)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.45,0:07:59.50,Default,Shizuru,0,0,0,,{\pos(949.8,1034.8)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.50,0:07:59.54,Default,Shizuru,0,0,0,,{\pos(934.2,1036.6)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.54,0:07:59.58,Default,Shizuru,0,0,0,,{\pos(939.9,1033)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.58,0:07:59.62,Default,Shizuru,0,0,0,,{\pos(963.6,1005.4)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.62,0:07:59.66,Default,Shizuru,0,0,0,,{\pos(937.5,1019.5)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.66,0:07:59.70,Default,Shizuru,0,0,0,,{\pos(978,1033.9)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.70,0:07:59.75,Default,Shizuru,0,0,0,,{\pos(980.4,1030)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.75,0:07:59.79,Default,Shizuru,0,0,0,,{\pos(971.7,1018)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.79,0:07:59.83,Default,Shizuru,0,0,0,,{\pos(934.2,998.5)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.83,0:07:59.87,Default,Shizuru,0,0,0,,{\pos(983.7,1051.3)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.87,0:07:59.91,Default,Shizuru,0,0,0,,{\pos(981,1050.1)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.91,0:07:59.95,Default,Shizuru,0,0,0,,{\pos(943.5,1011.7)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:07:59.95,0:08:00.00,Default,Shizuru,0,0,0,,{\pos(964.8,1039.3)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.00,0:08:00.04,Default,Shizuru,0,0,0,,{\pos(937.2,1003.3)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.04,0:08:00.08,Default,Shizuru,0,0,0,,{\pos(952.5,1020.1)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.08,0:08:00.12,Default,Shizuru,0,0,0,,{\pos(948.3,1022.8)\1a&HC8&\blur6}Down!
 Dialogue: 10,0:08:00.12,0:08:00.41,Default,Shizuru,0,0,0,,Down!
-Dialogue: 10,0:08:00.41,0:08:00.45,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(985.2,1000.9)}Down!
-Dialogue: 10,0:08:00.45,0:08:00.50,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(938.1,1022.8)}Down!
-Dialogue: 10,0:08:00.50,0:08:00.54,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(984,1043.5)}Down!
-Dialogue: 10,0:08:00.54,0:08:00.58,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(958.8,1006.6)}Down!
-Dialogue: 10,0:08:00.58,0:08:00.62,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(943.8,1014.1)}Down!
-Dialogue: 10,0:08:00.62,0:08:00.66,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(945.6,1023.4)}Down!
-Dialogue: 10,0:08:00.66,0:08:00.71,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(938.1,1019.2)}Down!
-Dialogue: 10,0:08:00.71,0:08:00.75,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(969,1022.2)}Down!
-Dialogue: 10,0:08:00.75,0:08:00.79,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(947.4,999.4)}Down!
-Dialogue: 10,0:08:00.79,0:08:00.83,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(966,1020.1)}Down!
-Dialogue: 10,0:08:00.83,0:08:00.87,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(983.7,1042.6)}Down!
-Dialogue: 10,0:08:00.87,0:08:00.91,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(942.9,1034.5)}Down!
-Dialogue: 10,0:08:00.91,0:08:00.96,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(952.8,1007.5)}Down!
-Dialogue: 10,0:08:00.96,0:08:01.00,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(963,1012.6)}Down!
-Dialogue: 10,0:08:01.00,0:08:01.04,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(949.8,1001.5)}Down!
-Dialogue: 10,0:08:01.04,0:08:01.08,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(953.7,1006)}Down!
-Dialogue: 10,0:08:01.08,0:08:01.12,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(960.9,997.3)}Down!
-Dialogue: 10,0:08:01.12,0:08:01.16,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(968.7,1002.7)}Down!
-Dialogue: 10,0:08:01.16,0:08:01.21,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(930,1053.1)}Down!
-Dialogue: 10,0:08:01.21,0:08:01.25,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(975,1051)}Down!
-Dialogue: 10,0:08:01.25,0:08:01.29,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(934.2,1022.2)}Down!
-Dialogue: 10,0:08:01.29,0:08:01.33,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(945.6,1046.8)}Down!
-Dialogue: 10,0:08:01.33,0:08:01.37,Default,Shizuru,0,0,0,,{\bord0\blur2\pos(985.2,1047.4)}Down!
-Dialogue: 9,0:08:00.41,0:08:00.45,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(985.2,1000.9)}Down!
-Dialogue: 9,0:08:00.45,0:08:00.50,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(938.1,1022.8)}Down!
-Dialogue: 9,0:08:00.50,0:08:00.54,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(984,1043.5)}Down!
-Dialogue: 9,0:08:00.54,0:08:00.58,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(958.8,1006.6)}Down!
-Dialogue: 9,0:08:00.58,0:08:00.62,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(943.8,1014.1)}Down!
-Dialogue: 9,0:08:00.62,0:08:00.66,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(945.6,1023.4)}Down!
-Dialogue: 9,0:08:00.66,0:08:00.71,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(938.1,1019.2)}Down!
-Dialogue: 9,0:08:00.71,0:08:00.75,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(969,1022.2)}Down!
-Dialogue: 9,0:08:00.75,0:08:00.79,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(947.4,999.4)}Down!
-Dialogue: 9,0:08:00.79,0:08:00.83,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(966,1020.1)}Down!
-Dialogue: 9,0:08:00.83,0:08:00.87,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(983.7,1042.6)}Down!
-Dialogue: 9,0:08:00.87,0:08:00.91,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(942.9,1034.5)}Down!
-Dialogue: 9,0:08:00.91,0:08:00.96,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(952.8,1007.5)}Down!
-Dialogue: 9,0:08:00.96,0:08:01.00,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(963,1012.6)}Down!
-Dialogue: 9,0:08:01.00,0:08:01.04,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(949.8,1001.5)}Down!
-Dialogue: 9,0:08:01.04,0:08:01.08,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(953.7,1006)}Down!
-Dialogue: 9,0:08:01.08,0:08:01.12,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(960.9,997.3)}Down!
-Dialogue: 9,0:08:01.12,0:08:01.16,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(968.7,1002.7)}Down!
-Dialogue: 9,0:08:01.16,0:08:01.21,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(930,1053.1)}Down!
-Dialogue: 9,0:08:01.21,0:08:01.25,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(975,1051)}Down!
-Dialogue: 9,0:08:01.25,0:08:01.29,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(934.2,1022.2)}Down!
-Dialogue: 9,0:08:01.29,0:08:01.33,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(945.6,1046.8)}Down!
-Dialogue: 9,0:08:01.33,0:08:01.37,Default,Shizuru,0,0,0,,{\c&HFFFFFF&\1a&HC8&\blur6\pos(985.2,1047.4)}Down!
-Dialogue: 10,0:08:06.96,0:08:08.34,Default,Rino,0,0,0,,What was I doing just now?!
-Dialogue: 10,0:08:08.84,0:08:10.42,Default,Shizuru,0,0,0,,Calm down, Rino.
+Dialogue: 10,0:08:00.41,0:08:00.45,Default,Shizuru,0,0,0,,{\pos(985.2,1000.9)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.45,0:08:00.50,Default,Shizuru,0,0,0,,{\pos(938.1,1022.8)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.50,0:08:00.54,Default,Shizuru,0,0,0,,{\pos(984,1043.5)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.54,0:08:00.58,Default,Shizuru,0,0,0,,{\pos(958.8,1006.6)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.58,0:08:00.62,Default,Shizuru,0,0,0,,{\pos(943.8,1014.1)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.62,0:08:00.66,Default,Shizuru,0,0,0,,{\pos(945.6,1023.4)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.66,0:08:00.71,Default,Shizuru,0,0,0,,{\pos(938.1,1019.2)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.71,0:08:00.75,Default,Shizuru,0,0,0,,{\pos(969,1022.2)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.75,0:08:00.79,Default,Shizuru,0,0,0,,{\pos(947.4,999.4)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.79,0:08:00.83,Default,Shizuru,0,0,0,,{\pos(966,1020.1)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.83,0:08:00.87,Default,Shizuru,0,0,0,,{\pos(983.7,1042.6)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.87,0:08:00.91,Default,Shizuru,0,0,0,,{\pos(942.9,1034.5)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.91,0:08:00.96,Default,Shizuru,0,0,0,,{\pos(952.8,1007.5)\bord0\blur2}Down!
+Dialogue: 10,0:08:00.96,0:08:01.00,Default,Shizuru,0,0,0,,{\pos(963,1012.6)\bord0\blur2}Down!
+Dialogue: 10,0:08:01.00,0:08:01.04,Default,Shizuru,0,0,0,,{\pos(949.8,1001.5)\bord0\blur2}Down!
+Dialogue: 10,0:08:01.04,0:08:01.08,Default,Shizuru,0,0,0,,{\pos(953.7,1006)\bord0\blur2}Down!
+Dialogue: 10,0:08:01.08,0:08:01.12,Default,Shizuru,0,0,0,,{\pos(960.9,997.3)\bord0\blur2}Down!
+Dialogue: 10,0:08:01.12,0:08:01.16,Default,Shizuru,0,0,0,,{\pos(968.7,1002.7)\bord0\blur2}Down!
+Dialogue: 10,0:08:01.16,0:08:01.21,Default,Shizuru,0,0,0,,{\pos(930,1053.1)\bord0\blur2}Down!
+Dialogue: 10,0:08:01.21,0:08:01.25,Default,Shizuru,0,0,0,,{\pos(975,1051)\bord0\blur2}Down!
+Dialogue: 10,0:08:01.25,0:08:01.29,Default,Shizuru,0,0,0,,{\pos(934.2,1022.2)\bord0\blur2}Down!
+Dialogue: 10,0:08:01.29,0:08:01.33,Default,Shizuru,0,0,0,,{\pos(945.6,1046.8)\bord0\blur2}Down!
+Dialogue: 10,0:08:01.33,0:08:01.37,Default,Shizuru,0,0,0,,{\pos(985.2,1047.4)\bord0\blur2}Down!
+Dialogue: 9,0:08:00.41,0:08:00.45,Default,Shizuru,0,0,0,,{\pos(985.2,1000.9)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.45,0:08:00.50,Default,Shizuru,0,0,0,,{\pos(938.1,1022.8)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.50,0:08:00.54,Default,Shizuru,0,0,0,,{\pos(984,1043.5)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.54,0:08:00.58,Default,Shizuru,0,0,0,,{\pos(958.8,1006.6)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.58,0:08:00.62,Default,Shizuru,0,0,0,,{\pos(943.8,1014.1)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.62,0:08:00.66,Default,Shizuru,0,0,0,,{\pos(945.6,1023.4)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.66,0:08:00.71,Default,Shizuru,0,0,0,,{\pos(938.1,1019.2)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.71,0:08:00.75,Default,Shizuru,0,0,0,,{\pos(969,1022.2)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.75,0:08:00.79,Default,Shizuru,0,0,0,,{\pos(947.4,999.4)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.79,0:08:00.83,Default,Shizuru,0,0,0,,{\pos(966,1020.1)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.83,0:08:00.87,Default,Shizuru,0,0,0,,{\pos(983.7,1042.6)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.87,0:08:00.91,Default,Shizuru,0,0,0,,{\pos(942.9,1034.5)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.91,0:08:00.96,Default,Shizuru,0,0,0,,{\pos(952.8,1007.5)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:00.96,0:08:01.00,Default,Shizuru,0,0,0,,{\pos(963,1012.6)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:01.00,0:08:01.04,Default,Shizuru,0,0,0,,{\pos(949.8,1001.5)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:01.04,0:08:01.08,Default,Shizuru,0,0,0,,{\pos(953.7,1006)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:01.08,0:08:01.12,Default,Shizuru,0,0,0,,{\pos(960.9,997.3)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:01.12,0:08:01.16,Default,Shizuru,0,0,0,,{\pos(968.7,1002.7)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:01.16,0:08:01.21,Default,Shizuru,0,0,0,,{\pos(930,1053.1)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:01.21,0:08:01.25,Default,Shizuru,0,0,0,,{\pos(975,1051)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:01.25,0:08:01.29,Default,Shizuru,0,0,0,,{\pos(934.2,1022.2)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:01.29,0:08:01.33,Default,Shizuru,0,0,0,,{\pos(945.6,1046.8)\1a&HC8&\blur6}Down!
+Dialogue: 9,0:08:01.33,0:08:01.37,Default,Shizuru,0,0,0,,{\pos(985.2,1047.4)\1a&HC8&\blur6}Down!
+Dialogue: 10,0:08:06.96,0:08:08.34,Default,Rino,0,0,0,,Wh-What was I doing?!
+Dialogue: 10,0:08:08.84,0:08:10.42,Default,Shizuru,0,0,0,,Calm down, Rino{**-chan}.
 Dialogue: 10,0:08:10.42,0:08:12.68,Default,Shizuru,0,0,0,,Remember what our goal is?
-Dialogue: 10,0:08:12.68,0:08:16.68,Default,Rino,0,0,0,,That's right! To watch over \Nour dear brother from the sidelines!
+Dialogue: 10,0:08:12.68,0:08:16.68,Default,Rino,0,0,0,,{\q2}That's right! To watch over \Nour dear brother from the sidelines!
 Dialogue: 10,0:08:16.68,0:08:18.56,Default,Shizuru,0,0,0,,Yes, exactly.
-Dialogue: 10,0:08:18.56,0:08:19.85,Default,Shizuru,0,0,0,,Let's go.
+Dialogue: 10,0:08:18.56,0:08:19.85,Default,Shizuru,0,0,0,,So let's do just that.
 Dialogue: 10,0:08:19.85,0:08:20.68,Default,Rino,0,0,0,,Aye, aye!
 Dialogue: 10,0:08:24.44,0:08:28.02,Default,Rino,0,0,0,,Wait, hold up. What was I doing a minute ago?
 Dialogue: 10,0:08:28.02,0:08:29.48,Default,Rino,0,0,0,,I can't remember.
 Dialogue: 10,0:08:32.74,0:08:34.20,Default,Karyl,0,0,0,,Perfecto!
-Dialogue: 10,0:08:34.74,0:08:37.83,Default,Karyl,0,0,0,,Well, I should go report to Her Majesty.
-Dialogue: 10,0:08:42.91,0:08:45.42,Default,Kokkoro,0,0,0,,I just can't find any at all.
+Dialogue: 10,0:08:34.74,0:08:37.83,Default,Karyl,0,0,0,,I should go report to Her Majesty.
+Dialogue: 10,0:08:42.91,0:08:45.42,Default,Kokkoro,0,0,0,,I just can't find a single one at all.
 Dialogue: 10,0:08:51.42,0:08:53.22,Default,Kokkoro,0,0,0,,How beautiful.
-Dialogue: 10,0:09:01.56,0:09:03.43,Default,Kokkoro,0,0,0,,Where could it have gone?
+Dialogue: 10,0:09:01.56,0:09:03.43,Default,Kokkoro,0,0,0,,Where could it fluttered off to?
 Dialogue: 10,0:09:05.06,0:09:06.52,Default,Karyl,0,0,0,,Darn it all.
-Dialogue: 10,0:09:07.02,0:09:10.90,Default,Karyl,0,0,0,,I can't believe that Dumborine did such \Na number on my favourite plushie.
-Dialogue: 10,0:09:10.90,0:09:13.03,Default,Karyl,0,0,0,,Can it really be fixed?
-Dialogue: 10,0:09:19.20,0:09:20.74,Default,Karyl,0,0,0,,So pretty!{boku no pico reference confirmed, that shit of a hentai i timed is now stuf in my head because pico says the same thing with almost the same tone, pure earrape}
+Dialogue: 10,0:09:07.02,0:09:10.90,Default,Karyl,0,0,0,,{\q2}I can't believe Dumborine did such \Na number on my favourite plushie.
+Dialogue: 10,0:09:10.90,0:09:13.03,Default,Karyl,0,0,0,,Can Kokkoro really fix it?
+Dialogue: 10,0:09:19.20,0:09:20.74,Default,Karyl,0,0,0,,They're so pretty!
 Dialogue: 10,0:09:22.50,0:09:24.41,Default,Karyl,0,0,0,,Oh, I know!
 Dialogue: 10,0:09:28.38,0:09:31.59,Default,Karyl,0,0,0,,Her Majesty's always holed up in her castle.
 Dialogue: 10,0:09:31.59,0:09:34.67,Default,Karyl,0,0,0,,I bet she'll be happy to see some pretty flowers.
-Dialogue: 10,0:09:43.22,0:09:47.44,Default,Shizuru,0,0,0,,Yeah, Shadows have started \Nshowing up in town as well now.
-Dialogue: 10,0:09:47.44,0:09:50.31,Default,Labyrista,0,0,0,,It's a good thing we made our move early.
+Dialogue: 10,0:09:43.22,0:09:47.44,Default,Shizuru,0,0,0,,Yeah, Shadows have begun showing up in town now.
+Dialogue: 10,0:09:47.44,0:09:50.31,Default,Labyrista,0,0,0,,Good thing we decided to make our move early.
 Dialogue: 10,0:09:50.86,0:09:53.78,Default,Shizuru,0,0,0,,I've relayed their coördinates.
-Dialogue: 10,0:09:53.78,0:09:55.82,Default,Labyrista,0,0,0,,Thanks. They just came in.
+Dialogue: 10,0:09:53.78,0:09:55.82,Default,Labyrista,0,0,0,,Thanks.  I see them.
 Dialogue: 10,0:09:55.82,0:09:58.78,Default,Labyrista,0,0,0,,There's a lot more than I realised.
 Dialogue: 10,0:09:58.78,0:10:00.32,Default,Labyrista,0,0,0,,Stay on your toes.
-Dialogue: 10,0:10:00.74,0:10:02.41,Default,Shizuru,0,0,0,,Got it, Master.
+Dialogue: 10,0:10:00.74,0:10:02.41,Default,Shizuru,0,0,0,,Understood, Master.
 Dialogue: 10,0:10:06.12,0:10:07.83,Default,Kokkoro,0,0,0,,My lord!
 Dialogue: 10,0:10:08.25,0:10:11.21,Default,Pecorine,0,0,0,,How'd it go? Did you find any material?
 Dialogue: 10,0:10:11.21,0:10:12.21,Default,Yuuki,0,0,0,,Nope.
 Dialogue: 10,0:10:12.21,0:10:13.63,Default,Kokkoro,0,0,0,,I see.
-Dialogue: 10,0:10:13.63,0:10:19.13,Default,Pecorine,0,0,0,,If we can't find any, I guess our last resort \Nwill be to become apprentices to a dyer.
-Dialogue: 10,0:10:20.85,0:10:24.77,Default,Kokkoro,0,0,0,,I believe that if anyone could pull that off, \Nit'd be you, {*}Lady Pecorine{*Pecorine-sama}.
-Dialogue: 10,0:10:25.31,0:10:30.19,Default,Kokkoro,0,0,0,,In any case, let's keep looking around \Na little longer for {*}Lady Karyl{*Kyaru-sama}'s sake.
+Dialogue: 10,0:10:13.63,0:10:19.13,Default,Pecorine,0,0,0,,{\q2}If we can't find any, I guess we must simply \Nbecome apprentices to a dyer.
+Dialogue: 10,0:10:20.85,0:10:24.77,Default,Kokkoro,0,0,0,,{\q2}I believe that if anyone could pull that off, \Nit would be you, {*}Lady Pecorine{*Pecorine-sama}.
+Dialogue: 10,0:10:25.31,0:10:30.19,Default,Kokkoro,0,0,0,,{\q2}In any case, let's keep looking around \Na little longer for {*}Lady Karyl{*Kyaru-sama}'s sake.
 Dialogue: 10,0:10:30.90,0:10:32.44,Default,Both,0,0,0,,Yeah!
 Dialogue: 10,0:10:38.82,0:10:39.66,Default,Karyl,0,0,0,,Your Majesty!
 Dialogue: 10,0:10:39.66,0:10:41.57,Default,Karyl,0,0,0,,Look at these flowers!
@@ -500,7 +503,7 @@ Dialogue: 10,0:10:44.45,0:10:46.04,Default,Karyl,0,0,0,,Your Majesty?
 Dialogue: 10,0:10:46.04,0:10:47.50,Default,Karyl,0,0,0,,Where is she?
 Dialogue: 10,0:10:50.46,0:10:52.67,Default,Kaiser,0,0,0,,Come here, Karyl.
 Dialogue: 10,0:10:53.17,0:10:55.38,Default,Kaiser,0,0,0,,I will show you something wonderful.
-Dialogue: 10,0:11:10.31,0:11:14.69,Default,Kaiser,0,0,0,,What do you think of this persona? Isn't it beautiful?
+Dialogue: 10,0:11:10.31,0:11:14.69,Default,Kaiser,0,0,0,,{\q2}What do you think of this persona? \NIsn't it beautiful?
 Dialogue: 10,0:11:30.58,0:11:32.83,Default,Kaiser,0,0,0,,Now, go.
 Dialogue: 10,0:11:33.33,0:11:36.00,Default,Kaiser,0,0,0,,Bring back an even finer drink for me.
 Dialogue: 10,0:11:57.19,0:11:59.23,Default,Kaiser,0,0,0,,What is that filth?
@@ -508,7 +511,7 @@ Dialogue: 10,0:12:00.49,0:12:02.24,Default,Kaiser,0,0,0,,This is a sacred place.
 Dialogue: 10,0:12:03.11,0:12:04.49,Default,Kaiser,0,0,0,,Discard it at once.
 Dialogue: 10,0:12:06.95,0:12:07.83,Default,Karyl,0,0,0,,Of course.
 Dialogue: 10,0:12:10.41,0:12:12.46,Default,Kokkoro,0,0,0,,I don't see any.
-Dialogue: 10,0:12:12.46,0:12:15.96,Default,Guy,0,0,0,,Hey, you two! Stop for a bite! It's tasty!
+Dialogue: 10,0:12:12.46,0:12:15.96,Default,Guy,0,0,0,,Hey, you two! Stop for a bite! Food's good here!
 Dialogue: 10,0:12:18.59,0:12:20.38,Default,Guy,0,0,0,,Many thanks!
 Dialogue: 10,0:12:24.64,0:12:27.72,Default,Kokkoro,0,0,0,,The hint of spicy flavour suits the meat well.
 Dialogue: 10,0:12:30.10,0:12:33.14,Default,Kokkoro,0,0,0,,My lord, your mouth is a mess.
@@ -532,9 +535,7 @@ Dialogue: 10,0:13:12.73,0:13:12.77,Default,Rino,0,0,0,,{\an1\pos(466,1024)}Hoooo
 Dialogue: 10,0:13:12.77,0:13:12.81,Default,Rino,0,0,0,,{\an1\pos(466,1024)}Hoooooooooooooold {\alpha&HFF&}it right there!{Excuse me for one second!}
 Dialogue: 10,0:13:12.81,0:13:12.85,Default,Rino,0,0,0,,{\an1\pos(466,1024)}Hooooooooooooooold {\alpha&HFF&}it right there!{Excuse me for one second!}
 Dialogue: 10,0:13:12.85,0:13:12.89,Default,Rino,0,0,0,,{\an1\pos(466,1024)}Hoooooooooooooooold {\alpha&HFF&}it right there!{Excuse me for one second!}
-Dialogue: 10,0:13:12.89,0:13:13.10,Default,Rino,0,0,0,,{\an1\pos(466,1024)}Hooooooooooooooooold it {\alpha&HFF&}right there!{Excuse me for one second!}
-Dialogue: 10,0:13:13.10,0:13:13.35,Default,Rino,0,0,0,,{\an1\pos(466,1024)}Hooooooooooooooooold it right {\alpha&HFF&}there!{Excuse me for one second!}
-Dialogue: 10,0:13:13.35,0:13:14.10,Default,Rino,0,0,0,,{\an1\pos(466,1024)}Hooooooooooooooooold it right there!{Excuse me for one second!}
+Dialogue: 10,0:13:12.89,0:13:14.10,Default,Rino,0,0,0,,{\an1\pos(466,1024)}Hoooooooooooooooold it right there!
 Dialogue: 10,0:13:14.10,0:13:16.10,Default,Rino,0,0,0,,What do you think you're doing to my brother?!
 Dialogue: 10,0:13:16.10,0:13:18.52,Default,Kokkoro,0,0,0,,Huh? Um, who might you be?
 Dialogue: 10,0:13:18.52,0:13:20.77,Default,Rino,0,0,0,,Don't answer my question with another question!
@@ -542,126 +543,127 @@ Dialogue: 10,0:13:20.77,0:13:21.61,Default,Kokkoro,0,0,0,,Eep!
 Dialogue: 10,0:13:22.28,0:13:24.03,Default,Kokkoro,0,0,0,,I-I'm very sorry.
 Dialogue: 10,0:13:24.03,0:13:28.16,Default,Kokkoro,0,0,0,,My name is Kokkoro, and I serve my lord.
 Dialogue: 10,0:13:27.07,0:13:28.16,Alt,Rino,0,0,0,,Serve?
-Dialogue: 10,0:13:29.41,0:13:33.29,Default,Kokkoro,0,0,0,,I serve him by order of the great Lady Ameth.
+Dialogue: 10,0:13:29.41,0:13:33.29,Default,Kokkoro,0,0,0,,I serve him by order of the great {*}Lady Ameth{*Ameth-sama}.
 Dialogue: 10,0:13:33.29,0:13:36.17,Default,Rino,0,0,0,,You serve him?! You not his girlfriend or anythin'?!
-Dialogue: 10,0:13:36.50,0:13:38.17,Default,Shizuru,0,0,0,,What's going on, Rino?
+Dialogue: 10,0:13:36.50,0:13:38.17,Default,Shizuru,0,0,0,,What's going on, Rino{**-chan}?
 Dialogue: 10,0:13:38.17,0:13:39.75,Default,Rino,0,0,0,,Bad news, Shizuru!
-Dialogue: 10,0:13:39.75,0:13:41.88,Default,Rino,0,0,0,,This unfamiliar girl is hanging around our brother!
-Dialogue: 10,0:13:41.88,0:13:45.42,Default,Rino,0,0,0,,She showed up out of nowhere! \NA completely unfamiliar girl!
-Dialogue: 10,0:13:45.84,0:13:48.93,Default,Shizuru,0,0,0,,You need to calm... {\alpha&HFF&}down!
-Dialogue: 10,0:13:45.84,0:13:47.18,Default,Shizuru,0,0,0,,{\pos(1230,1024)}down!
-Dialogue: 10,0:13:47.18,0:13:47.22,Default,Shizuru,0,0,0,,{\pos(1218.5,1015)\bord0\blur2}down!
-Dialogue: 10,0:13:47.22,0:13:47.26,Default,Shizuru,0,0,0,,{\pos(1218.5,1043.75)\bord0\blur2}down!
-Dialogue: 10,0:13:47.26,0:13:47.30,Default,Shizuru,0,0,0,,{\pos(1232,1014)\bord0\blur2}down!
-Dialogue: 10,0:13:47.30,0:13:47.34,Default,Shizuru,0,0,0,,{\pos(1215.75,1016.25)\bord0\blur2}down!
-Dialogue: 10,0:13:47.34,0:13:47.38,Default,Shizuru,0,0,0,,{\pos(1230.5,1000.25)\bord0\blur2}down!
-Dialogue: 10,0:13:47.38,0:13:47.43,Default,Shizuru,0,0,0,,{\pos(1230.25,1043.25)\bord0\blur2}down!
-Dialogue: 10,0:13:47.43,0:13:47.47,Default,Shizuru,0,0,0,,{\pos(1214.25,1027)\bord0\blur2}down!
-Dialogue: 10,0:13:47.47,0:13:47.51,Default,Shizuru,0,0,0,,{\pos(1231.25,1005.25)\bord0\blur2}down!
-Dialogue: 10,0:13:47.51,0:13:47.55,Default,Shizuru,0,0,0,,{\pos(1252.25,1020.5)\bord0\blur2}down!
-Dialogue: 10,0:13:47.55,0:13:47.59,Default,Shizuru,0,0,0,,{\pos(1241.25,1036.5)\bord0\blur2}down!
-Dialogue: 10,0:13:47.59,0:13:47.63,Default,Shizuru,0,0,0,,{\pos(1246.5,1021)\bord0\blur2}down!
-Dialogue: 10,0:13:47.63,0:13:47.68,Default,Shizuru,0,0,0,,{\pos(1247.25,1042)\bord0\blur2}down!
-Dialogue: 10,0:13:47.68,0:13:47.72,Default,Shizuru,0,0,0,,{\pos(1247,1014.75)\bord0\blur2}down!
-Dialogue: 10,0:13:47.72,0:13:47.76,Default,Shizuru,0,0,0,,{\pos(1205.75,1044)\bord0\blur2}down!
-Dialogue: 10,0:13:47.76,0:13:47.80,Default,Shizuru,0,0,0,,{\pos(1229,1045)\bord0\blur2}down!
-Dialogue: 10,0:13:47.80,0:13:47.84,Default,Shizuru,0,0,0,,{\pos(1206.25,1034.75)\bord0\blur2}down!
-Dialogue: 10,0:13:47.84,0:13:47.89,Default,Shizuru,0,0,0,,{\pos(1221.5,1023.5)\bord0\blur2}down!
-Dialogue: 10,0:13:47.89,0:13:47.93,Default,Shizuru,0,0,0,,{\pos(1211.5,1038.75)\bord0\blur2}down!
-Dialogue: 10,0:13:47.93,0:13:47.97,Default,Shizuru,0,0,0,,{\pos(1230,1008.25)\bord0\blur2}down!
-Dialogue: 10,0:13:47.97,0:13:48.01,Default,Shizuru,0,0,0,,{\pos(1232.5,1041.25)\bord0\blur2}down!
-Dialogue: 10,0:13:48.01,0:13:48.05,Default,Shizuru,0,0,0,,{\pos(1237.75,1040)\bord0\blur2}down!
-Dialogue: 10,0:13:48.05,0:13:48.09,Default,Shizuru,0,0,0,,{\pos(1218.25,1015.75)\bord0\blur2}down!
-Dialogue: 10,0:13:48.09,0:13:48.14,Default,Shizuru,0,0,0,,{\pos(1215,1006)\bord0\blur2}down!
-Dialogue: 10,0:13:48.14,0:13:48.18,Default,Shizuru,0,0,0,,{\pos(1228,1018.25)\bord0\blur2}down!
-Dialogue: 10,0:13:48.18,0:13:48.22,Default,Shizuru,0,0,0,,{\pos(1222.75,1048.75)\bord0\blur2}down!
-Dialogue: 10,0:13:48.22,0:13:48.26,Default,Shizuru,0,0,0,,{\pos(1226.75,1003)\bord0\blur2}down!
-Dialogue: 10,0:13:48.26,0:13:48.30,Default,Shizuru,0,0,0,,{\pos(1215,1042.5)\bord0\blur2}down!
-Dialogue: 10,0:13:48.30,0:13:48.34,Default,Shizuru,0,0,0,,{\pos(1229.25,1022.5)\bord0\blur2}down!
-Dialogue: 10,0:13:48.34,0:13:48.39,Default,Shizuru,0,0,0,,{\pos(1244.5,1040.25)\bord0\blur2}down!
-Dialogue: 10,0:13:48.39,0:13:48.43,Default,Shizuru,0,0,0,,{\pos(1214,1039)\bord0\blur2}down!
-Dialogue: 10,0:13:48.43,0:13:48.47,Default,Shizuru,0,0,0,,{\pos(1235.5,1015.75)\bord0\blur2}down!
-Dialogue: 10,0:13:48.47,0:13:48.51,Default,Shizuru,0,0,0,,{\pos(1243.5,1045.5)\bord0\blur2}down!
-Dialogue: 10,0:13:48.51,0:13:48.55,Default,Shizuru,0,0,0,,{\pos(1216.25,1045.5)\bord0\blur2}down!
-Dialogue: 10,0:13:48.55,0:13:48.59,Default,Shizuru,0,0,0,,{\pos(1243.75,1045)\bord0\blur2}down!
-Dialogue: 10,0:13:48.59,0:13:48.64,Default,Shizuru,0,0,0,,{\pos(1224.75,1018.5)\bord0\blur2}down!
-Dialogue: 10,0:13:48.64,0:13:48.68,Default,Shizuru,0,0,0,,{\pos(1249.75,1014.75)\bord0\blur2}down!
-Dialogue: 10,0:13:48.68,0:13:48.72,Default,Shizuru,0,0,0,,{\pos(1238,1037.5)\bord0\blur2}down!
-Dialogue: 10,0:13:48.72,0:13:48.76,Default,Shizuru,0,0,0,,{\pos(1240.5,1002.25)\bord0\blur2}down!
-Dialogue: 10,0:13:48.76,0:13:48.80,Default,Shizuru,0,0,0,,{\pos(1239.25,1038.75)\bord0\blur2}down!
-Dialogue: 10,0:13:48.80,0:13:48.84,Default,Shizuru,0,0,0,,{\pos(1245.75,1011)\bord0\blur2}down!
-Dialogue: 10,0:13:48.84,0:13:48.89,Default,Shizuru,0,0,0,,{\pos(1210.75,999.5)\bord0\blur2}down!
-Dialogue: 10,0:13:48.89,0:13:48.93,Default,Shizuru,0,0,0,,{\pos(1211.5,1037.25)\bord0\blur2}down!
-Dialogue: 9,0:13:47.18,0:13:47.22,Default,Shizuru,0,0,0,,{\pos(1218.5,1015)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.22,0:13:47.26,Default,Shizuru,0,0,0,,{\pos(1218.5,1043.75)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.26,0:13:47.30,Default,Shizuru,0,0,0,,{\pos(1232,1014)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.30,0:13:47.34,Default,Shizuru,0,0,0,,{\pos(1215.75,1016.25)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.34,0:13:47.38,Default,Shizuru,0,0,0,,{\pos(1230.5,1000.25)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.38,0:13:47.43,Default,Shizuru,0,0,0,,{\pos(1230.25,1043.25)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.43,0:13:47.47,Default,Shizuru,0,0,0,,{\pos(1214.25,1027)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.47,0:13:47.51,Default,Shizuru,0,0,0,,{\pos(1231.25,1005.25)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.51,0:13:47.55,Default,Shizuru,0,0,0,,{\pos(1252.25,1020.5)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.55,0:13:47.59,Default,Shizuru,0,0,0,,{\pos(1241.25,1036.5)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.59,0:13:47.63,Default,Shizuru,0,0,0,,{\pos(1246.5,1021)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.63,0:13:47.68,Default,Shizuru,0,0,0,,{\pos(1247.25,1042)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.68,0:13:47.72,Default,Shizuru,0,0,0,,{\pos(1247,1014.75)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.72,0:13:47.76,Default,Shizuru,0,0,0,,{\pos(1205.75,1044)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.76,0:13:47.80,Default,Shizuru,0,0,0,,{\pos(1229,1045)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.80,0:13:47.84,Default,Shizuru,0,0,0,,{\pos(1206.25,1034.75)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.84,0:13:47.89,Default,Shizuru,0,0,0,,{\pos(1221.5,1023.5)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.89,0:13:47.93,Default,Shizuru,0,0,0,,{\pos(1211.5,1038.75)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.93,0:13:47.97,Default,Shizuru,0,0,0,,{\pos(1230,1008.25)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:47.97,0:13:48.01,Default,Shizuru,0,0,0,,{\pos(1232.5,1041.25)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.01,0:13:48.05,Default,Shizuru,0,0,0,,{\pos(1237.75,1040)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.05,0:13:48.09,Default,Shizuru,0,0,0,,{\pos(1218.25,1015.75)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.09,0:13:48.14,Default,Shizuru,0,0,0,,{\pos(1215,1006)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.14,0:13:48.18,Default,Shizuru,0,0,0,,{\pos(1228,1018.25)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.18,0:13:48.22,Default,Shizuru,0,0,0,,{\pos(1222.75,1048.75)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.22,0:13:48.26,Default,Shizuru,0,0,0,,{\pos(1226.75,1003)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.26,0:13:48.30,Default,Shizuru,0,0,0,,{\pos(1215,1042.5)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.30,0:13:48.34,Default,Shizuru,0,0,0,,{\pos(1229.25,1022.5)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.34,0:13:48.39,Default,Shizuru,0,0,0,,{\pos(1244.5,1040.25)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.39,0:13:48.43,Default,Shizuru,0,0,0,,{\pos(1214,1039)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.43,0:13:48.47,Default,Shizuru,0,0,0,,{\pos(1235.5,1015.75)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.47,0:13:48.51,Default,Shizuru,0,0,0,,{\pos(1243.5,1045.5)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.51,0:13:48.55,Default,Shizuru,0,0,0,,{\pos(1216.25,1045.5)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.55,0:13:48.59,Default,Shizuru,0,0,0,,{\pos(1243.75,1045)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.59,0:13:48.64,Default,Shizuru,0,0,0,,{\pos(1224.75,1018.5)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.64,0:13:48.68,Default,Shizuru,0,0,0,,{\pos(1249.75,1014.75)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.68,0:13:48.72,Default,Shizuru,0,0,0,,{\pos(1238,1037.5)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.72,0:13:48.76,Default,Shizuru,0,0,0,,{\pos(1240.5,1002.25)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.76,0:13:48.80,Default,Shizuru,0,0,0,,{\pos(1239.25,1038.75)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.80,0:13:48.84,Default,Shizuru,0,0,0,,{\pos(1245.75,1011)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.84,0:13:48.89,Default,Shizuru,0,0,0,,{\pos(1210.75,999.5)\blur6\c&HFFFFFF&\1a&HC8&}down!
-Dialogue: 9,0:13:48.89,0:13:48.93,Default,Shizuru,0,0,0,,{\pos(1211.5,1037.25)\blur6\c&HFFFFFF&\1a&HC8&}down!
+Dialogue: 10,0:13:39.75,0:13:41.88,Default,Rino,0,0,0,,This strange girl is hanging around our brother!
+Dialogue: 10,0:13:41.88,0:13:45.42,Default,Rino,0,0,0,,{\q2}She showed up out of nowhere! \NWho does she think she is?!
+Dialogue: 10,0:13:45.84,0:13:48.93,Default,Shizuru,0,0,0,,{\t(2613,3113,\3c&HFFFFFF&\4c&HFFFFFF&)}You need to calm... {\alpha&HFF&}down!
+Dialogue: 10,0:13:45.84,0:13:47.18,Default,Shizuru,0,0,0,,{\pos(1230,1024)\shad0}down!
+Dialogue: 10,0:13:47.18,0:13:47.22,Default,Shizuru,0,0,0,,{\pos(1218.5,1015)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.22,0:13:47.26,Default,Shizuru,0,0,0,,{\pos(1218.5,1043.75)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.26,0:13:47.30,Default,Shizuru,0,0,0,,{\pos(1232,1014)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.30,0:13:47.34,Default,Shizuru,0,0,0,,{\pos(1215.75,1016.25)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.34,0:13:47.38,Default,Shizuru,0,0,0,,{\pos(1230.5,1000.25)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.38,0:13:47.43,Default,Shizuru,0,0,0,,{\pos(1230.25,1043.25)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.43,0:13:47.47,Default,Shizuru,0,0,0,,{\pos(1214.25,1027)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.47,0:13:47.51,Default,Shizuru,0,0,0,,{\pos(1231.25,1005.25)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.51,0:13:47.55,Default,Shizuru,0,0,0,,{\pos(1252.25,1020.5)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.55,0:13:47.59,Default,Shizuru,0,0,0,,{\pos(1241.25,1036.5)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.59,0:13:47.63,Default,Shizuru,0,0,0,,{\pos(1246.5,1021)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.63,0:13:47.68,Default,Shizuru,0,0,0,,{\pos(1247.25,1042)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.68,0:13:47.72,Default,Shizuru,0,0,0,,{\pos(1247,1014.75)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.72,0:13:47.76,Default,Shizuru,0,0,0,,{\pos(1205.75,1044)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.76,0:13:47.80,Default,Shizuru,0,0,0,,{\pos(1229,1045)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.80,0:13:47.84,Default,Shizuru,0,0,0,,{\pos(1206.25,1034.75)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.84,0:13:47.89,Default,Shizuru,0,0,0,,{\pos(1221.5,1023.5)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.89,0:13:47.93,Default,Shizuru,0,0,0,,{\pos(1211.5,1038.75)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.93,0:13:47.97,Default,Shizuru,0,0,0,,{\pos(1230,1008.25)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:47.97,0:13:48.01,Default,Shizuru,0,0,0,,{\pos(1232.5,1041.25)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.01,0:13:48.05,Default,Shizuru,0,0,0,,{\pos(1237.75,1040)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.05,0:13:48.09,Default,Shizuru,0,0,0,,{\pos(1218.25,1015.75)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.09,0:13:48.14,Default,Shizuru,0,0,0,,{\pos(1215,1006)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.14,0:13:48.18,Default,Shizuru,0,0,0,,{\pos(1228,1018.25)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.18,0:13:48.22,Default,Shizuru,0,0,0,,{\pos(1222.75,1048.75)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.22,0:13:48.26,Default,Shizuru,0,0,0,,{\pos(1226.75,1003)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.26,0:13:48.30,Default,Shizuru,0,0,0,,{\pos(1215,1042.5)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.30,0:13:48.34,Default,Shizuru,0,0,0,,{\pos(1229.25,1022.5)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.34,0:13:48.39,Default,Shizuru,0,0,0,,{\pos(1244.5,1040.25)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.39,0:13:48.43,Default,Shizuru,0,0,0,,{\pos(1214,1039)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.43,0:13:48.47,Default,Shizuru,0,0,0,,{\pos(1235.5,1015.75)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.47,0:13:48.51,Default,Shizuru,0,0,0,,{\pos(1243.5,1045.5)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.51,0:13:48.55,Default,Shizuru,0,0,0,,{\pos(1216.25,1045.5)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.55,0:13:48.59,Default,Shizuru,0,0,0,,{\pos(1243.75,1045)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.59,0:13:48.64,Default,Shizuru,0,0,0,,{\pos(1224.75,1018.5)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.64,0:13:48.68,Default,Shizuru,0,0,0,,{\pos(1249.75,1014.75)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.68,0:13:48.72,Default,Shizuru,0,0,0,,{\pos(1238,1037.5)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.72,0:13:48.76,Default,Shizuru,0,0,0,,{\pos(1240.5,1002.25)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.76,0:13:48.80,Default,Shizuru,0,0,0,,{\pos(1239.25,1038.75)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.80,0:13:48.84,Default,Shizuru,0,0,0,,{\pos(1245.75,1011)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.84,0:13:48.89,Default,Shizuru,0,0,0,,{\pos(1210.75,999.5)\bord0\shad0\blur2}down!
+Dialogue: 10,0:13:48.89,0:13:48.93,Default,Shizuru,0,0,0,,{\pos(1211.5,1037.25)\bord0\shad0\blur2}down!
+Dialogue: 9,0:13:47.18,0:13:47.22,Default,Shizuru,0,0,0,,{\pos(1218.5,1015)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.22,0:13:47.26,Default,Shizuru,0,0,0,,{\pos(1218.5,1043.75)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.26,0:13:47.30,Default,Shizuru,0,0,0,,{\pos(1232,1014)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.30,0:13:47.34,Default,Shizuru,0,0,0,,{\pos(1215.75,1016.25)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.34,0:13:47.38,Default,Shizuru,0,0,0,,{\pos(1230.5,1000.25)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.38,0:13:47.43,Default,Shizuru,0,0,0,,{\pos(1230.25,1043.25)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.43,0:13:47.47,Default,Shizuru,0,0,0,,{\pos(1214.25,1027)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.47,0:13:47.51,Default,Shizuru,0,0,0,,{\pos(1231.25,1005.25)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.51,0:13:47.55,Default,Shizuru,0,0,0,,{\pos(1252.25,1020.5)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.55,0:13:47.59,Default,Shizuru,0,0,0,,{\pos(1241.25,1036.5)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.59,0:13:47.63,Default,Shizuru,0,0,0,,{\pos(1246.5,1021)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.63,0:13:47.68,Default,Shizuru,0,0,0,,{\pos(1247.25,1042)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.68,0:13:47.72,Default,Shizuru,0,0,0,,{\pos(1247,1014.75)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.72,0:13:47.76,Default,Shizuru,0,0,0,,{\pos(1205.75,1044)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.76,0:13:47.80,Default,Shizuru,0,0,0,,{\pos(1229,1045)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.80,0:13:47.84,Default,Shizuru,0,0,0,,{\pos(1206.25,1034.75)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.84,0:13:47.89,Default,Shizuru,0,0,0,,{\pos(1221.5,1023.5)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.89,0:13:47.93,Default,Shizuru,0,0,0,,{\pos(1211.5,1038.75)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.93,0:13:47.97,Default,Shizuru,0,0,0,,{\pos(1230,1008.25)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:47.97,0:13:48.01,Default,Shizuru,0,0,0,,{\pos(1232.5,1041.25)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.01,0:13:48.05,Default,Shizuru,0,0,0,,{\pos(1237.75,1040)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.05,0:13:48.09,Default,Shizuru,0,0,0,,{\pos(1218.25,1015.75)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.09,0:13:48.14,Default,Shizuru,0,0,0,,{\pos(1215,1006)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.14,0:13:48.18,Default,Shizuru,0,0,0,,{\pos(1228,1018.25)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.18,0:13:48.22,Default,Shizuru,0,0,0,,{\pos(1222.75,1048.75)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.22,0:13:48.26,Default,Shizuru,0,0,0,,{\pos(1226.75,1003)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.26,0:13:48.30,Default,Shizuru,0,0,0,,{\pos(1215,1042.5)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.30,0:13:48.34,Default,Shizuru,0,0,0,,{\pos(1229.25,1022.5)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.34,0:13:48.39,Default,Shizuru,0,0,0,,{\pos(1244.5,1040.25)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.39,0:13:48.43,Default,Shizuru,0,0,0,,{\pos(1214,1039)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.43,0:13:48.47,Default,Shizuru,0,0,0,,{\pos(1235.5,1015.75)\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.47,0:13:48.51,Default,Shizuru,0,0,0,,{\pos(1243.5,1045.5)\3c&H151515&\4c&H151515&\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.51,0:13:48.55,Default,Shizuru,0,0,0,,{\pos(1216.25,1045.5)\3c&H2A2A2A&\4c&H2A2A2A&\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.55,0:13:48.59,Default,Shizuru,0,0,0,,{\pos(1243.75,1045)\3c&H3F3F3F&\4c&H3F3F3F&\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.59,0:13:48.64,Default,Shizuru,0,0,0,,{\pos(1224.75,1018.5)\3c&H555555&\4c&H555555&\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.64,0:13:48.68,Default,Shizuru,0,0,0,,{\pos(1249.75,1014.75)\3c&H6A6A6A&\4c&H6A6A6A&\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.68,0:13:48.72,Default,Shizuru,0,0,0,,{\pos(1238,1037.5)\3c&H7F7F7F&\4c&H7F7F7F&\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.72,0:13:48.76,Default,Shizuru,0,0,0,,{\pos(1240.5,1002.25)\3c&H949494&\4c&H949494&\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.76,0:13:48.80,Default,Shizuru,0,0,0,,{\pos(1239.25,1038.75)\3c&HAAAAAA&\4c&HAAAAAA&\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.80,0:13:48.84,Default,Shizuru,0,0,0,,{\pos(1245.75,1011)\3c&HBFBFBF&\4c&HBFBFBF&\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.84,0:13:48.89,Default,Shizuru,0,0,0,,{\pos(1210.75,999.5)\3c&HD4D4D4&\4c&HD4D4D4&\1a&HC8&\blur6}down!
+Dialogue: 9,0:13:48.89,0:13:48.93,Default,Shizuru,0,0,0,,{\pos(1211.5,1037.25)\3c&HE9E9E9&\4c&HE9E9E9&\1a&HC8&\blur6}down!
 Dialogue: 0,0:13:49.43,0:13:50.14,Default,Kokkoro,0,0,0,,Eep!
 Dialogue: 10,0:13:50.85,0:13:52.22,Default,Shizuru,0,0,0,,I'm sorry.
-Dialogue: 10,0:13:52.22,0:13:56.06,Default,Shizuru,0,0,0,,She tends to get a bit worked up \Nbecause our brother is very dear to us.
+Dialogue: 10,0:13:52.22,0:13:56.06,Default,Shizuru,0,0,0,,{\q2}She tends to get a bit worked up \Nbecause our brother is very dear to us.
 Dialogue: 10,0:13:56.06,0:13:58.73,Default,Shizuru,0,0,0,,I'm Shizuru, and this is Rino.
 Dialogue: 10,0:13:58.73,0:13:59.56,Default,Rino,0,0,0,,Hi...
-Dialogue: 10,0:13:59.56,0:14:00.90,Default,Kokkoro,0,0,0,,I-It's all right.
 Dialogue: 10,0:13:59.81,0:14:01.07,Default,Rino,0,0,0,,{\an8}I'm Rino...
-Dialogue: 10,0:14:00.90,0:14:03.53,Default,Kokkoro,0,0,0,,My name is Kokkoro.
 Dialogue: 10,0:14:01.90,0:14:04.61,Default,Rino,0,0,0,,{\an8}What an auspicious day this is...
-Dialogue: 10,0:14:03.53,0:14:06.90,Default,Kokkoro,0,0,0,,Um, I wasn't aware that my lord had sisters...
+Dialogue: 10,0:13:59.56,0:14:00.90,Default,Kokkoro,0,0,0,,I-It's all right.
+Dialogue: 10,0:14:00.90,0:14:03.53,Default,Kokkoro,0,0,0,,My name is Kokkoro.
+Dialogue: 10,0:14:03.53,0:14:06.90,Default,Kokkoro,0,0,0,,Um, I wasn't aware that my lord had sisters.
 Dialogue: 10,0:14:06.90,0:14:08.32,Default,Shizuru,0,0,0,,That's right.
 Dialogue: 10,0:14:08.32,0:14:11.16,Default,Shizuru,0,0,0,,Rino and I are his...
-Dialogue: 10,0:14:10.49,0:14:12.41,Default,Rino,0,0,0,,{\fscx50\fscy50\bord2.5\an5\pos(628.302,861.38)\frz9.981}O{*\frz9.823}h{*\frz9.665}, {*\frz9.349}l{*\frz9.191}o{*\frz9.033}o{*\frz8.875}k{*\frz8.717}, {*\frz8.401}b{*\frz8.242}i{*\frz8.084}r{*\frz7.926}d{*\frz7.768}i{*\frz7.61}e{*\frz7.452}s{*\frz7.294}.{*\frz7.136}.{*\frz6.978}.{\frz6.82}
+Dialogue: 11,0:14:10.49,0:14:12.41,Default,Rino,0,0,0,,{\an5\pos(628.302,861.38)\fscx50\fscy50\frz9.981\fsp2\bord0\shad0\blur0.7}O{\frz9.823}h{\frz9.665}, {\frz9.349}l{\frz9.191}o{\frz9.033}o{\frz8.875}k{\frz8.717}, {\frz8.401}b{\frz8.242}i{\frz8.084}r{\frz7.926}d{\frz7.768}i{\frz7.61}e{\frz7.452}s{\frz7.294}.{\frz7.136}.{\frz6.978}.{\frz6.82}
+Dialogue: 10,0:14:10.49,0:14:12.41,Default,Rino,0,0,0,,{\an5\pos(628.302,861.38)\fscx50\fscy50\frz9.981\fsp2\bord2\1a&HC8&\blur1}O{\frz9.823}h{\frz9.665}, {\frz9.349}l{\frz9.191}o{\frz9.033}o{\frz8.875}k{\frz8.717}, {\frz8.401}b{\frz8.242}i{\frz8.084}r{\frz7.926}d{\frz7.768}i{\frz7.61}e{\frz7.452}s{\frz7.294}.{\frz7.136}.{\frz6.978}.{\frz6.82}
 Dialogue: 10,0:14:12.41,0:14:14.79,Default,Shizuru,0,0,0,,Wait! He's gone!
 Dialogue: 10,0:14:20.25,0:14:21.17,Default,Kokkoro,0,0,0,,My lord...
-Dialogue: 10,0:14:22.00,0:14:23.75,Default,Rino,0,0,0,,Did the Shadows get him?!
+Dialogue: 10,0:14:22.00,0:14:23.75,Default,Rino,0,0,0,,Did the Shadows get him?
 Dialogue: 10,0:14:23.75,0:14:25.55,Default,Kokkoro,0,0,0,,In the middle of the city?
-Dialogue: 10,0:14:25.96,0:14:30.89,Default,Shizuru,0,0,0,,People have been going missing in Landosol. \NWe refer to them as the "lost".
-Dialogue: 10,0:14:31.72,0:14:33.39,Default,Shizuru,0,0,0,,I'm worried about our brother.
+Dialogue: 10,0:14:25.96,0:14:30.89,Default,Shizuru,0,0,0,,{\q2}People have been going missing in Landosol. \NWe refer to them as the "lost".
+Dialogue: 10,0:14:31.72,0:14:33.39,Default,Shizuru,0,0,0,,I'm worried.
 Dialogue: 10,0:14:33.85,0:14:35.56,Default,Shizuru,0,0,0,,We should split up and search for him!
 Dialogue: 10,0:14:35.56,0:14:36.39,Default,Kokkoro,0,0,0,,Right.
 Dialogue: 10,0:14:38.39,0:14:40.48,Default,Kokkoro,0,0,0,,{*}Lady Pecorine{*Pecorine-sama}!
-Dialogue: 10,0:14:40.81,0:14:42.56,Default,Pecorine,0,0,0,,What's the matter?
+Dialogue: 10,0:14:40.81,0:14:42.56,Default,Pecorine,0,0,0,,What's wrong, Kokkoro(**-chan}?
 Dialogue: 10,0:14:42.56,0:14:44.57,Default,Pecorine,0,0,0,,Did you find the material?
-Dialogue: 10,0:14:44.57,0:14:46.03,Default,Kokkoro,0,0,0,,It's not that.
+Dialogue: 10,0:14:44.57,0:14:46.03,Default,Kokkoro,0,0,0,,No, but that's not the issue.
 Dialogue: 10,0:14:46.03,0:14:48.07,Default,Kokkoro,0,0,0,,My lord has gone missing.
 Dialogue: 10,0:14:48.07,0:14:49.45,Default,Pecorine,0,0,0,,What?!
-Dialogue: 10,0:14:50.11,0:14:54.45,Default,Kokkoro,0,0,0,,A bystander I ran into said that Shadows \Nhave started appearing in Landosol, too.
+Dialogue: 10,0:14:50.11,0:14:54.45,Default,Kokkoro,0,0,0,,{\q2}A bystander I ran into said the Shadows \Nhave started appearing in Landosol, too.
 Dialogue: 10,0:14:54.45,0:14:56.25,Default,Pecorine,0,0,0,,Here, in the middle of town?!
 Dialogue: 10,0:14:56.91,0:14:59.58,Default,Kokkoro,0,0,0,,I can't be sure that's what happened,
 Dialogue: 10,0:14:59.58,0:15:00.83,Default,Kokkoro,0,0,0,,but we couldn't find any clues...
@@ -677,90 +679,91 @@ Dialogue: 10,0:15:23.77,0:15:25.19,Default,Guy2,0,0,0,,You don't know who you're
 Dialogue: 10,0:15:25.19,0:15:26.61,Default,Guy2,0,0,0,,Best give up on him.
 Dialogue: 10,0:15:28.36,0:15:30.20,Default,Kokkoro,0,0,0,,He's very dear to me!
 Dialogue: 10,0:15:30.20,0:15:32.20,Default,Kokkoro,0,0,0,,No matter what happened, I'll save him!
-Dialogue: 10,0:15:35.99,0:15:37.24,Default,Pecorine,0,0,0,,So, this is it?
+Dialogue: 10,0:15:35.99,0:15:37.24,Default,Pecorine,0,0,0,,So this is the place?
 Dialogue: 10,0:15:37.95,0:15:40.66,Default,Kokkoro,0,0,0,,My lord... I'm coming to save you now.
 Dialogue: 10,0:15:46.34,0:15:47.30,Default,Punk1,0,0,0,,The hell?!
 Dialogue: 10,0:15:47.30,0:15:48.59,Default,Punk2,0,0,0,,A raid?!
 Dialogue: 10,0:15:49.30,0:15:51.30,Default,Kokkoro,0,0,0,,My lord, are you all right?!
-Dialogue: 10,0:15:51.30,0:15:54.09,Default,Pecorine,0,0,0,,All right! We're gonna have you return Yuuki to us!
+Dialogue: 10,0:15:51.30,0:15:54.09,Default,Pecorine,0,0,0,,All right! Give Yuuki{**-kun} back!
 Dialogue: 10,0:15:54.09,0:15:57.47,Default,Charlie,0,0,0,,{*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:15:57.47,0:15:58.35,Default,Kokkoro,0,0,0,,Eep!
-Dialogue: 10,0:15:58.72,0:16:00.60,Default,Pecorine,0,0,0,,Ch-Charlie?!
+Dialogue: 10,0:15:58.72,0:16:00.60,Default,Pecorine,0,0,0,,Ch-Charlie{**-san}?!
 Dialogue: 10,0:16:01.10,0:16:03.15,Default,Charlie,0,0,0,,You came to save me!
 Dialogue: 10,0:16:03.15,0:16:05.90,Default,Charlie,0,0,0,,I saw a cute girl, so I couldn't resist making a pass,
-Dialogue: 10,0:16:05.90,0:16:08.90,Default,Charlie,0,0,0,,and then {\i1}this{\i0} happened!
+Dialogue: 10,0:16:05.90,0:16:08.90,Default,Charlie,0,0,0,,but then I got kidnapped!
 Dialogue: 10,0:16:12.86,0:16:15.91,Default,Bly,0,0,0,,Awfully noisy out here.
-Dialogue: 10,0:16:15.91,0:16:18.87,Default,Bly,0,0,0,,Who's the fool with the death wish?
+Dialogue: 10,0:16:15.91,0:16:18.87,Default,Bly,0,0,0,,Who's the dumbass with the death wish?
 Dialogue: 10,0:16:18.87,0:16:22.87,Default,Bly,0,0,0,,This here is the gate to Hell!
 Dialogue: 10,0:16:22.87,0:16:25.38,Default,Bly,0,0,0,,Whump.
 Dialogue: 10,0:16:25.38,0:16:27.79,Default,Bly,0,0,0,,You have the gall to defy me?!
-Dialogue: 10,0:16:27.79,0:16:33.88,Default,Bly,0,0,0,,I'll ram my hands right into your earholes and \Nmake your bellybutton lint do the monkey dance!
+Dialogue: 10,0:16:27.79,0:16:33.88,Default,Bly,0,0,0,,{\q2}I'll ram my hands right into your earholes and \Nmake your bellybutton lint do the monkey dance!
 Dialogue: 10,0:16:33.88,0:16:34.80,Default,Bly,0,0,0,,Oh.
 Dialogue: 10,0:16:35.47,0:16:36.05,Default,Pecorine,0,0,0,,Oh.
 Dialogue: 10,0:16:37.10,0:16:39.51,Default,Bly,0,0,0,,Uh, hey! Sorry 'bout all the fuss!
 Dialogue: 10,0:16:38.72,0:16:40.10,Default,All,0,0,0,,{\an8}We're sorry!
-Dialogue: 10,0:16:40.10,0:16:43.64,Default,Bly,0,0,0,,Oh, there's a lot of dog poop \Naround here, so watch your step!
-Dialogue: 10,0:16:43.64,0:16:46.27,Default,Bly,0,0,0,,Gah! {\i1}I{\i0} just stepped in it!
+Dialogue: 10,0:16:40.10,0:16:43.64,Default,Bly,0,0,0,,{\q2}Oh, there's a lotta dog shit \Naround here, so watch your step!
+Dialogue: 10,0:16:43.64,0:16:46.27,Default,Bly,0,0,0,,Oh, crap! {\i1}I{\i0} just stepped in it!
 Dialogue: 10,0:16:46.27,0:16:47.61,Default,Charlie,0,0,0,,Thank you!
-Dialogue: 10,0:16:47.61,0:16:51.28,Default,Charlie,0,0,0,,Thank you so much! Seriously!
-Dialogue: 10,0:16:54.66,0:16:55.28,Default,Shizuru,0,0,0,,Rino!
+Dialogue: 10,0:16:47.61,0:16:51.28,Default,Charlie,0,0,0,,I'm so happy! Thank you {\i1}so{\i0} much!
+Dialogue: 10,0:16:54.66,0:16:55.28,Default,Shizuru,0,0,0,,Rino{**-chan}!
 Dialogue: 10,0:16:55.57,0:16:57.16,Default,Rino,0,0,0,,I won't miss!
 Dialogue: 10,0:16:57.53,0:16:59.41,Default,Rino,0,0,0,,{Light}Arrow Rain!
 Dialogue: 10,0:17:04.75,0:17:06.33,Default,Rino,0,0,0,,This isn't the place.
-Dialogue: 10,0:17:07.58,0:17:09.25,Default,Shizuru,0,0,0,,Little Brother...
-Dialogue: 10,0:17:09.25,0:17:11.26,Default,Kokkoro,0,0,0,,Miss Shizuru! Miss Rino!
+Dialogue: 10,0:17:07.58,0:17:09.25,Default,Shizuru,0,0,0,,Yuuki{**-kun}...
+Dialogue: 10,0:17:09.25,0:17:11.26,Default,Kokkoro,0,0,0,,{*}Miss Shizuru{*Shizuru-sama}! {*}Miss Rino{*Rino-sama}!
 Dialogue: 10,0:17:12.71,0:17:13.84,Default,Rino,0,0,0,,Who's this?
 Dialogue: 10,0:17:14.55,0:17:17.14,Default,Kokkoro,0,0,0,,This is my guildmate, {*}Lady Pecorine{*Pecorine-sama}.
-Dialogue: 10,0:17:17.59,0:17:20.14,Default,Pecorine,0,0,0,,You two are looking for Yuuki, right?
+Dialogue: 10,0:17:17.59,0:17:20.14,Default,Pecorine,0,0,0,,You two are looking for Yuuki{**-kun}, right?
 Dialogue: 10,0:17:20.14,0:17:21.68,Default,Pecorine,0,0,0,,Thank you.
-Dialogue: 10,0:17:24.06,0:17:26.52,Default,Shizuru,0,0,0,,Kokkoro, have you found anything?
+Dialogue: 10,0:17:24.06,0:17:26.52,Default,Shizuru,0,0,0,,Kokkoro{**-chan}, have you found any clues?
 Dialogue: 10,0:17:26.52,0:17:27.69,Default,Kokkoro,0,0,0,,No.
 Dialogue: 10,0:17:30.32,0:17:31.94,Default,Pecorine,0,0,0,,We have no other choice.
 Dialogue: 10,0:17:31.94,0:17:34.53,Default,Pecorine,0,0,0,,We should post a request for a search.
 Dialogue: 10,0:17:42.08,0:17:44.66,Default,Karin,0,0,0,,Oh? What's the matter?
-Dialogue: 10,0:17:45.21,0:17:48.58,Default,Kokkoro,0,0,0,,Well... my lord has gone missing.
-Dialogue: 10,0:17:49.79,0:17:52.34,Default,Karin,0,0,0,,If you mean Yuuki, he was here earlier today.
-Dialogue: 10,0:17:52.71,0:17:54.26,Default,Kokkoro,0,0,0,,You mean it?!
-Dialogue: 10,0:17:56.63,0:17:59.14,Default,Karin,0,0,0,,Welcome back, Yuuki.
+Dialogue: 10,0:17:45.21,0:17:48.58,Default,Kokkoro,0,0,0,,Well, my lord has gone missing.
+Dialogue: 10,0:17:49.79,0:17:52.34,Default,Karin,0,0,0,,If you mean Yuuki{**-san}, he was here earlier today.
+Dialogue: 10,0:17:52.71,0:17:54.26,Default,Kokkoro,0,0,0,,Was he really?!
+Dialogue: 10,0:17:56.63,0:17:59.14,Default,Karin,0,0,0,,Welcome back, Yuuki{**-san}.
 Dialogue: 10,0:18:02.51,0:18:03.68,Default,Yuuki,0,0,0,,I'm back.
-Dialogue: 10,0:18:06.69,0:18:07.77,Default,Yuuki,0,0,0,,Here it is.
+Dialogue: 10,0:18:06.69,0:18:07.77,Default,Yuuki,0,0,0,,Here you go.
 Dialogue: 10,0:18:08.48,0:18:10.94,Default,Karin,0,0,0,,What a perfect rainbow silkworm.
-Dialogue: 10,0:18:11.73,0:18:13.98,Default,Karin,0,0,0,,I guess this completes your quest.
+Dialogue: 10,0:18:11.73,0:18:13.98,Default,Karin,0,0,0,,That completes your quest.
 Dialogue: 10,0:18:13.98,0:18:16.82,Default,Kokkoro,0,0,0,,Um... What is this?
-Dialogue: 10,0:18:17.49,0:18:20.70,Default,Karin,0,0,0,,He said he was looking for \Nsome kind of rare material,
+Dialogue: 10,0:18:17.49,0:18:20.70,Default,Karin,0,0,0,,{\q2}He said he was looking for \Nsome kind of rare material,
 Dialogue: 10,0:18:20.70,0:18:23.66,Default,Karin,0,0,0,,and he asked me if I had any good quests.
 Dialogue: 10,0:18:26.20,0:18:28.00,Default,Kokkoro,0,0,0,,You went by yourself?
 Dialogue: 10,0:18:28.46,0:18:29.12,Default,Yuuki,0,0,0,,Mhm!
 Dialogue: 10,0:18:34.96,0:18:37.13,Default,Yuuki,0,0,0,,When we were eating hot dogs...
-Dialogue: 10,0:18:57.94,0:19:01.37,Default,Yuuki,0,0,0,,It looked like I'd be able to \Nget the material we were looking for,
+Dialogue: 10,0:18:57.94,0:19:01.37,Default,Yuuki,0,0,0,,{\q2}It looked like I'd be able to \Nget the material we were looking for,
 Dialogue: 10,0:19:01.37,0:19:03.08,Default,Yuuki,0,0,0,,so I accepted the quest.
-Dialogue: 10,0:19:05.04,0:19:07.16,Default,Kokkoro,0,0,0,,You did such a difficult quest alone.
-Dialogue: 10,0:19:08.00,0:19:09.37,Default,Kokkoro,0,0,0,,I'm so glad you're all right.
-Dialogue: 10,0:19:10.62,0:19:12.75,Default,Yuuki,0,0,0,,I almost got eaten.
-Dialogue: 10,0:19:13.25,0:19:16.25,Default,Pecorine,0,0,0,,Thank you so much, Yuuki!
+Dialogue: 10,0:19:05.04,0:19:07.16,Default,Kokkoro,0,0,0,,You did such a difficult quest by yourself.
+Dialogue: 10,0:19:08.00,0:19:09.37,Default,Kokkoro,0,0,0,,I'm so glad you're safe.
+Dialogue: 10,0:19:10.62,0:19:12.75,Default,Yuuki,0,0,0,,It almost ate me!
+Dialogue: 10,0:19:13.25,0:19:16.25,Default,Pecorine,0,0,0,,Thank you so much, Yuuki{**-kun}!
 Dialogue: 10,0:19:20.72,0:19:24.26,Default,Yuuki,0,0,0,,Do you think we can fix Karyl's plushie now?
 Dialogue: 10,0:19:26.10,0:19:27.27,Default,Both,0,0,0,,Yes!
 Dialogue: 10,0:19:29.43,0:19:31.77,Default,Shizuru,0,0,0,,He may have lost his memories,
-Dialogue: 10,0:19:31.77,0:19:34.90,Default,Shizuru,0,0,0,,but the way he does his best \Nto help others hasn't changed.
-Dialogue: 10,0:19:35.44,0:19:38.49,Default,Shizuru,0,0,0,,He's still my beloved little brother.
-Dialogue: 10,0:19:42.66,0:19:46.03,Default,Kokkoro,0,0,0,,Miss Shizuru, Miss Rino, thank you for—
+Dialogue: 10,0:19:31.77,0:19:34.90,Default,Shizuru,0,0,0,,but his selflessness remains unchanged.
+Dialogue: 10,0:19:35.44,0:19:38.49,Default,Shizuru,0,0,0,,He's still the same brother I love.
+Dialogue: 10,0:19:42.66,0:19:46.03,Default,Kokkoro,0,0,0,,{*}Miss Shizuru{*Shizuru-sama}, {*}Miss Rino{*Rino-sama}, thank you for—
 Dialogue: 10,0:19:52.54,0:19:56.04,Default,Kokkoro,0,0,0,,Truly, thank you both so much.
-Dialogue: 10,0:20:03.14,0:20:07.06,Default,Karyl,0,0,0,,{\i1}That Shadow wasn't the same \Nas the ones from before.
-Dialogue: 10,0:20:08.97,0:20:11.94,Default,Karyl,0,0,0,,{\i1}Should I really continue doing this?
-Dialogue: 10,0:20:22.49,0:20:25.41,Default,Karyl,0,0,0,,I'm back! And I'm hungry...
-Dialogue: 10,0:20:33.87,0:20:35.71,Default,Three,0,0,0,,We're back!
+Dialogue: 10,0:20:03.14,0:20:07.06,Default,Karyl,0,0,0,,{\i1}That Shadow was way different from the others.
+Dialogue: 10,0:20:08.97,0:20:11.94,Default,Karyl,0,0,0,,{\i1}Should I really continue this?
+Dialogue: 10,0:20:22.49,0:20:25.41,Default,Karyl,0,0,0,,I'm home! And I'm starving...
+Dialogue: 10,0:20:33.87,0:20:35.71,Default,Two,0,0,0,,We're home!
+Dialogue: 10,0:20:33.87,0:20:35.71,Alt,Kokkoro,0,0,0,,We have returned.
 Dialogue: 10,0:20:50.72,0:20:52.68,Default,Karyl,0,0,0,,Took you long enough!
 Dialogue: 10,0:20:52.68,0:20:55.40,Default,Karyl,0,0,0,,What crazy side stops did you make this time?
 Dialogue: 10,0:22:40.00,0:22:41.33,Default,Labyrista,0,0,0,,Hi there.
 Dialogue: 10,0:22:43.38,0:22:45.05,Default,Labyrista,0,0,0,,Long time no see.
-Dialogue: 10,0:22:46.88,0:22:50.55,Default,Labyrista,0,0,0,,Never thought chasing those Shadows \Nwould lead me to you.
+Dialogue: 10,0:22:46.88,0:22:50.55,Default,Labyrista,0,0,0,,{\q2}Never thought chasing those Shadows \Nwould lead me to you.
 Dialogue: 10,0:22:51.89,0:22:55.43,Default,Labyrista,0,0,0,,Have you been looking into Omniscient Kaiser, too?
-Dialogue: 10,0:22:57.23,0:22:59.85,Default,Labyrista,0,0,0,,Now, don't get all defensive.
+Dialogue: 10,0:22:57.23,0:22:59.85,Default,Labyrista,0,0,0,,C'mon, don't get so defensive.
 Dialogue: 10,0:23:00.10,0:23:01.61,Default,Labyrista,0,0,0,,I bear no grudges toward you.
-Dialogue: 10,0:23:03.44,0:23:08.90,Default,Neneka,0,0,0,,I don't have enough information \Nto trust that statement,
+Dialogue: 10,0:23:03.44,0:23:08.90,Default,Neneka,0,0,0,,{\q2}I don't have enough information \Nto trust that statement,
 Dialogue: 10,0:23:09.45,0:23:11.11,Default,Labyrista,0,0,0,,Queen Labyrinth.
-Dialogue: 10,0:23:13.24,0:23:15.58,Default,Labyrista,0,0,0,,It's been a long time since \Nsomeone last called me that.
+Dialogue: 10,0:23:13.24,0:23:15.58,Default,Labyrista,0,0,0,,It's been a long time since someone called me that,
 Dialogue: 10,0:23:18.00,0:23:20.00,Default,Labyrista,0,0,0,,Metamorregnant.
 Dialogue: 10,0:23:21.42,0:23:24.25,Default,Neneka,0,0,0,,I have no interest in teaming up with you right now.
-Dialogue: 10,0:23:28.42,0:23:29.67,Default,Labyrista,0,0,0,,See you sometime,
-Dialogue: 10,0:23:31.38,0:23:33.97,Default,Labyrista,0,0,0,,my fellow Seven Crowns leader.
+Dialogue: 10,0:23:28.42,0:23:29.67,Default,Labyrista,0,0,0,,See you again sometime,
+Dialogue: 10,0:23:31.38,0:23:33.97,Default,Labyrista,0,0,0,,fellow Seven Crown.
