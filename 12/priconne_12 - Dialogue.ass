@@ -34,11 +34,11 @@ Dialogue: 10,0:02:23.70,0:02:28.25,Default,Pecorine,0,0,0,,Everyone! I fried up 
 Dialogue: 10,0:02:29.62,0:02:31.67,Default,Karyl,0,0,0,,Did you remember to leave them runny?
 Dialogue: 10,0:02:31.67,0:02:32.88,Default,Pecorine,0,0,0,,Of course!
 Dialogue: 10,0:02:33.67,0:02:37.01,Default,Kokkoro,0,0,0,,So you went to the market earlier this morning.
-Dialogue: 10,0:02:40.72,0:02:41.93,Default,Kokkoro,0,0,0,,Miss Karyl?
+Dialogue: 10,0:02:40.72,0:02:41.93,Default,Kokkoro,0,0,0,,{*}Lady Karyl{*Kyaru-sama}?
 Dialogue: 10,0:02:41.93,0:02:43.47,Default,Karyl,0,0,0,,Hold on.
 Dialogue: 10,0:02:44.26,0:02:45.89,Default,Karyl,0,0,0,,Something's missing!
 Dialogue: 10,0:02:45.89,0:02:49.69,Default,Karyl,0,0,0,,There's no bread to sandwich \Nthese tasty-looking eggs between!
-Dialogue: 10,0:02:51.81,0:02:55.78,Default,Pecorine,0,0,0,,Exactly! I'm glad you noticed, Karyl!
+Dialogue: 10,0:02:51.81,0:02:55.78,Default,Pecorine,0,0,0,,Exactly! I'm glad you noticed, {*}Karyl{*Kyaru-chan}!
 Dialogue: 10,0:02:55.78,0:02:58.32,Default,Pecorine,0,0,0,,That's {\i1}exactly{\i0} what I wanted to \Ntalk to you all about!
 Dialogue: 10,0:02:59.95,0:03:01.24,Default,Pecorine,0,0,0,,Ta-dah!
 Dialogue: 10,0:03:01.24,0:03:04.70,Default,Pecorine,0,0,0,,When I went to the market, \Nthere weren't many goods for sale.
@@ -55,7 +55,7 @@ Dialogue: 10,0:03:39.36,0:03:41.20,Default,Karyl,0,0,0,,Let. Me. Check.
 Dialogue: 10,0:03:47.83,0:03:49.08,Default,Karyl,0,0,0,,The hell?!
 Dialogue: 10,0:03:49.41,0:03:50.91,Default,Karyl,0,0,0,,What's your deal?!
 Dialogue: 10,0:03:50.91,0:03:53.79,Default,Karyl,0,0,0,,Don't just take such scary quests \Nfor us first thing in the morning!
-Dialogue: 10,0:03:53.79,0:03:55.96,Default,Pecorine,0,0,0,,Please, Karyl, don't be like that!
+Dialogue: 10,0:03:53.79,0:03:55.96,Default,Pecorine,0,0,0,,Please, {*}Karyl{*Kyaru-chan}, don't be like that!
 Dialogue: 10,0:03:55.96,0:03:57.88,Default,Pecorine,0,0,0,,Everyone's in great need right now!
 Dialogue: 10,0:03:57.88,0:03:59.01,Default,Pecorine,0,0,0,,Oh, I know!
 Dialogue: 10,0:03:59.01,0:04:01.92,Default,Pecorine,0,0,0,,If you do it, I'll cuddle you awake every day!
@@ -76,12 +76,12 @@ Dialogue: 10,0:04:49.68,0:04:51.43,Default,Pecorine,0,0,0,,Since it's running so
 Dialogue: 10,0:04:51.43,0:04:54.10,Default,Pecorine,0,0,0,,we'll trap its feet and make sure it can't move.
 Dialogue: 10,0:04:54.52,0:04:56.19,Default,Karyl,0,0,0,,Dumborine!
 Dialogue: 10,0:04:56.19,0:05:02.40,Default,Karyl,0,0,0,,This is the last time I go along with \Nyour oh, so brilliant ideas, y'hear me?!
-Dialogue: 10,0:05:11.58,0:05:13.33,Default,Pecorine,0,0,0,,Thanks, Karyl!
+Dialogue: 10,0:05:11.58,0:05:13.33,Default,Pecorine,0,0,0,,Thanks, {*}Karyl{*Kyaru-chan}!
 Dialogue: 10,0:05:13.66,0:05:15.58,Default,Pecorine,0,0,0,,I'll take care of it for good!
 Dialogue: 10,0:05:15.58,0:05:18.58,Default,Pecorine,0,0,0,,Princess Strike!
 Dialogue: 10,0:05:23.92,0:05:25.93,Default,All,0,0,0,,We did it!
 Dialogue: 10,0:05:27.30,0:05:32.52,Default,Pecorine,0,0,0,,Now the people of Landosol \Ncan eat their fill again!
-Dialogue: 10,0:05:33.52,0:05:36.52,Default,Pecorine,0,0,0,,Karyl, Yuuki, Kokkoro...
+Dialogue: 10,0:05:33.52,0:05:36.52,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}, Yuuki{**-kun}, Kokkoro{**-chan}...
 Dialogue: 10,0:05:37.85,0:05:40.27,Default,Pecorine,0,0,0,,Thank you so much!
 Dialogue: 10,0:05:49.78,0:05:50.66,Default,Karyl,0,0,0,,Hey!
 Dialogue: 10,0:05:50.66,0:05:53.29,Default,Karyl,0,0,0,,S-Stop hugging me!
@@ -90,7 +90,7 @@ Dialogue: 10,0:06:12.31,0:06:17.06,Default,Karin,0,0,0,,I've confirmed that you 
 Dialogue: 10,0:06:17.06,0:06:19.73,Default,Karin,0,0,0,,And with that, please fill out this paperwork.
 Dialogue: 10,0:06:21.52,0:06:25.03,Default,Karyl,0,0,0,,Good thing Korosuke was so patient \Nwith teaching you, huh?
 Dialogue: 10,0:06:25.48,0:06:28.90,Default,Kokkoro,0,0,0,,No, this is purely my lord's own efforts paying off.
-Dialogue: 10,0:06:29.45,0:06:31.87,Default,Pecorine,0,0,0,,You've worked hard, Yuuki.
+Dialogue: 10,0:06:29.45,0:06:31.87,Default,Pecorine,0,0,0,,You've worked hard, Yuuki{**-kun}.
 Dialogue: 10,0:06:32.83,0:06:38.58,Default,Karin,0,0,0,,Never in a hundred years did I imagine Yuuki \Nwould be the one submitting a guild activity report.
 Dialogue: 10,0:06:39.17,0:06:40.08,Default,Karin,0,0,0,,Oh, my?
 Dialogue: 10,0:06:41.00,0:06:44.46,Default,Karin,0,0,0,,My apologies, but this part is wrong.
@@ -98,7 +98,7 @@ Dialogue: 10,0:06:45.71,0:06:48.42,Default,Karyl,0,0,0,,Sheesh... So close, yet 
 Dialogue: 10,0:06:48.42,0:06:51.93,Default,Karyl,0,0,0,,Don't just play it cool if you're \Nunsure about something. Just ask.
 Dialogue: 10,0:06:51.93,0:06:54.56,Default,Karyl,0,0,0,,Just jolting down random scribbles won't do.
 Dialogue: 10,0:07:02.73,0:07:04.52,Default,Pecorine,0,0,0,,Today's yet another beautiful day!
-Dialogue: 10,0:07:04.52,0:07:06.03,Default,Ikacchi,0,0,0,,Peco lady!
+Dialogue: 10,0:07:04.52,0:07:06.03,Default,Ikacchi,0,0,0,,{*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:07:06.44,0:07:08.53,Default,Pecorine,0,0,0,,Hi, Ikacchi and Charlie!
 Dialogue: 10,0:07:08.53,0:07:12.11,Default,Charlie,0,0,0,,We heard you just took out a monster!
 Dialogue: 10,0:07:12.11,0:07:13.66,Default,Charlie,0,0,0,,Awesome as always!
@@ -116,7 +116,7 @@ Dialogue: 10,0:07:41.06,0:07:43.81,Default,Pecorine,0,0,0,,Everyone can eat deli
 Dialogue: 10,0:07:48.69,0:07:50.57,Default,Yuuki,0,0,0,,Everyone was happy.
 Dialogue: 10,0:07:50.57,0:07:51.90,Default,Pecorine,0,0,0,,Yeah!
 Dialogue: 10,0:07:51.90,0:07:56.83,Default,Pecorine,0,0,0,,Landosol should always be full \Nof smiling faces, after all!
-Dialogue: 10,0:07:58.20,0:08:01.41,Default,Kokkoro,0,0,0,,They were thanking you, too, Miss Karyl.
+Dialogue: 10,0:07:58.20,0:08:01.41,Default,Kokkoro,0,0,0,,They were thanking you, too, {*}Lady Karyl{*Kyaru-sama}.
 Dialogue: 10,0:08:01.41,0:08:04.21,Default,Karyl,0,0,0,,That really ain't my thing.
 Dialogue: 10,0:08:07.75,0:08:09.71,Default,Pecorine,0,0,0,,Are you hungry?
 Dialogue: 10,0:08:09.71,0:08:13.05,Default,Pecorine,0,0,0,,Let's stop for a light afternoon dessert!
@@ -190,7 +190,7 @@ Dialogue: 10,0:14:00.52,0:14:03.11,Default,Pecorine,0,0,0,,You can't go to war o
 Dialogue: 10,0:14:03.11,0:14:06.95,Default,Pecorine,0,0,0,,Everything starts with a good meal, \Nso make sure you eat plenty.
 Dialogue: 10,0:14:06.95,0:14:08.70,Default,Yuuki,0,0,0,,Okaywmph.
 Dialogue: 10,0:14:08.70,0:14:11.08,Default,Kokkoro,0,0,0,,You show so much promise, my lord.
-Dialogue: 10,0:14:11.08,0:14:13.87,Default,Pecorine,0,0,0,,Anyway, Karyl is awfully late.
+Dialogue: 10,0:14:11.08,0:14:13.87,Default,Pecorine,0,0,0,,Anyway, {*}Karyl{*Kyaru-chan} is awfully late.
 Dialogue: 10,0:14:14.37,0:14:16.96,Default,Kokkoro,0,0,0,,She said she'd go run an errand first.
 Dialogue: 10,0:14:17.46,0:14:20.08,Default,Pecorine,0,0,0,,We're gonna run out of food.
 Dialogue: 10,0:14:20.08,0:14:23.59,Default,Pecorine,0,0,0,,Let's order the same things again once she gets here!
@@ -226,9 +226,9 @@ Dialogue: 10,0:15:55.85,0:15:57.22,Default,Karyl,0,0,0,,That's...
 Dialogue: 10,0:15:57.22,0:15:59.73,Default,Pecorine,0,0,0,,That's the spirit, Yuuki!
 Dialogue: 10,0:16:01.85,0:16:03.40,Default,Kokkoro,0,0,0,,What was that sound?
 Dialogue: 10,0:16:03.40,0:16:04.48,Default,Pecorine,0,0,0,,Let's go check!
-Dialogue: 10,0:16:04.98,0:16:06.73,Default,Kokkoro,0,0,0,,Miss Pecorine!
+Dialogue: 10,0:16:04.98,0:16:06.73,Default,Kokkoro,0,0,0,,{*}Lady Pecorine{*Pecorine-sama}!
 Dialogue: 10,0:16:15.62,0:16:17.12,Default,Pecorine,0,0,0,,Are you okay?
-Dialogue: 10,0:16:17.12,0:16:18.49,Default,Charlie,0,0,0,,Peco lady!
+Dialogue: 10,0:16:17.12,0:16:18.49,Default,Charlie,0,0,0,,{*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:16:18.99,0:16:23.62,Default,Ikacchi,0,0,0,,We've got trouble! There's a monster in Landosol!
 Dialogue: 10,0:16:23.62,0:16:26.59,Default,Charlie,0,0,0,,Karyl was with us, but we lost sight of her!
 Dialogue: 10,0:16:26.59,0:16:29.63,Default,Ikacchi,0,0,0,,What are the palace knights doing?!
@@ -265,14 +265,14 @@ Dialogue: 10,0:17:48.63,0:17:51.75,Default,Pecorine,0,0,0,,Please help me protec
 Dialogue: 10,0:17:55.63,0:17:56.76,Default,Pecorine,0,0,0,,Karyl?
 Dialogue: 10,0:18:00.76,0:18:02.51,Default,Pecorine,0,0,0,,Full power! Full throttle!
 Dialogue: 10,0:18:02.51,0:18:04.56,Default,Pecorine,0,0,0,,Princess Strike!
-Dialogue: 10,0:18:14.82,0:18:16.86,Default,Kokkoro,0,0,0,,Miss Pecorine saves the day again.
+Dialogue: 10,0:18:14.82,0:18:16.86,Default,Kokkoro,0,0,0,,{*}Lady Pecorine{*Pecorine-sama} saves the day again.
 Dialogue: 10,0:18:26.54,0:18:28.67,Default,Pecorine,0,0,0,,My Princess Strike...
 Dialogue: 10,0:18:28.67,0:18:29.83,Default,Karyl,0,0,0,,...didn't work?
-Dialogue: 10,0:18:43.51,0:18:46.35,Default,Kokkoro,0,0,0,,Miss Karyl! Miss Pecorine!
-Dialogue: 10,0:18:55.44,0:18:58.11,Default,Pecorine,0,0,0,,Are you all right, Karyl?
+Dialogue: 10,0:18:43.51,0:18:46.35,Default,Kokkoro,0,0,0,,{*}Lady Karyl{*Kyaru-sama}! {*}Lady Pecorine{*Pecorine-sama}!
+Dialogue: 10,0:18:55.44,0:18:58.11,Default,Pecorine,0,0,0,,Are you all right, {*}Karyl{*Kyaru-chan}?
 Dialogue: 10,0:19:13.92,0:19:15.25,Default,Karyl,0,0,0,,Pecorine!
 Dialogue: 10,0:19:29.23,0:19:30.56,Default,Karyl,0,0,0,,Wait, this is...
-Dialogue: 10,0:19:30.56,0:19:34.23,Default,Pecorine,0,0,0,,That shoulder guard will protect you, Karyl.
+Dialogue: 10,0:19:30.56,0:19:34.23,Default,Pecorine,0,0,0,,That shoulder guard will protect you, {*}Karyl{*Kyaru-chan}.
 Dialogue: 10,0:19:34.23,0:19:37.07,Default,Karyl,0,0,0,,Stop it! No one asked you to do this!
 Dialogue: 10,0:19:37.07,0:19:38.94,Default,Karyl,0,0,0,,This isn't what I—
 Dialogue: 10,0:19:58.59,0:20:01.34,Default,Karyl,0,0,0,,Pecorine!
@@ -286,7 +286,7 @@ Dialogue: 10,0:20:46.72,0:20:49.26,Default,Karyl,0,0,0,,{\i1}was ready to abando
 Dialogue: 10,0:20:49.81,0:20:54.10,Default,Karyl,0,0,0,,{\i1}You're so...
 Dialogue: 10,0:20:58.73,0:20:59.94,Default,Karyl,0,0,0,,I've had it.
 Dialogue: 10,0:21:01.32,0:21:02.99,Default,Karyl,0,0,0,,I can't keep this up any longer.
-Dialogue: 10,0:21:06.07,0:21:07.87,Default,Kokkoro,0,0,0,,Miss Pecorine!
+Dialogue: 10,0:21:06.07,0:21:07.87,Default,Kokkoro,0,0,0,,{*}Lady Pecorine{*Pecorine-sama}!
 Dialogue: 10,0:21:15.17,0:21:17.08,Default,Kokkoro,0,0,0,,I'll cast healing magic right away!
 Dialogue: 10,0:21:52.70,0:21:53.62,Default,Kokkoro,0,0,0,,My lord!
 Dialogue: 10,0:22:08.13,0:22:10.68,Default,Kokkoro,0,0,0,,My lord!
@@ -302,7 +302,7 @@ Dialogue: 10,0:22:59.56,0:23:01.10,Default,Labyrista,0,0,0,,But that's just...
 Dialogue: 10,0:23:02.77,0:23:05.11,Default,Labyrista,0,0,0,,a front I use to conceal my identity.
 Dialogue: 10,0:23:08.74,0:23:09.90,Default,Kokkoro,0,0,0,,Is this...
 Dialogue: 10,0:23:11.16,0:23:14.66,Default,Kokkoro,0,0,0,,the inside of a castle?
-Dialogue: 10,0:23:31.68,0:23:34.14,Default,Kokkoro,0,0,0,,Miss Pecorine?
+Dialogue: 10,0:23:31.68,0:23:34.14,Default,Kokkoro,0,0,0,,{*}Lady Pecorine{*Pecorine-sama}?
 Comment: 0,0:23:35.14,0:23:40.14,Default,,0,0,0,,{ED}
 Comment: 0,0:25:05.15,0:25:10.15,Default,,0,0,0,,{PREV}
 Dialogue: 10,0:25:08.57,0:25:09.90,Default,All,0,0,0,,{\pos(1378,1024)}To be continued!

@@ -35,7 +35,7 @@ Dialogue: 10,0:02:04.31,0:02:07.27,Default,Kokkoro,0,0,0,,Heave-ho, heave-ho...
 Dialogue: 10,0:02:07.27,0:02:11.77,Default,Karyl,0,0,0,,{\t(3279,4280,1,\c&H000000&\3c&H000000&\4c&H000000&)}My tummy... is already full...
 Dialogue: 10,0:02:11.77,0:02:14.28,Default,All,0,0,0,,Let's eat!
 Dialogue: 10,0:02:14.61,0:02:18.24,Default,Karyl,0,0,0,,{\q2}We went through a lot, \Nbut all in all, it was a fun holiday.
-Dialogue: 10,0:02:18.24,0:02:20.87,Default,Pecorine,0,0,0,,We have Kokkoro to thank for winning that lottery.
+Dialogue: 10,0:02:18.24,0:02:20.87,Default,Pecorine,0,0,0,,We have Kokkoro{**-chan} to thank for winning that lottery.
 Dialogue: 10,0:02:21.82,0:02:25.41,Default,Kokkoro,0,0,0,,I'm so happy that all of you enjoyed it.
 Dialogue: 10,0:02:25.87,0:02:27.37,Default,Karyl,0,0,0,,That aside...
 Dialogue: 10,0:02:29.83,0:02:33.25,Default,Karyl,0,0,0,,These squid sandwiches aren't half bad.
@@ -44,7 +44,7 @@ Dialogue: 10,0:02:35.84,0:02:39.55,Default,Karyl,0,0,0,,Good luck finding anothe
 Dialogue: 10,0:02:41.55,0:02:46.06,Default,Kokkoro,0,0,0,,{\q2}It feels like we're really starting to \Nfulfil our goal of exploring different foods.
 Dialogue: 10,0:02:46.06,0:02:47.81,Default,Pecorine,0,0,0,,It sure does!
 Dialogue: 10,0:02:47.81,0:02:51.52,Default,Pecorine,0,0,0,,The Gourmet Guild feels like a proper guild now!
-Dialogue: 10,0:02:57.49,0:02:59.28,Default,Kokkoro,0,0,0,,Miss Karyl!
+Dialogue: 10,0:02:57.49,0:02:59.28,Default,Kokkoro,0,0,0,,{*}Lady Karyl{*Kyaru-sama}!
 Dialogue: 10,0:02:59.86,0:03:01.53,Default,Karyl,0,0,0,,What's up, Korosuke?
 Dialogue: 10,0:03:02.07,0:03:06.16,Default,Kokkoro,0,0,0,,{\q2}We're going to take this to \Nthe restaurant owner as a souvenir.
 Dialogue: 10,0:03:06.16,0:03:09.16,Default,Karyl,0,0,0,,Did Pecorine forget to bring it to work today?
@@ -229,13 +229,13 @@ Dialogue: 10,0:14:14.91,0:14:17.12,Default,QP (Dangerous),0,0,0,,I'm Miyako and 
 Dialogue: 10,0:14:17.12,0:14:19.25,Default,QP (Dangerous),0,0,0,,Hand over all of your pudding right now!
 Dialogue: 10,0:14:19.25,0:14:22.54,Default,Karyl,0,0,0,,{\q2}How the heck did you come back \Npossessed by a ghost?!
 Dialogue: 10,0:14:22.54,0:14:25.13,Default,Karyl,0,0,0,,What if we all end up cursed?!
-Dialogue: 10,0:14:25.42,0:14:28.51,Default,Kokkoro,0,0,0,,Miss Karyl, I can explain this.
+Dialogue: 10,0:14:25.42,0:14:28.51,Default,Kokkoro,0,0,0,,{*}Lady Karyl{*Kyaru-sama}, I can explain this.
 Dialogue: 10,0:14:31.39,0:14:33.51,Default,Karyl,0,0,0,,I don't get it, but I understand now.
 Dialogue: 10,0:14:33.51,0:14:38.85,Default,Karyl,0,0,0,,{\q2}So you're supposed to make pudding for her \Nto replace the pudding you ruined?
 Dialogue: 10,0:14:39.31,0:14:40.27,Default,Yuuki,0,0,0,,Mhm!
 Dialogue: 10,0:14:40.85,0:14:43.11,Default,Karyl,0,0,0,,"Mhm" {\alphaFF\t(1190,1190,\alpha00)}my ass!
 Dialogue: 10,0:14:43.11,0:14:45.03,Default,Karyl,0,0,0,,Don't just put more work on our lap!
-Dialogue: 10,0:14:45.03,0:14:46.94,Default,Kokkoro,0,0,0,,Now, now, Miss Karyl.
+Dialogue: 10,0:14:45.03,0:14:46.94,Default,Kokkoro,0,0,0,,Now, now, {*}Lady Karyl{*Kyaru-sama}.
 Dialogue: 10,0:14:46.94,0:14:50.24,Default,Kokkoro,0,0,0,,Miyako is not an evil ghost.
 Dialogue: 10,0:14:50.24,0:14:53.66,Default,QP (Dangerous),0,0,0,,That's right. I’m a friendly ghost.
 Dialogue: 10,0:14:53.66,0:14:54.87,Default,Karyl,0,0,0,,Stop!
@@ -244,7 +244,7 @@ Dialogue: 10,0:14:56.25,0:14:59.29,Default,Karyl,0,0,0,,Please, I beg of you! Do
 Dialogue: 10,0:15:02.67,0:15:05.92,Default,Guy,0,0,0,,The theatre's been torn down again!
 Dialogue: 10,0:15:06.34,0:15:09.05,Default,Guy,0,0,0,,An official notice from Eustania herself?
 Dialogue: 10,0:15:09.05,0:15:12.76,Default,Guy,0,0,0,,{\q2}It's one of the few pleasures us \Ncommoners have... I don't understand...
-Dialogue: 10,0:15:14.26,0:15:16.06,Default,Charlie,0,0,0,,Hey, Peco lady!
+Dialogue: 10,0:15:14.26,0:15:16.06,Default,Charlie,0,0,0,,Hey, {*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:15:16.06,0:15:18.18,Default,Pecorine,0,0,0,,Charlie and Ikacchi!
 Dialogue: 10,0:15:18.18,0:15:20.14,Default,Pecorine,0,0,0,,And the boss, too!
 Dialogue: 10,0:15:20.14,0:15:21.56,Default,Pecorine,0,0,0,,How unusual to see you all here.
@@ -297,7 +297,7 @@ Dialogue: 10,0:17:23.60,0:17:27.02,Default,Karyl,0,0,0,,What is Pecorine doing a
 Dialogue: 10,0:17:27.02,0:17:31.32,Default,QP (Dangerous),0,0,0,,{\q2}Shut that little mouth and \Nget that pudding-making going
 Dialogue: 10,0:17:31.32,0:17:32.99,Default,QP (Dangerous),0,0,0,,or I'll curse you!
 Dialogue: 10,0:17:32.99,0:17:35.78,Default,Karyl,0,0,0,,P-Please don't!
-Dialogue: 10,0:17:36.74,0:17:39.07,Default,Kokkoro,0,0,0,,Since Miss Pecorine is a splendid cook,
+Dialogue: 10,0:17:36.74,0:17:39.07,Default,Kokkoro,0,0,0,,Since {*}Lady Pecorine{*Pecorine-sama} is a splendid cook,
 Dialogue: 10,0:17:39.07,0:17:42.41,Default,Kokkoro,0,0,0,,I'm sure she could have made Miss Miyako happy...
 Dialogue: 10,0:17:47.75,0:17:50.50,Default,QP (Dangerous),0,0,0,,{\q2}What is this horrifying amalgamation \Nyou dare call pudding?
 Dialogue: 10,0:17:50.50,0:17:52.67,Default,QP (Dangerous),0,0,0,,Are you trying to kill me?
@@ -324,12 +324,12 @@ Dialogue: 10,0:18:49.52,0:18:51.56,Default,Yasuko,0,0,0,,Consider this my thanks
 Dialogue: 10,0:18:52.02,0:18:53.90,Default,Yasuko,0,0,0,,Go on, take it home.
 Dialogue: 10,0:18:56.19,0:18:57.86,Default,Pecorine,0,0,0,,Thank you so much!
 Dialogue: 10,0:18:58.86,0:19:01.37,Default,All,0,0,0,,See you soon!
-Dialogue: 10,0:19:01.37,0:19:03.37,Default,Charlie,0,0,0,,Peco lady!
+Dialogue: 10,0:19:01.37,0:19:03.37,Default,Charlie,0,0,0,,{*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:19:03.37,0:19:05.66,Default,Guy,0,0,0,,Come help out again!
 Dialogue: 10,0:19:06.58,0:19:08.46,Default,Pecorine,0,0,0,,I'm back!
 Dialogue: 10,0:19:08.46,0:19:12.67,Default,Karyl,0,0,0,,No! Don't eat me!
 Dialogue: 10,0:19:13.34,0:19:15.21,Default,Pecorine,0,0,0,,What happened to all of you?!
-Dialogue: 10,0:19:15.21,0:19:18.92,Default,Kokkoro,0,0,0,,Welcome back, Miss Pecorine.
+Dialogue: 10,0:19:15.21,0:19:18.92,Default,Kokkoro,0,0,0,,Welcome back, {*}Lady Pecorine{*Pecorine-sama}.
 Dialogue: 10,0:19:18.92,0:19:20.97,Default,Kokkoro,0,0,0,,There are several reasons for this.
 Dialogue: 10,0:19:20.97,0:19:22.59,Default,Shinobu,0,0,0,,Pardon our intrusion.
 Dialogue: 10,0:19:22.59,0:19:24.01,Default,QP (Dangerous),0,0,0,,Who are you?

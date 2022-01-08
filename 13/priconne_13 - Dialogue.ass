@@ -24,7 +24,7 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:09.20,0:00:11.74,Default,Kokkoro,0,0,0,,Miss Pecorine, you're all right!
+Dialogue: 10,0:00:09.20,0:00:11.74,Default,Kokkoro,0,0,0,,{*}Lady Pecorine{*Pecorine-sama}, you're all right!
 Dialogue: 10,0:00:13.36,0:00:14.99,Default,Kokkoro,0,0,0,,What is this place?
 Dialogue: 10,0:00:16.94,0:00:18.11,Default,Pecorine,0,0,0,,This is...
 Dialogue: 10,0:00:20.06,0:00:21.79,Default,Pecorine,0,0,0,,Landosol Castle.
@@ -99,7 +99,7 @@ Dialogue: 10,0:05:54.38,0:05:58.59,Default,Kaiser,0,0,0,,I will exterminate this
 Dialogue: 10,0:06:02.92,0:06:07.01,Default,Pecorine,0,0,0,,I got away from the person \Nwho was using my name
 Dialogue: 10,0:06:07.01,0:06:10.55,Default,Pecorine,0,0,0,,and set out on another journey...
 Dialogue: 10,0:06:10.55,0:06:12.10,Default,Pecorine,0,0,0,,a journey without end.
-Dialogue: 10,0:06:14.71,0:06:20.10,Default,Pecorine,0,0,0,,That's when I met you, Yuuki, and Karyl.
+Dialogue: 10,0:06:14.71,0:06:20.10,Default,Pecorine,0,0,0,,That's when I met you, Yuuki{**-kun}, and {*}Karyl{*Kyaru-chan}.
 Dialogue: 10,0:06:21.46,0:06:24.46,Default,Pecorine,0,0,0,,I was so happy. Life was wonderful.
 Dialogue: 10,0:06:25.14,0:06:26.83,Default,Pecorine,0,0,0,,I met all of you,
 Dialogue: 10,0:06:26.83,0:06:29.65,Default,Pecorine,0,0,0,,ate delicious meals with all of you...
@@ -118,11 +118,11 @@ Dialogue: 10,0:07:24.48,0:07:26.55,Default,Pecorine,0,0,0,,Because I only looked
 Dialogue: 10,0:07:27.26,0:07:30.98,Default,Pecorine,0,0,0,,Because I'm the way I am, \Nbecause I'm so selfish...
 Dialogue: 10,0:07:32.12,0:07:34.43,Default,Pecorine,0,0,0,,Karyl left me, too.
 Dialogue: 10,0:07:39.95,0:07:41.95,Default,Kokkoro,0,0,0,,I won't leave you.
-Dialogue: 10,0:07:42.66,0:07:47.98,Default,Kokkoro,0,0,0,,Whether you're Princess Eustiana or Miss Pecorine,
+Dialogue: 10,0:07:42.66,0:07:47.98,Default,Kokkoro,0,0,0,,Whether you're Princess Eustiana or {*}Lady Pecorine{*Pecorine-sama},
 Dialogue: 10,0:07:49.46,0:07:52.95,Default,Kokkoro,0,0,0,,the days we've spent together as the Gourmet Guild
 Dialogue: 10,0:07:52.95,0:07:59.00,Default,Kokkoro,0,0,0,,form an invaluable bond akin to any treasure to me.
 Dialogue: 10,0:07:59.95,0:08:02.73,Default,Kokkoro,0,0,0,,I'm sure my lord feels the same way.
-Dialogue: 10,0:08:04.89,0:08:07.32,Default,Kokkoro,0,0,0,,And Miss Karyl, as well.
+Dialogue: 10,0:08:04.89,0:08:07.32,Default,Kokkoro,0,0,0,,And {*}Lady Karyl{*Kyaru-sama}, as well.
 Dialogue: 10,0:08:19.22,0:08:20.49,Default,Pecorine,0,0,0,,Can we...
 Dialogue: 10,0:08:22.15,0:08:25.38,Default,Pecorine,0,0,0,,Can we stay like this just a little longer?
 Dialogue: 10,0:08:49.28,0:08:50.43,Default,Karyl,0,0,0,,Dumborine...
@@ -158,7 +158,7 @@ Dialogue: 10,0:11:16.82,0:11:19.83,Default,Labyrista,0,0,0,,you can never escape
 Dialogue: 10,0:11:19.83,0:11:26.12,Default,Labyrista,0,0,0,,This world came to be as a result of \Nthe battle between you and that will.
 Dialogue: 10,0:11:28.67,0:11:30.03,Default,Yuuki,0,0,0,,You mean...
 Dialogue: 10,0:11:32.17,0:11:33.55,Default,Yuuki,0,0,0,,These memories...
-Dialogue: 10,0:11:41.27,0:11:44.18,Default,Charlie,0,0,0,,Peco lady!
+Dialogue: 10,0:11:41.27,0:11:44.18,Default,Charlie,0,0,0,,{*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:11:44.52,0:11:46.78,Default,Ikacchi,0,0,0,,It's no use! I don't see her!
 Dialogue: 10,0:11:46.78,0:11:49.21,Default,Yasuko,0,0,0,,Quit your whining!
 Dialogue: 10,0:11:50.11,0:11:52.02,Default,Yasuko,0,0,0,,I know she's just fine!
@@ -263,19 +263,19 @@ Dialogue: 10,0:20:01.86,0:20:03.77,Default,Labyrista,0,0,0,,Excellent swordsmans
 Dialogue: 10,0:20:03.77,0:20:05.94,Default,Labyrista,0,0,0,,my Princess Knight.
 Dialogue: 10,0:20:19.28,0:20:22.24,Default,Yasuko,0,0,0,,Quit crying, you nincompoops!
 Dialogue: 10,0:20:22.24,0:20:24.24,Default,Charlie,0,0,0,,{\pos(404,1024)}But... But...
-Dialogue: 10,0:20:24.24,0:20:27.39,Default,Ikacchi,0,0,0,,{\pos(1484,1024)}If Peco lady and \Nher friends go away...
+Dialogue: 10,0:20:24.24,0:20:27.39,Default,Ikacchi,0,0,0,,{\pos(1484,1024)}If {*}Peco lady{*Peco-neesan} and \Nher friends go away...
 Dialogue: 10,0:20:27.39,0:20:29.92,Default,Yasuko,0,0,0,,Don't even say awful things like that!
 Dialogue: 10,0:20:29.92,0:20:31.04,Default,Ikacchi,0,0,0,,But, Mama...
 Dialogue: 10,0:20:31.04,0:20:33.86,Default,Yasuko,0,0,0,,If you've got the time to cry, \Nget your butt to work!
 Dialogue: 10,0:20:34.53,0:20:36.70,Default,Yasuko,0,0,0,,Also, that's "Mom" for you!
 Comment: 0,0:20:43.93,0:20:48.93,Default,,0,0,0,,{ED}
-Dialogue: 10,0:20:46.18,0:20:47.59,Default,Charlie,0,0,0,,Peco lady!
+Dialogue: 10,0:20:46.18,0:20:47.59,Default,Charlie,0,0,0,,{*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:20:47.59,0:20:49.31,Default,Ikacchi,0,0,0,,You're okay!
 Dialogue: 10,0:21:09.06,0:21:10.02,Default,Pecorine,0,0,0,,Karyl...
 Dialogue: 10,0:21:13.16,0:21:16.21,Default,Pecorine,0,0,0,,Thank you for honouring my selfish request.
 Dialogue: 10,0:21:21.93,0:21:23.97,Default,Karyl,0,0,0,,That was the last time.
 Dialogue: 10,0:21:25.73,0:21:26.56,Default,Pecorine,0,0,0,,Right!
-Dialogue: 10,0:21:27.93,0:21:30.23,Default,Pecorine,0,0,0,,I love you, Karyl!
+Dialogue: 10,0:21:27.93,0:21:30.23,Default,Pecorine,0,0,0,,I love you, {*}Karyl{*Kyaru-chan}!
 Comment: 0,0:22:39.17,0:22:44.17,Default,,0,0,0,,{OUTRO}
 Dialogue: 10,0:22:49.19,0:22:52.42,Default,Karyl,0,0,0,,Bread really is best with runny eggs!
 Dialogue: 10,0:22:52.42,0:22:53.64,Default,Pecorine,0,0,0,,It sure is!

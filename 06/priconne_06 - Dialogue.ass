@@ -215,7 +215,7 @@ Dialogue: 10,0:14:05.57,0:14:07.11,Default,Aoi,0,0,0,,"Team B-B"?
 Dialogue: 10,0:14:08.28,0:14:12.28,Default,Friend1,0,0,0,,{\q2}You heard that right. "B-B" as in "Bye-Bye". \NSay goodbye to your loneliness!
 Dialogue: 10,0:14:12.78,0:14:16.32,Default,Aoi,0,0,0,,I love it! "Bye-Bye Loneliness" is perfect!
 Dialogue: 10,0:14:16.32,0:14:19.72,Default,Aoi,0,0,0,,Team B-B! Team B-B!
-Dialogue: 10,0:14:19.72,0:14:21.32,Default,Aoi,0,0,0,,Come on, Yuuki! Join me!
+Dialogue: 10,0:14:19.72,0:14:21.32,Default,Aoi,0,0,0,,Come on, Yuuki{**-san}! Join me!
 Dialogue: 10,0:14:21.32,0:14:24.71,Default,Aoi,0,0,0,,Team B-B! Team B-B!
 Dialogue: 10,0:14:24.71,0:14:27.65,Default,Aoi,0,0,0,,Team B-B! Team—
 Dialogue: 10,0:14:26.05,0:14:27.65,Alt,Kokkoro,0,0,0,,My lord!
