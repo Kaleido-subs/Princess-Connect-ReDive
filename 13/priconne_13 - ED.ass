@@ -26,6 +26,8 @@ Style: ED - Ep13,Acme,60,&H00FFFFFF,&H00FFFFFF,&H00EDB500,&HA0000000,0,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:21:02.03,0:21:02.03,ED - Ep13,,0,0,0,code once,
+Comment: 0,0:20:54.07,0:20:54.07,ED - Ep13,,0,0,0,sync,
 Dialogue: 1,0:21:02.03,0:21:05.91,ED - Ep13,,0,0,0,,{\bord0\blur0.8\fad(200,200)}motto tanoshikunacchae \N{\fs50}How about we go have some more fun?
 Dialogue: 1,0:21:06.91,0:21:09.53,ED - Ep13,,0,0,0,,{\bord0\blur0.8\fad(200,200)}yuuwaku saretara \N{\fs50}Led purely by instinct alone
 Dialogue: 1,0:21:09.58,0:21:12.00,ED - Ep13,,0,0,0,,{\bord0\blur0.8\fad(200,200)}me ga te ga tomaranai \N{\fs50}Getting more fidgety as our interest rises
