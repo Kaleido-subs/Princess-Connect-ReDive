@@ -272,7 +272,7 @@ Dialogue: 10,0:15:59.73,0:16:02.44,Default,Yasuko,0,0,0,,My fool of a son told m
 Dialogue: 10,0:16:02.44,0:16:05.44,Default,Yasuko,0,0,0,,Sounds like you've come through for him quite a bit.
 Dialogue: 10,0:16:06.11,0:16:07.32,Default,Yasuko,0,0,0,,Thank you.
 Dialogue: 10,0:16:09.48,0:16:13.82,Default,Guy,0,0,0,,Hey, you got yourself a pretty little poster girl now!
-Dialogue: 10,0:16:13.82,0:16:16.49,Default,Guy,0,0,0,,I've gotta hire a young'un like her at my place.
+Dialogue: 10,0:16:13.82,0:16:16.49,Default,Guy,0,0,0,,I oughta hire a young'un like her at my place.
 Dialogue: 10,0:16:16.49,0:16:17.91,Default,Yasuko,0,0,0,,Shut yo' filthy mouth!
 Dialogue: 10,0:16:17.91,0:16:19.66,Default,Yasuko,0,0,0,,If you got time to blabber that junk,
 Dialogue: 10,0:16:19.66,0:16:22.16,Default,Yasuko,0,0,0,,don't leave your customers waiting!
@@ -280,7 +280,7 @@ Dialogue: 10,0:16:22.16,0:16:25.54,Default,Guy,0,0,0,,Sure, sure. I'm no match f
 Dialogue: 10,0:16:27.25,0:16:28.38,Default,Yasuko,0,0,0,,By the way,
 Dialogue: 10,0:16:28.38,0:16:31.17,Default,Yasuko,0,0,0,,I heard you've travelled to lots of places.
 Dialogue: 10,0:16:31.17,0:16:33.51,Default,Yasuko,0,0,0,,Sounds like a fine way to spend your youth.
-Dialogue: 10,0:16:33.51,0:16:37.26,Default,Yasuko,0,0,0,,I wish my fool son could be that resourceful.
+Dialogue: 10,0:16:33.51,0:16:37.26,Default,Yasuko,0,0,0,,{\q2}I {\i1}wish{\i0} my foolish son \Nwas even half as resourceful.
 Dialogue: 10,0:16:37.26,0:16:38.35,Default,Pecorine,0,0,0,,Really...
 Dialogue: 10,0:16:39.85,0:16:41.89,Default,Pecorine,0,0,0,,My parents taught me all I know.
 Dialogue: 10,0:16:42.89,0:16:45.40,Default,Pecorine,0,0,0,,It's because of them that I got to experience so much.
@@ -298,7 +298,7 @@ Dialogue: 10,0:17:14.09,0:17:18.05,Default,Yasuko,0,0,0,,{\q2}Would you look at 
 Dialogue: 10,0:17:18.05,0:17:20.51,Default,Yasuko,0,0,0,,If only it was always like this.
 Dialogue: 10,0:17:21.60,0:17:23.23,Default,Karyl,0,0,0,,Ugh!
 Dialogue: 10,0:17:23.60,0:17:27.02,Default,Karyl,0,0,0,,Where the hell is Pecorine when you need her?!
-Dialogue: 10,0:17:27.02,0:17:31.32,Default,QP (Dangerous),0,0,0,,{\q2}Shut that little mouth \Nand get your hands stirring!
+Dialogue: 10,0:17:27.02,0:17:31.32,Default,QP (Dangerous),0,0,0,,{\q2}Shut that little mouth of yours \Nand get those hands stirring!
 Dialogue: 10,0:17:31.32,0:17:32.99,Default,QP (Dangerous),0,0,0,,Else I'll curse you!
 Dialogue: 10,0:17:32.99,0:17:35.78,Default,Karyl,0,0,0,,P-Please don't!
 Dialogue: 10,0:17:36.74,0:17:39.07,Default,Kokkoro,0,0,0,,Since {*}Lady Pecorine{*Pecorine-sama} is a splendid cook,
@@ -329,7 +329,7 @@ Dialogue: 10,0:18:52.02,0:18:53.90,Default,Yasuko,0,0,0,,Go on, take it home.
 Dialogue: 10,0:18:56.19,0:18:57.86,Default,Pecorine,0,0,0,,Thank you so much!
 Dialogue: 10,0:18:58.86,0:19:01.37,Default,All,0,0,0,,See you soon!
 Dialogue: 10,0:19:01.37,0:19:03.37,Default,Charlie,0,0,0,,{*}Peco lady{*Peco-neesan}!
-Dialogue: 10,0:19:03.37,0:19:05.66,Default,Guy,0,0,0,,Come help out again!
+Dialogue: 10,0:19:03.37,0:19:06.04,Default,Guy,0,0,0,,{\t(1732,2650,\c&H000000&)}Come help out again!
 Dialogue: 10,0:19:06.58,0:19:08.46,Default,Pecorine,0,0,0,,I'm home!
 Dialogue: 10,0:19:08.46,0:19:12.67,Default,Karyl,0,0,0,,No! Don't eat me!
 Dialogue: 10,0:19:13.34,0:19:15.21,Default,Pecorine,0,0,0,,What happened to all of you?!
@@ -339,7 +339,7 @@ Dialogue: 10,0:19:20.97,0:19:22.59,Default,Shinobu,0,0,0,,Pardon our intrusion.
 Dialogue: 10,0:19:22.59,0:19:24.01,Default,QP (Dangerous),0,0,0,,Who are you?
 Dialogue: 10,0:19:24.01,0:19:27.85,Default,QP (Dangerous),0,0,0,,{\q2}If you're gonna stop me from eating my pudding, \NI'll turn you into pudding too!
 Dialogue: 10,0:19:27.85,0:19:30.02,Default,Pecorine,0,0,0,,You turned them all into pudding?
-Dialogue: 10,0:19:30.02,0:19:34.48,Default,QP (Dangerous),0,0,0,,{\q2}I gave them all this time, and they {\i1}still{\i0} \Ncouldn't make me delicious pudding!
+Dialogue: 10,0:19:30.02,0:19:34.48,Default,QP (Dangerous),0,0,0,,{\q2}I gave them all this time, and they {\i1}still{\i0} \Ncouldn't make any yummy pudding!
 Dialogue: 10,0:19:34.48,0:19:35.57,Default,Pecorine,0,0,0,,Please hold on!
 Dialogue: 10,0:19:36.07,0:19:38.36,Default,Pecorine,0,0,0,,I'll make delicious pudding for you!
 Dialogue: 10,0:19:38.36,0:19:41.03,Default,Pecorine,0,0,0,,Would you please turn them back to normal?
