@@ -24,64 +24,67 @@ Style: Alt,LTFinnegan Medium,72,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:10.99,0:00:15.99,Default,,0,0,0,,{OP}
-Comment: 0,0:01:40.99,0:01:46.00,Default,,0,0,0,,{PART A}
-Comment: 0,0:13:40.96,0:13:45.97,Default,,0,0,0,,{PART B}
-Comment: 0,0:22:04.92,0:22:09.97,Default,,0,0,0,,{ED}
-Comment: 0,0:23:34.93,0:23:39.98,Default,,0,0,0,,{PREV}
-Dialogue: 10,0:00:01.94,0:00:05.90,Default,QP (Dangerous),0,0,0,,Pudding... Pudding...
-Dialogue: 10,0:00:05.90,0:00:09.69,Default,QP (Dangerous),0,0,0,,Give me all your pudding.
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
+Comment: 0,0:00:10.99,0:00:10.99,Default,chapter,0,0,0,,{OP}
+Comment: 0,0:00:12.99,0:00:12.99,Default,,0,0,0,opsync,{OP sync — second cut}
+Comment: 0,0:01:40.99,0:01:41.00,Default,chapter,0,0,0,,{Part A}
+Comment: 0,0:13:40.96,0:13:40.97,Default,chapter,0,0,0,,{Part B}
+Comment: 0,0:22:04.92,0:22:04.93,Default,chapter,0,0,0,,{ED}
+Comment: 0,0:23:03.95,0:23:03.95,Default,,0,0,0,edsync,{ED sync — second cut}
+Comment: 0,0:23:34.93,0:23:34.93,Default,chapter,0,0,0,,{Preview}
+Dialogue: 10,0:00:01.94,0:00:05.90,Default,QP (Dangerous),0,0,0,,Pudding...
+Dialogue: 10,0:00:05.90,0:00:09.69,Default,QP (Dangerous),0,0,0,,Hand over all your pudding!
 Dialogue: 10,0:02:04.31,0:02:07.27,Default,Kokkoro,0,0,0,,Heave-ho, heave-ho...
-Dialogue: 10,0:02:07.27,0:02:11.77,Default,Karyl,0,0,0,,{\t(3279,4280,1,\c&H000000&\3c&H000000&\4c&H000000&)}My tummy... is already full...
-Dialogue: 10,0:02:11.77,0:02:14.28,Default,All,0,0,0,,Let's eat!
+Dialogue: 10,0:02:07.27,0:02:11.77,Default,Karyl,0,0,0,,{\t(3279,4280,\c&H000000&)}No, stop... I can't eat anymore...
+Dialogue: 10,0:02:11.77,0:02:14.28,Default,All,0,0,0,,Enjoy the food!
 Dialogue: 10,0:02:14.61,0:02:18.24,Default,Karyl,0,0,0,,{\q2}We went through a lot, \Nbut all in all, it was a fun holiday.
 Dialogue: 10,0:02:18.24,0:02:20.87,Default,Pecorine,0,0,0,,We have Kokkoro{**-chan} to thank for winning that lottery.
-Dialogue: 10,0:02:21.82,0:02:25.41,Default,Kokkoro,0,0,0,,I'm so happy that all of you enjoyed it.
+Dialogue: 10,0:02:21.82,0:02:25.41,Default,Kokkoro,0,0,0,,I'm so happy all of you enjoyed the trip.
 Dialogue: 10,0:02:25.87,0:02:27.37,Default,Karyl,0,0,0,,That aside...
 Dialogue: 10,0:02:29.83,0:02:33.25,Default,Karyl,0,0,0,,These squid sandwiches aren't half bad.
-Dialogue: 10,0:02:33.25,0:02:35.84,Default,Pecorine,0,0,0,,Shall we go catch another one?
-Dialogue: 10,0:02:35.84,0:02:39.55,Default,Karyl,0,0,0,,Good luck finding another monster squid like that.
-Dialogue: 10,0:02:41.55,0:02:46.06,Default,Kokkoro,0,0,0,,{\q2}It feels like we're really starting to \Nfulfil our goal of exploring different foods.
+Dialogue: 10,0:02:33.25,0:02:35.84,Default,Pecorine,0,0,0,,Wanna go catch another one?
+Dialogue: 10,0:02:35.84,0:02:39.55,Default,Karyl,0,0,0,,Good luck finding another Kraken.
+Dialogue: 10,0:02:41.55,0:02:46.06,Default,Kokkoro,0,0,0,,{\q2}It feels like we're truly beginning to fulfil our mission \Nand explore different kinds of food.
 Dialogue: 10,0:02:46.06,0:02:47.81,Default,Pecorine,0,0,0,,It sure does!
 Dialogue: 10,0:02:47.81,0:02:51.52,Default,Pecorine,0,0,0,,The Gourmet Guild feels like a proper guild now!
 Dialogue: 10,0:02:57.49,0:02:59.28,Default,Kokkoro,0,0,0,,{*}Lady Karyl{*Kyaru-sama}!
 Dialogue: 10,0:02:59.86,0:03:01.53,Default,Karyl,0,0,0,,What's up, Korosuke?
-Dialogue: 10,0:03:02.07,0:03:06.16,Default,Kokkoro,0,0,0,,{\q2}We're going to take this to \Nthe restaurant owner as a souvenir.
+Dialogue: 10,0:03:02.07,0:03:06.16,Default,Kokkoro,0,0,0,,{\q2}We're going to give the restaurant owner \Nsome squid sandwiches as a souvenir.
 Dialogue: 10,0:03:06.16,0:03:09.16,Default,Karyl,0,0,0,,Did Pecorine forget to bring it to work today?
 Dialogue: 10,0:03:09.91,0:03:12.38,Default,Kokkoro,0,0,0,,She said she was going shopping at the market today.
-Dialogue: 10,0:03:13.42,0:03:17.30,Default,Kokkoro,0,0,0,,{\q2}Since it's perishable, we wanted to \Nget it to him as soon as possible.
+Dialogue: 10,0:03:13.42,0:03:17.30,Default,Kokkoro,0,0,0,,{\q2}Since it's perishable, we would like to \Nget it to him as soon as possible.
 Dialogue: 10,0:03:17.30,0:03:18.55,Default,Karyl,0,0,0,,Okay.
-Dialogue: 10,0:03:18.55,0:03:23.05,Default,Karyl,0,0,0,,I'm still a bit tired, so I'll be house sitting.
+Dialogue: 10,0:03:18.55,0:03:23.05,Default,Karyl,0,0,0,,{\q2}I'm still a bit pooped, \Nso count on me for the house sitting.
 Dialogue: 10,0:03:23.05,0:03:25.39,Default,Kokkoro,0,0,0,,Okay. Please take care of things here.
-Dialogue: 10,0:03:28.02,0:03:30.02,Default,Lady,0,0,0,,{\an8}Come take a look!
-Dialogue: 10,0:03:30.02,0:03:32.27,Default,Guy,0,0,0,,Hey! Got some nice fish here!
-Dialogue: 10,0:03:32.27,0:03:34.73,Default,Guy,0,0,0,,These bananas are fresh from the Ceres Forest!
-Dialogue: 10,0:03:34.73,0:03:35.77,Default,Guy,0,0,0,,They're tasty!
+Dialogue: 10,0:03:28.02,0:03:30.02,Default,Lady,0,0,0,,Come look at our goods!
+Dialogue: 10,0:03:30.02,0:03:32.27,Default,Guy,0,0,0,,Ey, come check out some nice fish 'ere!
+Dialogue: 10,0:03:32.27,0:03:34.73,Default,Guy,0,0,0,,Bananas freshly harvested from the Ceres Forest!
+Dialogue: 10,0:03:34.73,0:03:35.77,Default,Guy,0,0,0,,They taste bananas!
 Dialogue: 10,0:03:35.77,0:03:39.36,Default,Lady,0,0,0,,{\an8}Care for some shaved ice from the Prigga Snowfields?
-Dialogue: 10,0:03:38.78,0:03:41.40,Default,Pecorine,0,0,0,,They all look delicious! It's so exciting!
+Dialogue: 10,0:03:38.78,0:03:41.40,Default,Pecorine,0,0,0,,Everything looks so delicious. It's so exciting!
 Dialogue: 10,0:03:44.45,0:03:46.99,Default,Kokkoro,0,0,0,,I hope he'll enjoy our souvenir.
 Dialogue: 10,0:03:46.99,0:03:47.79,Default,Yuuki,0,0,0,,Yep.
 Dialogue: 10,0:03:50.50,0:03:51.79,Default,Kokkoro,0,0,0,,Good morning.
 Dialogue: 10,0:03:52.04,0:03:52.79,Default,Kokkoro,0,0,0,,Eep!
-Dialogue: 10,0:03:53.17,0:03:55.84,Default,Ikacchi,0,0,0,,What's up with you today, boss?!
+Dialogue: 10,0:03:53.17,0:03:55.84,Default,Ikacchi,0,0,0,,What's the deal with you today, boss?!
 Dialogue: 10,0:03:55.84,0:03:58.38,Default,Charlie,0,0,0,,Make something that'll actually fill our bellies,
 Dialogue: 10,0:03:58.38,0:03:59.80,Default,Charlie,0,0,0,,like bugs or something!
-Dialogue: 10,0:03:59.80,0:04:03.84,Default,Owner,0,0,0,,Pudding... Pudding... Pudding...
+Dialogue: 10,0:03:59.80,0:04:03.84,Default,Owner,0,0,0,,Pudding...
 Dialogue: 10,0:04:03.84,0:04:05.30,Default,Yuuki,0,0,0,,He looks pale.
 Dialogue: 10,0:04:05.30,0:04:07.18,Default,Ikacchi,0,0,0,,Are we ever glad to see you!
 Dialogue: 10,0:04:07.18,0:04:10.39,Default,Ikacchi,0,0,0,,You guys gotta come snap the boss out of it!
-Dialogue: 10,0:04:10.39,0:04:12.94,Default,Charlie,0,0,0,,All he does is make pudding! He won't even sleep!
-Dialogue: 10,0:04:12.94,0:04:15.31,Default,Charlie,0,0,0,,He's gonna keel over at this rate!
-Dialogue: 10,0:04:16.19,0:04:18.90,Default,Kokkoro,0,0,0,,Perhaps you should rest a bit...
-Dialogue: 10,0:04:21.24,0:04:22.45,Default,Owner,0,0,0,,Pudding! Pudding!
+Dialogue: 10,0:04:10.39,0:04:12.94,Default,Charlie,0,0,0,,{\q2}All he does is make pudding! \NHe hasn't slept one bit!
+Dialogue: 10,0:04:12.94,0:04:15.31,Default,Charlie,0,0,0,,He's gonna keel over if this keeps up!
+Dialogue: 10,0:04:16.19,0:04:18.90,Default,Kokkoro,0,0,0,,Perhaps you should rest a bit.
+Dialogue: 10,0:04:21.24,0:04:22.45,Default,Owner,0,0,0,,Pudding!
 Dialogue: 10,0:04:22.74,0:04:25.32,Default,Owner,0,0,0,,Don't stop me! Don't you dare stop me!
-Dialogue: 10,0:04:25.32,0:04:28.33,Default,Owner,0,0,0,,I can hear it telling me to make more pudding!
+Dialogue: 10,0:04:25.32,0:04:28.33,Default,Owner,0,0,0,,I can hear it. It's telling me to make more pudding!
 Dialogue: 10,0:04:28.33,0:04:29.79,Default,Kokkoro,0,0,0,,My lord?
 Dialogue: 10,0:04:29.79,0:04:31.08,Default,Yuuki,0,0,0,,Something's there.
-Dialogue: 10,0:04:33.96,0:04:35.79,Default,Kokkoro,0,0,0,,There's nothing there...
+Dialogue: 10,0:04:33.96,0:04:35.79,Default,Kokkoro,0,0,0,,I don't see anything.
 Dialogue: 10,0:04:36.92,0:04:39.34,Default,Shinobu,0,0,0,,You can see
 Dialogue: 10,0:04:39.96,0:04:41.76,Default,Shinobu,0,0,0,,what's up there.
-Dialogue: 10,0:04:41.76,0:04:43.17,Default,Kokkoro,0,0,0,,Who are you?
+Dialogue: 10,0:04:41.76,0:04:43.17,Default,Kokkoro,0,0,0,,Who might you be?
 Dialogue: 10,0:04:44.51,0:04:46.51,Default,Shinobu,0,0,0,,I'm a fortune teller in this town.
 Dialogue: 10,0:04:46.51,0:04:48.14,Default,Shinobu,0,0,0,,My name is Shinobu.
 Dialogue: 10,0:04:48.85,0:04:54.06,Default,Shinobu,0,0,0,,{\q2}I heard a rumour that this restaurant's owner \Nwas making pudding as if possessed,
@@ -89,28 +92,28 @@ Dialogue: 10,0:04:54.06,0:04:55.60,Default,Shinobu,0,0,0,,so I came to check it 
 Dialogue: 10,0:04:55.60,0:04:58.61,Default,Owner,0,0,0,,{\an8}Pudding... Pudding...
 Dialogue: 10,0:04:56.52,0:04:58.61,Default,Shinobu,0,0,0,,{\q2}And it appears I met someone \NI wasn't expecting to.
 Dialogue: 10,0:04:58.61,0:05:01.61,Default,Kokkoro,0,0,0,,What do you mean by that?
-Dialogue: 10,0:05:02.53,0:05:08.57,Default,Shinobu,0,0,0,,{\q2}Miyako, this person might just \Nend up being our saviour.
+Dialogue: 10,0:05:02.53,0:05:08.57,Default,Shinobu,0,0,0,,{\q2}Miyako{**-san}, this person might just \Nend up being our saviour.
 Dialogue: 10,0:05:08.57,0:05:09.99,Default,Three,0,0,0,,Miyako?
 Dialogue: 10,0:05:11.95,0:05:15.08,Default,QP (Dangerous),0,0,0,,Nobody cares! Just give me my pudding!
 Dialogue: 10,0:05:16.87,0:05:18.71,Default,Kokkoro,0,0,0,,I-Is that...
 Dialogue: 10,0:05:18.71,0:05:20.38,Default,Ikacchi,0,0,0,,...a ghost?!
 Dialogue: 10,0:05:20.38,0:05:21.88,Default,Both,0,0,0,,PriConne!
-Dialogue: 10,0:05:25.09,0:05:28.01,Default,QP (Dangerous),0,0,0,,So yummy!
+Dialogue: 10,0:05:25.09,0:05:28.01,Default,QP (Dangerous),0,0,0,,This is so yummy!
 Dialogue: 10,0:05:28.01,0:05:35.77,Default,Owner,0,0,0,,{\an8}Temperature is everything when making pudding...
-Dialogue: 10,0:05:31.31,0:05:36.44,Default,QP (Dangerous),0,0,0,,{\q2}I was thinking about cursing him to death \Nwhen he started garnishing my pudding with bugs,
-Dialogue: 10,0:05:36.44,0:05:42.82,Default,QP (Dangerous),0,0,0,,but as it turns out, whispering him some orders \Nto whip up a lot of pudding was the right call!
 Dialogue: 10,0:05:37.40,0:05:44.24,Default,Owner,0,0,0,,{\an8}Teeth are everything to celebrities...
-Dialogue: 10,0:05:42.82,0:05:48.16,Default,Shinobu,0,0,0,,{\q2}You shouldn't possess people so mindlessly, Miyako.
+Dialogue: 10,0:05:31.31,0:05:36.44,Default,QP (Dangerous),0,0,0,,{\q2}I was thinking about cursing him to death \Nwhen he started garnishing my pudding with bugs,
+Dialogue: 10,0:05:36.44,0:05:42.82,Default,QP (Dangerous),0,0,0,,{\q2}but look at that! Whispering him some orders \Nto whip up a lot of pudding was the right call after all!
+Dialogue: 10,0:05:42.82,0:05:48.16,Default,Shinobu,0,0,0,,You shouldn't possess people so whimsically, Miyako{**-san}.
 Dialogue: 10,0:05:48.78,0:05:50.45,Default,QP (Dangerous),0,0,0,,Sure, whatever you say.
-Dialogue: 10,0:05:50.45,0:05:52.03,Default,Kokkoro,0,0,0,,Miss Shinobu...
+Dialogue: 10,0:05:50.45,0:05:52.03,Default,Kokkoro,0,0,0,,{*}Miss Shinobu{*Shinobu-sama}...
 Dialogue: 10,0:05:52.03,0:05:54.83,Default,Kokkoro,0,0,0,,Err, is it fine if I call you that?
-Dialogue: 10,0:05:55.91,0:05:57.54,Default,Kokkoro,0,0,0,,Could this lady perhaps be a...?
+Dialogue: 10,0:05:55.91,0:05:57.54,Default,Kokkoro,0,0,0,,Could this lady perhaps be a ghost?
 Dialogue: 10,0:05:58.46,0:06:02.50,Default,Shinobu,0,0,0,,She may have an abnormal attachment to pudding,
-Dialogue: 10,0:06:02.50,0:06:04.38,Default,Shinobu,0,0,0,,but yes. She’s an actual ghost.
-Dialogue: 10,0:06:06.22,0:06:07.09,Default,QP (Dangerous),0,0,0,,What's your problem?
+Dialogue: 10,0:06:02.50,0:06:04.38,Default,Shinobu,0,0,0,,but yes. She's a ghost.
+Dialogue: 10,0:06:06.22,0:06:07.09,Default,QP (Dangerous),0,0,0,,What do you want?
 Dialogue: 10,0:06:07.43,0:06:11.97,Default,QP (Dangerous),0,0,0,,This pudding's all mine. No sharing!
 Dialogue: 10,0:06:11.97,0:06:17.18,Default,Kokkoro,0,0,0,,I had no idea ghosts could be so cutesy.
-Dialogue: 10,0:06:17.18,0:06:21.77,Default,Shinobu,0,0,0,,Having seen Yuuki's power to sense this ghost,
+Dialogue: 10,0:06:17.18,0:06:21.77,Default,Shinobu,0,0,0,,Having seen Yuuki{**-san}'s power to sense this ghost for myself,
 Dialogue: 10,0:06:21.77,0:06:23.57,Default,Shinobu,0,0,0,,I would like to ask him a favour.
 Dialogue: 10,0:06:24.40,0:06:29.57,Default,Shinobu,0,0,0,,{\q2}Would you accompany us to \Nthe house of our guild, Diabolos?
 Dialogue: 10,0:06:33.66,0:06:38.50,Default,Kokkoro,0,0,0,,{\q2}I had no idea all this was happening \Nwhile we were on holiday.
@@ -119,26 +122,26 @@ Dialogue: 10,0:06:39.67,0:06:43.67,Default,QP (Dangerous),0,0,0,,Less talking, m
 Dialogue: 10,0:06:46.38,0:06:47.55,Default,Shinobu,0,0,0,,Here it is.
 Dialogue: 10,0:06:48.17,0:06:50.68,Default,Kokkoro,0,0,0,,This is quite an unusual guild house.
 Dialogue: 10,0:06:50.68,0:06:55.06,Default,QP (Dangerous),0,0,0,,I love how dark and cool it is. It feels so nice.
-Dialogue: 10,0:06:55.39,0:06:56.47,Default,Kokkoro,0,0,0,,I see...
-Dialogue: 10,0:07:00.65,0:07:04.15,Default,Yori,0,0,0,,Sh-Shinobu, what are you doing?
+Dialogue: 10,0:06:55.39,0:06:56.47,Default,Kokkoro,0,0,0,,I see.
+Dialogue: 10,0:07:00.65,0:07:04.15,Default,Yori,0,0,0,,Sh-Shinobu{**-san}, what are you doing?
 Dialogue: 10,0:07:04.15,0:07:08.40,Default,Yori,0,0,0,,H-How could you bring outsiders here?
 Dialogue: 10,0:07:08.40,0:07:10.15,Default,Shinobu,0,0,0,,Please be calm.
 Dialogue: 10,0:07:11.11,0:07:16.41,Default,Shinobu,0,0,0,,{\q2}This man might be the one \Nwho can make our ambition a reality.
 Dialogue: 10,0:07:16.41,0:07:17.91,Default,Akari,0,0,0,,You mean...
 Dialogue: 10,0:07:18.50,0:07:23.04,Default,Shinobu,0,0,0,,{\q2}The complete resurrection of \Nour queen of the denizens of darkness,
 Dialogue: 10,0:07:23.04,0:07:25.04,Default,Shinobu,0,0,0,,the Legendary Vampire.
-Dialogue: 10,0:07:25.34,0:07:29.55,Default,Kokkoro,0,0,0,,Th-That was a lot of rather unsettling words.
+Dialogue: 10,0:07:25.34,0:07:29.55,Default,Kokkoro,0,0,0,,Th-Those were a lot of rather unsettling words.
 Dialogue: 10,0:07:29.55,0:07:32.72,Default,Kokkoro,0,0,0,,My lord, we should take our leave for today.
 Dialogue: 10,0:07:36.47,0:07:38.43,Default,Illya,0,0,0,,Where do you plan on going?
-Dialogue: 10,0:07:38.43,0:07:41.44,Default,Illya,0,0,0,,Intruders in my castle...
+Dialogue: 10,0:07:38.43,0:07:41.44,Default,Illya,0,0,0,,Those who dare intrude my castle,
 Dialogue: 10,0:07:42.14,0:07:47.07,Default,Illya,0,0,0,,I shall grant you the honour of an audience with me.
 Dialogue: 10,0:08:03.54,0:08:07.71,Default,Illya,0,0,0,,Welcome, child of man and child of elf.
-Dialogue: 10,0:08:08.13,0:08:14.47,Default,Illya,0,0,0,,I am she who rules the night: Illya Ornstein.
+Dialogue: 10,0:08:08.13,0:08:14.47,Default,Illya,0,0,0,,I am she who rules the night: Illya Ornstein. {## #NotMyIllya}
 Dialogue: 10,0:08:14.84,0:08:18.22,Default,Kokkoro,0,0,0,,{\q2}I sense an enormous amount \Nof magic within that crystal.
 Dialogue: 10,0:08:18.22,0:08:19.77,Default,Kokkoro,0,0,0,,This is...
 Dialogue: 10,0:08:19.77,0:08:21.73,Default,Illya,0,0,0,,You can tell?
 Dialogue: 10,0:08:21.73,0:08:26.86,Default,Illya,0,0,0,,This is but a fragment of my power, elf girl.
-Dialogue: 10,0:08:27.31,0:08:30.07,Default,Illya,0,0,0,,No need to be so tense.
+Dialogue: 10,0:08:27.31,0:08:30.07,Default,Illya,0,0,0,,No need to tense up.
 Dialogue: 10,0:08:30.07,0:08:33.20,Default,Illya,0,0,0,,It's not as if I'll eat you.
 Dialogue: 10,0:08:34.20,0:08:35.99,Default,Shinobu,0,0,0,,Illya, this man is...
 Dialogue: 10,0:08:35.99,0:08:37.74,Default,Illya,0,0,0,,I am aware.
@@ -146,141 +149,142 @@ Dialogue: 10,0:08:37.74,0:08:41.75,Default,Illya,0,0,0,,Through the eyes of my m
 Dialogue: 10,0:08:42.08,0:08:44.87,Default,Illya,0,0,0,,The power you possess
 Dialogue: 10,0:08:44.87,0:08:49.38,Default,Illya,0,0,0,,may prove useful in my complete resurrection.
 Dialogue: 10,0:08:54.63,0:08:55.63,Default,Kokkoro,0,0,0,,My lord!
-Dialogue: 10,0:09:03.23,0:09:05.02,Default,Illya,0,0,0,,Bow down!
-Dialogue: 10,0:09:05.02,0:09:06.77,Default,Illya,0,0,0,,Do you realise who I am?
+Dialogue: 10,0:09:03.23,0:09:05.02,Default,Illya,0,0,0,,Bow before me!
+Dialogue: 10,0:09:05.02,0:09:06.77,Default,Illya,0,0,0,,Do you not realise who I am?
 Dialogue: 10,0:09:07.73,0:09:09.98,Default,Illya,0,0,0,,You stand before the Legendary Vampire...
 Dialogue: 10,0:09:10.40,0:09:13.32,Default,Illya,0,0,0,,Illya Ornstein!
-Dialogue: 10,0:09:15.40,0:09:20.70,Default,Shinobu,0,0,0,,{\q2}You still turn into a child when \Nyou leave the coffin you were sealed in.
+Dialogue: 10,0:09:15.40,0:09:20.70,Default,Shinobu,0,0,0,,{\q2}Your body's age {\i1}still{\i0} rewinds once you step foot \Noutside the coffin you were sealed in.
 Dialogue: 10,0:09:20.70,0:09:23.41,Default,QP (Dangerous),0,0,0,,You're so tiny and adorbs.
-Dialogue: 10,0:09:23.41,0:09:25.66,Default,Illya,0,0,0,,Don't call me tiny!
-Dialogue: 10,0:09:29.04,0:09:33.84,Default,Shinobu,0,0,0,,{\q2}In truth, this "Legendary Vampire" is the queen \Nof the demon race.
-Dialogue: 10,0:09:33.84,0:09:42.56,Default,Shinobu,0,0,0,,{\q2}She led them in battle against the human, \Nelf, and beast races a long time ago.
+Dialogue: 10,0:09:23.41,0:09:25.66,Default,Illya,0,0,0,,I'm {\i1}not{\i0} tiny!
+Dialogue: 10,0:09:29.04,0:09:33.84,Default,Shinobu,0,0,0,,{\q2}In truth, this "Legendary Vampire" \Nis the queen of all demons.
+Dialogue: 10,0:09:33.84,0:09:42.56,Default,Shinobu,0,0,0,,{\q2}She led them in battle against the human, \Nelf, and beast races in ancient times.
 Dialogue: 10,0:09:42.56,0:09:45.23,Default,Yori,0,0,0,,Then she lost in the final battle of the gods
 Dialogue: 10,0:09:45.23,0:09:49.10,Default,Yori,0,0,0,,and was sealed away, so we broke her seal...
-Dialogue: 10,0:09:49.10,0:09:54.15,Default,QP (Dangerous),0,0,0,,{\q2}But since she's short on magic, \Nshe reverts right back into this tiny girl.
-Dialogue: 10,0:09:54.15,0:09:56.57,Default,Illya,0,0,0,,I told you to stop calling me tiny!
-Dialogue: 10,0:09:56.57,0:09:57.91,Default,Kokkoro,0,0,0,,I see.
+Dialogue: 10,0:09:49.10,0:09:54.15,Default,QP (Dangerous),0,0,0,,{\q2}But since she's got like, no magic at all, \Nshe deflates constantly. Look at how tiny she is!
+Dialogue: 10,0:09:54.15,0:09:56.57,Default,Illya,0,0,0,,As I keep telling you, I'm {\i1}not{\i0} tiny!
+Dialogue: 10,0:09:56.57,0:09:57.91,Default,Kokkoro,0,0,0,,I understand.
 Dialogue: 10,0:09:58.49,0:10:01.62,Default,Kokkoro,0,0,0,,However, I cannot allow any harm to befall my lord.
-Dialogue: 10,0:10:01.62,0:10:04.12,Default,Illya,0,0,0,,There's no need to worry about that.
-Dialogue: 10,0:10:04.12,0:10:06.87,Default,Illya,0,0,0,,Really, I'm not gonna eat you or something.
+Dialogue: 10,0:10:01.62,0:10:04.12,Default,Illya,0,0,0,,Oh, worried about that? Don't be.
+Dialogue: 10,0:10:04.12,0:10:06.87,Default,Illya,0,0,0,,I told you I'm not gonna eat you anything.
 Dialogue: 10,0:10:08.75,0:10:12.50,Default,Illya,0,0,0,,I'm unsure of what power lies dormant within you
 Dialogue: 10,0:10:12.50,0:10:14.84,Default,Illya,0,0,0,,that allows you to sense Miyako's spirit energy,
 Dialogue: 10,0:10:15.26,0:10:18.76,Default,Illya,0,0,0,,but it may be the key to restoring my power.
-Dialogue: 10,0:10:24.27,0:10:26.27,Default,Illya,0,0,0,,There's nothing.
+Dialogue: 10,0:10:24.27,0:10:26.27,Default,Illya,0,0,0,,There's nothing there.
 Dialogue: 10,0:10:26.27,0:10:27.56,Default,Three,0,0,0,,What?!
-Dialogue: 10,0:10:27.56,0:10:29.52,Default,Akari,0,0,0,,We were so hopeful!
+Dialogue: 10,0:10:27.56,0:10:29.52,Default,Akari,0,0,0,,You got our hopes up for nothing?!
 Dialogue: 10,0:10:29.52,0:10:31.69,Default,Akari,0,0,0,,Make me the cutest girl in the world already!
-Dialogue: 10,0:10:31.69,0:10:35.57,Default,QP (Dangerous),0,0,0,,{\q2}Finish your resurrection \Nand bring me back to life already!
+Dialogue: 10,0:10:31.69,0:10:35.57,Default,QP (Dangerous),0,0,0,,{\q2}Finish your dumb resurrection \Nand bring me back to life already!
 Dialogue: 10,0:10:35.57,0:10:39.41,Default,Yori,0,0,0,,M-My secret wish...
 Dialogue: 10,0:10:40.57,0:10:42.20,Default,Illya,0,0,0,,For crying out loud, shut up!
-Dialogue: 10,0:10:42.20,0:10:44.16,Default,Illya,0,0,0,,How dare you spew such nonsense out of turn?!
-Dialogue: 10,0:10:44.16,0:10:46.58,Default,Illya,0,0,0,,{\i1}I'm{\i0} the one who's brought to tears here!
+Dialogue: 10,0:10:42.20,0:10:44.16,Default,Illya,0,0,0,,How dare you defile my ears so?!
+Dialogue: 10,0:10:44.16,0:10:46.58,Default,Illya,0,0,0,,If anything, {\i1}I'm{\i0} the one in tears right now!
 Dialogue: 10,0:10:48.04,0:10:49.37,Default,Illya,0,0,0,,Wh-What are you doing?!
-Dialogue: 10,0:10:50.21,0:10:51.46,Default,Shinobu,0,0,0,,Illya...
+Dialogue: 10,0:10:50.21,0:10:51.46,Default,Shinobu,0,0,0,,Illya{**-san}...
 Dialogue: 10,0:10:51.46,0:10:55.71,Default,Shinobu,0,0,0,,What good are you if your minions can overthrow you?
-Dialogue: 10,0:10:55.71,0:10:58.88,Default,Illya,0,0,0,,They refuse to listen to me!
-Dialogue: 10,0:10:58.88,0:11:03.72,Default,Illya,0,0,0,,I can't believe my magic has gotten {\i1}this{\i0} weak!
+Dialogue: 10,0:10:55.71,0:10:58.88,Default,Illya,0,0,0,,They refuse to yield before me!
+Dialogue: 10,0:10:58.88,0:11:03.72,Default,Illya,0,0,0,,I can't believe my magic has dwindled so!
 Dialogue: 10,0:11:10.06,0:11:10.77,Default,Kokkoro,0,0,0,,My lord?
-Dialogue: 10,0:11:15.23,0:11:16.44,Default,Illya,0,0,0,,What do you think you're doing?!
-Dialogue: 10,0:11:16.44,0:11:19.49,Default,Illya,0,0,0,,This just makes me look like a little kid!
+Dialogue: 10,0:11:15.23,0:11:16.44,Default,Illya,0,0,0,,What are you thinking?
+Dialogue: 10,0:11:16.44,0:11:19.49,Default,Illya,0,0,0,,You're making me seem{ like} a little child!
 Dialogue: 10,0:11:19.49,0:11:21.03,Default,Illya,0,0,0,,Put me down!
 Dialogue: 10,0:11:23.53,0:11:25.24,Default,Illya,0,0,0,,Th-This is...
-Dialogue: 10,0:11:41.97,0:11:43.97,Default,Illya,0,0,0,,What is this?
-Dialogue: 10,0:11:44.97,0:11:46.43,Default,Illya,0,0,0,,What just happened?
-Dialogue: 10,0:11:47.22,0:11:49.64,Default,Yori,0,0,0,,Illya turned back into her original form!
-Dialogue: 10,0:11:50.06,0:11:51.56,Default,Illya,0,0,0,,Very well, then.
-Dialogue: 10,0:11:51.56,0:11:53.15,Default,Illya,0,0,0,,It is time you learned
-Dialogue: 10,0:11:54.40,0:11:56.69,Default,Illya,0,0,0,,who your master is!
-Dialogue: 10,0:12:13.62,0:12:15.63,Default,Kokkoro,0,0,0,,What incredible magic...
-Dialogue: 10,0:12:16.00,0:12:20.80,Default,Kokkoro,0,0,0,,Could it be that she really {\i1}is{\i0} the Legendary Vampire?
+Dialogue: 10,0:11:41.97,0:11:43.97,Default,Illya,0,0,0,,What does this mean?
+Dialogue: 10,0:11:44.97,0:11:46.43,Default,Illya,0,0,0,,What mechanisms are at play?
+Dialogue: 10,0:11:47.22,0:11:49.64,Default,Yori,0,0,0,,Illya returned to her original form!
+Dialogue: 10,0:11:50.06,0:11:51.56,Default,Illya,0,0,0,,Very well, I shall not question.
+Dialogue: 10,0:11:51.56,0:11:53.15,Default,Illya,0,0,0,,It is time you were put in your place.
+Dialogue: 10,0:11:54.40,0:11:56.69,Default,Illya,0,0,0,,Let me show you {\i1}who{\i0} your master is!
+Dialogue: 10,0:12:13.62,0:12:15.63,Default,Kokkoro,0,0,0,,Such highly potent magic...
+Dialogue: 10,0:12:16.00,0:12:20.80,Default,Kokkoro,0,0,0,,{\q2}If she wields such power, does that mean \Nshe truly {\i1}is{\i0} the Legendary Vampire?
 Dialogue: 10,0:12:20.80,0:12:23.22,Default,Illya,0,0,0,,Now, my minions,
-Dialogue: 10,0:12:23.22,0:12:25.26,Default,Illya,0,0,0,,return to the darkness.
+Dialogue: 10,0:12:23.22,0:12:25.26,Default,Illya,0,0,0,,return to the shadows.
 Dialogue: 10,0:12:27.60,0:12:29.56,Default,Akari,0,0,0,,Yay! Yay!
-Dialogue: 10,0:12:29.56,0:12:31.52,Default,Yori,0,0,0,,Now that your magic has returned,
+Dialogue: 10,0:12:29.56,0:12:31.52,Default,Yori,0,0,0,,Now that your magic has been restored,
 Dialogue: 10,0:12:31.52,0:12:34.23,Default,Yori,0,0,0,,will you finally be granting our wishes?
 Dialogue: 10,0:12:34.23,0:12:35.81,Default,Akari,0,0,0,,You're the best!
-Dialogue: 10,0:12:37.23,0:12:39.40,Default,Illya,0,0,0,,Of course! Not a problem!
-Dialogue: 10,0:12:39.40,0:12:43.40,Default,Illya,0,0,0,,Now that my resurrection is complete, \Nnothing is impossible for me!
-Dialogue: 10,0:12:43.40,0:12:46.87,Default,Illya,0,0,0,,I will now use this magic and this form
-Dialogue: 10,0:12:46.87,0:12:49.70,Default,Illya,0,0,0,,to commence my takeover of the world!
+Dialogue: 10,0:12:37.23,0:12:39.40,Default,Illya,0,0,0,,Naturally! Do not fear!
+Dialogue: 10,0:12:39.40,0:12:43.40,Default,Illya,0,0,0,,{\q2}Now that my resurrection has been completed, \Nnothing is impossible for me!
+Dialogue: 10,0:12:43.40,0:12:46.87,Default,Illya,0,0,0,,I will now use my magic and my restored body,
+Dialogue: 10,0:12:46.87,0:12:49.70,Default,Illya,0,0,0,,and take over the world!
 Dialogue: 10,0:12:56.42,0:12:58.54,Default,Illya,0,0,0,,Wh-Why?!
-Dialogue: 10,0:12:59.00,0:13:01.09,Default,Shinobu,0,0,0,,Back to square one...
-Dialogue: 10,0:13:01.09,0:13:04.93,Default,Yori,0,0,0,,{\q2}Just when she managed to take on \Nher adult form outside the coffin...
+Dialogue: 10,0:12:59.00,0:13:01.09,Default,Shinobu,0,0,0,,Back to square one we go.
+Dialogue: 10,0:13:01.09,0:13:04.93,Default,Yori,0,0,0,,Just when everything seemed to be going fine...
 Dialogue: 10,0:13:01.34,0:13:04.93,Default,Illya,0,0,0,,{\an8}I look like a child again!
-Dialogue: 10,0:13:04.93,0:13:06.84,Default,Illya,0,0,0,,Hey! Don't call me tiny!
+Dialogue: 10,0:13:02.51,0:13:04.93,Alt,Miyako,0,0,0,,{\an8}Look at how {\i1}tiny{\i0} you are!
+Dialogue: 10,0:13:04.93,0:13:06.84,Default,Illya,0,0,0,,Hey! Stop calling me tiny!
 Dialogue: 10,0:13:06.84,0:13:09.89,Default,Kokkoro,0,0,0,,Shall we take our leave while we have the chance?
-Dialogue: 10,0:13:11.39,0:13:13.56,Default,QP (Dangerous),0,0,0,,Hold it right there!
+Dialogue: 10,0:13:11.39,0:13:13.56,Default,QP (Dangerous),0,0,0,,Where do you think you're going?
 Dialogue: 10,0:13:13.56,0:13:16.56,Default,QP (Dangerous),0,0,0,,Do you have any idea what you've done?
-Dialogue: 10,0:13:18.90,0:13:20.57,Default,QP (Dangerous),0,0,0,,Don't play dumb!
+Dialogue: 10,0:13:18.90,0:13:20.57,Default,QP (Dangerous),0,0,0,,Don't play stupid games with me!
 Dialogue: 10,0:13:21.03,0:13:27.70,Default,QP (Dangerous),0,0,0,,{\q2}Just look at the gruesome state \Nyou've left my pudding in!
 Dialogue: 10,0:13:29.87,0:13:32.45,Default,QP (Dangerous),0,0,0,,The pudding was innocent...
 Dialogue: 10,0:13:34.20,0:13:37.33,Default,QP (Dangerous),0,0,0,,You deserve certain death!
-Dialogue: 10,0:13:37.33,0:13:39.63,Default,QP (Dangerous),0,0,0,,I'll curse you!
-Dialogue: 10,0:13:49.64,0:13:50.93,Default,Karyl,0,0,0,,They're late.
+Dialogue: 10,0:13:37.33,0:13:39.63,Default,QP (Dangerous),0,0,0,,I'm gonna curse you!
+Dialogue: 10,0:13:49.64,0:13:50.93,Default,Karyl,0,0,0,,How long are they gonna take?
 Dialogue: 10,0:13:52.26,0:13:54.85,Default,Karyl,0,0,0,,She sure is taking her sweet time shopping.
-Dialogue: 10,0:13:54.85,0:13:58.10,Default,Karyl,0,0,0,,{\q2}And all the other two were supposed to \Nbe doing was deliver a souvenir.
-Dialogue: 10,0:13:58.10,0:14:00.19,Default,Kokkoro,0,0,0,,We're home.
+Dialogue: 10,0:13:54.85,0:13:58.10,Default,Karyl,0,0,0,,{\q2}And how long does it take \Nto give someone a souvenir?
+Dialogue: 10,0:13:58.10,0:14:00.19,Default,Kokkoro,0,0,0,,We have returned!
 Dialogue: 10,0:14:00.19,0:14:00.86,Default,Karyl,0,0,0,,Meep!
 Dialogue: 10,0:14:01.19,0:14:04.28,Default,Karyl,0,0,0,,Took you long enough! What were you—
-Dialogue: 10,0:14:04.74,0:14:07.99,Default,QP (Dangerous),0,0,0,,Shall I make pudding out of you, too?
+Dialogue: 10,0:14:04.74,0:14:07.99,Default,QP (Dangerous),0,0,0,,Want me to make pudding out of you, too?
 Dialogue: 10,0:14:09.82,0:14:10.74,Default,Karyl,0,0,0,,And you are?
 Dialogue: 10,0:14:10.74,0:14:14.91,Default,Shinobu,0,0,0,,Pleased to meet you. My name is Shinobu.
 Dialogue: 10,0:14:14.91,0:14:17.12,Default,QP (Dangerous),0,0,0,,I'm Miyako and I'm a ghost!
-Dialogue: 10,0:14:17.12,0:14:19.25,Default,QP (Dangerous),0,0,0,,Hand over all of your pudding right now!
-Dialogue: 10,0:14:19.25,0:14:22.54,Default,Karyl,0,0,0,,{\q2}How the heck did you come back \Npossessed by a ghost?!
+Dialogue: 10,0:14:17.12,0:14:19.25,Default,QP (Dangerous),0,0,0,,All your pudding belongs to {\i1}me{\i0}!
+Dialogue: 10,0:14:19.25,0:14:22.54,Default,Karyl,0,0,0,,How the heck did you get {\i1}possessed{\i0} on a delivery trip?!
 Dialogue: 10,0:14:22.54,0:14:25.13,Default,Karyl,0,0,0,,What if we all end up cursed?!
 Dialogue: 10,0:14:25.42,0:14:28.51,Default,Kokkoro,0,0,0,,{*}Lady Karyl{*Kyaru-sama}, I can explain this.
-Dialogue: 10,0:14:31.39,0:14:33.51,Default,Karyl,0,0,0,,I don't get it, but I understand now.
+Dialogue: 10,0:14:31.39,0:14:33.51,Default,Karyl,0,0,0,,I don't get it, but I kinda do.
 Dialogue: 10,0:14:33.51,0:14:38.85,Default,Karyl,0,0,0,,{\q2}So you're supposed to make pudding for her \Nto replace the pudding you ruined?
 Dialogue: 10,0:14:39.31,0:14:40.27,Default,Yuuki,0,0,0,,Mhm!
-Dialogue: 10,0:14:40.85,0:14:43.11,Default,Karyl,0,0,0,,"Mhm" {\alphaFF\t(1190,1190,\alpha00)}my ass!
+Dialogue: 10,0:14:40.85,0:14:43.11,Default,Karyl,0,0,0,,"Mhm", {\alphaFF\t(1190,1190,\alpha00\4a&HA0&)}my ass!
 Dialogue: 10,0:14:43.11,0:14:45.03,Default,Karyl,0,0,0,,Don't just put more work on our lap!
-Dialogue: 10,0:14:45.03,0:14:46.94,Default,Kokkoro,0,0,0,,Now, now, {*}Lady Karyl{*Kyaru-sama}.
-Dialogue: 10,0:14:46.94,0:14:50.24,Default,Kokkoro,0,0,0,,Miyako is not an evil ghost.
-Dialogue: 10,0:14:50.24,0:14:53.66,Default,QP (Dangerous),0,0,0,,That's right. I’m a friendly ghost.
-Dialogue: 10,0:14:53.66,0:14:54.87,Default,Karyl,0,0,0,,Stop!
+Dialogue: 10,0:14:45.03,0:14:46.94,Default,Kokkoro,0,0,0,,Please calm down, {*}Lady Karyl{*Kyaru-sama}.
+Dialogue: 10,0:14:46.94,0:14:50.24,Default,Kokkoro,0,0,0,,{*}Miss Miyako{*Miyako-sama} is not an evil spirit.
+Dialogue: 10,0:14:50.24,0:14:53.66,Default,QP (Dangerous),0,0,0,,Right she is. I'm a very friendly ghost.
+Dialogue: 10,0:14:53.66,0:14:54.87,Default,Karyl,0,0,0,,Stay back!
 Dialogue: 10,0:14:54.87,0:14:56.25,Default,Karyl,0,0,0,,Stay away from me!
 Dialogue: 10,0:14:56.25,0:14:59.29,Default,Karyl,0,0,0,,Please, I beg of you! Don't curse me!
 Dialogue: 10,0:15:02.67,0:15:05.92,Default,Guy,0,0,0,,The theatre's been torn down again!
-Dialogue: 10,0:15:06.34,0:15:09.05,Default,Guy,0,0,0,,An official notice from Eustania herself?
-Dialogue: 10,0:15:09.05,0:15:12.76,Default,Guy,0,0,0,,{\q2}It's one of the few pleasures us \Ncommoners have... I don't understand...
+Dialogue: 10,0:15:06.34,0:15:09.05,Default,Guy,0,0,0,,An official notice from {*}Princess Eustania{*Eustania-sama} herself?
+Dialogue: 10,0:15:09.05,0:15:12.76,Default,Guy,0,0,0,,{\q2}It's one of the few pleasures us \Ncommoners have. I don't understand...
 Dialogue: 10,0:15:14.26,0:15:16.06,Default,Charlie,0,0,0,,Hey, {*}Peco lady{*Peco-neesan}!
-Dialogue: 10,0:15:16.06,0:15:18.18,Default,Pecorine,0,0,0,,Charlie and Ikacchi!
-Dialogue: 10,0:15:18.18,0:15:20.14,Default,Pecorine,0,0,0,,And the boss, too!
+Dialogue: 10,0:15:16.06,0:15:18.18,Default,Pecorine,0,0,0,,Charlie{**-san} and Ikacchi{**-san}!
+Dialogue: 10,0:15:18.18,0:15:20.14,Default,Pecorine,0,0,0,,And master, too!
 Dialogue: 10,0:15:20.14,0:15:21.56,Default,Pecorine,0,0,0,,How unusual to see you all here.
 Dialogue: 10,0:15:21.56,0:15:24.73,Default,Ikacchi,0,0,0,,Man, today was a rough one!
 Dialogue: 10,0:15:24.73,0:15:27.61,Default,Ikacchi,0,0,0,,Boss here got possessed by a ghost!
 Dialogue: 10,0:15:27.61,0:15:28.57,Default,Pecorine,0,0,0,,A ghost?
 Dialogue: 10,0:15:28.57,0:15:30.61,Default,Charlie,0,0,0,,Don't worry about him, though.
 Dialogue: 10,0:15:30.61,0:15:33.53,Default,Charlie,0,0,0,,Yuuki was able to exorcise it for us.
-Dialogue: 10,0:15:33.53,0:15:34.83,Default,Pecorine,0,0,0,,Yuuki did that?
+Dialogue: 10,0:15:33.53,0:15:34.83,Default,Pecorine,0,0,0,,Yuuki{**-kun} did that?
 Dialogue: 10,0:15:34.83,0:15:38.45,Default,Ikacchi,0,0,0,,So we're drinking to celebrate his recovery!
-Dialogue: 10,0:15:40.83,0:15:44.71,Default,Yasuko,0,0,0,,{\q2}What're you doing out here \Ndrinking during the day, you nincompoop?!
-Dialogue: 10,0:15:45.04,0:15:47.84,Default,Yasuko,0,0,0,,I can't afford to let a fool like you eat for free!
+Dialogue: 10,0:15:40.83,0:15:44.71,Default,Yasuko,0,0,0,,{\q2}What're you doing, drinking out here \Nduring the day, you nincompoop?!
+Dialogue: 10,0:15:45.04,0:15:47.84,Default,Yasuko,0,0,0,,{\q2}I don't have the money to let \Na fool like you dine here for free!
 Dialogue: 10,0:15:47.84,0:15:49.72,Default,Ikacchi,0,0,0,,S-Sorry, Mama!
 Dialogue: 10,0:15:50.09,0:15:51.34,Default,Pecorine,0,0,0,,Mama?!
 Dialogue: 10,0:15:52.09,0:15:53.68,Default,Ikacchi,0,0,0,,Come one, come all.
 Dialogue: 10,0:15:53.68,0:15:54.34,Default,Charlie,0,0,0,,Come all.
 Dialogue: 10,0:15:54.34,0:15:56.85,Default,Ikacchi,0,0,0,,We got some quality stuff.
 Dialogue: 10,0:15:55.85,0:15:56.85,Alt,Charlie,0,0,0,,Good stuff.
-Dialogue: 10,0:15:57.51,0:15:59.73,Default,Yasuko,0,0,0,,You're Pecorine, then.
-Dialogue: 10,0:15:59.73,0:16:02.44,Default,Yasuko,0,0,0,,My fool of a son has told me all about you.
+Dialogue: 10,0:15:57.51,0:15:59.73,Default,Yasuko,0,0,0,,You must be Pecorine{**-san}, then.
+Dialogue: 10,0:15:59.73,0:16:02.44,Default,Yasuko,0,0,0,,My fool of a son told me all about you.
 Dialogue: 10,0:16:02.44,0:16:05.44,Default,Yasuko,0,0,0,,Sounds like you've come through for him quite a bit.
 Dialogue: 10,0:16:06.11,0:16:07.32,Default,Yasuko,0,0,0,,Thank you.
-Dialogue: 10,0:16:09.48,0:16:13.82,Default,Guy,0,0,0,,Hey, you've got yourself a pretty little poster girl now!
+Dialogue: 10,0:16:09.48,0:16:13.82,Default,Guy,0,0,0,,Hey, you got yourself a pretty little poster girl now!
 Dialogue: 10,0:16:13.82,0:16:16.49,Default,Guy,0,0,0,,I've gotta hire a young'un like her at my place.
-Dialogue: 10,0:16:16.49,0:16:17.91,Default,Yasuko,0,0,0,,Shut your mouth!
-Dialogue: 10,0:16:17.91,0:16:19.66,Default,Yasuko,0,0,0,,If you've got time to spout off here,
-Dialogue: 10,0:16:19.66,0:16:22.16,Default,Yasuko,0,0,0,,why are you keeping your own customers waiting?!
-Dialogue: 10,0:16:22.16,0:16:25.54,Default,Guy,0,0,0,,Sure, sure. I'm no match for you, Yasuko.
+Dialogue: 10,0:16:16.49,0:16:17.91,Default,Yasuko,0,0,0,,Shut yo' filthy mouth!
+Dialogue: 10,0:16:17.91,0:16:19.66,Default,Yasuko,0,0,0,,If you got time to blabber that junk,
+Dialogue: 10,0:16:19.66,0:16:22.16,Default,Yasuko,0,0,0,,don't leave your customers waiting!
+Dialogue: 10,0:16:22.16,0:16:25.54,Default,Guy,0,0,0,,Sure, sure. I'm no match for you, Yasuko{**-san}.
 Dialogue: 10,0:16:27.25,0:16:28.38,Default,Yasuko,0,0,0,,By the way,
 Dialogue: 10,0:16:28.38,0:16:31.17,Default,Yasuko,0,0,0,,I heard you've travelled to lots of places.
 Dialogue: 10,0:16:31.17,0:16:33.51,Default,Yasuko,0,0,0,,Sounds like a fine way to spend your youth.
 Dialogue: 10,0:16:33.51,0:16:37.26,Default,Yasuko,0,0,0,,I wish my fool son could be that resourceful.
 Dialogue: 10,0:16:37.26,0:16:38.35,Default,Pecorine,0,0,0,,Really...
 Dialogue: 10,0:16:39.85,0:16:41.89,Default,Pecorine,0,0,0,,My parents taught me all I know.
-Dialogue: 10,0:16:42.89,0:16:45.40,Default,Pecorine,0,0,0,,I've had all kinds of experiences, thanks to them.
-Dialogue: 10,0:16:48.61,0:16:49.86,Default,Yasuko,0,0,0,,Is that right?
+Dialogue: 10,0:16:42.89,0:16:45.40,Default,Pecorine,0,0,0,,It's because of them that I got to experience so much.
+Dialogue: 10,0:16:48.61,0:16:49.86,Default,Yasuko,0,0,0,,Is that so?
 Dialogue: 10,0:16:50.28,0:16:53.11,Default,Yasuko,0,0,0,,And you came home so grown-up and dependable.
 Dialogue: 10,0:16:53.65,0:16:55.61,Default,Yasuko,0,0,0,,Your folks must be thrilled.
 Dialogue: 10,0:16:57.03,0:16:59.03,Default,Pecorine,0,0,0,,I hope so...
@@ -288,77 +292,77 @@ Dialogue: 10,0:17:02.12,0:17:04.83,Default,Guy,0,0,0,,You got a new poster girl?
 Dialogue: 10,0:17:04.83,0:17:06.46,Default,Guy,0,0,0,,Oh, man!
 Dialogue: 10,0:17:06.46,0:17:08.00,Default,Husband,0,0,0,,She's lovely.
 Dialogue: 10,0:17:08.00,0:17:10.17,Default,Wife,0,0,0,,You're going slack-jawed.
-Dialogue: 10,0:17:10.17,0:17:11.71,Default,Wife,0,0,0,,A monster radish, please.
+Dialogue: 10,0:17:10.17,0:17:11.71,Default,Wife,0,0,0,,One monster radish, please.
 Dialogue: 10,0:17:12.17,0:17:14.09,Default,Guy,0,0,0,,I'd like three island leeks.
-Dialogue: 10,0:17:14.09,0:17:18.05,Default,Yasuko,0,0,0,,{\q2}Would you look at this? \NThings sure got lively all of a sudden.
+Dialogue: 10,0:17:14.09,0:17:18.05,Default,Yasuko,0,0,0,,{\q2}Would you look at this? \NSure is getting busy here now.
 Dialogue: 10,0:17:18.05,0:17:20.51,Default,Yasuko,0,0,0,,If only it was always like this.
 Dialogue: 10,0:17:21.60,0:17:23.23,Default,Karyl,0,0,0,,Ugh!
-Dialogue: 10,0:17:23.60,0:17:27.02,Default,Karyl,0,0,0,,What is Pecorine doing at a time like this?!
-Dialogue: 10,0:17:27.02,0:17:31.32,Default,QP (Dangerous),0,0,0,,{\q2}Shut that little mouth and \Nget that pudding-making going
-Dialogue: 10,0:17:31.32,0:17:32.99,Default,QP (Dangerous),0,0,0,,or I'll curse you!
+Dialogue: 10,0:17:23.60,0:17:27.02,Default,Karyl,0,0,0,,Where the hell is Pecorine when you need her?!
+Dialogue: 10,0:17:27.02,0:17:31.32,Default,QP (Dangerous),0,0,0,,{\q2}Shut that little mouth \Nand get your hands stirring!
+Dialogue: 10,0:17:31.32,0:17:32.99,Default,QP (Dangerous),0,0,0,,Else I'll curse you!
 Dialogue: 10,0:17:32.99,0:17:35.78,Default,Karyl,0,0,0,,P-Please don't!
 Dialogue: 10,0:17:36.74,0:17:39.07,Default,Kokkoro,0,0,0,,Since {*}Lady Pecorine{*Pecorine-sama} is a splendid cook,
-Dialogue: 10,0:17:39.07,0:17:42.41,Default,Kokkoro,0,0,0,,I'm sure she could have made Miss Miyako happy...
+Dialogue: 10,0:17:39.07,0:17:42.41,Default,Kokkoro,0,0,0,,I'm sure she could have made {*}Miss Miyako{*Miyako-sama} happy.
 Dialogue: 10,0:17:47.75,0:17:50.50,Default,QP (Dangerous),0,0,0,,{\q2}What is this horrifying amalgamation \Nyou dare call pudding?
 Dialogue: 10,0:17:50.50,0:17:52.67,Default,QP (Dangerous),0,0,0,,Are you trying to kill me?
 Dialogue: 10,0:17:52.67,0:17:56.22,Default,Shinobu,0,0,0,,Please calm down. You're already dead.
-Dialogue: 10,0:17:56.97,0:17:59.22,Default,QP (Dangerous),0,0,0,,They're all totally incompetent!
+Dialogue: 10,0:17:56.97,0:17:59.22,Default,QP (Dangerous),0,0,0,,They're all incompetents!
 Dialogue: 10,0:17:57.63,0:17:59.89,Default,Kokkoro,0,0,0,,{\an8}My lord, are you all right?
-Dialogue: 10,0:17:59.22,0:18:01.64,Default,QP (Dangerous),0,0,0,,I'm beyond disappointed!
+Dialogue: 10,0:17:59.22,0:18:01.64,Default,QP (Dangerous),0,0,0,,Disappointment doesn't begin to describe it!
 Dialogue: 10,0:18:01.64,0:18:06.18,Default,QP (Dangerous),0,0,0,,{\q2}I'm just gonna turn them all \Ninto pudding and eat them!
 Dialogue: 10,0:18:06.18,0:18:07.73,Default,Karyl,0,0,0,,No!
 Dialogue: 10,0:18:08.02,0:18:10.98,Default,Shinobu,0,0,0,,If you do that, you'll just be another evil spirit.
 Dialogue: 10,0:18:07.73,0:18:12.57,Default,QP (Dangerous),0,0,0,,{\an8}You're clearly just fooling around! I'll curse you!
-Dialogue: 10,0:18:11.48,0:18:17.40,Default,Kokkoro,0,0,0,,{\q2}Miss Miyako, one of our guildmates \Nis an excellent cook.
+Dialogue: 10,0:18:11.48,0:18:17.40,Default,Kokkoro,0,0,0,,{\q2}{*}Miss Miyako{*Miyako-sama}, one of our guildmates \Nis an excellent cook.
 Dialogue: 10,0:18:17.40,0:18:21.53,Default,Kokkoro,0,0,0,,We'll have her make some delicious pudding for you,
 Dialogue: 10,0:18:21.53,0:18:22.66,Default,Kokkoro,0,0,0,,so for today, would you—
-Dialogue: 10,0:18:22.66,0:18:25.37,Default,QP (Dangerous),0,0,0,,No! I want pudding right now!
+Dialogue: 10,0:18:22.66,0:18:25.37,Default,QP (Dangerous),0,0,0,,No! I want my pudding right now!
 Dialogue: 10,0:18:27.12,0:18:29.71,Default,Karyl,0,0,0,,What do we do?!
 Dialogue: 10,0:18:30.63,0:18:32.75,Default,Yasuko,0,0,0,,Thanks for your help today.
 Dialogue: 10,0:18:33.17,0:18:36.21,Default,Yasuko,0,0,0,,Maybe I really {\i1}should{\i0} hire you as my poster girl!
-Dialogue: 10,0:18:37.47,0:18:39.47,Default,Ikacchi,0,0,0,,Don't be unreasonable, Mama...
-Dialogue: 10,0:18:39.47,0:18:43.18,Default,Yasuko,0,0,0,,Shut your mouth! You need to take your work more seriously!
+Dialogue: 10,0:18:37.47,0:18:39.47,Default,Ikacchi,0,0,0,,Don't be unreasonable, Mama.
+Dialogue: 10,0:18:39.47,0:18:43.18,Default,Yasuko,0,0,0,,{\q2}Shut your mouth! You need to \Ntake your work more seriously!
 Dialogue: 10,0:18:43.18,0:18:45.77,Default,Ikacchi,0,0,0,,I-I know, Mama!
 Dialogue: 10,0:18:45.77,0:18:46.98,Default,Yasuko,0,0,0,,Now...
-Dialogue: 10,0:18:49.52,0:18:51.56,Default,Yasuko,0,0,0,,Consider this my thanks for today.
+Dialogue: 10,0:18:49.52,0:18:51.56,Default,Yasuko,0,0,0,,Consider this a thanks for today.
 Dialogue: 10,0:18:52.02,0:18:53.90,Default,Yasuko,0,0,0,,Go on, take it home.
 Dialogue: 10,0:18:56.19,0:18:57.86,Default,Pecorine,0,0,0,,Thank you so much!
 Dialogue: 10,0:18:58.86,0:19:01.37,Default,All,0,0,0,,See you soon!
 Dialogue: 10,0:19:01.37,0:19:03.37,Default,Charlie,0,0,0,,{*}Peco lady{*Peco-neesan}!
 Dialogue: 10,0:19:03.37,0:19:05.66,Default,Guy,0,0,0,,Come help out again!
-Dialogue: 10,0:19:06.58,0:19:08.46,Default,Pecorine,0,0,0,,I'm back!
+Dialogue: 10,0:19:06.58,0:19:08.46,Default,Pecorine,0,0,0,,I'm home!
 Dialogue: 10,0:19:08.46,0:19:12.67,Default,Karyl,0,0,0,,No! Don't eat me!
 Dialogue: 10,0:19:13.34,0:19:15.21,Default,Pecorine,0,0,0,,What happened to all of you?!
 Dialogue: 10,0:19:15.21,0:19:18.92,Default,Kokkoro,0,0,0,,Welcome back, {*}Lady Pecorine{*Pecorine-sama}.
 Dialogue: 10,0:19:18.92,0:19:20.97,Default,Kokkoro,0,0,0,,There are several reasons for this.
 Dialogue: 10,0:19:20.97,0:19:22.59,Default,Shinobu,0,0,0,,Pardon our intrusion.
 Dialogue: 10,0:19:22.59,0:19:24.01,Default,QP (Dangerous),0,0,0,,Who are you?
-Dialogue: 10,0:19:24.01,0:19:27.85,Default,QP (Dangerous),0,0,0,,{\q2}If you interfere with me eating my pudding, \NI'll turn you into pudding, too!
+Dialogue: 10,0:19:24.01,0:19:27.85,Default,QP (Dangerous),0,0,0,,{\q2}If you're gonna stop me from eating my pudding, \NI'll turn you into pudding too!
 Dialogue: 10,0:19:27.85,0:19:30.02,Default,Pecorine,0,0,0,,You turned them all into pudding?
-Dialogue: 10,0:19:30.02,0:19:34.48,Default,QP (Dangerous),0,0,0,,{\q2}I gave them all this time, and they still \Ncouldn't make delicious pudding for me!
-Dialogue: 10,0:19:34.48,0:19:35.57,Default,Pecorine,0,0,0,,Wait a minute!
+Dialogue: 10,0:19:30.02,0:19:34.48,Default,QP (Dangerous),0,0,0,,{\q2}I gave them all this time, and they {\i1}still{\i0} \Ncouldn't make me delicious pudding!
+Dialogue: 10,0:19:34.48,0:19:35.57,Default,Pecorine,0,0,0,,Please hold on!
 Dialogue: 10,0:19:36.07,0:19:38.36,Default,Pecorine,0,0,0,,I'll make delicious pudding for you!
 Dialogue: 10,0:19:38.36,0:19:41.03,Default,Pecorine,0,0,0,,Would you please turn them back to normal?
 Dialogue: 10,0:19:41.03,0:19:44.91,Default,QP (Dangerous),0,0,0,,I don't think so. I've waited long enough today.
 Dialogue: 10,0:19:44.91,0:19:46.54,Default,Pecorine,0,0,0,,You can look forward to it!
 Dialogue: 10,0:19:46.54,0:19:49.29,Default,Pecorine,0,0,0,,{\q2}I'll make pudding that's better \Nthan any you've ever had!
-Dialogue: 10,0:19:51.37,0:19:53.46,Default,QP (Dangerous),0,0,0,,Y-You mean it?
+Dialogue: 10,0:19:51.37,0:19:53.46,Default,QP (Dangerous),0,0,0,,Th-That good?
 Dialogue: 10,0:19:54.63,0:19:55.96,Default,Pecorine,0,0,0,,Of course!
-Dialogue: 10,0:19:57.96,0:19:58.96,Default,Pecorine,0,0,0,,It's finished!
+Dialogue: 10,0:19:57.96,0:19:58.96,Default,Pecorine,0,0,0,,I'm done!
 Dialogue: 10,0:20:04.09,0:20:07.81,Default,Pecorine,0,0,0,,The Gourmet Guild's special velvety pudding!
 Dialogue: 10,0:20:07.81,0:20:10.10,Default,QP (Dangerous),0,0,0,,I'll try it right now!
 Dialogue: 10,0:20:18.69,0:20:23.36,Default,Pecorine,0,0,0,,{\q2}The key to making this pudding so velvety \Nis the temperature of the hot water bath.
-Dialogue: 10,0:20:23.36,0:20:26.78,Default,Karyl,0,0,0,,{\q2}Th-The water temperature \Nmakes that much of a difference?
+Dialogue: 10,0:20:23.36,0:20:26.78,Default,Karyl,0,0,0,,{\q2}Th-The water temperature \Nmakes {\i1}that{\i0} much of a difference?
 Dialogue: 10,0:20:26.78,0:20:28.74,Default,Pecorine,0,0,0,,Go on, eat up!
 Dialogue: 10,0:20:34.75,0:20:37.84,Default,QP (Dangerous),0,0,0,,This is the best pudding ever!
 Dialogue: 10,0:20:37.84,0:20:41.97,Default,QP (Dangerous),0,0,0,,It's so velvety soft and rich...
 Dialogue: 10,0:20:41.97,0:20:46.09,Default,QP (Dangerous),0,0,0,,I'm so happy, I feel like my cheeks are melting off!
 Dialogue: 10,0:20:54.10,0:20:58.19,Default,QP (Dangerous),0,0,0,,I finally... I finally found it...
 Dialogue: 10,0:20:58.19,0:21:00.11,Default,QP (Dangerous),0,0,0,,My pudding...
-Dialogue: 10,0:21:00.11,0:21:04.61,Default,Shinobu,0,0,0,,You've finally found your perfect pudding...
-Dialogue: 10,0:21:05.99,0:21:08.87,Default,Shinobu,0,0,0,,Now you can pass on with no regrets.
+Dialogue: 10,0:21:00.11,0:21:04.61,Default,Shinobu,0,0,0,,You've finally found your perfect pudding.
+Dialogue: 10,0:21:05.99,0:21:08.87,Default,Shinobu,0,0,0,,Now you can pass on without regret.
 Dialogue: 10,0:21:12.04,0:21:13.75,Default,Pecorine,0,0,0,,I'm so glad.
-Dialogue: 10,0:21:14.37,0:21:18.42,Default,Pecorine,0,0,0,,{\q2}I got to use the gifts \NYasuko sent home with me right away!
+Dialogue: 10,0:21:14.37,0:21:18.42,Default,Pecorine,0,0,0,,I got to use the Yasuko's gifts right away!
 Dialogue: 10,0:21:31.52,0:21:33.18,Default,Shinobu,0,0,0,,I apologise for all the fuss.
 Dialogue: 10,0:21:33.18,0:21:35.60,Default,Both,0,0,0,,D-Don't worry about it.
 Dialogue: 10,0:21:35.60,0:21:36.60,Default,Shinobu,0,0,0,,Farewell.
@@ -366,10 +370,10 @@ Dialogue: 10,0:21:38.15,0:21:40.65,Default,Pecorine,0,0,0,,Come visit us again s
 Dialogue: 10,0:21:41.69,0:21:44.15,Default,Kokkoro,0,0,0,,Wait, where is my lord?
 Dialogue: 10,0:21:44.15,0:21:45.15,Default,Karyl,0,0,0,,Oh, no!
 Dialogue: 10,0:21:45.15,0:21:48.07,Default,Karyl,0,0,0,,With all that fuss, he totally slipped my mind!
-Dialogue: 10,0:21:48.07,0:21:49.37,Default,Pecorine,0,0,0,,Yuuki?
+Dialogue: 10,0:21:48.07,0:21:49.37,Default,Pecorine,0,0,0,,Yuuki{**-kun}?
 Dialogue: 10,0:21:49.37,0:21:50.91,Default,Karyl,0,0,0,,Yuuki!
 Dialogue: 10,0:21:50.91,0:21:53.20,Default,Pecorine,0,0,0,,He's not in the living room, either.
 Dialogue: 10,0:21:53.75,0:21:55.96,Default,Karyl,0,0,0,,Maybe he's out in the bathhouse?
 Dialogue: 10,0:21:56.62,0:21:58.92,Default,Kokkoro,0,0,0,,My lord!
 Dialogue: 10,0:22:02.71,0:22:03.67,Default,Yuuki,0,0,0,,Bye-bye.
-Dialogue: 10,0:23:38.39,0:23:39.35,Default,Yuuki,0,0,0,,{\pos(1334.921875,1024)}I'm back.
+Dialogue: 10,0:23:38.39,0:23:39.35,Default,Yuuki,960,0,0,,Am back.
