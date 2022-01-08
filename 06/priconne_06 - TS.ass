@@ -16,6 +16,10 @@ Audio File: priconne_06.mkv
 Video File: priconne_06.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Scroll Position: 48
+Active Line: 51
+Video Position: 33926
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,6 +29,8 @@ Style: Sign,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:50.29,0:01:54.26,Sign,,0,0,0,,{\pos(953,830)\fnKozuka Mincho Pr6N-H\fs85\b1\bord4\c&H000000&\1a&HFF&\blur0.55\fad(530,530)\t(485,530,\1a&H00&)\t(3440,3485,\1a&HFF&)}The Next Day
 Dialogue: 1,0:01:50.29,0:01:54.26,Sign,,0,0,0,,{\pos(953,830)\fnKozuka Mincho Pr6N-H\fs85\b1\blur0.55\fad(530,530)}The Next Day
+Dialogue: 0,0:06:11.81,0:06:11.85,Sign,,0,0,0,,{\fscx98.38\fscy98.38\fnGotham Bold\fs180\fsp-11.12\1c&HB894F7&\blur0.6\pos(-232.58,92.67)}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
+Dialogue: 0,0:06:11.85,0:06:11.89,Sign,,0,0,0,,{\fscx98.38\fscy98.38\fnGotham Bold\fs180\fsp-11.12\1c&HB894F7&\blur0.6\pos(-114.95,103.13)}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
 Dialogue: 0,0:06:11.89,0:06:11.93,Sign,,0,0,0,,{\pos(-40.297,121.03)\fscx98.38\fscy98.38\fnGotham Bold\fs180\fsp-11.12\1c&HB894F7&\blur0.6}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
 Dialogue: 0,0:06:11.93,0:06:11.97,Sign,,0,0,0,,{\pos(42.04,124.3)\fscx98.83\fscy98.83\fnGotham Bold\fs180\fsp-10.14\1c&HB894F7&\blur0.6}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
 Dialogue: 0,0:06:11.97,0:06:12.01,Sign,,0,0,0,,{\pos(188.01,140.58)\fscx98.77\fscy98.77\fnGotham Bold\fs180\fsp-9.16\1c&HB894F7&\blur0.6}P{\c&HA97EF6&}r{\c&HB18AF7&}i{\c&HBA97F8&}C{\c&HB48EF7&}o{\c&HAD84F6&}n{\c&HA67AF6&}n{\c&HA071F5&}e
