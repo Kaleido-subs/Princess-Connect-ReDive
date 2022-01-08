@@ -237,5 +237,5 @@ Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(963.918,154.229)\fscx74\fsc
 Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(992.033,155.031)\fscx74\fscy103\frz-2.233\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}m
 Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(1027.792,157.552)\fscx74\fscy103\frz-5.638\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}e
 Dialogue: 1,0:23:35.01,0:23:40.07,Sign,,0,0,0,,{\pos(1049.68,160.071)\fscx74\fscy103\frz-7.362\fnFlunkies BB\c&H212BD7&\blur0.65\t(1779,2363,\blur8\alpha60)}!
-Dialogue: 0,0:23:36.93,0:23:40.07,Sign,,0,0,0,,{\fnAngie\fs50\fsp1\bord2.4\3c&H6F6A6E&\blur0.6\fad(692,1)\pos(481,831)}A Gourmet Getaway
+Dialogue: 0,0:23:36.93,0:23:40.07,Sign,,0,0,0,,{\fnAngie\fs50\fsp1\bord2.4\3c&H6F6A6E&\blur0.6\fad(692,1)\pos(491,831)}A Gourmet Getaway
 Dialogue: 0,0:23:36.93,0:23:40.07,Sign,,0,0,0,,{\fnAlegreya Sans\fs40\fsp1\bord2.4\3c&H6F6A6E&\blur0.6\fad(692,1)\pos(400,1008)}Fragrant Tentacles on the Beach
