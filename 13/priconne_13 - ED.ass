@@ -53,25 +53,25 @@ Comment: 0,0:22:02.80,0:22:07.88,E13_ED,rom,0,0,0,kara,minna de kyou wa oishii m
 Comment: 0,0:22:08.09,0:22:11.93,E13_ED,rom,0,0,0,kara,tabete tabeta ato de
 Comment: 0,0:22:11.97,0:22:18.48,E13_ED,rom,0,0,0,kara,mata raran ue to doka e runaway
 Comment: 0,0:22:22.27,0:22:25.19,E13_ED,rom,0,0,0,kara,sorezore no hoppeta ga happy
-Comment: 0,0:21:02.03,0:21:05.91,E13_ED,eng,0,0,0,kara,Why don't we go have some fun somewhere?
+Comment: 0,0:21:02.03,0:21:05.91,E13_ED,eng,0,0,0,kara,Why don’t we go have some fun somewhere?
 Comment: 0,0:21:06.91,0:21:09.53,E13_ED,eng,0,0,0,kara,Let our instincts lead the way
 Comment: 0,0:21:09.58,0:21:12.00,E13_ED,eng,0,0,0,kara,The fun truly never ends, huh?
-Comment: 0,0:21:12.66,0:21:17.25,E13_ED,eng,0,0,0,kara,Yep, yep! No more hold-ups, so let's go!
+Comment: 0,0:21:12.66,0:21:17.25,E13_ED,eng,0,0,0,kara,Yep, yep! No more hold-ups, so let’s go!
 Comment: 0,0:21:17.46,0:21:20.00,E13_ED,eng,0,0,0,kara,No way we can hold back anymore
-Comment: 0,0:21:20.05,0:21:22.80,E13_ED,eng,0,0,0,kara,Our curiosity's gotten the better of us!
+Comment: 0,0:21:20.05,0:21:22.80,E13_ED,eng,0,0,0,kara,Our curiosity’s gotten the better of us!
 Comment: 0,0:21:23.22,0:21:28.97,E13_ED,eng,0,0,0,kara,Longing for adventure has gotten you good, am I right?
-Comment: 0,0:21:29.26,0:21:32.97,E13_ED,eng,0,0,0,kara,Don't let go of that feeling!
-Comment: 0,0:21:33.81,0:21:37.81,E13_ED,eng,0,0,0,kara,Don't you wanna venture out every day?
-Comment: 0,0:21:37.85,0:21:39.94,E13_ED,eng,0,0,0,kara,You do? Then come on, let's go!
+Comment: 0,0:21:29.26,0:21:32.97,E13_ED,eng,0,0,0,kara,Don’t let go of that feeling!
+Comment: 0,0:21:33.81,0:21:37.81,E13_ED,eng,0,0,0,kara,Don’t you wanna venture out every day?
+Comment: 0,0:21:37.85,0:21:39.94,E13_ED,eng,0,0,0,kara,You do? Then come on, let’s go!
 Comment: 0,0:21:39.98,0:21:42.61,E13_ED,eng,0,0,0,kara,No holding back, you hear me?
 Comment: 0,0:21:42.65,0:21:45.57,E13_ED,eng,0,0,0,kara,We all love going out over here!
 Comment: 0,0:21:45.70,0:21:48.20,E13_ED,big,0,0,0,kara,Connecting Happy!!
 Comment: 0,0:21:48.28,0:21:51.41,E13_ED,eng,0,0,0,kara,On the same wavelength, you and I
-Comment: 0,0:21:51.79,0:21:57.04,E13_ED,eng,0,0,0,kara,All our shared moments are something to look forward to, don't you agree?
+Comment: 0,0:21:51.79,0:21:57.04,E13_ED,eng,0,0,0,kara,All our shared moments are something to look forward to, don’t you agree?
 Comment: 0,0:21:57.21,0:22:02.75,E13_ED,eng,0,0,0,kara,Forever friends, all of us! Nothing can tear us apart anymore
 Comment: 0,0:22:02.80,0:22:07.88,E13_ED,eng,0,0,0,kara,Always on the hunt for hip, new delicacies
-Comment: 0,0:22:08.09,0:22:11.93,E13_ED,eng,0,0,0,kara,Savour each and every one of 'em
-Comment: 0,0:22:11.97,0:22:18.48,E13_ED,eng,0,0,0,kara,Can't stop us now, fate's runaways, get away!
+Comment: 0,0:22:08.09,0:22:11.93,E13_ED,eng,0,0,0,kara,Savour each and every one of  ’em
+Comment: 0,0:22:11.97,0:22:18.48,E13_ED,eng,0,0,0,kara,Can’t stop us now, fate’s runaways, get away!
 Comment: 0,0:22:22.27,0:22:25.19,E13_ED,eng,0,0,0,kara,Our faces stuffed to the brim with sunshine!
 Dialogue: 0,0:21:02.03,0:21:05.91,E13_ED,rom,0,0,0,fx,{\an9\pos(1872.00,87.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25\fscx82.5\fscy82.5}motto tanoshikunacchae
 Dialogue: 1,0:21:02.03,0:21:05.91,E13_ED,rom,0,0,0,fx,{\an9\pos(1872.00,87.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7\fscx82.5\fscy82.5}motto tanoshikunacchae
@@ -111,26 +111,26 @@ Dialogue: 0,0:22:11.97,0:22:18.48,E13_ED,rom,0,0,0,fx,{\an9\pos(1872.00,87.00)\f
 Dialogue: 1,0:22:11.97,0:22:18.48,E13_ED,rom,0,0,0,fx,{\an9\pos(1872.00,87.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7\fscx82.5\fscy82.5}mata raran ue to doka e runaway
 Dialogue: 0,0:22:22.27,0:22:25.19,E13_ED,rom,0,0,0,fx,{\an9\pos(1872.00,87.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25\fscx82.5\fscy82.5}sorezore no hoppeta ga happy
 Dialogue: 1,0:22:22.27,0:22:25.19,E13_ED,rom,0,0,0,fx,{\an9\pos(1872.00,87.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7\fscx82.5\fscy82.5}sorezore no hoppeta ga happy
-Dialogue: 0,0:21:02.03,0:21:05.91,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Why don't we go have some fun somewhere?
-Dialogue: 1,0:21:02.03,0:21:05.91,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Why don't we go have some fun somewhere?
+Dialogue: 0,0:21:02.03,0:21:05.91,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Why don’t we go have some fun somewhere?
+Dialogue: 1,0:21:02.03,0:21:05.91,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Why don’t we go have some fun somewhere?
 Dialogue: 0,0:21:06.91,0:21:09.53,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Let our instincts lead the way
 Dialogue: 1,0:21:06.91,0:21:09.53,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Let our instincts lead the way
 Dialogue: 0,0:21:09.58,0:21:12.00,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}The fun truly never ends, huh?
 Dialogue: 1,0:21:09.58,0:21:12.00,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}The fun truly never ends, huh?
-Dialogue: 0,0:21:12.66,0:21:17.25,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Yep, yep! No more hold-ups, so let's go!
-Dialogue: 1,0:21:12.66,0:21:17.25,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Yep, yep! No more hold-ups, so let's go!
+Dialogue: 0,0:21:12.66,0:21:17.25,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Yep, yep! No more hold-ups, so let’s go!
+Dialogue: 1,0:21:12.66,0:21:17.25,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Yep, yep! No more hold-ups, so let’s go!
 Dialogue: 0,0:21:17.46,0:21:20.00,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}No way we can hold back anymore
 Dialogue: 1,0:21:17.46,0:21:20.00,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}No way we can hold back anymore
-Dialogue: 0,0:21:20.05,0:21:22.80,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Our curiosity's gotten the better of us!
-Dialogue: 1,0:21:20.05,0:21:22.80,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Our curiosity's gotten the better of us!
+Dialogue: 0,0:21:20.05,0:21:22.80,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Our curiosity’s gotten the better of us!
+Dialogue: 1,0:21:20.05,0:21:22.80,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Our curiosity’s gotten the better of us!
 Dialogue: 0,0:21:23.22,0:21:28.97,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Longing for adventure has gotten you good, am I right?
 Dialogue: 1,0:21:23.22,0:21:28.97,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Longing for adventure has gotten you good, am I right?
-Dialogue: 0,0:21:29.26,0:21:32.97,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Don't let go of that feeling!
-Dialogue: 1,0:21:29.26,0:21:32.97,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Don't let go of that feeling!
-Dialogue: 0,0:21:33.81,0:21:37.81,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Don't you wanna venture out every day?
-Dialogue: 1,0:21:33.81,0:21:37.81,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Don't you wanna venture out every day?
-Dialogue: 0,0:21:37.85,0:21:39.94,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}You do? Then come on, let's go!
-Dialogue: 1,0:21:37.85,0:21:39.94,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}You do? Then come on, let's go!
+Dialogue: 0,0:21:29.26,0:21:32.97,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Don’t let go of that feeling!
+Dialogue: 1,0:21:29.26,0:21:32.97,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Don’t let go of that feeling!
+Dialogue: 0,0:21:33.81,0:21:37.81,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Don’t you wanna venture out every day?
+Dialogue: 1,0:21:33.81,0:21:37.81,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Don’t you wanna venture out every day?
+Dialogue: 0,0:21:37.85,0:21:39.94,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}You do? Then come on, let’s go!
+Dialogue: 1,0:21:37.85,0:21:39.94,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}You do? Then come on, let’s go!
 Dialogue: 0,0:21:39.98,0:21:42.61,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}No holding back, you hear me?
 Dialogue: 1,0:21:39.98,0:21:42.61,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}No holding back, you hear me?
 Dialogue: 0,0:21:42.65,0:21:45.57,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}We all love going out over here!
@@ -139,15 +139,15 @@ Dialogue: 0,0:21:45.70,0:21:48.20,E13_ED,big,0,0,0,fx,{\an9\pos(1872.00,30.00)\f
 Dialogue: 1,0:21:45.70,0:21:48.20,E13_ED,big,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7\fscx110\fscy110}Connecting Happy!!
 Dialogue: 0,0:21:48.28,0:21:51.41,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}On the same wavelength, you and I
 Dialogue: 1,0:21:48.28,0:21:51.41,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}On the same wavelength, you and I
-Dialogue: 0,0:21:51.79,0:21:57.04,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}All our shared moments are something to look forward to, don't you agree?
-Dialogue: 1,0:21:51.79,0:21:57.04,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}All our shared moments are something to look forward to, don't you agree?
+Dialogue: 0,0:21:51.79,0:21:57.04,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}All our shared moments are something to look forward to, don’t you agree?
+Dialogue: 1,0:21:51.79,0:21:57.04,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}All our shared moments are something to look forward to, don’t you agree?
 Dialogue: 0,0:21:57.21,0:22:02.75,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Forever friends, all of us! Nothing can tear us apart anymore
 Dialogue: 1,0:21:57.21,0:22:02.75,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Forever friends, all of us! Nothing can tear us apart anymore
 Dialogue: 0,0:22:02.80,0:22:07.88,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Always on the hunt for hip, new delicacies
 Dialogue: 1,0:22:02.80,0:22:07.88,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Always on the hunt for hip, new delicacies
-Dialogue: 0,0:22:08.09,0:22:11.93,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Savour each and every one of 'em
-Dialogue: 1,0:22:08.09,0:22:11.93,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Savour each and every one of 'em
-Dialogue: 0,0:22:11.97,0:22:18.48,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Can't stop us now, fate's runaways, get away!
-Dialogue: 1,0:22:11.97,0:22:18.48,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Can't stop us now, fate's runaways, get away!
+Dialogue: 0,0:22:08.09,0:22:11.93,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Savour each and every one of  ’em
+Dialogue: 1,0:22:08.09,0:22:11.93,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Savour each and every one of  ’em
+Dialogue: 0,0:22:11.97,0:22:18.48,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Can’t stop us now, fate’s runaways, get away!
+Dialogue: 1,0:22:11.97,0:22:18.48,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Can’t stop us now, fate’s runaways, get away!
 Dialogue: 0,0:22:22.27,0:22:25.19,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HEDB500&\1a&H80&\bord3\blur1.25}Our faces stuffed to the brim with sunshine!
 Dialogue: 1,0:22:22.27,0:22:25.19,E13_ED,eng,0,0,0,fx,{\an9\pos(1872.00,30.00)\fad(200,200)\c&HFFFFFF&\1a&H00&\bord0\blur0.7}Our faces stuffed to the brim with sunshine!
