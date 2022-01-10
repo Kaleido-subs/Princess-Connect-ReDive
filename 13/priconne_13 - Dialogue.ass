@@ -227,22 +227,22 @@ Dialogue: 10,0:15:54.90,0:15:56.27,Default,Pecorine,0,0,0,,So...
 Dialogue: 10,0:15:57.37,0:16:01.36,Default,Pecorine,0,0,0,,I want you to help me defeat that monster!
 Dialogue: 10,0:16:04.43,0:16:05.19,Default,Karyl,0,0,0,,Moron.
 Dialogue: 10,0:16:19.44,0:16:20.70,Default,Labyrista,0,0,0,,Sorry.
-Dialogue: 10,0:16:20.70,0:16:23.42,Default,Labyrista,0,0,0,,{\q2}I know I threw a lot at you \Nin such a short amount of time.
-Dialogue: 10,0:16:25.94,0:16:27.23,Default,Labyrista,0,0,0,,But it's all right.
+Dialogue: 10,0:16:20.70,0:16:23.42,Default,Labyrista,0,0,0,,{\q2}I know it's a lot to take in \Nin such a short amount of time.
+Dialogue: 10,0:16:25.94,0:16:27.23,Default,Labyrista,0,0,0,,But don't worry.
 Dialogue: 10,0:16:27.23,0:16:31.22,Default,Labyrista,0,0,0,,{\q2}All of us in Labyrinth \Nwill protect you and your friends.
 Dialogue: 10,0:16:32.79,0:16:33.71,Default,Yuuki,0,0,0,,I'll protect them.
-Dialogue: 10,0:16:40.54,0:16:42.44,Default,Yuuki,0,0,0,,I'll protect my friends.
-Dialogue: 10,0:16:48.08,0:16:53.08,Default,Labyrista,0,0,0,,{\q2}I took such a long way around \Nso I could finally see how you were doing,
-Dialogue: 10,0:16:53.74,0:16:55.52,Default,Labyrista,0,0,0,,and it looks like it was well worth it.
+Dialogue: 10,0:16:40.54,0:16:42.44,Default,Yuuki,0,0,0,,I will protect my friends.
+Dialogue: 10,0:16:48.08,0:16:53.08,Default,Labyrista,0,0,0,,{\q2}I'm so glad. I took such a roundabout way \Nto see how you were doing,
+Dialogue: 10,0:16:53.74,0:16:55.52,Default,Labyrista,0,0,0,,and it was all worth it.
 Dialogue: 10,0:16:57.11,0:16:59.33,Default,Shizuru,0,0,0,,Master, we can't hold out much longer!
-Dialogue: 10,0:17:00.18,0:17:02.83,Default,Rino,0,0,0,,Our brother's friends are in trouble!
+Dialogue: 10,0:17:00.18,0:17:02.83,Default,Rino,0,0,0,,His friends are in trouble!
 Dialogue: 10,0:17:04.11,0:17:05.00,Default,Shizuru,0,0,0,,What should we do?
-Dialogue: 10,0:17:05.00,0:17:08.60,Default,Shizuru,0,0,0,,{\q2}Should we jump in and help them, even if \Nthat means we give ourselves away to the enemy?
-Dialogue: 10,0:17:08.60,0:17:12.32,Default,Labyrista,0,0,0,,{\q2}No need, it looks like all the pieces \Nhave finally fallen into place.
+Dialogue: 10,0:17:05.00,0:17:08.60,Default,Shizuru,0,0,0,,{\q2}Should we jump in and help them, \Neven if that means giving ourselves away?
+Dialogue: 10,0:17:08.60,0:17:12.32,Default,Labyrista,0,0,0,,{\q2}No need. It looks like all the pieces \Nhave finally fallen into place.
 Dialogue: 10,0:17:15.69,0:17:16.84,Default,Labyrista,0,0,0,,And with that, let's do this!
 Dialogue: 10,0:17:30.12,0:17:31.53,Default,Labyrista,0,0,0,,This is my power,
 Dialogue: 10,0:17:31.91,0:17:33.87,Default,Labyrista,0,0,0,,Object Transformation.
-Dialogue: 10,0:17:43.95,0:17:48.42,Default,Labyrista,0,0,0,,{\q2}I'll lend you just a bit of it \Nso you can move forward.
+Dialogue: 10,0:17:43.95,0:17:48.42,Default,Labyrista,0,0,0,,{\q2}I'll lend you a bit of it \Nso you can forge a path forward.
 Dialogue: 10,0:17:49.90,0:17:52.20,Default,Labyrista,0,0,0,,I have faith that the bonds you build
 Dialogue: 10,0:17:52.20,0:17:57.05,Default,Labyrista,0,0,0,,will save all of them from this world.
 Dialogue: 10,0:18:02.72,0:18:03.69,Default,Pecorine,0,0,0,,Yuuki{**-kun}?!
