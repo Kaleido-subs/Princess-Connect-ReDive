@@ -158,7 +158,7 @@ Dialogue: 10,0:08:54.55,0:08:56.11,Default,Kokkoro,0,0,0,,Really?
 Dialogue: 10,0:08:56.95,0:09:00.55,Default,Kokkoro,0,0,0,,But you're always very kind to me.
 Dialogue: 10,0:09:01.20,0:09:04.81,Default,Karyl,0,0,0,,You've got most adults beat in responsibleness.
 Dialogue: 10,0:09:07.64,0:09:08.61,Default,Karyl,0,0,0,,What about you?
-Dialogue: 10,0:09:08.61,0:09:11.78,Default,Karyl,0,0,0,,Exactly what are you crafting up there?{qc: "up" > "over", she's down the stairs from Karyl lmao}
+Dialogue: 10,0:09:08.61,0:09:11.78,Default,Karyl,0,0,0,,Exactly what are you crafting over there?
 Dialogue: 10,0:09:13.81,0:09:15.53,Default,Pecorine,0,0,0,,You'll find out tomorrow!
 Dialogue: 10,0:09:17.28,0:09:21.23,Default,Kokkoro,0,0,0,,{\q2}I suppose even we can't help \Ngetting excited about this.
 Dialogue: 10,0:09:21.23,0:09:22.29,Default,Karyl,0,0,0,,What's Yuuki up to?
