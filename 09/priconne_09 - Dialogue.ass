@@ -391,8 +391,8 @@ Dialogue: 10,0:17:42.08,0:17:45.29,Default,Kokkoro,0,0,0,,that life could be so 
 Comment: 10,0:17:45.29,0:17:49.84,Default,Kraken,0,0,0,,{\an8}Squid! Squid!
 Dialogue: 10,0:17:48.58,0:17:51.63,Default,Karyl,0,0,0,,Well, I prefer life nice and quiet!
 Dialogue: 10,0:17:53.05,0:17:55.80,Default,Karyl,0,0,0,,Pecorine, we're blowing that thing to kingdom come!
-Dialogue: 10,0:17:56.88,0:17:58.26,Default,Pecorine,0,0,0,,Okay, {*}Karyl{*Kyaru-chan}!
-Dialogue: 10,0:17:58.26,0:17:59.76,Default,Karyl,0,0,0,,Here goes nothing!
+Dialogue: 10,0:17:56.88,0:17:58.31,Default,Pecorine,0,0,0,,Okay, {*}Karyl{*Kyaru-chan}!
+Dialogue: 10,0:17:58.31,0:17:59.76,Default,Karyl,0,0,0,,Here goes nothing!
 Dialogue: 10,0:17:59.76,0:18:01.81,Default,Karyl,0,0,0,,Grim Burst!
 Comment: 10,0:18:01.76,0:18:04.77,Default,Kraken,0,0,0,,Squid!
 Dialogue: 10,0:18:04.77,0:18:06.69,Default,Pecorine,0,0,0,,Nice one, {*}Karyl{*Kyaru-chan}!
