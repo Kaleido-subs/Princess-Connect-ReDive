@@ -88,15 +88,15 @@ Dialogue: 10,0:05:13.45,0:05:16.12,Default,Kokkoro,0,0,0,,You are very industrio
 Dialogue: 10,0:05:16.46,0:05:17.38,Default,Yuuki,0,0,0,,Mhm!
 Dialogue: 10,0:05:18.71,0:05:22.38,Default,Kokkoro,0,0,0,,In that case, allow me to train with you.
 Dialogue: 10,0:05:25.38,0:05:29.47,Default,Karyl,0,0,0,,Pipe down, guys! I can't sleep with all that noise!
-Dialogue: 10,0:05:35.81,0:05:37.73,Default,Pecorine,0,0,0,,Yahoo!
-Dialogue: 10,0:05:37.73,0:05:39.65,Default,Pecorine,0,0,0,,Lookie at that, it's the ocean!
-Dialogue: 10,0:05:39.65,0:05:41.23,Default,Pecorine,0,0,0,,Crazy, ain't it?
+Dialogue: 10,0:05:35.82,0:05:37.73,Default,Pecorine,0,0,0,,Yahoo!
+Dialogue: 10,0:05:37.73,0:05:39.65,Default,Pecorine,0,0,0,,Look at that, it's the ocean!
+Dialogue: 10,0:05:39.65,0:05:41.24,Default,Pecorine,0,0,0,,Crazy, ain't it?
 Dialogue: 10,0:05:41.61,0:05:44.65,Default,Pecorine,0,0,0,,Thank you, Kokkoro{**-chan}!
 Dialogue: 10,0:05:44.65,0:05:48.07,Default,Kokkoro,0,0,0,,I'm happy to see you're enjoying it.
 Dialogue: 10,0:05:52.12,0:05:53.79,Default,Pecorine,0,0,0,,There you are, {*}Karyl{*Kyaru-chan}!
 Dialogue: 10,0:05:53.79,0:05:57.00,Default,Pecorine,0,0,0,,Now, now! Don't just hide in the back!
 Dialogue: 10,0:05:57.62,0:05:59.38,Default,Karyl,0,0,0,,H-Hey!
-Dialogue: 10,0:06:02.30,0:06:05.59,Default,Karyl,0,0,0,,S-Stop looking at me! Don't make me kill you!
+Dialogue: 10,0:06:02.30,0:06:05.60,Default,Karyl,0,0,0,,S-Stop looking! Don't make me kill you!
 Dialogue: 10,0:06:06.84,0:06:11.68,Default,Karyl,0,0,0,,{\i1\q2}I never imagined we'd be hitting the beach \Nright after I was ordered to observe them!
 Dialogue: 10,0:06:14.06,0:06:16.48,Default,Pecorine,0,0,0,,Get good and wet!
 Dialogue: 10,0:06:20.52,0:06:24.11,Default,Yuuki,0,0,0,,{\an8}My eyes! My eyes! My eyes!
@@ -136,7 +136,7 @@ Dialogue: 10,0:07:58.33,0:08:00.45,Default,Pecorine,0,0,0,,It even protects me f
 Dialogue: 10,0:08:00.45,0:08:01.66,Default,Kokkoro,0,0,0,,Oh, wow!
 Dialogue: 10,0:08:01.66,0:08:06.42,Default,Pecorine,0,0,0,,But in exchange, I get hungry way faster.
 Dialogue: 10,0:08:06.42,0:08:07.84,Default,Pecorine,0,0,0,,Isn't that crazy?
-Dialogue: 10,0:08:07.84,0:08:13.05,Default,Pecorine,0,0,0,,Armourless, I'm no different from your everyday girl!
+Dialogue: 10,0:08:07.84,0:08:13.05,Default,Pecorine,0,0,0,,Armourless, I'm no different from your everyday gal!
 Dialogue: 10,0:08:13.05,0:08:17.60,Default,Kokkoro,0,0,0,,{\q2}I had no idea there was such \Na secret to your strength and appetite.
 Dialogue: 10,0:08:17.60,0:08:21.52,Default,Karyl,0,0,0,,{\q2}H-Hang on! Are you sure you should \Ntell us something like that?
 Dialogue: 10,0:08:22.94,0:08:25.56,Default,Pecorine,0,0,0,,It's fine! We're all friends here.
