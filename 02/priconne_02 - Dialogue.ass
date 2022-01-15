@@ -183,7 +183,7 @@ Dialogue: 10,0:11:19.29,0:11:20.65,Default,Pecorine,0,0,0,,The girl who can't ea
 Dialogue: 10,0:11:20.65,0:11:21.98,Default,Karyl,0,0,0,,Shut up!
 Dialogue: 10,0:11:21.98,0:11:24.74,Default,Karyl,0,0,0,,I have a name, y'know! It's {*}Karyl{*Kyaru}!
 Dialogue: 10,0:11:24.74,0:11:26.49,Default,Karyl,0,0,0,,You can keep the labels to yourself!
-Dialogue: 10,0:11:26.49,0:11:27.79,Default,Pecorine,0,0,0,,Karyl?
+Dialogue: 10,0:11:26.49,0:11:27.79,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru}?
 Dialogue: 10,0:11:28.67,0:11:31.16,Default,Pecorine,0,0,0,,{*}Karyl! Wow{*Kyaru-chan}! That's such a cute name!
 Dialogue: 10,0:11:31.16,0:11:32.24,Default,Pecorine,0,0,0,,That's crazy!
 Dialogue: 10,0:11:32.24,0:11:33.86,Default,Karyl,0,0,0,,It's {\i1}not{\i0} crazy!
@@ -283,7 +283,7 @@ Dialogue: 10,0:18:59.16,0:19:03.13,Default,Kokkoro,0,0,0,,My lord, please don't 
 Dialogue: 10,0:19:03.13,0:19:04.00,Default,Yuuki,0,0,0,,Mhm.
 Dialogue: 10,0:19:06.65,0:19:09.31,Default,Pecorine,0,0,0,,Yuuki's quick wit saved me!
 Dialogue: 10,0:19:09.31,0:19:10.91,Default,Pecorine,0,0,0,,That was crazy!
-Dialogue: 10,0:19:10.91,0:19:12.00,Default,Pecorine,0,0,0,,Karyl{**-chan}!
+Dialogue: 10,0:19:10.91,0:19:12.00,Default,Pecorine,0,0,0,,Karyl{**Kyaru-chan}!
 Dialogue: 10,0:19:12.48,0:19:13.75,Default,Pecorine,0,0,0,,I have to thank you, too!
 Dialogue: 10,0:19:14.11,0:19:16.64,Default,Karyl,0,0,0,,Wha—B-But I didn't do anything...
 Dialogue: 10,0:19:17.23,0:19:21.45,Default,Pecorine,0,0,0,,{\q2}We were only able to save them \Nbecause you guided us here!
@@ -294,7 +294,7 @@ Dialogue: 10,0:19:33.06,0:19:35.71,Default,Charlie,0,0,0,,Be seein' ya, {*}Peco 
 Dialogue: 10,0:19:35.71,0:19:37.15,Default,Ikacchi,0,0,0,,Until we meet again!
 Dialogue: 10,0:19:37.15,0:19:38.23,Default,Pecorine,0,0,0,,Righto!
 Dialogue: 10,0:19:38.36,0:19:39.90,Default,Both,0,0,0,,Righto!
-Dialogue: 10,0:19:44.62,0:19:47.41,Default,Pecorine,0,0,0,,Karyl{**-chan}, you should have dinner with us!
+Dialogue: 10,0:19:44.62,0:19:47.41,Default,Pecorine,0,0,0,,Karyl{**Kyaru-chan}, you should have dinner with us!
 Dialogue: 10,0:19:47.72,0:19:48.59,Default,Karyl,0,0,0,,Huh?
 Dialogue: 10,0:19:49.40,0:19:51.28,Default,Pecorine,0,0,0,,It's cooled down now!
 Dialogue: 10,0:19:51.28,0:19:55.42,Default,Pecorine,0,0,0,,{\q2}Kokkoro{**-chan} made rice balls \Nfrom the rice we cooked for lunch!
@@ -315,7 +315,7 @@ Dialogue: 10,0:20:49.36,0:20:52.82,Default,Pecorine,0,0,0,,{\q2}A guild where we
 Dialogue: 10,0:20:53.43,0:20:55.64,Default,Kokkoro,0,0,0,,We couldn't have asked for a better offer.
 Dialogue: 10,0:20:55.64,0:20:59.18,Default,Kokkoro,0,0,0,,We've been wanting to start a guild, too.
 Dialogue: 10,0:20:59.19,0:21:00.07,Default,Yuuki,0,0,0,,Mhm!
-Dialogue: 10,0:21:00.40,0:21:03.01,Default,Pecorine,0,0,0,,Karyl{**-chan}! You should join, as well!
+Dialogue: 10,0:21:00.40,0:21:03.01,Default,Pecorine,0,0,0,,Karyl{**Kyaru-chan}! You should join, as well!
 Dialogue: 10,0:21:03.01,0:21:05.56,Default,Karyl,0,0,0,,L-Like that's gonna happen!
 Dialogue: 10,0:21:05.56,0:21:08.58,Default,Karyl,0,0,0,,{\q2}When'd you count me in \Nwith your little troupe, anyway?
 Dialogue: 10,0:21:09.17,0:21:11.33,Default,Karyl,0,0,0,,I don't need your companionship.
