@@ -43,7 +43,7 @@ Dialogue: 10,0:00:17.16,0:00:18.79,Default,Kokkoro,0,0,0,,{\i1}In the Village of
 Dialogue: 10,0:00:18.79,0:00:22.80,Default,Kokkoro,0,0,0,,{\i1\q2}we faced an incident involving \Nstrange monsters known as Shadows.
 Dialogue: 10,0:00:22.80,0:00:27.17,Default,Kokkoro,0,0,0,,{\i1\q2}Nevertheless, we managed to complete \Nour very first quest successfully.
 Dialogue: 10,0:00:28.01,0:00:32.73,Default,Kokkoro,0,0,0,,{\i1\q2}Ever since, our Gourmet Guild \Nhas completed many more quests.
-Dialogue: 10,0:00:33.17,0:00:38.03,Default,Kokkoro,0,0,0,,{\i1\q2}We have even earned words of praise\N from {*}Miss Karin{*Karin-sama} of the Guild Association.
+Dialogue: 10,0:00:33.17,0:00:38.03,Default,Kokkoro,0,0,0,,{\i1\q2}We have even earned words of praise \Nfrom {*}Miss Karin{*Karin-sama} of the Guild Association.
 Dialogue: 10,0:00:39.18,0:00:44.15,Default,Kokkoro,0,0,0,,{\i1\q2}I am beyond blessed to be able to \Nexperience these priceless days.
 Dialogue: 10,0:00:46.46,0:00:49.19,Default,Karyl,0,0,0,,Hey! Those seedlings aren't properly lined up!
 Dialogue: 10,0:00:49.19,0:00:51.78,Default,Karyl,0,0,0,,You need to double-check after planting each row!
