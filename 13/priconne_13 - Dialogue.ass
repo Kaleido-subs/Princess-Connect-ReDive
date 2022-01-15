@@ -116,7 +116,7 @@ Dialogue: 10,0:06:55.60,0:06:56.72,Default,Pecorine,0,0,0,,I was scared that...
 Dialogue: 10,0:07:02.89,0:07:03.80,Default,Kokkoro,0,0,0,,{\i1}So that's why.
 Dialogue: 10,0:07:05.73,0:07:08.07,Default,Kokkoro,0,0,0,,{\i1}That's why you would always
 Dialogue: 10,0:07:09.01,0:07:12.75,Default,Kokkoro,0,0,0,,{\i1}hug the people important to you so much.
-Dialogue: 10,0:07:13.32,0:07:16.95,Default,Kokkoro,0,0,0,,{\i1\q2\t(1823,3616,\3c&HFFFFFF&\4c&HFFFFFF&)}By doing that, you could clamp \Nall the connections you made together. {###}
+Dialogue: 10,0:07:13.32,0:07:16.95,Default,Kokkoro,0,0,0,,{\i1\q2\t(1823,3616,\3c&HFFFFFF&\4c&HFFFFFF&)}By doing that, you could hold \Nall the connections you made together.
 Dialogue: 10,0:07:21.58,0:07:23.40,Default,Pecorine,0,0,0,,If only I had told the truth.
 Dialogue: 10,0:07:24.48,0:07:26.55,Default,Pecorine,0,0,0,,I was so preoccupied with my own world.
 Dialogue: 10,0:07:27.26,0:07:30.98,Default,Pecorine,0,0,0,,{\q2}And because I was stuck, \Nbecause of my selfishness...
@@ -196,7 +196,7 @@ Dialogue: 10,0:13:06.12,0:13:10.14,Default,Christina,0,0,0,,Wow, someone put on 
 Dialogue: 10,0:13:12.08,0:13:16.77,Default,Christina,0,0,0,,{\q2}Looks like it was even more powerful \Nthan the one I reported before.
 Dialogue: 10,0:13:16.77,0:13:18.40,Default,Tomo,0,0,0,,Vice Captain...
 Dialogue: 10,0:13:19.16,0:13:25.57,Default,Christina,0,0,0,,{\q2}A swordswoman who protected the people from \Na monster like that with no casualties, huh?
-Dialogue: 10,0:13:27.45,0:13:31.42,Default,Christina,0,0,0,,{\q2}She interests me much more \Nthan these cretins{### I feel like there's a way better word to use here} do, that's for sure.
+Dialogue: 10,0:13:27.45,0:13:31.42,Default,Christina,0,0,0,,{\q2}She interests me much more \Nthan these cretins do, that's for sure.
 Dialogue: 10,0:13:31.42,0:13:36.67,Default,Jun,0,0,0,,{\q2}Chris{**-chan}, I respect how nonchalant you can be \Nconcerning other people's opinions on you,
 Dialogue: 10,0:13:37.38,0:13:39.61,Default,Jun,0,0,0,,but I need you to focus on your job right now.
 Dialogue: 10,0:13:39.61,0:13:42.34,Default,Christina,0,0,0,,My apologies, Captain.
