@@ -120,8 +120,8 @@ Dialogue: 10,0:07:06.19,0:07:08.90,Default,Aoi,0,0,0,,That's the kind of people 
 Dialogue: 10,0:07:10.24,0:07:12.82,Default,Kokkoro,0,0,0,,My lord, I will go with you.
 Dialogue: 10,0:07:13.66,0:07:15.08,Default,Hatsune,0,0,0,,You guys...
 Dialogue: 10,0:07:15.08,0:07:16.66,Default,Hatsune,0,0,0,,Thank you!
-Dialogue: 10,0:07:17.12,0:07:19.16,Default,Pecorine,0,0,0,,Karyl{**-chan}, we should also—
-Dialogue: 10,0:07:23.21,0:07:24.34,Default,Pecorine,0,0,0,,Karyl{**-chan}?
+Dialogue: 10,0:07:17.12,0:07:19.16,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}, we should also—
+Dialogue: 10,0:07:23.21,0:07:24.34,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}?
 Dialogue: 10,0:07:26.50,0:07:29.76,Default,Charlie,0,0,0,,Ya think our {*}Peco lady{*Peco-neesan}'s harvesting right now?
 Dialogue: 10,0:07:30.80,0:07:32.59,Default,Ikacchi,0,0,0,,'Spose so.
 Dialogue: 10,0:07:32.59,0:07:38.02,Default,Ikacchi,0,0,0,,{\q2}I can't wait for her to prepare that dish \Nwith the legendary spice when she gets back.
@@ -168,10 +168,10 @@ Dialogue: 10,0:11:50.48,0:11:54.23,Default,Karyl,0,0,0,,She's got to be the inst
 Dialogue: 10,0:11:58.48,0:12:01.70,Default,Karyl,0,0,0,,My mission is simply to observe Pecorine.
 Dialogue: 10,0:12:01.70,0:12:04.91,Default,Karyl,0,0,0,,Nobody told me the Shadows were gonna be involved!
 Dialogue: 10,0:12:07.49,0:12:10.62,Default,Karyl,0,0,0,,{\q2}If we don't stop them, \Nthe entire village could be... {## Generally I prefer finishing up sentences, but I feel that here it works to not do that}
-Dialogue: 10,0:12:12.21,0:12:14.33,Default,Pecorine,0,0,0,,Karyl{**-chan}!
-Dialogue: 10,0:12:16.96,0:12:19.25,Default,Pecorine,0,0,0,,Karyl{**-chan}!
+Dialogue: 10,0:12:12.21,0:12:14.33,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}!
+Dialogue: 10,0:12:16.96,0:12:19.25,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}!
 Dialogue: 10,0:12:22.63,0:12:25.97,Default,Karyl,0,0,0,,You don't need to yell. \NI can hear you just fine.
-Dialogue: 10,0:12:25.97,0:12:27.39,Default,Pecorine,0,0,0,,Karyl{**-chan}!
+Dialogue: 10,0:12:25.97,0:12:27.39,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}!
 Dialogue: 10,0:12:27.97,0:12:29.81,Default,Pecorine,0,0,0,,I'm so relieved!
 Dialogue: 10,0:12:29.81,0:12:31.10,Default,Karyl,0,0,0,,Relieved?
 Dialogue: 10,0:12:31.10,0:12:35.35,Default,Pecorine,0,0,0,,{\q2}You looked down earlier, \Nso I was wondering if you were okay.
