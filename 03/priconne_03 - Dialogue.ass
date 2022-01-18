@@ -298,7 +298,7 @@ Dialogue: 10,0:18:05.18,0:18:10.65,Default,Bly,0,0,0,,{\i1\q2}If I crush their w
 Dialogue: 10,0:18:11.57,0:18:16.45,Default,Bly,0,0,0,,Now, what's going down the hatch first, I wonder?
 Dialogue: 10,0:18:25.25,0:18:28.04,Default,Bly,0,0,0,,Man, that bug looks {\i1}disgusting{\i0}!
 Dialogue: 10,0:18:28.04,0:18:29.12,Default,Karyl,0,0,0,,Wait.
-Dialogue: 10,0:18:32.17,0:18:33.25,Default,Pecorine,0,0,0,,Karyl{**Kyaru-chan}?
+Dialogue: 10,0:18:32.17,0:18:33.25,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}?
 Dialogue: 10,0:18:33.71,0:18:36.38,Default,Karyl,0,0,0,,This dish isn't complete yet.
 Dialogue: 10,0:18:38.93,0:18:42.35,Default,Karyl,0,0,0,,A single drop of the blessed juice of this fruit
 Dialogue: 10,0:18:43.51,0:18:46.77,Default,Karyl,0,0,0,,will have you hearing a chorus of angels.
