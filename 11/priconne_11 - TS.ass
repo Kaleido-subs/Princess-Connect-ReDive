@@ -16,10 +16,6 @@ Audio File: priconne_11.mkv
 Video File: priconne_11.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 18
-Active Line: 26
-Video Position: 33932
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,5 +50,5 @@ Dialogue: 1,0:23:35.01,0:23:40.02,Sign,,0,0,0,,{\pos(962,155)\fscx74\fscy103\frz
 Dialogue: 1,0:23:35.01,0:23:40.02,Sign,,0,0,0,,{\pos(990,155)\fscx74\fscy103\frz-2.233\fnFlunkies BB\c&H4422C4&\blur0.6\t(1777,2403,\blur10\alpha60)}m
 Dialogue: 1,0:23:35.01,0:23:40.02,Sign,,0,0,0,,{\pos(1026,158)\fscx74\fscy103\frz-5.638\fnFlunkies BB\c&H4422C4&\blur0.6\t(1777,2403,\blur10\alpha60)}e
 Dialogue: 1,0:23:35.01,0:23:40.02,Sign,,0,0,0,,{\pos(1048,160)\fscx74\fscy103\frz-7.362\fnFlunkies BB\c&H4422C4&\blur0.6\t(1777,2403,\blur10\alpha60)}!
-Dialogue: 0,0:23:36.93,0:23:40.02,Sign,,0,0,0,,{\pos(708.447,834.201)\fnAngie\fs40\bord2.4\3c&H6F6A6E&\blur0.6\fad(651,0)}The Whimsical Pâtissiere's Specialty
+Dialogue: 0,0:23:36.93,0:23:40.02,Sign,,0,0,0,,{\pos(708.447,834.201)\fnAngie\fs40\bord2.4\3c&H6F6A6E&\blur0.6\fad(651,0)}The Whimsical Pâtissière's Specialty
 Dialogue: 0,0:23:36.93,0:23:40.02,Sign,,0,0,0,,{\pos(600.447,1008.001)\fnAlegreya Sans\fs40\bord2.4\3c&H6F6A6E&\blur0.6\fad(651,0)}A Memory of Labyrinths and Crêpes
