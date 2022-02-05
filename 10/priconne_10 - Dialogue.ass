@@ -375,5 +375,5 @@ Dialogue: 10,0:21:49.37,0:21:50.91,Default,Karyl,0,0,0,,Yuuki!
 Dialogue: 10,0:21:50.91,0:21:53.20,Default,Pecorine,0,0,0,,He's not in the living room, either.
 Dialogue: 10,0:21:53.75,0:21:55.96,Default,Karyl,0,0,0,,Maybe he's out in the bathhouse?
 Dialogue: 10,0:21:56.62,0:21:58.92,Default,Kokkoro,0,0,0,,My lord!
-Dialogue: 10,0:22:02.71,0:22:03.67,Default,Yuuki,0,0,0,,Bye-bye.
+Dialogue: 10,0:22:02.71,0:22:03.72,Default,Yuuki,1000,0,0,,Bye-bye.
 Dialogue: 10,0:23:38.39,0:23:39.35,Default,Yuuki,960,0,0,,Am back.
