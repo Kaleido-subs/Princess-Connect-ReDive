@@ -24,7 +24,7 @@ Style: Sign,LTFinnegan Medium,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 1,0:01:23.39,0:01:27.90,Sign,,0,0,0,,{\pos(1559.999,828.001)\fnAngie\fs48\b1\bord2.4\3c&H6F6A6E&\blur0.6\fad(520,480)}The Adventure Begins
-Dialogue: 1,0:01:23.39,0:01:27.90,Sign,,0,0,0,,{\pos(1471.999,1000.001)\fnAlegreya Sans\fs40\b1\bord2.4\3c&H6F6A6E&\blur0.6\fad(520,480)}Sautéed Mushrooms at Sunset
+Dialogue: 1,0:01:23.39,0:01:27.90,Sign,,0,0,0,,{\pos(1471.999,1000.001)\fnAngie\fs40\b1\bord2.4\3c&H6F6A6E&\blur0.6\fad(520,480)}Sautéed Mushrooms at Sunset
 Dialogue: 1,0:07:53.66,0:07:56.16,Sign,,0,0,0,,{\pos(449,319.001)\fnLiberation Serif\fs62\bord2.4\3c&H747373&\blur0.6\fad(188,0)}Royal Capital: Landosol
 Dialogue: 1,0:21:07.99,0:21:11.45,Sign,,0,0,0,,{\pos(960,860)\fnTitle-Berserk\fs48\bord2.7\3c&H393939&\blur1\q2}Dammit! I was{\fsp4} {\fax-0.2\fsp0}this{\fax0\fsp-5} {\fsp0}close to leeching her nutrients!
 Dialogue: 1,0:21:13.37,0:21:14.62,Sign,,0,0,0,,{\pos(960,860)\fnTitle-Berserk\fs48\bord2.7\3c&H393939&\blur1\q2}Fine, so be it!
@@ -600,4 +600,4 @@ Dialogue: 0,0:23:34.97,0:23:40.02,Sign,,0,0,0,,{\pos(992.033,155.031)\fscx74\fsc
 Dialogue: 0,0:23:34.97,0:23:40.02,Sign,,0,0,0,,{\pos(1027.792,157.552)\fscx74\fscy103\frz-5.638\fnFlunkies BB\c&H2733FD&\blur0.65\t(1779,2363,\blur8\alpha60)}e
 Dialogue: 0,0:23:34.97,0:23:40.02,Sign,,0,0,0,,{\pos(1049.68,160.071)\fscx74\fscy103\frz-7.362\fnFlunkies BB\c&H2733FD&\blur0.65\t(1779,2363,\blur8\alpha60)}!
 Dialogue: 0,0:23:36.89,0:23:40.02,Sign,,0,0,0,,{\pos(523.999,830.001)\fnAngie\fs48\b1\bord2.4\3c&H6F6A6E&\blur0.6\fad(652,0)}A Moody Cat's Mischief
-Dialogue: 0,0:23:36.89,0:23:40.02,Sign,,0,0,0,,{\pos(419.999,1005.001)\fnAlegreya Sans\fs40\b1\bord2.4\3c&H6F6A6E&\blur0.6\fad(652,0)}Warm, Golden Rice Balls
+Dialogue: 0,0:23:36.89,0:23:40.02,Sign,,0,0,0,,{\pos(419.999,1005.001)\fnAngie\fs40\b1\bord2.4\3c&H6F6A6E&\blur0.6\fad(652,0)}Warm, Golden Rice Balls

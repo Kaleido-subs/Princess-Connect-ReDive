@@ -229,7 +229,7 @@ Dialogue: 0,0:19:53.33,0:19:55.34,Sign,,0,0,0,,{\an7\c&H000000&\p1}m 0 0 l 1920 
 Dialogue: 0,0:19:53.46,0:19:55.34,Sign,,0,0,0,,{\fnFOT-テロップ明朝 Pro B\fsp50\3c&HFFFFFF&\blur20\fad(649,0)\t(107,608,\fsp0\blur15)}just to help people?
 Dialogue: 0,0:19:54.08,0:19:55.34,Sign,,0,0,0,,{\fnFOT-テロップ明朝 Pro B\4c&HFFFFFF&\blur6\t(29,71,\shad0.1\blur5\4c&HFFFFFF&)\t(71,154,\shad0.1\blur3)\t(154,196,\shad0.1\blur0.7)}just to help people?
 Dialogue: 0,0:25:07.06,0:25:10.20,Sign,,0,0,0,,{\fad(651,0)\fnAngie\fs40\bord2.4\3c&H6F6A6E&\blur0.6\pos(548.247,838.201)}Lost Princess
-Dialogue: 0,0:25:07.06,0:25:10.20,Sign,,0,0,0,,{\fad(651,0)\fnAlegreya Sans\fs40\bord2.4\3c&H6F6A6E&\blur0.6\pos(441.647,1011.001)}Garnished with Smiles
+Dialogue: 0,0:25:07.06,0:25:10.20,Sign,,0,0,0,,{\fad(651,0)\fnAngie\fs40\bord2.4\3c&H6F6A6E&\blur0.6\pos(441.647,1011.001)}Garnished with Smiles
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"uuid"#3A"6348f48a-0440-4106-a97d-523c1ba66447"#2C"originalText"#3A"{\\an7\\pos(1078.72#2C711.17)\\fscx100\\fscy100\\bord0\\shad0\\1c&HD0DEE6&\\1a&H00&\\3a&H0F&\\4a&HA0&\\blur1\\t(2988#2C3989#2C\\c&H090909&)\\p1}m -414.72 -140.5 l 53.72 -337.4 186.61 -204.5 -349.39 43.5"}

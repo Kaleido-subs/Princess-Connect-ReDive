@@ -121,4 +121,4 @@ Dialogue: 1,0:23:34.97,0:23:40.02,Sign,,0,0,0,,{\pos(992.033,155.031)\fscx74\fsc
 Dialogue: 1,0:23:34.97,0:23:40.02,Sign,,0,0,0,,{\pos(1027.792,157.552)\fscx74\fscy103\frz-5.638\fnFlunkies BB\c&H0D00D8&\blur0.65\t(1779,2363,\blur8\alpha60)}e
 Dialogue: 1,0:23:34.97,0:23:40.02,Sign,,0,0,0,,{\pos(1049.68,160.071)\fscx74\fscy103\frz-7.362\fnFlunkies BB\c&H0D00D8&\blur0.65\t(1779,2363,\blur8\alpha60)}!
 Dialogue: 0,0:23:36.89,0:23:40.02,Sign,,0,0,0,,{\pos(514.65,833.2)\fnAngie\fs40\bord2.4\3c&H6F6A6E&\blur0.6\fad(651,0)}Flowers in Eternal Darkness
-Dialogue: 0,0:23:36.89,0:23:40.02,Sign,,0,0,0,,{\pos(410.8,1008.13)\fnAlegreya Sans\fs40\fsp1\bord2.4\3c&H6F6A6E&\blur0.6\fad(651,0)}Cursed Pudding
+Dialogue: 0,0:23:36.89,0:23:40.02,Sign,,0,0,0,,{\pos(410.8,1008.13)\fnAngie\fs40\fsp1\bord2.4\3c&H6F6A6E&\blur0.6\fad(651,0)}Cursed Pudding
