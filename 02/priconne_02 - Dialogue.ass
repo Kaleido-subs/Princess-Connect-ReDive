@@ -283,7 +283,7 @@ Dialogue: 10,0:18:59.16,0:19:03.13,Default,Kokkoro,0,0,0,,My lord, please don't 
 Dialogue: 10,0:19:03.13,0:19:04.00,Default,Yuuki,0,0,0,,Mhm.
 Dialogue: 10,0:19:06.65,0:19:09.31,Default,Pecorine,0,0,0,,Yuuki's quick wit saved me!
 Dialogue: 10,0:19:09.31,0:19:10.91,Default,Pecorine,0,0,0,,That was crazy!
-Dialogue: 10,0:19:10.91,0:19:12.00,Default,Pecorine,0,0,0,,Karyl{**Kyaru-chan}!
+Dialogue: 10,0:19:10.91,0:19:12.00,Default,Pecorine,0,0,0,,{*}Karyl{*Kyaru-chan}!
 Dialogue: 10,0:19:12.48,0:19:13.75,Default,Pecorine,0,0,0,,I have to thank you, too!
 Dialogue: 10,0:19:14.11,0:19:16.64,Default,Karyl,0,0,0,,Wha—B-But I didn't do anything...
 Dialogue: 10,0:19:17.23,0:19:21.45,Default,Pecorine,0,0,0,,{\q2}We were only able to save them \Nbecause you guided us here!
